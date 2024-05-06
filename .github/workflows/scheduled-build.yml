@@ -68,10 +68,14 @@ jobs:
       - name: Diff
         id: diff
         #  --exit-codeを指定しているので、変更がある場合は終了コード1を返し、これがGitHub Actionsでは'failure'と解釈される
+        # 差分がない場合は0を返し、'success'と解釈される
         run: |
           git add -N ${{ env.PROJECT_NAME }}/stats ${{ env.PROJECT_NAME }}/pages
           git diff --name-only --exit-code
-        continue-on-error: true
+
+      - name: Exit if no diff
+        if: steps.diff.outcome == 'success'
+        run: exit 0
 
       - name: Commit files
         run: |
