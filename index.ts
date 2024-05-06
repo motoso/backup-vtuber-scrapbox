@@ -2,17 +2,19 @@ import { readableStreamFromIterable } from "https://deno.land/std@0.166.0/stream
 import { JsonStringifyStream } from "https://deno.land/std@0.166.0/encoding/json/stream.ts";
 
 interface TitlePage {
-  id: string,
-  title: string,
-  created: number,
-  updated: number
+  id: string;
+  title: string;
+  created: number;
+  updated: number;
 }
 
 export const project = "vtuber";
 const dist_stats = `./${project}/stats/pages.json`;
 const dist_data = "./data.json";
 
-const pagesResponse = await fetch(`https://scrapbox.io/api/pages/${project}/?limit=1`);
+const pagesResponse = await fetch(
+  `https://scrapbox.io/api/pages/${project}/?limit=1`,
+);
 const pageNum = (await pagesResponse.json()).count;
 const limitParam = 1000;
 const maxIndex = Math.floor(pageNum / 1000) + 1;
@@ -20,8 +22,12 @@ const maxIndex = Math.floor(pageNum / 1000) + 1;
 const pages: any[] = [];
 const promises = [...Array(maxIndex)]
   .map(async (_, index) => {
-    const json = await fetch(`https://scrapbox.io/api/pages/${project}/?limit=${limitParam}&skip=${index * 1000}`)
-      .then(res => res.json());
+    const json = await fetch(
+      `https://scrapbox.io/api/pages/${project}/?limit=${limitParam}&skip=${
+        index * 1000
+      }`,
+    )
+      .then((res) => res.json());
     pages.push(...json.pages);
   });
 await Promise.all(promises);
@@ -43,20 +49,34 @@ titles.sort((a: TitlePage, b: TitlePage): number => {
 writeJson(dist_stats, {
   projectName: project,
   count: pageNum,
-  pages: titles
-})
+  pages: titles,
+});
 
 const skip = 100;
 const detailPages: Array<Object> = [];
 // skip件づつfetchする
 for (let i = 0; i < titles.length; i += skip) {
-  console.log(`[scrapbox-external-backup] Start fetching ${i} - ${i + skip} pages.`);
+  console.log(
+    `[scrapbox-external-backup] Start fetching ${i} - ${i + skip} pages.`,
+  );
   // 一気にAPIを叩いてページ情報を取得する
   const promises = titles.slice(i, i + skip)
     .map(async (pageTitle: TitlePage, j: number) => {
-      console.log(`[page ${i + j}@scrapbox-external-backup] start fetching "/${project}/${pageTitle.title}"`);
-      const res = await fetch(`https://scrapbox.io/api/pages/${project}/${encodeURIComponent(pageTitle.title)}`);
-      console.log(`[page ${i + j}@scrapbox-external-backup] finish fetching "/${project}/${pageTitle.title}"`);
+      console.log(
+        `[page ${
+          i + j
+        }@scrapbox-external-backup] start fetching "/${project}/${pageTitle.title}"`,
+      );
+      const res = await fetch(
+        `https://scrapbox.io/api/pages/${project}/${
+          encodeURIComponent(pageTitle.title)
+        }`,
+      );
+      console.log(
+        `[page ${
+          i + j
+        }@scrapbox-external-backup] finish fetching "/${project}/${pageTitle.title}"`,
+      );
       const { id, title, created, updated, lines } = await res.json();
       detailPages.push({ id, title, created, updated, lines });
     });

@@ -6,6 +6,9 @@ const distpath = `./${project}/pages/`;
 const text = Deno.readTextFileSync(filepath);
 const content = JSON.parse(text);
 
-for (const page of content['pages']) {
-    Deno.writeTextFile(distpath + page.id + '.json', JSON.stringify(page, null, 2));
+for (const page of content["pages"]) {
+  Deno.writeTextFile(
+    distpath + page.id + ".json",
+    JSON.stringify(page, null, 2),
+  );
 }
