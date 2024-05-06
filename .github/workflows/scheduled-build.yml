@@ -55,7 +55,7 @@ jobs:
 #        run: python3 upload.py
 
       - name: Remove json pages
-        run: rm ${{ env.PROJECT_NAME }}/pages/*.json
+        run: rm -f ${{ env.PROJECT_NAME }}/pages/*.json
 
       - name: Split pages
         run: >
