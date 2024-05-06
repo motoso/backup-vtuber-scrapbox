@@ -1,0 +1,274 @@
+{
+  "id": "5db969657f8d190017657b18",
+  "title": "IRIAM、一枚絵で配信できる機能を実装へ",
+  "created": 1572432232,
+  "updated": 1624096958,
+  "lines": [
+    {
+      "id": "5db969657f8d190017657b18",
+      "text": "IRIAM、一枚絵で配信できる機能を実装へ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432232,
+      "updated": 1572432244
+    },
+    {
+      "id": "5db969780db3350000a27703",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432245,
+      "updated": 1572432245
+    },
+    {
+      "id": "5db969780db3350000a27704",
+      "text": "　配信アプリ[IRIAM]が、ただの立ち絵を用意するだけで配信ができる機能を実装しようとしている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432245,
+      "updated": 1572432274
+    },
+    {
+      "id": "5db969960db3350000a27706",
+      "text": "　\tLive2Dなどで動きの設定をしなくても、立ち絵がアバターとして動くようになる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432275,
+      "updated": 1572432301
+    },
+    {
+      "id": "5db969b10db3350000a27707",
+      "text": "　時系列：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432302,
+      "updated": 1572432309
+    },
+    {
+      "id": "5db969b80db3350000a27708",
+      "text": "　\t2019年9月末、この機能がテストされていることがツイートされる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432309,
+      "updated": 1572432344
+    },
+    {
+      "id": "5db969db0db3350000a2770b",
+      "text": "　\t\thttps://twitter.com/daichi_zizai/status/1176855759893647362",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432344,
+      "updated": 1572432347
+    },
+    {
+      "id": "5db969df0db3350000a2770c",
+      "text": "　\t2019年11月から、この機能のαテストが始まるとアナウンスされている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432347,
+      "updated": 1572882302
+    },
+    {
+      "id": "5db96a480db3350000a2770d",
+      "text": "　\t\thttps://twitter.com/iriam_official/status/1189487879728201728",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432452,
+      "updated": 1572432457
+    },
+    {
+      "id": "5db96a4d0db3350000a2770e",
+      "text": "　\t\thttps://twitter.com/iriam_official/status/1189487885596024832",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432457,
+      "updated": 1572432471
+    },
+    {
+      "id": "5db969790db3350000a27705",
+      "text": "  11月上旬から配信できるようになった16名はこの技術を使ってアバターを動かしている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432245,
+      "updated": 1573219049
+    },
+    {
+      "id": "5dc047630db33500000b1cf2",
+      "text": "  \t参考：[IRIAM公式ライバー2019年11月前半配信開始勢]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572882274,
+      "updated": 1573644051
+    },
+    {
+      "id": "5dc56aeb0db33500009b16a7",
+      "text": "  \thttps://twitter.com/iriam_official/status/1192791238581178368",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219051,
+      "updated": 1573219051
+    },
+    {
+      "id": "5de528100db33500000596bd",
+      "text": "  \t実際には10月下旬から配信しているVTuberの中にもこの技術を使っていると思われる方たちがいる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575299085,
+      "updated": 1575299110
+    },
+    {
+      "id": "5dc56a6e0db33500009b16a6",
+      "text": "  2019/11/8、αテストの募集が公に始まる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573218926,
+      "updated": 1573219059
+    },
+    {
+      "id": "5dc56af40db33500009b16a8",
+      "text": "  \thttps://twitter.com/iriam_official/status/1192791235863277570",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219060,
+      "updated": 1573219067
+    },
+    {
+      "id": "5dc56b020db33500009b16a9",
+      "text": "  \thttps://twitter.com/iriam_official/status/1192791756544172032",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219073,
+      "updated": 1573219073
+    },
+    {
+      "id": "5dc56b130db33500009b16aa",
+      "text": "  \tイラストの主な制限：https://iriam.com/IRIAM_illustguide_alphatest.pdf",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219090,
+      "updated": 1573219220
+    },
+    {
+      "id": "5dc56ba30db33500009b16b0",
+      "text": "  \t\t人のイラスト",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219235,
+      "updated": 1573219244
+    },
+    {
+      "id": "5dc56b190db33500009b16ab",
+      "text": "  \t\tアニメ塗りなどで分かりやすいテイスト",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219097,
+      "updated": 1573219113
+    },
+    {
+      "id": "5dc56b290db33500009b16ac",
+      "text": "  \t\t正面向きでポーズが分かりやすい全身立ち絵",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219113,
+      "updated": 1573219121
+    },
+    {
+      "id": "5dc56b320db33500009b16ad",
+      "text": "  \t\t顔のパーツが分かりやすく、眼鏡や眼帯などの装飾で隠れていない",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219121,
+      "updated": 1573219196
+    },
+    {
+      "id": "5dc56b680db33500009b16ae",
+      "text": "  \t\tグラデーションが少なめ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219175,
+      "updated": 1573219180
+    },
+    {
+      "id": "5dc56b740db33500009b16af",
+      "text": "  \t\t目や口がしっかりと開いている",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573219187,
+      "updated": 1573219193
+    },
+    {
+      "id": "5e453ba10db3350000fecb28",
+      "text": "  2020年2月中旬から、オープンβテストが始まる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581595552,
+      "updated": 1581595565
+    },
+    {
+      "id": "5e453bae0db3350000fecb29",
+      "text": "  \thttps://twitter.com/iriam_official/status/1227925984923414529",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581595565,
+      "updated": 1581595568
+    },
+    {
+      "id": "5e453c570db3350000fecb2a",
+      "text": "  \tiOS端末（iPhone 6s以上）を持っていれば誰でも配信を開始できる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581595734,
+      "updated": 1581595805
+    },
+    {
+      "id": "5e4540020db3350000fecb2b",
+      "text": "  \tαテスト時に問題となった著作権問題についての対策が打たれた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581596674,
+      "updated": 1581596689
+    },
+    {
+      "id": "5dc047490db33500000b1cf1",
+      "text": "　　2020/4/23から正式に誰でも一枚絵で配信できるようになった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572882247,
+      "updated": 1587633911
+    },
+    {
+      "id": "5ea15efb0db335000046baa9",
+      "text": "　　\t合わせて、アプリのリニューアルも行われた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587633911,
+      "updated": 1587633917
+    },
+    {
+      "id": "5ea15f010db335000046baaa",
+      "text": "　　\thttps://twitter.com/iriam_official/status/1253248492690010112",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587633917,
+      "updated": 1587633918
+    },
+    {
+      "id": "5ea15ee60db335000046baa8",
+      "text": "　　2021年5月にアップデートし、目と口だけでなく瞳、まゆ、傾きも動くようになった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587633890,
+      "updated": 1621104800
+    },
+    {
+      "id": "60a018a40db3350000e47b61",
+      "text": "　　　https://note.com/iriam_journal/n/n2efb3bdf0ad7",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104800,
+      "updated": 1621104803
+    },
+    {
+      "id": "60a018a80db3350000e47b62",
+      "text": "　　　[https://www.youtube.com/watch?v=NOKme-yeRvc]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104804,
+      "updated": 1621104810
+    },
+    {
+      "id": "60a018ae0db3350000e47b63",
+      "text": "   2021年6月、[Preferred Networks]から技術提供されたことも含めてプレスリリースした https://prtimes.jp/main/html/rd/p/000000006.000070082.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104810,
+      "updated": 1624096958
+    },
+    {
+      "id": "60a018850db3350000e47b60",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104769,
+      "updated": 1621104769
+    },
+    {
+      "id": "5db969c10db3350000a27709",
+      "text": "#機械学習",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432318,
+      "updated": 1572432321
+    },
+    {
+      "id": "5db969c20db3350000a2770a",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572432318,
+      "updated": 1572432318
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "5de392464204920017b6d280",
+  "title": "ふぃぎゅあばたー",
+  "created": 1575195210,
+  "updated": 1581593053,
+  "lines": [
+    {
+      "id": "5de392464204920017b6d280",
+      "text": "ふぃぎゅあばたー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195210,
+      "updated": 1575195210
+    },
+    {
+      "id": "5de3924f0db3350000540d6d",
+      "text": "[https://gyazo.com/b23c51cff8c229a8b9576dd3164b91d3]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195212,
+      "updated": 1575195234
+    },
+    {
+      "id": "5de392650db3350000540d70",
+      "text": "[https://www.youtube.com/watch?v=C8b8RoFsVlU]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195234,
+      "updated": 1581592996
+    },
+    {
+      "id": "5e4531a50db3350000c75dfa",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581592996,
+      "updated": 1581592996
+    },
+    {
+      "id": "5de392500db3350000540d6e",
+      "text": "　[アバター]向け3Dモデルを動くフィギュアのようにVR空間へ設置できるようにする仕組み。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195213,
+      "updated": 1575195363
+    },
+    {
+      "id": "5de392a30db3350000540d73",
+      "text": "　\t3Dモデル、モーション、ボイスをunitypackageに流し込むと、触る場所によって反応が異なるフィギュアを作れる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195296,
+      "updated": 1575195341
+    },
+    {
+      "id": "5de392e00db3350000540d74",
+      "text": "　目的：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195357,
+      "updated": 1575195359
+    },
+    {
+      "id": "5de392e20db3350000540d75",
+      "text": "　\t積みアバターを少なくする。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195359,
+      "updated": 1575195374
+    },
+    {
+      "id": "5de392f10db3350000540d76",
+      "text": "　\tKawaii Move や Kawaii Voice 自体を販売できるようにする。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195374,
+      "updated": 1575195408
+    },
+    {
+      "id": "5e4531dd0db3350000c75dfd",
+      "text": "　https://gitlab.com/figureavatar/figureavatar/-/releases",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581593052,
+      "updated": 1581593053
+    },
+    {
+      "id": "5e4531c60db3350000c75dfb",
+      "text": "　2020/2/13、正式リリース。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581593029,
+      "updated": 1581593035
+    },
+    {
+      "id": "5de392510db3350000540d6f",
+      "text": "  https://twitter.com/phio_alchemist/status/1200784916012625925",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195214,
+      "updated": 1581593041
+    },
+    {
+      "id": "5de392700db3350000540d72",
+      "text": "  https://twitter.com/phio_alchemist/status/1201076117337186304",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195245,
+      "updated": 1581593041
+    },
+    {
+      "id": "5e4531cf0db3350000c75dfc",
+      "text": "  https://twitter.com/phio_alchemist/status/1227854336580960259",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581593038,
+      "updated": 1581593041
+    },
+    {
+      "id": "5de3926e0db3350000540d71",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195242,
+      "updated": 1575195242
+    },
+    {
+      "id": "5de393250db3350000540d77",
+      "text": "関係者",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195426,
+      "updated": 1575195428
+    },
+    {
+      "id": "5de393270db3350000540d79",
+      "text": "　動く城の[フィオ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195428,
+      "updated": 1575195487
+    },
+    {
+      "id": "5de3932c0db3350000540d7a",
+      "text": "　ギミック制作：[ちう]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195433,
+      "updated": 1575195452
+    },
+    {
+      "id": "5de393400db3350000540d7b",
+      "text": "　モーション録画ソフト：[八ツ橋まろん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195453,
+      "updated": 1575195470
+    },
+    {
+      "id": "5de393510db3350000540d7c",
+      "text": "　ロゴ：[きのこすぴん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195470,
+      "updated": 1575195479
+    },
+    {
+      "id": "5de393270db3350000540d78",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575195428,
+      "updated": 1575195428
+    }
+  ]
+}

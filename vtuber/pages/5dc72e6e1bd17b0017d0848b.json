@@ -1,0 +1,78 @@
+{
+  "id": "5dc72e6e1bd17b0017d0848b",
+  "title": "YouTubeの/live",
+  "created": 1573334639,
+  "updated": 1573339745,
+  "lines": [
+    {
+      "id": "5dc72e6e1bd17b0017d0848b",
+      "text": "YouTubeの/live",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334639,
+      "updated": 1573339729
+    },
+    {
+      "id": "5dc72e7a0db33500004ae29c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334643,
+      "updated": 1573334643
+    },
+    {
+      "id": "5dc72e7a0db33500004ae29d",
+      "text": " [YouTube]において、チャンネルURLの末尾に`/live`を付けるとYouTube Liveの待機所に飛べるため、この待機所のことを「/live」と呼ぶことがある。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334643,
+      "updated": 1573334685
+    },
+    {
+      "id": "5dc72ea40db33500004ae29f",
+      "text": " \t正確にはYouTube Liveを開いてないと飛べなかったり、リマインダーがあればそっちが優先されたりする。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334685,
+      "updated": 1573334711
+    },
+    {
+      "id": "5dc72ebe0db33500004ae2a0",
+      "text": " 生放送や[プレミア公開]やリマインダーがYouTubeに実装され多用されるようになったことによって知名度は薄れたが、それまでは「生放送が始まるまで/liveのチャット欄でファン同士交流する」のような使い方がなされていた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334711,
+      "updated": 1573334836
+    },
+    {
+      "id": "5dc72e7b0db33500004ae29e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334644,
+      "updated": 1573334644
+    },
+    {
+      "id": "5dc72f4d0db33500004ae2a3",
+      "text": "編集者向けメモ：このページの名前を「/live」にすると、Scrapboxの仕様上「/vtuber//live」みたいに書かないとリンクできなくなります。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334854,
+      "updated": 1573339745
+    },
+    {
+      "id": "5dc72f4e0db33500004ae2a4",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334854,
+      "updated": 1573334854
+    },
+    {
+      "id": "5dc72f450db33500004ae2a1",
+      "text": "#用語",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334846,
+      "updated": 1573334847
+    },
+    {
+      "id": "5dc72f450db33500004ae2a2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573334846,
+      "updated": 1573334846
+    }
+  ]
+}

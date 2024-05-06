@@ -1,0 +1,50 @@
+{
+  "id": "5cb9329356f66a001704fe73",
+  "title": "TSUKUMOバーチャルショッピング（仮）",
+  "created": 1555640980,
+  "updated": 1555641053,
+  "lines": [
+    {
+      "id": "5cb9329356f66a001704fe73",
+      "text": "TSUKUMOバーチャルショッピング（仮）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555640980,
+      "updated": 1555640980
+    },
+    {
+      "id": "5cb932980db335000018ebc8",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555640981,
+      "updated": 1555640981
+    },
+    {
+      "id": "5cb932980db335000018ebc9",
+      "text": "　[バーチャルキャスト]を活用した、バーチャルならではの販売方法の実験・検証をする[TSUKUMO]の番組。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555640982,
+      "updated": 1555641040
+    },
+    {
+      "id": "5cb932d40db335000018ebcb",
+      "text": "　[ニコニコ生放送]にて放送。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555641042,
+      "updated": 1555641053
+    },
+    {
+      "id": "5cb932da0db335000018ebcc",
+      "text": "　https://ch.nicovideo.jp/tsukumo-99",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555641048,
+      "updated": 1555641051
+    },
+    {
+      "id": "5cb932990db335000018ebca",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555640982,
+      "updated": 1555640982
+    }
+  ]
+}

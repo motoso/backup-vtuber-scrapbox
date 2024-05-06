@@ -1,0 +1,78 @@
+{
+  "id": "5c792bb0ca74d800174babf1",
+  "title": "vmeets LIVE!",
+  "created": 1551444918,
+  "updated": 1551445226,
+  "lines": [
+    {
+      "id": "5c792bb0ca74d800174babf1",
+      "text": "vmeets LIVE!",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551444918,
+      "updated": 1551444919
+    },
+    {
+      "id": "5c792cea0db33500003cba25",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551445226,
+      "updated": 1551445226
+    },
+    {
+      "id": "5c792bb70db33500003cba1d",
+      "text": " コラボ配信を行いやすくするためのソフトウェア。主にLive2Dデータを使うが、リアルの映像も使える。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551444919,
+      "updated": 1551445114
+    },
+    {
+      "id": "5c792cd60db33500003cba24",
+      "text": " \t[https://www.moguravr.com/vmeets-live/ 簡単にコラボ配信ができるアプリ「vmeets LIVE!」登場、アルファ版が期間限定で公開中] -- MoguLive",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551445207,
+      "updated": 1551445222
+    },
+    {
+      "id": "5c792ca80db33500003cba23",
+      "text": " \t[https://vtub0.com/murasakiyuki/19369 17Live、コラボ配信ツール『vmeets LIVE!』を先行利用したリアルとバーチャルのスペシャルコラボを実施] -- v-tuber zero",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551445161,
+      "updated": 1551445185
+    },
+    {
+      "id": "5c792be00db33500003cba21",
+      "text": " https://broadcast.vmeets.io/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551444960,
+      "updated": 1551444965
+    },
+    {
+      "id": "5c792be40db33500003cba22",
+      "text": " [/icons/twitter.icon] https://twitter.com/vmeets_official",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551444965,
+      "updated": 1551444971
+    },
+    {
+      "id": "5c792bb70db33500003cba1e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551444920,
+      "updated": 1551444920
+    },
+    {
+      "id": "5c792bdb0db33500003cba1f",
+      "text": "#ソフトウェア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551444955,
+      "updated": 1551444959
+    },
+    {
+      "id": "5c792bdb0db33500003cba20",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551444956,
+      "updated": 1551444956
+    }
+  ]
+}

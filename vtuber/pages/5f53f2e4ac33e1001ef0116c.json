@@ -1,0 +1,50 @@
+{
+  "id": "5f53f2e4ac33e1001ef0116c",
+  "title": "Animaze",
+  "created": 1599337191,
+  "updated": 1599337269,
+  "lines": [
+    {
+      "id": "5f53f2e4ac33e1001ef0116c",
+      "text": "Animaze",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1599337191,
+      "updated": 1599337192
+    },
+    {
+      "id": "5f53f2ec0db335000038ab51",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1599337193,
+      "updated": 1599337193
+    },
+    {
+      "id": "5f53f3100db335000038ab55",
+      "text": "　表情を認識して[Live2D]や3Dのアバターに反映するソフトウェア。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1599337229,
+      "updated": 1599337252
+    },
+    {
+      "id": "5f53f2ec0db335000038ab52",
+      "text": " [FaceRig]の後継である。2020年9月にリリースが発表された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1599337193,
+      "updated": 1599337266
+    },
+    {
+      "id": "5f53f2fe0db335000038ab54",
+      "text": " 　https://store.steampowered.com/newshub/app/274920/view/5000638138692747503",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1599337211,
+      "updated": 1599337269
+    },
+    {
+      "id": "5f53f2ec0db335000038ab53",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1599337193,
+      "updated": 1599337193
+    }
+  ]
+}

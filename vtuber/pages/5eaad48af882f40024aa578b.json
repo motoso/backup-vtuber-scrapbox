@@ -1,0 +1,43 @@
+{
+  "id": "5eaad48af882f40024aa578b",
+  "title": "ドズル",
+  "created": 1588253851,
+  "updated": 1588253895,
+  "lines": [
+    {
+      "id": "5eaad48af882f40024aa578b",
+      "text": "ドズル",
+      "userId": "59fb21121207900012774b17",
+      "created": 1588253851,
+      "updated": 1588253851
+    },
+    {
+      "id": "5eaad4bb774b17000038e941",
+      "text": "ゲーム実況者",
+      "userId": "59fb21121207900012774b17",
+      "created": 1588253883,
+      "updated": 1588253895
+    },
+    {
+      "id": "5eaad49a774b17000038e93e",
+      "text": "https://www.youtube.com/channel/UCj4PjeVMnNTHIR5EeoNKPAw",
+      "userId": "59fb21121207900012774b17",
+      "created": 1588253851,
+      "updated": 1588253851
+    },
+    {
+      "id": "5eaad4b6774b17000038e940",
+      "text": "https://www.youtube.com/channel/UCcHiyP5BmBzbIW61W_tio7Q",
+      "userId": "59fb21121207900012774b17",
+      "created": 1588253878,
+      "updated": 1588253878
+    },
+    {
+      "id": "5eaad49a774b17000038e93f",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1588253851,
+      "updated": 1588253851
+    }
+  ]
+}

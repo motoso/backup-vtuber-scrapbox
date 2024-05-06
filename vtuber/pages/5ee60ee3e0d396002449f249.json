@@ -1,0 +1,120 @@
+{
+  "id": "5ee60ee3e0d396002449f249",
+  "title": "枠ガチャ",
+  "created": 1592135397,
+  "updated": 1592614665,
+  "lines": [
+    {
+      "id": "5ee60ee3e0d396002449f249",
+      "text": "枠ガチャ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135397,
+      "updated": 1592135397
+    },
+    {
+      "id": "5ee60ee60db335000075ec79",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135397,
+      "updated": 1592135397
+    },
+    {
+      "id": "5ee60ee60db335000075ec7a",
+      "text": " [YouTube]の配信リマインダーページを作り直すこと。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135397,
+      "updated": 1592135872
+    },
+    {
+      "id": "5ee60ef10db335000075ec7c",
+      "text": " 　リマインダーページを「配信枠」の意味で「枠」と呼ぶ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135407,
+      "updated": 1592135428
+    },
+    {
+      "id": "5ee60f050db335000075ec7d",
+      "text": " 　YouTubeの不具合か何かで枠によってはYouTubeの配信中一覧に表示されなかったり配信開始のプッシュ通知が届かなかったりする場合があり、正常な枠になるまで作り直すことを「ガチャ」と表現する。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135428,
+      "updated": 1592614665
+    },
+    {
+      "id": "5ee60ee70db335000075ec7b",
+      "text": "　2020年春、[2020年3月からのYouTube誤BAN事件]と同時期に枠が通知されない現象が起こるようになり、徐々にこの言葉が使われるようになった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135397,
+      "updated": 1592135609
+    },
+    {
+      "id": "5ee60fdb0db335000075ec81",
+      "text": "　 2020年3月下旬、最初期の使用例",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135642,
+      "updated": 1592135649
+    },
+    {
+      "id": "5ee6109f0db335000075ec84",
+      "text": "　 　ラトナ・プティ https://www.youtube.com/watch?v=pWBlWOnNLH4&t=9833",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135838,
+      "updated": 1592135845
+    },
+    {
+      "id": "5ee610450db335000075ec83",
+      "text": "　  湊あくあ https://twitter.com/farmeruino/status/1241538086648963073",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135747,
+      "updated": 1592135751
+    },
+    {
+      "id": "5ee60fe30db335000075ec82",
+      "text": "　 　犬山たまき https://twitter.com/norioo_/status/1241759439306100739",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135649,
+      "updated": 1592135754
+    },
+    {
+      "id": "5ee60f430db335000075ec80",
+      "text": "　YouTubeのTwitterは以下のように述べている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135490,
+      "updated": 1592171404
+    },
+    {
+      "id": "5ee69b8f0db3350000a1a82f",
+      "text": "　　https://twitter.com/TeamYouTube/status/1242882950649307141",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592171404,
+      "updated": 1592171409
+    },
+    {
+      "id": "5ee69b950db3350000a1a830",
+      "text": "　　\t> If your recent video/stream isn’t showing up in search, Up next, the homepage, etc, it’s likely due to COVID-19’s impact on our teams & extended workforce – Content may not show in search, etc. until a reviewer takes a look, & w/ fewer reviewers available, this is taking longer.",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592171409,
+      "updated": 1592171425
+    },
+    {
+      "id": "5ee69b850db3350000a1a82e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592171394,
+      "updated": 1592171394
+    },
+    {
+      "id": "5ee60f100db335000075ec7e",
+      "text": "#用語",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135439,
+      "updated": 1592135440
+    },
+    {
+      "id": "5ee60f100db335000075ec7f",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592135439,
+      "updated": 1592135439
+    }
+  ]
+}

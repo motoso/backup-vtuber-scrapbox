@@ -1,0 +1,169 @@
+{
+  "id": "5e007bdb2bf2a00017bd6b16",
+  "title": "VT",
+  "created": 1577090014,
+  "updated": 1577090325,
+  "lines": [
+    {
+      "id": "5e007bdb2bf2a00017bd6b16",
+      "text": "VT",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090014,
+      "updated": 1577090014
+    },
+    {
+      "id": "5e007bdf0db33500009e2c7a",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090014,
+      "updated": 1577090014
+    },
+    {
+      "id": "5e007bdf0db33500009e2c7b",
+      "text": " [中国]で開発されているVTuberシステム（[モーションキャプチャー]などをするソフトウェア）。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090014,
+      "updated": 1577090325
+    },
+    {
+      "id": "5e007be00db33500009e2c7c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090015,
+      "updated": 1577090015
+    },
+    {
+      "id": "5e007c140db33500009e2c7d",
+      "text": "特記事項",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090067,
+      "updated": 1577090070
+    },
+    {
+      "id": "5e007c740db33500009e2c83",
+      "text": "\t2019年10月頃、日本でも販売されるようになったらしい。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090163,
+      "updated": 1577090172
+    },
+    {
+      "id": "5e007c160db33500009e2c7f",
+      "text": "\t　https://twitter.com/ishitaku39/status/1178939351855554561",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090070,
+      "updated": 1577090172
+    },
+    {
+      "id": "5e007cce0db33500009e2c84",
+      "text": "\t　\t> ついに中国で大活躍のVTuberシステム「VT」日本で販売開始します。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090253,
+      "updated": 1577090254
+    },
+    {
+      "id": "5e007ccf0db33500009e2c85",
+      "text": "   > 興味ある方DMください！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090254,
+      "updated": 1577090254
+    },
+    {
+      "id": "5e007ccf0db33500009e2c86",
+      "text": "   > ・慣性式、光学式など各種対応可",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090254,
+      "updated": 1577090254
+    },
+    {
+      "id": "5e007ccf0db33500009e2c87",
+      "text": "   > ・カメラや照明の位置もとても簡単に調整可能。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090254,
+      "updated": 1577090254
+    },
+    {
+      "id": "5e007ccf0db33500009e2c88",
+      "text": "   > ・顔や体につけるアクセサリーなど豊富な3Dのアイテムも簡単操作。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090254,
+      "updated": 1577090254
+    },
+    {
+      "id": "5e007ccf0db33500009e2c89",
+      "text": "   > ・ワンタップでモーション再生可能",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090254,
+      "updated": 1577090254
+    },
+    {
+      "id": "5e007ccf0db33500009e2c8a",
+      "text": "   > ・複数人同時配信可能",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090254,
+      "updated": 1577090254
+    },
+    {
+      "id": "5e007cdc0db33500009e2c8b",
+      "text": "  https://twitter.com/ishitaku39/status/1179246172772413440",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090267,
+      "updated": 1577090268
+    },
+    {
+      "id": "5e007cdd0db33500009e2c8c",
+      "text": "  \t> ・システム年間契約料金は250万円(税込)",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090268,
+      "updated": 1577090274
+    },
+    {
+      "id": "5e007ce30db33500009e2c8e",
+      "text": "   > ・使用可能デバイスは、virtual power 、noitum、perception newron、青瞳(中国のデバイス)等。(近々optitrackやレーザー式も対応予定)",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090274,
+      "updated": 1577090274
+    },
+    {
+      "id": "5e007ce30db33500009e2c90",
+      "text": "   > ・1アカウントで最大5キャラクターまで格納可能",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090274,
+      "updated": 1577090274
+    },
+    {
+      "id": "5e007ce30db33500009e2c92",
+      "text": "   > ・VRMモデルも拡張子変更で対応可能",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090274,
+      "updated": 1577090274
+    },
+    {
+      "id": "5e007c170db33500009e2c80",
+      "text": "　2019/12/23、六本木で体験会が行われた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090071,
+      "updated": 1577090083
+    },
+    {
+      "id": "5e007c240db33500009e2c81",
+      "text": "　\thttps://twitter.com/TokyoVR_ToAhn/status/1209009901105635328",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090083,
+      "updated": 1577090083
+    },
+    {
+      "id": "5e007c500db33500009e2c82",
+      "text": "　\t[#中国VT until:2019-12-25 https://twitter.com/search?q=%23%E4%B8%AD%E5%9B%BDVT%20until%3A2019-12-25]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090127,
+      "updated": 1577090154
+    },
+    {
+      "id": "5e007c160db33500009e2c7e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577090070,
+      "updated": 1577090070
+    }
+  ]
+}

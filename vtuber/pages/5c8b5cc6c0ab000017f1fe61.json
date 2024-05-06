@@ -1,0 +1,71 @@
+{
+  "id": "5c8b5cc6c0ab000017f1fe61",
+  "title": "ナカノヒトライブ",
+  "created": 1552637128,
+  "updated": 1552637357,
+  "lines": [
+    {
+      "id": "5c8b5cc6c0ab000017f1fe61",
+      "text": "ナカノヒトライブ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637128,
+      "updated": 1552637130
+    },
+    {
+      "id": "5c8b5cca0db3350000199128",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637130,
+      "updated": 1552637130
+    },
+    {
+      "id": "5c8b5ccb0db3350000199129",
+      "text": "　[DeNA]のバーチャルライブ配信サービス。2019年3月末頃リリース予定。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637131,
+      "updated": 1552637250
+    },
+    {
+      "id": "5c8b5ce00db335000019912b",
+      "text": "　https://nakanohito.live/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637151,
+      "updated": 1552637152
+    },
+    {
+      "id": "5c8b5ce10db335000019912c",
+      "text": "　[/icons/twitter.icon] https://twitter.com/nakanohitolive",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637153,
+      "updated": 1552637160
+    },
+    {
+      "id": "5c8b5d290db335000019912f",
+      "text": "　\t新人広報担当：[ヒトミ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637224,
+      "updated": 1552637229
+    },
+    {
+      "id": "5c8b5d930db3350000199130",
+      "text": "　キャラクターデザイン、衣装デザイン：[ニノモトニノ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637331,
+      "updated": 1552637356
+    },
+    {
+      "id": "5c8b5da70db3350000199131",
+      "text": "　\thttps://twitter.com/ninomiy/status/1106172925726515202",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637351,
+      "updated": 1552637353
+    },
+    {
+      "id": "5c8b5cec0db335000019912e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552637163,
+      "updated": 1552637163
+    }
+  ]
+}

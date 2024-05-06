@@ -1,0 +1,36 @@
+{
+  "id": "5eb0cec648b94500240bea26",
+  "title": "おねちゃん",
+  "created": 1588645576,
+  "updated": 1588645582,
+  "lines": [
+    {
+      "id": "5eb0cec648b94500240bea26",
+      "text": "おねちゃん",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588645576,
+      "updated": 1588645578
+    },
+    {
+      "id": "5eb0cecc0db3350000774bfc",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588645578,
+      "updated": 1588645578
+    },
+    {
+      "id": "5eb0cecc0db3350000774bfd",
+      "text": "もしかして：[インサイドちゃんMark1]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588645578,
+      "updated": 1588645582
+    },
+    {
+      "id": "5eb0cece0db3350000774bfe",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588645579,
+      "updated": 1588645579
+    }
+  ]
+}

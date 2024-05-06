@@ -1,0 +1,85 @@
+{
+  "id": "5e9c4e8f98fe770017d15490",
+  "title": "MyMaker",
+  "created": 1587302036,
+  "updated": 1587302130,
+  "lines": [
+    {
+      "id": "5e9c4e8f98fe770017d15490",
+      "text": "MyMaker",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302036,
+      "updated": 1587302037
+    },
+    {
+      "id": "5e9c4e970db335000017fa4a",
+      "text": "[https://www.youtube.com/watch?v=CYP4K4xW5Ec]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302037,
+      "updated": 1587302087
+    },
+    {
+      "id": "5e9c4ec80db335000017fa51",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302087,
+      "updated": 1587302087
+    },
+    {
+      "id": "5e9c4e970db335000017fa4b",
+      "text": " [Kinect]を利用して3D配信を行えるようにするVTuber向けツール。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302038,
+      "updated": 1587302051
+    },
+    {
+      "id": "5e9c4ea40db335000017fa4d",
+      "text": " [/icons/twitter.icon] https://twitter.com/maika_mymaker",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302051,
+      "updated": 1587302061
+    },
+    {
+      "id": "5e9c4eae0db335000017fa4e",
+      "text": " [/icons/youtube.icon] https://www.youtube.com/channel/UCQqZhivcGZ9jDeQkUWNx1VQ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302061,
+      "updated": 1587302076
+    },
+    {
+      "id": "5e9c4ebe0db335000017fa4f",
+      "text": "　開発：[杭州万像文化科技]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302076,
+      "updated": 1587302130
+    },
+    {
+      "id": "5e9c4ef20db335000017fa55",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302129,
+      "updated": 1587302129
+    },
+    {
+      "id": "5e9c4ebf0db335000017fa50",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302078,
+      "updated": 1587302096
+    },
+    {
+      "id": "5e9c4ed10db335000017fa52",
+      "text": "　[中国・杭州万像文化科技、Kinect利用のVTuber向け3D配信ツール「MyMaker」を日本でサービス展開 https://panora.tokyo/archives/6061] -- PANORA",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302096,
+      "updated": 1587302107
+    },
+    {
+      "id": "5e9c4ee00db335000017fa54",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587302110,
+      "updated": 1587302110
+    }
+  ]
+}

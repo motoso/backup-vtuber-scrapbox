@@ -1,0 +1,78 @@
+{
+  "id": "5dd357cff8fa7d0017cfd6d3",
+  "title": "シネスイッチャー",
+  "created": 1574131670,
+  "updated": 1574131792,
+  "lines": [
+    {
+      "id": "5dd357cff8fa7d0017cfd6d3",
+      "text": "シネスイッチャー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131670,
+      "updated": 1574131670
+    },
+    {
+      "id": "5dd357da0db335000028bf44",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131671,
+      "updated": 1574131671
+    },
+    {
+      "id": "5dd357da0db335000028bf45",
+      "text": " [Unity]のカメラ制御プラグインである[Cinemachine]をキーボード等で動かすスクリプト。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131671,
+      "updated": 1574131734
+    },
+    {
+      "id": "5dd357da0db335000028bf46",
+      "text": "　https://orange3134.booth.pm/items/1654878",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131671,
+      "updated": 1574131737
+    },
+    {
+      "id": "5dd3581a0db335000028bf47",
+      "text": "　作者：[オレンジ/mikan3134]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131735,
+      "updated": 1574131792
+    },
+    {
+      "id": "5dd358350db335000028bf4c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131762,
+      "updated": 1574131762
+    },
+    {
+      "id": "5dd3582e0db335000028bf48",
+      "text": "[https://www.youtube.com/watch?v=jxS0-ysKcp4]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131755,
+      "updated": 1574131755
+    },
+    {
+      "id": "5dd3582e0db335000028bf4a",
+      "text": "[https://www.youtube.com/watch?v=GURL1CDgAiw]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131755,
+      "updated": 1574131758
+    },
+    {
+      "id": "5dd358320db335000028bf4b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131758,
+      "updated": 1574131758
+    },
+    {
+      "id": "5dd3582e0db335000028bf49",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574131755,
+      "updated": 1574131755
+    }
+  ]
+}

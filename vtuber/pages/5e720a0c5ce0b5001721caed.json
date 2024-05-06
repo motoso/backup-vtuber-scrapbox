@@ -1,0 +1,36 @@
+{
+  "id": "5e720a0c5ce0b5001721caed",
+  "title": "SugarLyric",
+  "created": 1584531981,
+  "updated": 1584531984,
+  "lines": [
+    {
+      "id": "5e720a0c5ce0b5001721caed",
+      "text": "SugarLyric",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584531981,
+      "updated": 1584531981
+    },
+    {
+      "id": "5e720a100db3350000fb142e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584531981,
+      "updated": 1584531981
+    },
+    {
+      "id": "5e720a100db3350000fb142f",
+      "text": "→ [シュガーリリック]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584531981,
+      "updated": 1584531984
+    },
+    {
+      "id": "5e720a110db3350000fb1430",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584531982,
+      "updated": 1584531982
+    }
+  ]
+}

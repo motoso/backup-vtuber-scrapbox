@@ -1,0 +1,918 @@
+{
+  "id": "5cc3b85b1ecd1e00179cc493",
+  "title": "ニコニコ超会議2019 IRIAM超バーチャル握手会",
+  "created": 1556330593,
+  "updated": 1556455949,
+  "lines": [
+    {
+      "id": "5cc3b85b1ecd1e00179cc493",
+      "text": "ニコニコ超会議2019 IRIAM超バーチャル握手会",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330593,
+      "updated": 1556330593
+    },
+    {
+      "id": "5cc3b8640db335000004e4ee",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330593,
+      "updated": 1556330593
+    },
+    {
+      "id": "5cc3b8650db335000004e4ef",
+      "text": " [ニコニコ超会議2019]で行われた、[IRIAM]で配信しているライバーたちが集合し、[握手会]をする企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330594,
+      "updated": 1556455803
+    },
+    {
+      "id": "5cc3b8650db335000004e4f0",
+      "text": "\t同時に公式IRIAM放送も行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330594,
+      "updated": 1556330612
+    },
+    {
+      "id": "5cc3bc3a0db335000040d1d7",
+      "text": "\thttps://chokaigi.jp/2019/booth/iriam_virtual_handshake.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331576,
+      "updated": 1556331576
+    },
+    {
+      "id": "5cc3b8650db335000004e4f1",
+      "text": "\t公式情報ツイートたち（[https://twitter.com/iriam_official/status/1119928843073048576 このモーメント]にまとまっている）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330612,
+      "updated": 1556330913
+    },
+    {
+      "id": "5cc3b87d0db335000004e4f3",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1119209586609672193　のリプライツリー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330618,
+      "updated": 1556330659
+    },
+    {
+      "id": "5cc3b8e00db335000004e4fa",
+      "text": "\t\t\tおよび https://twitter.com/iriam_official/status/1121544930642370560",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330718,
+      "updated": 1556330719
+    },
+    {
+      "id": "5cc3b9130db335000004e500",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1116652881061355520",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330768,
+      "updated": 1556330769
+    },
+    {
+      "id": "5cc3b91e0db335000004e501",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121629498988826624",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330779,
+      "updated": 1556330779
+    },
+    {
+      "id": "5cc3b8a60db335000004e4f4",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1119545303344922624",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330659,
+      "updated": 1556330672
+    },
+    {
+      "id": "5cc3b8b40db335000004e4f5",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1120323738019319809",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330673,
+      "updated": 1556330683
+    },
+    {
+      "id": "5cc3b8be0db335000004e4f6",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1120324306477600768",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330684,
+      "updated": 1556330689
+    },
+    {
+      "id": "5cc3b8c40db335000004e4f7",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121318289769029633",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330689,
+      "updated": 1556330700
+    },
+    {
+      "id": "5cc3b8cf0db335000004e4f8",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121396098688438273",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330700,
+      "updated": 1556330709
+    },
+    {
+      "id": "5cc3b8d80db335000004e4f9",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121628334025089025",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330709,
+      "updated": 1556330735
+    },
+    {
+      "id": "5cc3b8f20db335000004e4fb",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121684159431208960",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330736,
+      "updated": 1556330736
+    },
+    {
+      "id": "5cc3b8f30db335000004e4fc",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121686225193013248",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330736,
+      "updated": 1556330740
+    },
+    {
+      "id": "5cc3b8fc0db335000004e4fd",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121700386010587137",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330745,
+      "updated": 1556330745
+    },
+    {
+      "id": "5cc3b9010db335000004e4fe",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121700469418577921",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330750,
+      "updated": 1556330750
+    },
+    {
+      "id": "5cc3b9080db335000004e4ff",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121734230013140992",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330758,
+      "updated": 1556330758
+    },
+    {
+      "id": "5cc3b9340db335000004e504",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121936672248094725",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330802,
+      "updated": 1556330802
+    },
+    {
+      "id": "5cc3b9680db335000004e505",
+      "text": "\t\thttps://twitter.com/iriam_official/status/1121943516693897221",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330854,
+      "updated": 1556330854
+    },
+    {
+      "id": "5cc3b87b0db335000004e4f2",
+      "text": " ニコニコ生放送",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330616,
+      "updated": 1556330792
+    },
+    {
+      "id": "5cc3b92a0db335000004e503",
+      "text": " \thttps://live2.nicovideo.jp/watch/lv319512297",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330792,
+      "updated": 1556330792
+    },
+    {
+      "id": "5cc3b9920db335000004e506",
+      "text": " 参加者（1日目と2日目で重複アリ）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330896,
+      "updated": 1556331344
+    },
+    {
+      "id": "5cc3b9cd0db335000004e507",
+      "text": " \t1日目",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330955,
+      "updated": 1556330959
+    },
+    {
+      "id": "5cc3b9d20db335000004e508",
+      "text": " \t\t[相地桃和]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330959,
+      "updated": 1556330965
+    },
+    {
+      "id": "5cc3b9d80db335000004e509",
+      "text": " \t\t[天和ルーシィ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330965,
+      "updated": 1556330969
+    },
+    {
+      "id": "5cc3b9dc0db335000004e50a",
+      "text": " \t\t[彩咲茜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330970,
+      "updated": 1556330974
+    },
+    {
+      "id": "5cc3b9e00db335000004e50b",
+      "text": " \t\t[星川めろり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330974,
+      "updated": 1556330981
+    },
+    {
+      "id": "5cc3b9e70db335000004e50c",
+      "text": " \t\t[真白くま]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330981,
+      "updated": 1556330985
+    },
+    {
+      "id": "5cc3b9ec0db335000004e50d",
+      "text": " \t\t[空兎ヨル]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330985,
+      "updated": 1556330994
+    },
+    {
+      "id": "5cc3b9f40db335000004e50e",
+      "text": " \t\t[緋彗せな]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330994,
+      "updated": 1556330997
+    },
+    {
+      "id": "5cc3b9f80db335000004e50f",
+      "text": " \t\t[高城まよ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330997,
+      "updated": 1556330999
+    },
+    {
+      "id": "5cc3b9fa0db335000004e510",
+      "text": " \t\t[糸巻おり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330999,
+      "updated": 1556331002
+    },
+    {
+      "id": "5cc3b9fd0db335000004e511",
+      "text": " \t\t[李稍]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331002,
+      "updated": 1556331006
+    },
+    {
+      "id": "5cc3ba000db335000004e512",
+      "text": " \t\t[愛守ノユリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331006,
+      "updated": 1556331015
+    },
+    {
+      "id": "5cc3ba0a0db335000004e513",
+      "text": " \t\t[羊乃しいぷ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331015,
+      "updated": 1556331018
+    },
+    {
+      "id": "5cc3ba0d0db335000004e514",
+      "text": " \t\t[アルレイヤ・ルフォン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331018,
+      "updated": 1556331020
+    },
+    {
+      "id": "5cc3ba0f0db335000004e515",
+      "text": " \t\t[万丈剛]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331021,
+      "updated": 1556331024
+    },
+    {
+      "id": "5cc3ba120db335000004e516",
+      "text": " \t\t[久留宮夏樹]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331024,
+      "updated": 1556331032
+    },
+    {
+      "id": "5cc3ba1a0db335000004e517",
+      "text": " \t\t[紅芋さつま]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331032,
+      "updated": 1556331043
+    },
+    {
+      "id": "5cc3ba260db335000004e518",
+      "text": " \t\t[伽藍怜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331043,
+      "updated": 1556331067
+    },
+    {
+      "id": "5cc3ba3f0db335000004e519",
+      "text": " \t\t[Mia]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331068,
+      "updated": 1556331075
+    },
+    {
+      "id": "5cc3ba480db335000004e51a",
+      "text": " \t\t[高斗ユウキ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331077,
+      "updated": 1556331083
+    },
+    {
+      "id": "5cc3ba4e0db335000004e51b",
+      "text": " \t\t[小早川和泉]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331083,
+      "updated": 1556331087
+    },
+    {
+      "id": "5cc3ba520db335000004e51c",
+      "text": " \t\t[米田らん*]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331087,
+      "updated": 1556331097
+    },
+    {
+      "id": "5cc3ba5c0db335000004e51d",
+      "text": " \t\t[大鳥スミレ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331097,
+      "updated": 1556331102
+    },
+    {
+      "id": "5cc3ba600db335000004e51e",
+      "text": " \t\t[天ノ川リサ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331102,
+      "updated": 1556331106
+    },
+    {
+      "id": "5cc3ba650db335000004e51f",
+      "text": " \t\t[雨音マモル]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331106,
+      "updated": 1556331111
+    },
+    {
+      "id": "5cc3ba690db335000004e520",
+      "text": " \t\t[サコ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331111,
+      "updated": 1556331116
+    },
+    {
+      "id": "5cc3ba6f0db335000004e521",
+      "text": " \t\t[十六穀米子]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331116,
+      "updated": 1556331126
+    },
+    {
+      "id": "5cc3ba790db335000004e522",
+      "text": " \t\t[小田管男]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331126,
+      "updated": 1556331132
+    },
+    {
+      "id": "5cc3ba7e0db335000004e523",
+      "text": " \t\t[姫乃愛琳]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331132,
+      "updated": 1556331136
+    },
+    {
+      "id": "5cc3ba820db335000004e524",
+      "text": " \t\t[椿木めい]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331136,
+      "updated": 1556331140
+    },
+    {
+      "id": "5cc3ba860db335000004e525",
+      "text": " \t\t[森永みう]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331140,
+      "updated": 1556331144
+    },
+    {
+      "id": "5cc3ba8b0db335000004e526",
+      "text": " \t\t[しろねこ亭ねこすけ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331144,
+      "updated": 1556331157
+    },
+    {
+      "id": "5cc3ba980db335000004e528",
+      "text": " \t\t[夜月カエデ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331157,
+      "updated": 1556331161
+    },
+    {
+      "id": "5cc3ba9c0db335000004e529",
+      "text": " \t\t[雪原みかん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331161,
+      "updated": 1556331164
+    },
+    {
+      "id": "5cc3ba9f0db335000004e52a",
+      "text": " \t\t[酒呑みみこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331164,
+      "updated": 1556331167
+    },
+    {
+      "id": "5cc3baa20db335000004e52b",
+      "text": " \t\t[紫吹]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331167,
+      "updated": 1556331171
+    },
+    {
+      "id": "5cc3baa50db335000004e52c",
+      "text": " \t\t[幽世つむぐ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331171,
+      "updated": 1556331178
+    },
+    {
+      "id": "5cc3baac0db335000004e52d",
+      "text": " \t\t[星乃宮レナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331178,
+      "updated": 1556331183
+    },
+    {
+      "id": "5cc3bab10db335000004e52e",
+      "text": " \t\t[るのあ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331183,
+      "updated": 1556331187
+    },
+    {
+      "id": "5cc3bab60db335000004e52f",
+      "text": " \t\t[琴葉めぐみ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331187,
+      "updated": 1556331190
+    },
+    {
+      "id": "5cc3bab90db335000004e530",
+      "text": " \t\t[楪つむぎ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331190,
+      "updated": 1556331196
+    },
+    {
+      "id": "5cc3babf0db335000004e531",
+      "text": " \t\t[七瀬亜希]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331196,
+      "updated": 1556331203
+    },
+    {
+      "id": "5cc3bac60db335000004e532",
+      "text": " \t\t[鍵井結唯]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331203,
+      "updated": 1556331206
+    },
+    {
+      "id": "5cc3bac80db335000004e533",
+      "text": " \t\t[乾物ひもの]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331206,
+      "updated": 1556331208
+    },
+    {
+      "id": "5cc3bacb0db335000004e534",
+      "text": " \t\t[木茂山下呂男]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331208,
+      "updated": 1556331213
+    },
+    {
+      "id": "5cc3bad00db335000004e535",
+      "text": " \t\t[午後乃めりも]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331213,
+      "updated": 1556331215
+    },
+    {
+      "id": "5cc3bad20db335000004e536",
+      "text": " \t\t[エリーナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331215,
+      "updated": 1556331288
+    },
+    {
+      "id": "5cc3bb1c0db335000004e537",
+      "text": " \t\t[星河テフ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331289,
+      "updated": 1556331293
+    },
+    {
+      "id": "5cc3bb200db335000004e538",
+      "text": " \t\t[充輝ぷらぐ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331293,
+      "updated": 1556331296
+    },
+    {
+      "id": "5cc3bb220db335000004e539",
+      "text": " \t\t[桜乃ナノ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331296,
+      "updated": 1556331298
+    },
+    {
+      "id": "5cc3bb250db335000004e53a",
+      "text": " \t\t[ディオン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331298,
+      "updated": 1556331301
+    },
+    {
+      "id": "5cc3b9270db335000004e502",
+      "text": "　\t2日目",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330788,
+      "updated": 1556331304
+    },
+    {
+      "id": "5cc3bb2b0db335000004e53c",
+      "text": "　\t\t[琴葉めぐみ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331304,
+      "updated": 1556331318
+    },
+    {
+      "id": "5cc3bb380db335000004e53d",
+      "text": "　\t\t[嘆きのアリア]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331318,
+      "updated": 1556331321
+    },
+    {
+      "id": "5cc3bb3b0db335000004e53e",
+      "text": "　\t\t[桜乃ナノ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331321,
+      "updated": 1556331325
+    },
+    {
+      "id": "5cc3bb3f0db335000004e53f",
+      "text": "　\t\t[初恋ちづる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331325,
+      "updated": 1556331327
+    },
+    {
+      "id": "5cc3bb420db335000004e540",
+      "text": "　\t\t[アルレイヤ・ルフォン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331327,
+      "updated": 1556331334
+    },
+    {
+      "id": "5cc3bb570db335000004e541",
+      "text": "　\t\t[伽藍怜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331348,
+      "updated": 1556331352
+    },
+    {
+      "id": "5cc3bb5b0db335000004e542",
+      "text": "　\t\t[高斗ユウキ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331353,
+      "updated": 1556331359
+    },
+    {
+      "id": "5cc3bb620db335000004e543",
+      "text": "　\t\t[無憂樹]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331359,
+      "updated": 1556331365
+    },
+    {
+      "id": "5cc3bb670db335000004e544",
+      "text": "　\t\t[姫乃愛琳]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331365,
+      "updated": 1556331368
+    },
+    {
+      "id": "5cc3bb6a0db335000004e545",
+      "text": "　\t\t[葵よしの]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331368,
+      "updated": 1556331373
+    },
+    {
+      "id": "5cc3bb700db335000004e546",
+      "text": "　\t\t[閏月ナコ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331373,
+      "updated": 1556331377
+    },
+    {
+      "id": "5cc3bb740db335000004e547",
+      "text": "　\t\t[勇者ことね]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331377,
+      "updated": 1556331381
+    },
+    {
+      "id": "5cc3bb770db335000004e548",
+      "text": "　\t\t[星川めろり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331381,
+      "updated": 1556331383
+    },
+    {
+      "id": "5cc3bb790db335000004e549",
+      "text": "　\t\tバーチャル探偵[あるある]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331383,
+      "updated": 1556331387
+    },
+    {
+      "id": "5cc3bb7f0db335000004e54a",
+      "text": "　\t\t[アンジュお姉さん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331388,
+      "updated": 1556331393
+    },
+    {
+      "id": "5cc3bb840db335000004e54b",
+      "text": "　\t\t[空兎ヨル]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331393,
+      "updated": 1556331397
+    },
+    {
+      "id": "5cc3bb870db335000004e54c",
+      "text": "　\t\t[ねむたゆ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331397,
+      "updated": 1556331399
+    },
+    {
+      "id": "5cc3bb8a0db335000004e54d",
+      "text": "　\t\t[真白くま]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331399,
+      "updated": 1556331403
+    },
+    {
+      "id": "5cc3bb8e0db335000004e54e",
+      "text": "　\t\t[黒咲ヨツバ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331403,
+      "updated": 1556331407
+    },
+    {
+      "id": "5cc3bb920db335000004e54f",
+      "text": "　\t\t[今和間田せぃが]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331407,
+      "updated": 1556331415
+    },
+    {
+      "id": "5cc3bb990db335000004e550",
+      "text": "　\t\t[みぼねこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331415,
+      "updated": 1556331420
+    },
+    {
+      "id": "5cc3bb9f0db335000004e551",
+      "text": "　\t\t[姫川セリナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331420,
+      "updated": 1556331428
+    },
+    {
+      "id": "5cc3bba70db335000004e552",
+      "text": "　\t\t[黒ノみい]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331428,
+      "updated": 1556331431
+    },
+    {
+      "id": "5cc3bbaa0db335000004e553",
+      "text": "　\t\t[花咲アヤメ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331431,
+      "updated": 1556331435
+    },
+    {
+      "id": "5cc3bbaf0db335000004e554",
+      "text": "　\t\t[深海リュイ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331436,
+      "updated": 1556331445
+    },
+    {
+      "id": "5cc3bbb80db335000004e555",
+      "text": "　\t\t[望月ユウキ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331445,
+      "updated": 1556331449
+    },
+    {
+      "id": "5cc3bbbb0db335000004e556",
+      "text": "　\t\t[雷輝アンタレス]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331449,
+      "updated": 1556331453
+    },
+    {
+      "id": "5cc3bbbf0db335000004e557",
+      "text": "　\t\t[白桜みこの]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331453,
+      "updated": 1556331456
+    },
+    {
+      "id": "5cc3bbc30db335000004e558",
+      "text": "　\t\t[雪白とわ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331456,
+      "updated": 1556331457
+    },
+    {
+      "id": "5cc3bbc40db335000004e559",
+      "text": "　\t\t[アオハル トナリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331457,
+      "updated": 1556331464
+    },
+    {
+      "id": "5cc3bbcb0db335000004e55a",
+      "text": "　\t\t[Mia]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331464,
+      "updated": 1556331467
+    },
+    {
+      "id": "5cc3bbce0db335000004e55b",
+      "text": "　\t\t[佐倉くま]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331468,
+      "updated": 1556331471
+    },
+    {
+      "id": "5cc3bbd10db335000004e55c",
+      "text": "　\t\t[闇鳥リンネ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331471,
+      "updated": 1556331476
+    },
+    {
+      "id": "5cc3bbd70db335000004e55d",
+      "text": "　\t\t[竜星アイル]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331476,
+      "updated": 1556331482
+    },
+    {
+      "id": "5cc3bbe00db335000004e55e",
+      "text": "　\t\t[伊月マリア]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331485,
+      "updated": 1556331489
+    },
+    {
+      "id": "5cc3bbe40db335000004e55f",
+      "text": "　\t\t[雪原みかん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331489,
+      "updated": 1556331492
+    },
+    {
+      "id": "5cc3bbe60db335000004e560",
+      "text": "　\t\t[寧夢ねむる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331492,
+      "updated": 1556331494
+    },
+    {
+      "id": "5cc3bbe80db335000004e561",
+      "text": "　\t\t[鳩谷麦]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331494,
+      "updated": 1556331498
+    },
+    {
+      "id": "5cc3bbec0db335000004e562",
+      "text": "　\t\t[黒乃ハクト]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331498,
+      "updated": 1556331500
+    },
+    {
+      "id": "5cc3bbef0db335000004e563",
+      "text": "　\t\t[青羽マコト]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331500,
+      "updated": 1556331512
+    },
+    {
+      "id": "5cc3bbfb0db335000004e564",
+      "text": "　\t\t[雛見沢くるみ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331512,
+      "updated": 1556331515
+    },
+    {
+      "id": "5cc3bbfd0db335000004e565",
+      "text": "　\t\t[柊マナト]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331515,
+      "updated": 1556331519
+    },
+    {
+      "id": "5cc3bc010db335000004e566",
+      "text": "　\t\t[李稍]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331519,
+      "updated": 1556331523
+    },
+    {
+      "id": "5cc3bc060db335000004e567",
+      "text": "　\t\t[ルル]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331524,
+      "updated": 1556331526
+    },
+    {
+      "id": "5cc3bc0b0db335000004e568",
+      "text": "　\t\t[黒兎さと]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331528,
+      "updated": 1556331534
+    },
+    {
+      "id": "5cc3bc100db335000004e569",
+      "text": "　\t\t[犬上ハヤト]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331534,
+      "updated": 1556331539
+    },
+    {
+      "id": "5cc3bc160db335000004e56a",
+      "text": "　\t\t[愛結りほ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331539,
+      "updated": 1556331542
+    },
+    {
+      "id": "5cc3bc190db335000004e56b",
+      "text": "　\t\t[夜月カエデ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331542,
+      "updated": 1556331545
+    },
+    {
+      "id": "5cc3bc1c0db335000004e56c",
+      "text": "　\t\t[鳥羽こはく]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331545,
+      "updated": 1556331548
+    },
+    {
+      "id": "5cc3bb290db335000004e53b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331302,
+      "updated": 1556331302
+    },
+    {
+      "id": "5cc5a20d0db3350000bc370e",
+      "text": "#リアルイベント",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556455949,
+      "updated": 1556455949
+    },
+    {
+      "id": "5cc5a20d0db3350000bc370f",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556455949,
+      "updated": 1556455949
+    }
+  ]
+}

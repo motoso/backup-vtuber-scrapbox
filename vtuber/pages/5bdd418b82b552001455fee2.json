@@ -1,0 +1,715 @@
+{
+  "id": "5bdd418b82b552001455fee2",
+  "title": "ニコニコ超パーティ2018",
+  "created": 1541226899,
+  "updated": 1541332206,
+  "lines": [
+    {
+      "id": "5bdd418b82b552001455fee2",
+      "text": "ニコニコ超パーティ2018",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226899,
+      "updated": 1541226900
+    },
+    {
+      "id": "5bded015774b17000026a1b8",
+      "text": "[https://gyazo.com/98621179639a1a028e41981b9fb0a0ab]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541328911,
+      "updated": 1541328926
+    },
+    {
+      "id": "5bdd4195774b170000002464",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226901,
+      "updated": 1541226901
+    },
+    {
+      "id": "5bdd4533774b170000002481",
+      "text": "[niconico]に関わるクリエイターのライブイベント",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227828,
+      "updated": 1541227857
+    },
+    {
+      "id": "5bdd4534774b170000002482",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227828,
+      "updated": 1541227828
+    },
+    {
+      "id": "5bdd41f5774b17000000246e",
+      "text": "2018年11月3日",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226997,
+      "updated": 1541227001
+    },
+    {
+      "id": "5bdd4201774b170000002472",
+      "text": "[さいたまスーパーアリーナ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227010,
+      "updated": 1541227018
+    },
+    {
+      "id": "5bdd41fa774b17000000246f",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227002,
+      "updated": 1541227002
+    },
+    {
+      "id": "5bdd60f1774b170000002499",
+      "text": "放送URL",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541234930,
+      "updated": 1541235011
+    },
+    {
+      "id": "5bdd6109774b17000000249d",
+      "text": " http://nico.ms/lv314187461",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541234953,
+      "updated": 1541234993
+    },
+    {
+      "id": "5bdedcd4774b1700001221e3",
+      "text": "裏放送：[裏でやってんだろ？裏で！]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541332174,
+      "updated": 1541332202
+    },
+    {
+      "id": "5bdedcd6774b1700001221e4",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541332176,
+      "updated": 1541332206
+    },
+    {
+      "id": "5bdd41b8774b170000002467",
+      "text": "[** セットリスト]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226936,
+      "updated": 1541328964
+    },
+    {
+      "id": "5bded04f774b17000026a1ba",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541328969,
+      "updated": 1541328969
+    },
+    {
+      "id": "5bdd41ee774b17000000246d",
+      "text": "15:30",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226990,
+      "updated": 1541226995
+    },
+    {
+      "id": "5bded45c774b170000e71812",
+      "text": "VTuber前半",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330006,
+      "updated": 1541330006
+    },
+    {
+      "id": "5bdd4265774b170000002476",
+      "text": "オープニングトーク",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227110,
+      "updated": 1541235026
+    },
+    {
+      "id": "5bdd426e774b170000002478",
+      "text": " [ばあちゃる]＆ヒメヒナ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227119,
+      "updated": 1541227128
+    },
+    {
+      "id": "5bded463774b170000e71813",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330013,
+      "updated": 1541330014
+    },
+    {
+      "id": "5bdd41a4774b170000002465",
+      "text": " [田中ヒメ]&[鈴木ヒナ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226917,
+      "updated": 1541226948
+    },
+    {
+      "id": "5bdd41bd774b170000002468",
+      "text": "  [ロキ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226941,
+      "updated": 1541226956
+    },
+    {
+      "id": "5bdd41bf774b170000002469",
+      "text": " [アズマリム]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226943,
+      "updated": 1541226962
+    },
+    {
+      "id": "5bdd41d4774b17000000246b",
+      "text": "  [ダンスロボットダンス]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226964,
+      "updated": 1541226968
+    },
+    {
+      "id": "5bdd41d9774b17000000246c",
+      "text": " [ときのそら]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541226970,
+      "updated": 1541227045
+    },
+    {
+      "id": "5bdd4215774b170000002473",
+      "text": "  [オツキミリサイタル]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227030,
+      "updated": 1541227047
+    },
+    {
+      "id": "5bdd425d774b170000002474",
+      "text": " [富士葵]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227102,
+      "updated": 1541227255
+    },
+    {
+      "id": "5bdd42ec774b17000000247c",
+      "text": "  [ゴーストルール]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227245,
+      "updated": 1541227251
+    },
+    {
+      "id": "5bdd42f9774b17000000247d",
+      "text": " [ミライアカリ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227257,
+      "updated": 1541227467
+    },
+    {
+      "id": "5bdd43cb774b17000000247e",
+      "text": "  [ECHO]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227468,
+      "updated": 1541227472
+    },
+    {
+      "id": "5bded44b774b170000e7180d",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541329989,
+      "updated": 1541329989
+    },
+    {
+      "id": "5bded44f774b170000e7180e",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541329993,
+      "updated": 1541329993
+    },
+    {
+      "id": "5bdd4c65774b170000002486",
+      "text": "16:20",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541229670,
+      "updated": 1541229675
+    },
+    {
+      "id": "5bdd4c4f774b170000002484",
+      "text": " [アメノセイ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541229649,
+      "updated": 1541229665
+    },
+    {
+      "id": "5bdd4c56774b170000002485",
+      "text": "  [Clock]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541229655,
+      "updated": 1541229668
+    },
+    {
+      "id": "5bdd4ca3774b170000002487",
+      "text": "  [セツナトリップ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541229731,
+      "updated": 1541229737
+    },
+    {
+      "id": "5bdd54f5774b17000000248b",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541231861,
+      "updated": 1541231861
+    },
+    {
+      "id": "5bdd59ea774b170000002498",
+      "text": "[* カオスステージ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541233131,
+      "updated": 1541328951
+    },
+    {
+      "id": "5bdd54f9774b17000000248c",
+      "text": "16:57",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541231865,
+      "updated": 1541330000
+    },
+    {
+      "id": "5bded456774b170000e7180f",
+      "text": "VTuber後半",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330000,
+      "updated": 1541330003
+    },
+    {
+      "id": "5bdd54fd774b17000000248d",
+      "text": " [月ノ美兎]：[Moon!!]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541231870,
+      "updated": 1541331103
+    },
+    {
+      "id": "5bdd5650774b170000002492",
+      "text": "  ガチ恋口上の尺が足りなかった",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541232208,
+      "updated": 1541331105
+    },
+    {
+      "id": "5bded8ac774b1700001221aa",
+      "text": "  現地の状況",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331110,
+      "updated": 1541331113
+    },
+    {
+      "id": "5bded8af774b1700001221ab",
+      "text": "   https://twitter.com/eventnico/status/1058644760536113152",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331113,
+      "updated": 1541331113
+    },
+    {
+      "id": "5bdd563d774b17000000248f",
+      "text": " [ねこます]：[バーチャルのじゃロリ狐娘Youtuberおじさんのうた]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541232192,
+      "updated": 1541331100
+    },
+    {
+      "id": "5bdd564d774b170000002491",
+      "text": " [ばあちゃる]、[鈴木ヒナ]、[田中ヒメ]、[富士葵]、[アズマリム]、[ミライアカリ]、[ときのそら]：[Shake It!]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541232205,
+      "updated": 1541331097
+    },
+    {
+      "id": "5bded88c774b1700001221a8",
+      "text": "  現地の状況",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331078,
+      "updated": 1541331081
+    },
+    {
+      "id": "5bded88f774b1700001221a9",
+      "text": "   https://twitter.com/eventnico/status/1058645105240723459",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331081,
+      "updated": 1541331082
+    },
+    {
+      "id": "5bdd579c774b170000002495",
+      "text": " [シロ]：[千本桜]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541232540,
+      "updated": 1541331094
+    },
+    {
+      "id": "5bded876774b1700001221a6",
+      "text": "  現地の状況",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331056,
+      "updated": 1541331074
+    },
+    {
+      "id": "5bded878774b1700001221a7",
+      "text": "   https://twitter.com/eventnico/status/1058645806658408448",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331059,
+      "updated": 1541331059
+    },
+    {
+      "id": "5bded85d774b1700001221a4",
+      "text": "  ファンアート",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331031,
+      "updated": 1541331033
+    },
+    {
+      "id": "5bded85f774b1700001221a5",
+      "text": "   https://twitter.com/sirogumiCandy/status/1058907441381797888",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331033,
+      "updated": 1541331033
+    },
+    {
+      "id": "5bdd4dd9774b170000002489",
+      "text": " [キズナアイ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541230042,
+      "updated": 1541232820
+    },
+    {
+      "id": "5bdd58b4774b170000002496",
+      "text": "  [Hello, Morning]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541232821,
+      "updated": 1541232839
+    },
+    {
+      "id": "5bdd59c6774b170000002497",
+      "text": "  [future base]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541233098,
+      "updated": 1541233103
+    },
+    {
+      "id": "5bdd4dd9774b17000000248a",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541230042,
+      "updated": 1541230042
+    },
+    {
+      "id": "5bded79a774b170000122196",
+      "text": "[** 開始前]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330836,
+      "updated": 1541331244
+    },
+    {
+      "id": "5bded956774b1700001221af",
+      "text": " [ばあちゃる.icon] https://twitter.com/BAyoutuber/status/1058556616025329665",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331280,
+      "updated": 1541331283
+    },
+    {
+      "id": "5bdeda17774b1700001221c0",
+      "text": " [田中ヒメ.icon] https://twitter.com/HimeTanaka_HH/status/1058541494053691392",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331473,
+      "updated": 1541331473
+    },
+    {
+      "id": "5bdedb25774b1700001221dd",
+      "text": " [鈴木ヒナ.icon] https://twitter.com/HinaSuzuki_HH/status/1058570199325011968",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331743,
+      "updated": 1541331743
+    },
+    {
+      "id": "5bdeda23774b1700001221c1",
+      "text": " [アズマリム.icon] https://twitter.com/azuma_lim/status/1058562989442293760",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331485,
+      "updated": 1541331584
+    },
+    {
+      "id": "5bdeda24774b1700001221c2",
+      "text": " [ときのそら.icon] https://twitter.com/tokino_sora/status/1058565347513520128",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331486,
+      "updated": 1541331640
+    },
+    {
+      "id": "5bdeda24774b1700001221c3",
+      "text": " [富士葵.icon] https://twitter.com/fuji_aoi_0618/status/1058593553046073344",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331486,
+      "updated": 1541331713
+    },
+    {
+      "id": "5bded935774b1700001221ad",
+      "text": " [ミライアカリ.icon] https://twitter.com/MiraiAkari_prj/status/1058535642601156608",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331248,
+      "updated": 1541331259
+    },
+    {
+      "id": "5bdeda28774b1700001221c5",
+      "text": " [アメノセイ.icon] https://twitter.com/ame_no_sei/status/1058544076012703744",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331490,
+      "updated": 1541331785
+    },
+    {
+      "id": "5bdedb0e774b1700001221cc",
+      "text": " [月ノ美兎.icon] https://twitter.com/MitoTsukino/status/1058295001518489600",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331720,
+      "updated": 1541331720
+    },
+    {
+      "id": "5bdeda28774b1700001221c6",
+      "text": " [ねこます.icon] https://twitter.com/kemomimi_oukoku/status/1058601134695186432",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331490,
+      "updated": 1541331855
+    },
+    {
+      "id": "5bdedb22774b1700001221d5",
+      "text": " [シロ.icon] https://twitter.com/SIROyoutuber/status/1058565737411895296",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331740,
+      "updated": 1541331740
+    },
+    {
+      "id": "5bdedb32774b1700001221df",
+      "text": " [キズナアイ.icon] https://twitter.com/aichan_nel/status/1058555457319534592",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331756,
+      "updated": 1541331944
+    },
+    {
+      "id": "5bded95c774b1700001221b1",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331286,
+      "updated": 1541331286
+    },
+    {
+      "id": "5bded79a774b170000122197",
+      "text": "[** 終了後]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330836,
+      "updated": 1541331246
+    },
+    {
+      "id": "5bded7c2774b17000012219b",
+      "text": " [ばあちゃる.icon] https://twitter.com/BAyoutuber/status/1058901595147005952",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330876,
+      "updated": 1541331373
+    },
+    {
+      "id": "5bded7c7774b17000012219c",
+      "text": " [田中ヒメ.icon] https://twitter.com/HimeTanaka_HH/status/1058676031979220992",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330881,
+      "updated": 1541331457
+    },
+    {
+      "id": "5bdedb2c774b1700001221de",
+      "text": " [鈴木ヒナ.icon] https://twitter.com/HinaSuzuki_HH/status/1058675960843653120",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331750,
+      "updated": 1541331896
+    },
+    {
+      "id": "5bded7cd774b17000012219d",
+      "text": " [アズマリム.icon] https://twitter.com/azuma_lim/status/1058643459249135616",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330887,
+      "updated": 1541331566
+    },
+    {
+      "id": "5bdeda7c774b1700001221c8",
+      "text": "  https://twitter.com/azuma_lim/status/1058719141408862209",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331575,
+      "updated": 1541331575
+    },
+    {
+      "id": "5bded7f4774b17000012219f",
+      "text": " [ときのそら.icon] https://twitter.com/tokino_sora/status/1058679435094704129",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330926,
+      "updated": 1541331623
+    },
+    {
+      "id": "5bdedab6774b1700001221c9",
+      "text": "  https://twitter.com/tokino_sora/status/1058679437821075456",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331632,
+      "updated": 1541331633
+    },
+    {
+      "id": "5bded7d2774b17000012219e",
+      "text": " [富士葵.icon] https://twitter.com/fuji_aoi_0618/status/1058682486736138242",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330892,
+      "updated": 1541331698
+    },
+    {
+      "id": "5bded7a1774b170000122198",
+      "text": " [ミライアカリ.icon] https://twitter.com/MiraiAkari_prj/status/1058678023191318529",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330842,
+      "updated": 1541330920
+    },
+    {
+      "id": "5bded7a1774b170000122199",
+      "text": " [アメノセイ.icon] https://twitter.com/ame_no_sei/status/1058681738954600448",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330843,
+      "updated": 1541331791
+    },
+    {
+      "id": "5bded7fe774b1700001221a0",
+      "text": " [月ノ美兎.icon] https://twitter.com/MitoTsukino/status/1058752219615350785",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330936,
+      "updated": 1541330968
+    },
+    {
+      "id": "5bded804774b1700001221a1",
+      "text": " [ねこます.icon] https://twitter.com/kemomimi_oukoku/status/1058650338524164096",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330942,
+      "updated": 1541331869
+    },
+    {
+      "id": "5bded809774b1700001221a2",
+      "text": " [シロ.icon] https://twitter.com/SIROyoutuber/status/1058638548415332352",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330947,
+      "updated": 1541330984
+    },
+    {
+      "id": "5bded80e774b1700001221a3",
+      "text": " [キズナアイ.icon] https://twitter.com/aichan_nel/status/1058652686503931904",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330952,
+      "updated": 1541331913
+    },
+    {
+      "id": "5bded96d774b1700001221b2",
+      "text": "  https://twitter.com/aichan_nel/status/1058725283111399424",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331303,
+      "updated": 1541331932
+    },
+    {
+      "id": "5bdedbe3774b1700001221e0",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331933,
+      "updated": 1541331933
+    },
+    {
+      "id": "5bdedbe3774b1700001221e1",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331933,
+      "updated": 1541331933
+    },
+    {
+      "id": "5bded96d774b1700001221b3",
+      "text": "ファンのフラスタ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331303,
+      "updated": 1541331307
+    },
+    {
+      "id": "5bded971774b1700001221b4",
+      "text": " https://twitter.com/purupuruzombie/status/1058581979896004608",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331307,
+      "updated": 1541331308
+    },
+    {
+      "id": "5bded7b7774b17000012219a",
+      "text": " 反応",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541330865,
+      "updated": 1541331444
+    },
+    {
+      "id": "5bded9fa774b1700001221bc",
+      "text": "  https://twitter.com/HimeTanaka_HH/status/1058713991663443971",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331444,
+      "updated": 1541331449
+    },
+    {
+      "id": "5bdeda60774b1700001221c7",
+      "text": "  https://twitter.com/azuma_lim/status/1058772090478714882",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331545,
+      "updated": 1541331546
+    },
+    {
+      "id": "5bdedae2774b1700001221ca",
+      "text": "  https://twitter.com/fuji_aoi_0618/status/1058735672897363968",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331675,
+      "updated": 1541331676
+    },
+    {
+      "id": "5bded9f6774b1700001221bb",
+      "text": "  https://twitter.com/kemomimi_oukoku/status/1058647404340162563",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331440,
+      "updated": 1541331840
+    },
+    {
+      "id": "5bded99e774b1700001221b5",
+      "text": "運営",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331352,
+      "updated": 1541331679
+    },
+    {
+      "id": "5bded99f774b1700001221b6",
+      "text": " プロデューサー",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331353,
+      "updated": 1541331359
+    },
+    {
+      "id": "5bded9a5774b1700001221b7",
+      "text": "  https://twitter.com/abe_chann/status/1058683681873715201",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331359,
+      "updated": 1541331360
+    },
+    {
+      "id": "5bded9a6774b1700001221b9",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541331360,
+      "updated": 1541331360
+    },
+    {
+      "id": "5bdd452a774b170000002480",
+      "text": "#リアルイベント",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227818,
+      "updated": 1541230044
+    },
+    {
+      "id": "5bdd4554774b170000002483",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1541227861,
+      "updated": 1541227861
+    }
+  ]
+}

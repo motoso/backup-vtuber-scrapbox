@@ -1,0 +1,309 @@
+{
+  "id": "5d81ab007ca18600173d6279",
+  "title": "YouTubeの登録者数表示が端数切捨てに変わる",
+  "created": 1568779009,
+  "updated": 1568808182,
+  "lines": [
+    {
+      "id": "5d81ab007ca18600173d6279",
+      "text": "YouTubeの登録者数表示が端数切捨てに変わる",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779009,
+      "updated": 1568779102
+    },
+    {
+      "id": "5d81ab160db33500005e7fee",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779030,
+      "updated": 1568779030
+    },
+    {
+      "id": "5d81ab170db33500005e7fef",
+      "text": "　2019年9月、[YouTube]の登録者数の表示が途中の桁から切り捨てで表示される場合があるようになった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779031,
+      "updated": 1568779825
+    },
+    {
+      "id": "5d81ab3f0db33500005e7ff1",
+      "text": "　\t事前に告知されており、9月中旬から挙動が変わった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779072,
+      "updated": 1568779099
+    },
+    {
+      "id": "5d81ab750db33500005e7ff3",
+      "text": "　\tそれまでは1ユーザー単位で分かっていた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779126,
+      "updated": 1568779132
+    },
+    {
+      "id": "5d81ae590db33500008e7694",
+      "text": "　\t切り捨ての桁数はチャンネルによって異なる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779866,
+      "updated": 1568779886
+    },
+    {
+      "id": "5d81ae6d0db33500008e7695",
+      "text": "　\t\tこの時点で267万ユーザーの登録があったキズナアイのチャンネルでは1万未満が切り捨てられた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779886,
+      "updated": 1568779948
+    },
+    {
+      "id": "5d81ae8e0db33500008e7696",
+      "text": "　\t\t一方、100未満が切り捨てられているチャンネルもあった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779918,
+      "updated": 1568779957
+    },
+    {
+      "id": "5d81ab600db33500005e7ff2",
+      "text": "　APIで返ってくる結果も切り捨てのものになったため、登録者数の記録をとっていたサービスでは2019/9/17から18にかけてのログに影響が出ている場合がある。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779105,
+      "updated": 1568779464
+    },
+    {
+      "id": "5d81abcc0db33500005e7ff4",
+      "text": "　\tuserlocal、Social Bladeなど。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779213,
+      "updated": 1568779476
+    },
+    {
+      "id": "5d81abe20db33500005e7ff5",
+      "text": "　\t関連",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779234,
+      "updated": 1568779237
+    },
+    {
+      "id": "5d81ac410db33500005e7ff7",
+      "text": "\t　\thttps://twitter.com/userlocal_vt/status/1174136440868835328",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779330,
+      "updated": 1568779331
+    },
+    {
+      "id": "5d81ac430db33500005e7ff8",
+      "text": "\t　\t\t> YouTubeの仕様変更で、チャンネル登録者数の細かい数字が出なくなってしまいました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779332,
+      "updated": 1568779336
+    },
+    {
+      "id": "5d81ac470db33500005e7ff9",
+      "text": "    > 「急上昇」「注目の新人」は、暫定的に総再生回数急上昇順で集計しています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779336,
+      "updated": 1568779336
+    },
+    {
+      "id": "5d81abe50db33500005e7ff6",
+      "text": "　\t\thttps://twitter.com/gillie_yomakura/status/1174121564255576064",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779237,
+      "updated": 1568779240
+    },
+    {
+      "id": "5d81ab170db33500005e7ff0",
+      "text": "   [Abbreviated Subscriber Counts on YouTube https://socialblade.com/blog/abbreviated-subscriber-counts-on-youtube/] -- Social Blade",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779031,
+      "updated": 1568779479
+    },
+    {
+      "id": "5d81acb00db33500005e7ffb",
+      "text": "   \t> Really at the end of the day the only thing that won’t work anymore is the real time subscriber counter. Or more specifically it will work, but it will be very boring (unless you have less then 1000 subscribers) for most channels unless you know the counter is about to change. The good thing though is you can always get a perfect screen shot as once a milestone is reached it won’t change for a while!",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779441,
+      "updated": 1568779442
+    },
+    {
+      "id": "5d81ac4a0db33500005e7ffa",
+      "text": " https://support.google.com/youtube/answer/6051134?hl=ja&ref_topic=9257789",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568779339,
+      "updated": 1568808112
+    },
+    {
+      "id": "5d821cb00db3350000026128",
+      "text": " \t> 一般公開されるチャンネル登録者数について",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808113,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026129",
+      "text": "  > 視聴者には登録者数が省略表記でのみ表示されます。一般公開されるチャンネル登録者数は、その数に応じた形式で省略表示されます。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002612a",
+      "text": "  > ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002612b",
+      "text": "  > チャンネル登録者数が次の場合:\t公開チャンネル登録者数が更新される単位:",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002612c",
+      "text": "  > 1,000 人未満\t新規チャンネル登録者 1 人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002612d",
+      "text": "  > 1,000～9,999 人\t新規チャンネル登録者 10 人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002612e",
+      "text": "  > 10,000～99,999 人\t新規チャンネル登録者 100 人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002612f",
+      "text": "  > 100,000～999,999 人\t新規チャンネル登録者 1,000 人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026130",
+      "text": "  > 1,000,000～9,999,999 人\t新規チャンネル登録者 10,000 人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026131",
+      "text": "  > 10,000,000～99,999,999 人\t新規チャンネル登録者 100,000 人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026132",
+      "text": "  > 100,000,000～999,999,999 人\t新規チャンネル登録者 1,000,000 人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026133",
+      "text": "  >  ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026134",
+      "text": "  > ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026135",
+      "text": "  > チャンネル登録者数が一般向けにどのように表示されるかを理解するには、以下の表をご覧ください。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026136",
+      "text": "  > ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026137",
+      "text": "  > たとえば、チャンネル登録者数が次の場合:\t一般公開されるチャンネル登録者数:\t次回更新される公開チャンネル登録者数:",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026138",
+      "text": "  > 123 人\t123\t124",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db3350000026139",
+      "text": "  > 1,234 人\t1230\t1240",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002613a",
+      "text": "  > 12,345 人\t1.23万\t1.24万",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002613b",
+      "text": "  > 123,456 人\t12.3万\t12.4万",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002613c",
+      "text": "  > 1,234,567 人\t123万\t124万",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002613d",
+      "text": "  > 12,345,678 人\t1230万\t1240万",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cb70db335000002613e",
+      "text": "  > 123,456,789 人\t1.23億\t1.24億",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808120,
+      "updated": 1568808120
+    },
+    {
+      "id": "5d821cac0db3350000026127",
+      "text": "\t\t(2019/9/18閲覧)",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808110,
+      "updated": 1568808182
+    },
+    {
+      "id": "5d821cea0db3350000026141",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568808171,
+      "updated": 1568808171
+    }
+  ]
+}

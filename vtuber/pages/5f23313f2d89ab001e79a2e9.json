@@ -1,0 +1,57 @@
+{
+  "id": "5f23313f2d89ab001e79a2e9",
+  "title": "447 Music Radio",
+  "created": 1596141905,
+  "updated": 1596141980,
+  "lines": [
+    {
+      "id": "5f23313f2d89ab001e79a2e9",
+      "text": "447 Music Radio",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596141905,
+      "updated": 1596141905
+    },
+    {
+      "id": "5f2331560db335000002458a",
+      "text": "[https://www.youtube.com/watch?v=FHghknh7JgA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596141906,
+      "updated": 1596141908
+    },
+    {
+      "id": "5f2331580db335000002458c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596141908,
+      "updated": 1596141908
+    },
+    {
+      "id": "5f2331590db335000002458d",
+      "text": " [447 Records]が運営する、バーチャル関係の音楽が24時間流れ続けるYouTube Live。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596141909,
+      "updated": 1596141932
+    },
+    {
+      "id": "5f2331710db335000002458e",
+      "text": " アーティストからの楽曲提供を受け、その音楽を放送している。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596141933,
+      "updated": 1596141978
+    },
+    {
+      "id": "5f23319e0db335000002458f",
+      "text": " 　アーティスト一覧：https://447pro.com/radio/for-virtual-fans/artists",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596141978,
+      "updated": 1596141980
+    },
+    {
+      "id": "5f2331580db335000002458b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596141908,
+      "updated": 1596141908
+    }
+  ]
+}

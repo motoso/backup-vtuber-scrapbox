@@ -1,0 +1,85 @@
+{
+  "id": "5ec05dd6d3125e00240e58f5",
+  "title": "Omnipresence Live",
+  "created": 1589665240,
+  "updated": 1589665446,
+  "lines": [
+    {
+      "id": "5ec05dd6d3125e00240e58f5",
+      "text": "Omnipresence Live",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665240,
+      "updated": 1589665244
+    },
+    {
+      "id": "5ec05ddd0db3350000e6a044",
+      "text": "[https://www.youtube.com/watch?v=GWzvWZ8vytk]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665244,
+      "updated": 1589665430
+    },
+    {
+      "id": "5ec05e970db3350000e6a049",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665430,
+      "updated": 1589665430
+    },
+    {
+      "id": "5ec05ddf0db3350000e6a045",
+      "text": " [memex]の開発したライブ配信システム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665246,
+      "updated": 1589665338
+    },
+    {
+      "id": "5ec05e3e0db3350000e6a047",
+      "text": " 3DアバターによるVRライブをラグの少ない演出付きでYouTube Liveに配信できる他、3D情報を独自形式で補完しておくことにより、VRChat等のVRプラットフォームにおいてライブを再構築できる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665341,
+      "updated": 1589665413
+    },
+    {
+      "id": "5ec05e860db3350000e6a048",
+      "text": " リンク",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665413,
+      "updated": 1589665435
+    },
+    {
+      "id": "5ec05e9d0db3350000e6a04a",
+      "text": " 　https://twitter.com/memex_am/status/1261631986654986246",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665435,
+      "updated": 1589665439
+    },
+    {
+      "id": "5ec05ea30db3350000e6a04b",
+      "text": " 　http://meme-x.jp/2020/05/omnipresencelive/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665442,
+      "updated": 1589665442
+    },
+    {
+      "id": "5ec05e310db3350000e6a046",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665328,
+      "updated": 1589665328
+    },
+    {
+      "id": "5ec05ea50db3350000e6a04c",
+      "text": "#ソフトウェア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665443,
+      "updated": 1589665446
+    },
+    {
+      "id": "5ec05ea50db3350000e6a04d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589665444,
+      "updated": 1589665444
+    }
+  ]
+}

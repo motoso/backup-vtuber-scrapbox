@@ -1,0 +1,43 @@
+{
+  "id": "5d76dd85bcf1110017989d98",
+  "title": "Marple",
+  "created": 1568071057,
+  "updated": 1568071085,
+  "lines": [
+    {
+      "id": "5d76dd85bcf1110017989d98",
+      "text": "Marple",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568071057,
+      "updated": 1568071057
+    },
+    {
+      "id": "5d76dd920db3350000972da9",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568071058,
+      "updated": 1568071058
+    },
+    {
+      "id": "5d76dd920db3350000972daa",
+      "text": " Marprilが活動初期に名乗っていたグループ名。諸事情により改名した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568071058,
+      "updated": 1568071082
+    },
+    {
+      "id": "5d76ddaa0db3350000972dac",
+      "text": " \t→ [Marpril]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568071082,
+      "updated": 1568071085
+    },
+    {
+      "id": "5d76dd950db3350000972dab",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568071061,
+      "updated": 1568071061
+    }
+  ]
+}

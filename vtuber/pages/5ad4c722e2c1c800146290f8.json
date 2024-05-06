@@ -1,0 +1,106 @@
+{
+  "id": "5ad4c722e2c1c800146290f8",
+  "title": "VRM",
+  "created": 1523894053,
+  "updated": 1523894467,
+  "lines": [
+    {
+      "id": "5ad4c722e2c1c800146290f8",
+      "text": "VRM",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894053,
+      "updated": 1523894053
+    },
+    {
+      "id": "5ad4c76f774b170000bded8c",
+      "text": "[https://gyazo.com/89f13de1aae79a7303514eacb925b7f8]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894128,
+      "updated": 1523894128
+    },
+    {
+      "id": "5ad4c76f774b170000bded8b",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894127,
+      "updated": 1523894127
+    },
+    {
+      "id": "5ad4c725774b1700008e4bd2",
+      "text": " [ドワンゴ]の提案した、VRアプリケーション向けの人型3Dモデルデータを扱うためのファイル[フォーマット]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894053,
+      "updated": 1523894307
+    },
+    {
+      "id": "5ad4c80f774b170000bded94",
+      "text": "  [glTF]2.0ベース",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894288,
+      "updated": 1523894292
+    },
+    {
+      "id": "5ad4c790774b170000bded90",
+      "text": " VRMファイルのread/writeを行う標準実装がオープンソースで提供されている",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894161,
+      "updated": 1523894216
+    },
+    {
+      "id": "5ad4c796774b170000bded91",
+      "text": " 公式サイトの説明を参照してください",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894167,
+      "updated": 1523894175
+    },
+    {
+      "id": "5ad4c778774b170000bded8d",
+      "text": "  公式：[https://dwango.github.io/vrm/ VRM - dwango on GitHub]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894136,
+      "updated": 1523894177
+    },
+    {
+      "id": "5ad4c8b2774b170000bded9c",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894450,
+      "updated": 1523894450
+    },
+    {
+      "id": "5ad4c8b1774b170000bded9b",
+      "text": "実用例",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894449,
+      "updated": 1523894458
+    },
+    {
+      "id": "5ad4c8c0774b170000bded9f",
+      "text": " [http://blog.nicovideo.jp/3d/2018/04/vrm.html 「VRM形式の投稿」「バーチャルキャスト連携許可」に対応しました - ニコニ立体お知らせブログ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894465,
+      "updated": 1523894465
+    },
+    {
+      "id": "5ad4c861774b170000bded98",
+      "text": "  [ニコニ立体]にVRM形式で投稿することができる",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894370,
+      "updated": 1523894466
+    },
+    {
+      "id": "5ad4c88f774b170000bded9a",
+      "text": "  その上でモデルを[Virtual Cast]で利用することができる",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894416,
+      "updated": 1523894467
+    },
+    {
+      "id": "5ad4c8bc774b170000bded9d",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523894461,
+      "updated": 1523894461
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "5dabef5e6e32060017946bae",
+  "title": "エミリンチャンネル",
+  "created": 1571549027,
+  "updated": 1571549028,
+  "lines": [
+    {
+      "id": "5dabef5e6e32060017946bae",
+      "text": "エミリンチャンネル",
+      "userId": "59fb21121207900012774b17",
+      "created": 1571549027,
+      "updated": 1571549027
+    },
+    {
+      "id": "5dabef6f774b1700006f3f1d",
+      "text": "https://www.youtube.com/channel/UCq3YtFr5JWvID4iK9HyrM3Q",
+      "userId": "59fb21121207900012774b17",
+      "created": 1571549027,
+      "updated": 1571549028
+    },
+    {
+      "id": "5dabef6f774b1700006f3f1e",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1571549028,
+      "updated": 1571549028
+    }
+  ]
+}

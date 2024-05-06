@@ -1,0 +1,365 @@
+{
+  "id": "5c7d0cd995cd2200178c5704",
+  "title": "なちょこ",
+  "created": 1551699162,
+  "updated": 1552344886,
+  "lines": [
+    {
+      "id": "5c7d0cd995cd2200178c5704",
+      "text": "なちょこ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699166
+    },
+    {
+      "id": "5c7d0cd90db335000063697a",
+      "text": "[https://pbs.twimg.com/profile_images/1102056055465340928/Qv5wVJhC_400x400.png]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1552344886
+    },
+    {
+      "id": "5c86e7360db3350000c48e48",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1552344886,
+      "updated": 1552344886
+    },
+    {
+      "id": "5c7d0cd90db335000063697b",
+      "text": "要約",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063697c",
+      "text": " いろいろなエンタメ系アルバイトに挑戦する女子高生VTuber。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699207
+    },
+    {
+      "id": "5c7d0cd90db335000063697d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063697e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063697f",
+      "text": "自己紹介動画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636980",
+      "text": " ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699210
+    },
+    {
+      "id": "5c7d0cd90db3350000636981",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636982",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636983",
+      "text": " ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699212
+    },
+    {
+      "id": "5c7d0cd90db3350000636984",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636985",
+      "text": "アカウント",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636986",
+      "text": " [/icons/twitter.icon] https://twitter.com/nachoco_arbeit",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699216
+    },
+    {
+      "id": "5c7d0cd90db3350000636987",
+      "text": " [/icons/youtube.icon] https://www.youtube.com/channel/UC9ad82fASVVMQLsJbshxdfA",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699227
+    },
+    {
+      "id": "5c7d0cd90db3350000636988",
+      "text": " [/icons/mirrativ.icon] ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636989",
+      "text": " [/icons/niconico.icon] ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063698a",
+      "text": " [/icons/bilibili.icon]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063698b",
+      "text": " [/icons/instagram.icon] ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063698c",
+      "text": " [/icons/showroom.icon] ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063698d",
+      "text": " [/icons/openrec.icon] ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063698e",
+      "text": " [/icons/pixiv_fanbox.icon]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063698f",
+      "text": " [/icons/fantia.icon]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636990",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636991",
+      "text": "語録",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636992",
+      "text": " 「ここに有名な言葉（ミーム）を書きます」",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636993",
+      "text": "  ここにその発言が生まれたコンテキスト（どのようにしてその発言が生まれたのか）を書きます",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636994",
+      "text": "  その言葉が初めて使われたリンクもわかれば貼ります",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636995",
+      "text": "   動画の秒数がわかればYouTubeへのリンクを張ると見た人が便利です",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636996",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636997",
+      "text": "基本情報",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636998",
+      "text": " 視聴者のよびかた：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db3350000636999",
+      "text": " 名前の読み方：なちょこ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699369
+    },
+    {
+      "id": "5c7d0cd90db335000063699a",
+      "text": " ハッシュタグ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699252
+    },
+    {
+      "id": "5c7d0d320db33500006369a5",
+      "text": " \t[https://twitter.com/hashtag/%E3%81%AA%E3%81%A1%E3%82%87%E3%81%93?src=hash #なちょこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699252,
+      "updated": 1551699262
+    },
+    {
+      "id": "5c7d0d3e0db33500006369a6",
+      "text": " \t[https://twitter.com/hashtag/%E3%81%AA%E3%81%A1%E3%82%87%E3%81%82%E3%83%BC%E3%81%A8?src=hash #なちょあーと]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699263,
+      "updated": 1551699270
+    },
+    {
+      "id": "5c7d0d280db33500006369a4",
+      "text": "　公式ホームページ：https://nachoco.info/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699240,
+      "updated": 1551699251
+    },
+    {
+      "id": "5c7d0cd90db335000063699b",
+      "text": " 2019/3/3デビュー。デビューしてから24時間以内に「創作昔話のアルバイト『[へなちょこ太郎]』」というシリーズものの動画を連続投稿した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699478
+    },
+    {
+      "id": "5c7d0cd90db335000063699c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db335000063699d",
+      "text": "特記事項",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0d4f0db33500006369a7",
+      "text": "　声優の[阿澄佳奈]が応援している。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699281,
+      "updated": 1551699300
+    },
+    {
+      "id": "5c7d0d520db33500006369a8",
+      "text": "　\thttps://twitter.com/0812asumikana/status/1102148540606820352",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699283,
+      "updated": 1551699283
+    },
+    {
+      "id": "5c7d0dc60db33500006369a9",
+      "text": "　[株式会社アニプレックス]と[株式会社Wright Flyer Live Entertainment]が協業で運営している。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699399,
+      "updated": 1551699436
+    },
+    {
+      "id": "5c7d0deb0db33500006369ac",
+      "text": "　\thttps://prtimes.jp/main/html/rd/p/000001567.000016356.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699436,
+      "updated": 1551699438
+    },
+    {
+      "id": "5c7d0dca0db33500006369aa",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699403,
+      "updated": 1551699403
+    },
+    {
+      "id": "5c7d0cd90db335000063699f",
+      "text": "生みの親",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db33500006369a0",
+      "text": " ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699303
+    },
+    {
+      "id": "5c7d0cd90db33500006369a1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db33500006369a2",
+      "text": "#バーチャルYouTuber",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    },
+    {
+      "id": "5c7d0cd90db33500006369a3",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1551699162,
+      "updated": 1551699162
+    }
+  ]
+}

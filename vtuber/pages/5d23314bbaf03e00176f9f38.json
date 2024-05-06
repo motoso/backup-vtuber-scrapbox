@@ -1,0 +1,50 @@
+{
+  "id": "5d23314bbaf03e00176f9f38",
+  "title": "cluster.",
+  "created": 1562587469,
+  "updated": 1562587500,
+  "lines": [
+    {
+      "id": "5d23314bbaf03e00176f9f38",
+      "text": "cluster.",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562587469,
+      "updated": 1562587470
+    },
+    {
+      "id": "5d2331530db33500008e3212",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562587471,
+      "updated": 1562587471
+    },
+    {
+      "id": "5d2331530db33500008e3213",
+      "text": " [cluster]の古い名前。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562587471,
+      "updated": 1562587482
+    },
+    {
+      "id": "5d2331600db33500008e3215",
+      "text": " \t参考：[cluster.、clusterへ改名]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562587484,
+      "updated": 1562587494
+    },
+    {
+      "id": "5d23316c0db33500008e3216",
+      "text": " → [cluster]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562587495,
+      "updated": 1562587500
+    },
+    {
+      "id": "5d2331540db33500008e3214",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562587472,
+      "updated": 1562587472
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "5f69dc31ae169b001e8ffcfd",
+  "title": "生産者表示",
+  "created": 1600773171,
+  "updated": 1600774322,
+  "lines": [
+    {
+      "id": "5f69dc31ae169b001e8ffcfd",
+      "text": "生産者表示",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773171,
+      "updated": 1600773171
+    },
+    {
+      "id": "5f69dc350db33500008cc815",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773171,
+      "updated": 1600773171
+    },
+    {
+      "id": "5f69dc350db33500008cc816",
+      "text": " [Twitch]等で行われるDJイベントにおいて、チャット欄に作者の絵文字を連打する行為のこと。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773171,
+      "updated": 1600773989
+    },
+    {
+      "id": "5f69dc350db33500008cc817",
+      "text": "　例：[TAKU INOUE]、[kz]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773172,
+      "updated": 1600773333
+    },
+    {
+      "id": "5f69e0740db33500008cc81d",
+      "text": "　[Music Unity 2020]での様子：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600774259,
+      "updated": 1600774322
+    },
+    {
+      "id": "5f69e07c0db33500008cc81e",
+      "text": "　　[https://gyazo.com/314ad56ee53a5d6d5282415e3b90f1dc]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600774267,
+      "updated": 1600774268
+    },
+    {
+      "id": "5f69dc840db33500008cc819",
+      "text": "　https://twitter.com/kz_lt/status/1257609149954666497",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773250,
+      "updated": 1600773256
+    },
+    {
+      "id": "5f69dc8a0db33500008cc81a",
+      "text": "　\t> Twitchのコメントに作曲者の顔のスタンプを連打されるのを生産者表示って言うのほんとうにインターネットだなと思いました",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773256,
+      "updated": 1600773262
+    },
+    {
+      "id": "5f69dc790db33500008cc818",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773239,
+      "updated": 1600773239
+    },
+    {
+      "id": "5f69dce40db33500008cc81b",
+      "text": "[nekketsuuu.icon] 私の観測範囲では2020年春頃には使われていました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773346,
+      "updated": 1600773980
+    },
+    {
+      "id": "5f69dce50db33500008cc81c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600773347,
+      "updated": 1600773347
+    }
+  ]
+}

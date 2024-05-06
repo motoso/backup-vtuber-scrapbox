@@ -1,0 +1,85 @@
+{
+  "id": "5dd427dcb21cb80017437326",
+  "title": "N窓",
+  "created": 1574184928,
+  "updated": 1596037625,
+  "lines": [
+    {
+      "id": "5dd427dcb21cb80017437326",
+      "text": "N窓",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574184928,
+      "updated": 1574184928
+    },
+    {
+      "id": "5dd427e00db33500005d297b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574184928,
+      "updated": 1574184928
+    },
+    {
+      "id": "5dd427e00db33500005d297c",
+      "text": "　[YouTube]を[複窓]するときに便利な[アプリ]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574184928,
+      "updated": 1574184950
+    },
+    {
+      "id": "5dd427fa0db33500005d297e",
+      "text": "　\tブラウザ上で、1画面の中に複数動画を配置することができる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574184954,
+      "updated": 1574184980
+    },
+    {
+      "id": "5dd428140db33500005d297f",
+      "text": "　\tそれぞれの動画の大きさを変えたり、チャットを表示有無を変えたりできる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574184980,
+      "updated": 1574184995
+    },
+    {
+      "id": "5dd428230db33500005d2980",
+      "text": "　\t専用プラグインを使うと、音声を左右に振り分けたりもできる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574184995,
+      "updated": 1574185011
+    },
+    {
+      "id": "5f2198ac0db3350000304e43",
+      "text": "　2020年6月頃、[HoloTools https://twitter.com/dragonjetmkii/status/1278020514435362816]、[niji-mado https://twitter.com/niji_mado/status/1270961602255179778]などの類似アプリと同様に、「ブラウザの1画面の中で複数の動画を同時に再生する機能がYouTubeのTerms of Serviceに触れるのではないか」という話があり、閉鎖された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596037288,
+      "updated": 1596037625
+    },
+    {
+      "id": "5dd428340db33500005d2981",
+      "text": "　[- PC版：https://piporoid.net/NMado/]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574185012,
+      "updated": 1596037473
+    },
+    {
+      "id": "5dd428430db33500005d2982",
+      "text": "　[- モバイル版：https://piporoid.net/NMadoMobile/]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574185027,
+      "updated": 1596037475
+    },
+    {
+      "id": "5dd4284f0db33500005d2983",
+      "text": "　制作者：[piprodio]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574185039,
+      "updated": 1574185043
+    },
+    {
+      "id": "5dd427e10db33500005d297d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574184929,
+      "updated": 1574184929
+    }
+  ]
+}

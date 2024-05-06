@@ -1,0 +1,43 @@
+{
+  "id": "5b252e64d735a00014ef9e2f",
+  "title": "James Jamerson",
+  "created": 1529163367,
+  "updated": 1529163379,
+  "lines": [
+    {
+      "id": "5b252e64d735a00014ef9e2f",
+      "text": "James Jamerson",
+      "userId": "59fb21121207900012774b17",
+      "created": 1529163367,
+      "updated": 1529163367
+    },
+    {
+      "id": "5b252e6d774b17000025b39a",
+      "text": "[ベーシスト]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1529163374,
+      "updated": 1529163379
+    },
+    {
+      "id": "5b252e6c774b17000025b399",
+      "text": "もっと詳しく知りたい",
+      "userId": "59fb21121207900012774b17",
+      "created": 1529163372,
+      "updated": 1529163375
+    },
+    {
+      "id": "5b252e67774b17000025b396",
+      "text": " [https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%9E%E3%83%BC%E3%82%BD%E3%83%B3 ジェームス・ジェマーソン - Wikipedia]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1529163367,
+      "updated": 1529163376
+    },
+    {
+      "id": "5b252e67774b17000025b397",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1529163367,
+      "updated": 1529163367
+    }
+  ]
+}

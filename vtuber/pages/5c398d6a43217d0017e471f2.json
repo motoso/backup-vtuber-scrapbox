@@ -1,0 +1,29 @@
+{
+  "id": "5c398d6a43217d0017e471f2",
+  "title": "焦茶",
+  "created": 1547275629,
+  "updated": 1547275646,
+  "lines": [
+    {
+      "id": "5c398d6a43217d0017e471f2",
+      "text": "焦茶",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547275629,
+      "updated": 1547275629
+    },
+    {
+      "id": "5c398d7b774b170000b0c4a6",
+      "text": "[イラストレーター]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547275644,
+      "updated": 1547275646
+    },
+    {
+      "id": "5c398d6c774b170000b0c4a4",
+      "text": "[/icons/twitter.icon] https://twitter.com/BARD713",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547275629,
+      "updated": 1547275636
+    }
+  ]
+}

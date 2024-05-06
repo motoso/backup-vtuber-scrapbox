@@ -1,0 +1,78 @@
+{
+  "id": "5e7dd57de811cc0017391930",
+  "title": "バーチャル番組チャンネル連盟",
+  "created": 1585304961,
+  "updated": 1585305117,
+  "lines": [
+    {
+      "id": "5e7dd57de811cc0017391930",
+      "text": "バーチャル番組チャンネル連盟",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585304961,
+      "updated": 1585304961
+    },
+    {
+      "id": "5e7dd5840db335000015a61e",
+      "text": "[https://www.youtube.com/watch?v=oNiwOJrykiw]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585304961,
+      "updated": 1585305012
+    },
+    {
+      "id": "5e7dd5b70db335000015a623",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585305012,
+      "updated": 1585305012
+    },
+    {
+      "id": "5e7dd5840db335000015a61f",
+      "text": "　略称：[V番連]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585304961,
+      "updated": 1585304968
+    },
+    {
+      "id": "5e7dd5e30db335000015a624",
+      "text": "　様々なVTuberに、コラボ企画やリアルイベントのサイマル配信等にチャンネルを利用してもらうため活動している。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585305056,
+      "updated": 1585305117
+    },
+    {
+      "id": "5e7dd5b10db335000015a622",
+      "text": "　[Vaんぐみ]などの企画を行っている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585305011,
+      "updated": 1585305036
+    },
+    {
+      "id": "5e7dd5f10db335000015a626",
+      "text": "　[/icons/youtube.icon] https://www.youtube.com/channel/UCt8tmsv8kL9Nc1sxvCo9j4Q",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585305070,
+      "updated": 1585305088
+    },
+    {
+      "id": "5e7dd5ec0db335000015a625",
+      "text": "　[/icons/twitter.icon] https://twitter.com/vbanren",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585305065,
+      "updated": 1585305074
+    },
+    {
+      "id": "5e7dd5850db335000015a620",
+      "text": "　元々[ねこます]が使っていたYouTubeチャンネルの管理権限をもらい使っている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585304961,
+      "updated": 1585305010
+    },
+    {
+      "id": "5e7dd5970db335000015a621",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585304980,
+      "updated": 1585304980
+    }
+  ]
+}

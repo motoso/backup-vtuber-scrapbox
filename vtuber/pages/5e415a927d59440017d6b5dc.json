@@ -1,0 +1,218 @@
+{
+  "id": "5e415a927d59440017d6b5dc",
+  "title": "VUCCANEER",
+  "created": 1581341331,
+  "updated": 1581341644,
+  "lines": [
+    {
+      "id": "5e415a927d59440017d6b5dc",
+      "text": "VUCCANEER",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341331,
+      "updated": 1581341331
+    },
+    {
+      "id": "5e415a940db3350000bb2fb9",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341332,
+      "updated": 1581341332
+    },
+    {
+      "id": "5e415aa80db3350000bb2fbb",
+      "text": "> \"Virtualにバンドサウンドを\"",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341353,
+      "updated": 1581341354
+    },
+    {
+      "id": "5e415a940db3350000bb2fba",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341332,
+      "updated": 1581341332
+    },
+    {
+      "id": "5e415aab0db3350000bb2fbc",
+      "text": " VUCCANEER（バッカニア）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341355,
+      "updated": 1581341367
+    },
+    {
+      "id": "5e415bc20db3350000bb2fd8",
+      "text": " \t音楽ライブを開催したい個人の集まり。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341635,
+      "updated": 1581341644
+    },
+    {
+      "id": "5e415ab80db3350000bb2fbe",
+      "text": " 2020年2月にクラウドファンディングを開始。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341369,
+      "updated": 1581341385
+    },
+    {
+      "id": "5e415ac90db3350000bb2fbf",
+      "text": " \thttps://camp-fire.jp/projects/view/226046",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341385,
+      "updated": 1581341388
+    },
+    {
+      "id": "5e415acd0db3350000bb2fc0",
+      "text": " \t\t> 我々が実現したいことは以下の2点です。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341389,
+      "updated": 1581341398
+    },
+    {
+      "id": "5e415ad60db3350000bb2fc2",
+      "text": "   > 1. バーチャルシンガーによる、新曲ライブフェスの開催",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341398,
+      "updated": 1581341413
+    },
+    {
+      "id": "5e415ad60db3350000bb2fc4",
+      "text": "   > 2. ライブフェスの思い出としてのCD制作",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341398,
+      "updated": 1581341412
+    },
+    {
+      "id": "5e415bac0db3350000bb2fd7",
+      "text": "  2020年5月のライブ開催と、その思い出としてのCD・グッズ制作が目的。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341612,
+      "updated": 1581341632
+    },
+    {
+      "id": "5e415aad0db3350000bb2fbd",
+      "text": " [/icons/twitter.icon] https://twitter.com/VUCCANEER",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341358,
+      "updated": 1581341425
+    },
+    {
+      "id": "5e415af10db3350000bb2fc6",
+      "text": " 主催：[たなとす]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341425,
+      "updated": 1581341523
+    },
+    {
+      "id": "5e415b530db3350000bb2fc7",
+      "text": " 参加メンバー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341524,
+      "updated": 1581341535
+    },
+    {
+      "id": "5e415b7f0db3350000bb2fd0",
+      "text": " \tバーチャルシンガー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341567,
+      "updated": 1581341570
+    },
+    {
+      "id": "5e415b5f0db3350000bb2fc9",
+      "text": "  \t[朝ノ瑠璃]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341535,
+      "updated": 1581341572
+    },
+    {
+      "id": "5e415b650db3350000bb2fca",
+      "text": "  \t[朝ノ茜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341541,
+      "updated": 1581341572
+    },
+    {
+      "id": "5e415b680db3350000bb2fcb",
+      "text": "  \t[双葉汐音]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341544,
+      "updated": 1581341572
+    },
+    {
+      "id": "5e415b6f0db3350000bb2fcc",
+      "text": "  \t[春歌みこと]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341551,
+      "updated": 1581341572
+    },
+    {
+      "id": "5e415b710db3350000bb2fcd",
+      "text": "  \t[ふくやマスター]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341553,
+      "updated": 1581341572
+    },
+    {
+      "id": "5e415b730db3350000bb2fce",
+      "text": "  \t[星乃めあ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341555,
+      "updated": 1581341572
+    },
+    {
+      "id": "5e415b760db3350000bb2fcf",
+      "text": " \t作曲メンバー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341559,
+      "updated": 1581341576
+    },
+    {
+      "id": "5e415b880db3350000bb2fd1",
+      "text": " \t\t[カラスヤサボウ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341576,
+      "updated": 1581341579
+    },
+    {
+      "id": "5e415b8c0db3350000bb2fd2",
+      "text": " \t\t[瀬名航]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341580,
+      "updated": 1581341587
+    },
+    {
+      "id": "5e415b940db3350000bb2fd3",
+      "text": " \t\t[たなとす]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341588,
+      "updated": 1581341591
+    },
+    {
+      "id": "5e415b970db3350000bb2fd4",
+      "text": " \t\t[のーねーむ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341591,
+      "updated": 1581341597
+    },
+    {
+      "id": "5e415b9d0db3350000bb2fd5",
+      "text": " \t\t[mampuku]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341597,
+      "updated": 1581341599
+    },
+    {
+      "id": "5e415ba00db3350000bb2fd6",
+      "text": " \t\t[ようげん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341601,
+      "updated": 1581341603
+    },
+    {
+      "id": "5e415ae70db3350000bb2fc5",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581341415,
+      "updated": 1581341415
+    }
+  ]
+}

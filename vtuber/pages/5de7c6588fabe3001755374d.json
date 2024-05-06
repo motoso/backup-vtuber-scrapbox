@@ -1,0 +1,36 @@
+{
+  "id": "5de7c6588fabe3001755374d",
+  "title": "バーチャルキャスト",
+  "created": 1575470682,
+  "updated": 1575470688,
+  "lines": [
+    {
+      "id": "5de7c6588fabe3001755374d",
+      "text": "バーチャルキャスト",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575470682,
+      "updated": 1575470682
+    },
+    {
+      "id": "5de7c65c0db33500001ba1da",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575470682,
+      "updated": 1575470682
+    },
+    {
+      "id": "5de7c65c0db33500001ba1db",
+      "text": "→ [Virtual Cast]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575470682,
+      "updated": 1575470688
+    },
+    {
+      "id": "5de7c65d0db33500001ba1dc",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575470683,
+      "updated": 1575470683
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "5e8f0ec6b09a220017ba138f",
+  "title": "SYNCROOM",
+  "created": 1586433736,
+  "updated": 1586433818,
+  "lines": [
+    {
+      "id": "5e8f0ec6b09a220017ba138f",
+      "text": "SYNCROOM",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586433736,
+      "updated": 1586433736
+    },
+    {
+      "id": "5e8f0ecc0db3350000b66710",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586433736,
+      "updated": 1586433736
+    },
+    {
+      "id": "5e8f0ecc0db3350000b66711",
+      "text": "　[ヤマハ]の開発するオンライン演奏サービス。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586433736,
+      "updated": 1586433763
+    },
+    {
+      "id": "5e8f0ecd0db3350000b66712",
+      "text": "　https://syncroom.yamaha.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586433737,
+      "updated": 1586433818
+    },
+    {
+      "id": "5e8f0f1e0db3350000b66713",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586433818,
+      "updated": 1586433818
+    }
+  ]
+}

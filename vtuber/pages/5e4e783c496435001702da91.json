@@ -1,0 +1,92 @@
+{
+  "id": "5e4e783c496435001702da91",
+  "title": "エンタスカラオケ",
+  "created": 1582200895,
+  "updated": 1585451825,
+  "lines": [
+    {
+      "id": "5e4e783c496435001702da91",
+      "text": "エンタスカラオケ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582200895,
+      "updated": 1582200895
+    },
+    {
+      "id": "5e4e78410db33500008ec289",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582200895,
+      "updated": 1582200895
+    },
+    {
+      "id": "5e4e78410db33500008ec28a",
+      "text": "　秋葉原[エンタス]に導入されたカラオケのこと。および、導入記念で開かれるカラオケイベントのこと。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582200895,
+      "updated": 1582200932
+    },
+    {
+      "id": "5e4e78660db33500008ec28c",
+      "text": "　2020/2/28、3/6、3/27にカラオケイベントを開く……予定だったが、[COVID-19]の影響で中止・延期となった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582200932,
+      "updated": 1582201253
+    },
+    {
+      "id": "5e4e78930db33500008ec28d",
+      "text": "　\thttps://twitter.com/entas_karaoke/status/1228212324378394624",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582200977,
+      "updated": 1582200986
+    },
+    {
+      "id": "5e4e789d0db33500008ec28e",
+      "text": "　\thttps://twitter.com/entas_karaoke/status/1230085438158671874",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582200986,
+      "updated": 1582200990
+    },
+    {
+      "id": "5e4e78420db33500008ec28b",
+      "text": "　　[https://www.youtube.com/watch?v=TWQOk4FUZSo]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582200896,
+      "updated": 1582886236
+    },
+    {
+      "id": "5e58ed5b0db335000085a36f",
+      "text": "　　[https://www.youtube.com/watch?v=lkQLgve_d7g]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582886235,
+      "updated": 1583489955
+    },
+    {
+      "id": "5e6223a80db3350000564712",
+      "text": "　　[https://www.youtube.com/watch?v=r9sMFSJXLVc]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1583489955,
+      "updated": 1585451825
+    },
+    {
+      "id": "5e8013320db3350000946f6b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585451825,
+      "updated": 1585451825
+    },
+    {
+      "id": "5e6223a70db3350000564711",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1583489955,
+      "updated": 1585451824
+    },
+    {
+      "id": "5e80132f0db3350000946f6a",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585451823,
+      "updated": 1585451823
+    }
+  ]
+}

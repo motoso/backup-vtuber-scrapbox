@@ -1,0 +1,50 @@
+{
+  "id": "5e2405b7784c8a001704ab54",
+  "title": "Face2VMC",
+  "created": 1579419065,
+  "updated": 1579419119,
+  "lines": [
+    {
+      "id": "5e2405b7784c8a001704ab54",
+      "text": "Face2VMC",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579419065,
+      "updated": 1579419067
+    },
+    {
+      "id": "5e2405be0db3350000e1b726",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579419068,
+      "updated": 1579419068
+    },
+    {
+      "id": "5e2405be0db3350000e1b727",
+      "text": " iPhoneで表情をキャプチャし、[バーチャルモーションキャプチャー]へ送ることができる[ソフトウェア]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579419068,
+      "updated": 1579419091
+    },
+    {
+      "id": "5e2405d70db3350000e1b729",
+      "text": " 作者：[nm]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579419093,
+      "updated": 1579419101
+    },
+    {
+      "id": "5e2405e00db3350000e1b72a",
+      "text": " ハッシュタグ：[#Face2VMC https://twitter.com/hashtag/Face2VMC]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579419102,
+      "updated": 1579419119
+    },
+    {
+      "id": "5e2405bf0db3350000e1b728",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579419071,
+      "updated": 1579419071
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "id": "5de4c3b040bb46001723305a",
+  "title": "機械学習で2Dイラストを動かす",
+  "created": 1575273394,
+  "updated": 1624097013,
+  "lines": [
+    {
+      "id": "5de4c3b040bb46001723305a",
+      "text": "機械学習で2Dイラストを動かす",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273394,
+      "updated": 1575273435
+    },
+    {
+      "id": "5de4c3de0db3350000c1eed0",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273436,
+      "updated": 1575273436
+    },
+    {
+      "id": "5de4cdad0db3350000c1eef3",
+      "text": "[* 概要]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275947,
+      "updated": 1575275949
+    },
+    {
+      "id": "5de4c3df0db3350000c1eed1",
+      "text": "　[機械学習]を使って2Dイラストを動かす話題についてまとめるページです。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273438,
+      "updated": 1575275950
+    },
+    {
+      "id": "5de4cb7a0db3350000c1eeef",
+      "text": "　　Live2Dを使うなどイラストにアノテーションしてから動かすのではなく、一枚のイラストだけから動かす技術を中心にまとめています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275384,
+      "updated": 1575276992
+    },
+    {
+      "id": "5de4c6530db3350000c1eee1",
+      "text": "　包括的にまとめているものではありません。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274069,
+      "updated": 1575277354
+    },
+    {
+      "id": "5de4d30f0db3350000c1ef02",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575277326,
+      "updated": 1575277326
+    },
+    {
+      "id": "5de4cda70db3350000c1eef2",
+      "text": "[* 時系列]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275942,
+      "updated": 1575275945
+    },
+    {
+      "id": "5de4c3f00db3350000c1eed4",
+      "text": "　2018年8月、[コミックマーケット94]にて、[Preferred Networks]の企業ブースで[PaintsChainer]グループが「AIがイラストを動かす！」という展示を行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273454,
+      "updated": 1575278039
+    },
+    {
+      "id": "5de4c45b0db3350000c1eed9",
+      "text": "　\t全身立ち絵と人間が動いている動画を入力として、全身が動いているイラストを出力。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273562,
+      "updated": 1575273766
+    },
+    {
+      "id": "5de4c4280db3350000c1eed5",
+      "text": "　\thttps://twitter.com/PaintsChainer/status/1025356804299997184",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273511,
+      "updated": 1575273527
+    },
+    {
+      "id": "5de4c4440db3350000c1eed6",
+      "text": "　\thttps://twitter.com/PaintsChainer/status/1027727944070836224",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273539,
+      "updated": 1575273539
+    },
+    {
+      "id": "5de4c4560db3350000c1eed7",
+      "text": "　\thttps://twitter.com/PaintsChainer/status/1028439581664804864",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273557,
+      "updated": 1575273557
+    },
+    {
+      "id": "5de4c4570db3350000c1eed8",
+      "text": "　\thttps://twitter.com/PaintsChainer/status/1028442156661276672",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273557,
+      "updated": 1575273560
+    },
+    {
+      "id": "5de4c47b0db3350000c1eeda",
+      "text": "　\t[nekketsuuu.icon] 実際にブースで私が質問したところ、訓練データとしてそれぞれの立ち絵に関節のデータをアノテートしたものを頑張って作って使っている、というようなことを伺いました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273593,
+      "updated": 1575277586
+    },
+    {
+      "id": "5de4cfaf0db3350000c1eef7",
+      "text": "　2019年4月、[Preferred Networks]が関わっている[Crypko]プロジェクトで、自動生成したイラストに対し口パクなどの簡単なアニメーションをさせることができるというデモが公開される。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276461,
+      "updated": 1575276535
+    },
+    {
+      "id": "5de4cff90db3350000c1eef8",
+      "text": "　\thttps://twitter.com/_aixile/status/1113306530386989056",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276535,
+      "updated": 1575277559
+    },
+    {
+      "id": "5de4d0030db3350000c1eef9",
+      "text": "　\thttp://crypko.ai/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276545,
+      "updated": 1575276551
+    },
+    {
+      "id": "5e09a26b0db3350000ef9556",
+      "text": "　\t※後に2019年12月にも展示を行います。下の方に書かれています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689707,
+      "updated": 1577689707
+    },
+    {
+      "id": "5de4d0550db3350000c1eefa",
+      "text": "　2019年8月、[株式会社AlgoAge]が[DeepAnime]を公開。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276628,
+      "updated": 1575276650
+    },
+    {
+      "id": "5de4d06d0db3350000c1eefb",
+      "text": "　\t顔のイラストと声を元に、動いている顔のイラストを出力。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276651,
+      "updated": 1575276722
+    },
+    {
+      "id": "5de4d0b40db3350000c1eefc",
+      "text": "　\t[1枚のイラストからアニメーションを自動生成する深層学習エンジン「DeepAnime」を開発・提供開始 https://prtimes.jp/main/html/rd/p/000000002.000040318.html] -- PR TIMES",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276722,
+      "updated": 1575277565
+    },
+    {
+      "id": "5de4d0b80db3350000c1eefd",
+      "text": "　\thttps://www.algoage.net/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276726,
+      "updated": 1575276731
+    },
+    {
+      "id": "5de4d0be0db3350000c1eefe",
+      "text": "　\t[https://www.youtube.com/watch?v=kVW84sJPooY]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276732,
+      "updated": 1575276737
+    },
+    {
+      "id": "5de4d1100db3350000c1ef00",
+      "text": "　\t[nekketsuuu.icon] 公表当時、開発者本人によるツイートがバズっていました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276815,
+      "updated": 1575276830
+    },
+    {
+      "id": "5de4d1190db3350000c1ef01",
+      "text": "　\t\thttps://twitter.com/ono_shunsuke/status/1158567632418639872",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276823,
+      "updated": 1575276826
+    },
+    {
+      "id": "5de4ccad0db3350000c1eef0",
+      "text": "　2019年8月、[Kevin Frans]がイラストを元に[Waifulabs]を使ってアニメーションを作るデモを公表。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275692,
+      "updated": 1575275897
+    },
+    {
+      "id": "5de4cd7b0db3350000c1eef1",
+      "text": "　\thttps://twitter.com/kvfrans/status/1165053750202888192",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275897,
+      "updated": 1575275901
+    },
+    {
+      "id": "5de4c3e00db3350000c1eed2",
+      "text": "　2019年9月、[IRIAM]が立ち絵が1枚あるだけで配信できるシステムを開発していることを公表。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273439,
+      "updated": 1575275929
+    },
+    {
+      "id": "5de4c4eb0db3350000c1eedc",
+      "text": "　\t2019年12月現在αテストとして公開されているのは、立ち絵とiPhoneで映した動画を元に、目と口が動いているイラストを出力するもの。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273706,
+      "updated": 1575273761
+    },
+    {
+      "id": "5de4c4ba0db3350000c1eedb",
+      "text": "　　詳細はこちら：[IRIAM、一枚絵で配信できる機能を実装へ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273656,
+      "updated": 1575273802
+    },
+    {
+      "id": "5de4d43c0db3350000c1ef04",
+      "text": "　2019年10月、[Nolan Kent]が[StyleGAN]を使いつつ口パクなど局所的な場所だけアニメーションさせる方法についての記事を公開し始めた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575277626,
+      "updated": 1575277734
+    },
+    {
+      "id": "5de4d47e0db3350000c1ef06",
+      "text": "　\t[Animating gAnime with StyleGAN: Part 1 https://towardsdatascience.com/animating-ganime-with-stylegan-part-1-4cf764578e]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575277693,
+      "updated": 1575277703
+    },
+    {
+      "id": "5de4d4890db3350000c1ef07",
+      "text": "　\t[Animating gAnime with StyleGAN: The Tool https://towardsdatascience.com/animating-ganime-with-stylegan-the-tool-c5a2c31379d]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575277703,
+      "updated": 1575277731
+    },
+    {
+      "id": "5de4d52e0db3350000c1ef08",
+      "text": "　\t[https://miro.medium.com/max/768/1*oAddg8CmbKiAbc6JNFgedw.gif]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575277868,
+      "updated": 1575277869
+    },
+    {
+      "id": "5de4c5400db3350000c1eedd",
+      "text": "　2019年11月、[Pramook Khungurn]が胸から上のイラストの表情を変えたり顔を傾けたりする手法について公表。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273791,
+      "updated": 1612421352
+    },
+    {
+      "id": "5de4cdf70db3350000c1eef4",
+      "text": "　\t「表情をつける」既存研究と「顔を回す」既存研究を組み合わせたもの。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276021,
+      "updated": 1575276068
+    },
+    {
+      "id": "5de4ce270db3350000c1eef5",
+      "text": "　\t訓練データとしてMMDのモデルをレンダリングしたものを使用。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276070,
+      "updated": 1575276110
+    },
+    {
+      "id": "5de4d3da0db3350000c1ef03",
+      "text": "　\tリンク集",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575277528,
+      "updated": 1575277531
+    },
+    {
+      "id": "5de4c7830db3350000c1eee4",
+      "text": " 　\thttps://pkhungurn.github.io/talking-head-anime/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274370,
+      "updated": 1575277535
+    },
+    {
+      "id": "5de4c59a0db3350000c1eede",
+      "text": " 　　[https://www.youtube.com/watch?v=FioRJ6x_RbI]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273881,
+      "updated": 1575277535
+    },
+    {
+      "id": "5de4c7980db3350000c1eee5",
+      "text": " 　　[一枚のキャラクター画像だけで簡単な顔アニメーションを制作するシステムを作ってみました【日本語版】 https://www.youtube.com/watch?v=w_O6F1aPGS4] -- YouTube",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274391,
+      "updated": 1575277535
+    },
+    {
+      "id": "5de4c7990db3350000c1eee6",
+      "text": " 　　[Talking Head Anime from a Single Image https://www.youtube.com/watch?v=H9aNXh2QMmk] -- YouTube",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274392,
+      "updated": 1575277535
+    },
+    {
+      "id": "5de4c5e00db3350000c1eee0",
+      "text": "   [キャラ画像一枚でモデリングしなくでもＶＴｕｂｅｒになれるシステムを作ってみた https://www.nicovideo.jp/watch/sm36008660] -- ニコニコ動画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273950,
+      "updated": 1575277535
+    },
+    {
+      "id": "5de4c8e00db3350000c1eee9",
+      "text": "   [Talking Head Anime from a Single Image https://www.reddit.com/r/MachineLearning/comments/e1k092/rp_talking_head_anime_from_a_single_image/] -- reddit",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274718,
+      "updated": 1575277535
+    },
+    {
+      "id": "5de4c77d0db3350000c1eee3",
+      "text": "  [nekketsuuu.icon] 上のオバマ大統領を使った動画を紹介するこのツイートが発端となってバズった印象です。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274364,
+      "updated": 1575274364
+    },
+    {
+      "id": "5de4c7040db3350000c1eee2",
+      "text": "  \thttps://twitter.com/jaguring1/status/1199535742197760000",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274242,
+      "updated": 1575274247
+    },
+    {
+      "id": "5de4c7cb0db3350000c1eee8",
+      "text": "  \t後に[https://internet.watch.impress.co.jp/docs/yajiuma/1221676.html 記事になったり]して広まりました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575274441,
+      "updated": 1575274480
+    },
+    {
+      "id": "5de4ce660db3350000c1eef6",
+      "text": "  [nekketsuuu.icon] [論文形式でまとまっている記事 https://pkhungurn.github.io/talking-head-anime/]には7.3節などにどこが駄目なのかも書いてあり、面白いです。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575276132,
+      "updated": 1575280640
+    },
+    {
+      "id": "5de4c5df0db3350000c1eedf",
+      "text": "　2019年12月、[コミックマーケット97]にて、[Crypko]チームが[Preferred Networks]の企業ブースにて、自動生成したキャラクターに感情のついたアニメーションをさせるデモを展示した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575273950,
+      "updated": 1577689879
+    },
+    {
+      "id": "5e09a35a0db3350000ef9559",
+      "text": "　\tゲームアニメーション用途が想定されているようだ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689946,
+      "updated": 1577689956
+    },
+    {
+      "id": "5e09a3380db3350000ef9558",
+      "text": "　\thttps://twitter.com/Crypko/status/1210871258650267648",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689912,
+      "updated": 1577689930
+    },
+    {
+      "id": "5e09a35c0db3350000ef955a",
+      "text": "　\thttps://twitter.com/PreferredNetJP/status/1207491627305955328",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689949,
+      "updated": 1577689949
+    },
+    {
+      "id": "5e09a3660db3350000ef955b",
+      "text": "　\thttps://twitter.com/_aixile/status/1211091382976147456",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689958,
+      "updated": 1577689981
+    },
+    {
+      "id": "5e09a37d0db3350000ef955c",
+      "text": "　\t\t> 今日初公開のキャラ編集機能もコミケ現場で展示しております",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689981,
+      "updated": 1577689987
+    },
+    {
+      "id": "5e09a3160db3350000ef9557",
+      "text": "　\t協力：[フーモア]、[エムツー]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689879,
+      "updated": 1577689911
+    },
+    {
+      "id": "601da0290db3350000a24db9",
+      "text": "　2020年8月、「[ツイキャス] Vメイカー」がリリースされる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612554278,
+      "updated": 1612554348
+    },
+    {
+      "id": "601da0380db3350000a24dba",
+      "text": "　　https://prtimes.jp/main/html/rd/p/000000018.000043237.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612554294,
+      "updated": 1612554297
+    },
+    {
+      "id": "601da0540db3350000a24dbb",
+      "text": "　　\t> 「ツイキャス Vメイカー」は、誰でも簡単にバーチャル実況配信ができることを目的として開発されたスマートフォンアプリです。目や口など、動かす部位のパーツ分けやモデリング、専用の機材や専門的な知識は不要です。たった1枚のキャラクター画像をアプリに読み込ませるだけで、AIが顔アニメーションを自動生成し、自分の顔の動きに合わせてリアルタイムで表情をトラッキングしながらキャラを動かすことができます。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612554322,
+      "updated": 1612554323
+    },
+    {
+      "id": "601da0570db3350000a24dbc",
+      "text": "　　内部的には https://pkhungurn.github.io/talking-head-anime/ のモデルを使っている模様？",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612554324,
+      "updated": 1612554403
+    },
+    {
+      "id": "601b98cc0db33500008065ef",
+      "text": "　2021年2月、[Pramook Khungurn]によるシステムのv2がお披露目された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612421323,
+      "updated": 1612421371
+    },
+    {
+      "id": "601b98fc0db33500008065f0",
+      "text": "　　https://twitter.com/dragonmeteor/status/1357093243989626880",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612421371,
+      "updated": 1612421376
+    },
+    {
+      "id": "601b99020db33500008065f1",
+      "text": "　　https://pkhungurn.github.io/talking-head-anime-2/index-ja.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612421376,
+      "updated": 1612421378
+    },
+    {
+      "id": "601b993a0db33500008065f2",
+      "text": "　　[https://www.youtube.com/watch?v=2yqenOki4lI]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612421433,
+      "updated": 1612421433
+    },
+    {
+      "id": "601b993a0db33500008065f3",
+      "text": " 2021年5月、IRIAMのイラスト配信機能で瞳、まゆ、傾きも動くように。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1612421433,
+      "updated": 1621104751
+    },
+    {
+      "id": "60a018740db3350000f5060c",
+      "text": " 　https://note.com/iriam_journal/n/n2efb3bdf0ad7",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104751,
+      "updated": 1621104755
+    },
+    {
+      "id": "60a018770db3350000f5060d",
+      "text": " 　[https://www.youtube.com/watch?v=NOKme-yeRvc]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104755,
+      "updated": 1621104763
+    },
+    {
+      "id": "60a0187f0db3350000f5060e",
+      "text": "  [https://www.youtube.com/watch?v=aOkgYM3gOmA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104763,
+      "updated": 1624097012
+    },
+    {
+      "id": "60cdc0f60db3350000fa7062",
+      "text": "  この技術は[Preferred Networks]からの技術提供が元になっている https://prtimes.jp/main/html/rd/p/000000006.000070082.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1624097012,
+      "updated": 1624097012
+    },
+    {
+      "id": "60a018520db3350000f5060b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1621104718,
+      "updated": 1621104718
+    },
+    {
+      "id": "5e09a2240db3350000ef9555",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577689636,
+      "updated": 1577689636
+    },
+    {
+      "id": "5de4ca070db3350000c1eeeb",
+      "text": "[* 補足・関連]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275013,
+      "updated": 1575275068
+    },
+    {
+      "id": "5de4ca140db3350000c1eeed",
+      "text": "　https://www.reddit.com/r/AnimeResearch/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275026,
+      "updated": 1575275053
+    },
+    {
+      "id": "5de4ca2f0db3350000c1eeee",
+      "text": "　[TikTokアバター]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275054,
+      "updated": 1575275058
+    },
+    {
+      "id": "5de4ca090db3350000c1eeec",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575275015,
+      "updated": 1575275015
+    }
+  ]
+}

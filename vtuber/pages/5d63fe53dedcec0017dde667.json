@@ -1,0 +1,169 @@
+{
+  "id": "5d63fe53dedcec0017dde667",
+  "title": "東京VTuber劇場",
+  "created": 1566834264,
+  "updated": 1570104188,
+  "lines": [
+    {
+      "id": "5d63fe53dedcec0017dde667",
+      "text": "東京VTuber劇場",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834264,
+      "updated": 1566834285
+    },
+    {
+      "id": "5d63fe710db335000094180f",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834287,
+      "updated": 1566834287
+    },
+    {
+      "id": "5d63fe720db3350000941810",
+      "text": " [東京アイドル劇場]が運営する、VTuberの[リアルイベント]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834287,
+      "updated": 1566834367
+    },
+    {
+      "id": "5d95e3730db33500005f5908",
+      "text": " [/icons/twitter.icon] https://twitter.com/vtubergekijo",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570104177,
+      "updated": 1570104188
+    },
+    {
+      "id": "5d95d9c30db3350000cb637d",
+      "text": " ハッシュタグ：[https://twitter.com/hashtag/V%E5%8A%87 #V劇]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101698,
+      "updated": 1570101706
+    },
+    {
+      "id": "5d63fec30db3350000941812",
+      "text": " 開催例",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834368,
+      "updated": 1566834377
+    },
+    {
+      "id": "5d63fecb0db3350000941813",
+      "text": " \t[東京VTuber劇場 2019年08月08日]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834377,
+      "updated": 1566834402
+    },
+    {
+      "id": "5d63fed00db3350000941814",
+      "text": " \t2019/9/19",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834382,
+      "updated": 1566834414
+    },
+    {
+      "id": "5d63fef10db3350000941815",
+      "text": " \t\thttps://t.livepocket.jp/e/vgeki20190919",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834414,
+      "updated": 1566834418
+    },
+    {
+      "id": "5d63ff400db335000094181a",
+      "text": " \t\tツーショット撮影＆1分間トークタイム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834494,
+      "updated": 1570101564
+    },
+    {
+      "id": "5d95d93b0db3350000cb6379",
+      "text": " \t\t会場：東京、[品川]、[J-SQUARE SHINAGAWA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101562,
+      "updated": 1570101562
+    },
+    {
+      "id": "5d63ff2b0db3350000941819",
+      "text": " \t\t入場チケット予約数上位3名のVTuberのみ出演するシステム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834473,
+      "updated": 1566834476
+    },
+    {
+      "id": "5d95d86e0db3350000cb6376",
+      "text": " \t\t\t上位3名：[弐珠司]、[四ノ宮あんり]、[千伐るしあ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101357,
+      "updated": 1570101378
+    },
+    {
+      "id": "5d63fef50db3350000941816",
+      "text": " \t2019/10/3",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834419,
+      "updated": 1566834430
+    },
+    {
+      "id": "5d63ff020db3350000941817",
+      "text": " \t\thttps://t.livepocket.jp/e/vgeki20191003",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834431,
+      "updated": 1566834434
+    },
+    {
+      "id": "5d63ff4c0db335000094181b",
+      "text": " \t\tツーショット撮影＆1分間トークタイム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834505,
+      "updated": 1570101566
+    },
+    {
+      "id": "5d95d9290db3350000cb6378",
+      "text": " \t\t会場：東京、[品川]、[J-SQUARE SHINAGAWA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101544,
+      "updated": 1570101552
+    },
+    {
+      "id": "5d63ff170db3350000941818",
+      "text": " \t\t[柚子花]と、入場チケット予約数上位2名のVTuberが出演するシステム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834453,
+      "updated": 1570101488
+    },
+    {
+      "id": "5d63fe720db3350000941811",
+      "text": "\t\t\t\t上位2名：[鈴音舞夢]、[めたもえ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566834287,
+      "updated": 1570101501
+    },
+    {
+      "id": "5d95d95d0db3350000cb637a",
+      "text": "\t\t\t同日、バーチャルMC・[一翔剣]と上の3名によるトークバラエティ「[V劇ウォッチ]」が開催された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101596,
+      "updated": 1570101629
+    },
+    {
+      "id": "5d95d97e0db3350000cb637b",
+      "text": "\t\t\t\thttps://t.livepocket.jp/e/20191003vgekiwatch",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101629,
+      "updated": 1570101631
+    },
+    {
+      "id": "5d95d9800db3350000cb637c",
+      "text": "\t\t\t\t入場無料。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101631,
+      "updated": 1570101645
+    },
+    {
+      "id": "5d95d8860db3350000cb6377",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570101382,
+      "updated": 1570101382
+    }
+  ]
+}

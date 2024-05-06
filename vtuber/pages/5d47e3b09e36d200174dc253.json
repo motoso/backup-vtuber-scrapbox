@@ -1,0 +1,477 @@
+{
+  "id": "5d47e3b09e36d200174dc253",
+  "title": "アルカナ",
+  "created": 1564992433,
+  "updated": 1578385981,
+  "lines": [
+    {
+      "id": "5d47e3b09e36d200174dc253",
+      "text": "アルカナ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1570431021
+    },
+    {
+      "id": "5d47e3b10db33500005b70ec",
+      "text": "[https://pbs.twimg.com/profile_images/1153201623847428096/6uxRTScN_200x200.png]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992506
+    },
+    {
+      "id": "5d47e3fa0db33500005b7116",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992506,
+      "updated": 1564992506
+    },
+    {
+      "id": "5d47e3b10db33500005b70ed",
+      "text": "要約",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b70ee",
+      "text": " [e-sports]に特化した、マルチゲーマー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992761
+    },
+    {
+      "id": "5d47e42f0db33500005b7117",
+      "text": " 様々なゲーマーの魂が埋め込まれたメモリーピースを取り込んでソウルチェンジを行うことで、どんなゲームもハイレベルにプレイすることができる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992559,
+      "updated": 1564992561
+    },
+    {
+      "id": "5d47e3b10db33500005b70f0",
+      "text": " [upd8]所属。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992791
+    },
+    {
+      "id": "5d47e5140db33500005b711e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992787,
+      "updated": 1564992787
+    },
+    {
+      "id": "5d47e3b10db33500005b70f1",
+      "text": "自己紹介動画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b70f2",
+      "text": " [https://www.youtube.com/watch?v=HUMmOr6SUdA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564999488
+    },
+    {
+      "id": "5d47e3b10db33500005b70f3",
+      "text": "　[https://www.youtube.com/watch?v=9HBgT0JZ1hQ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1570591394
+    },
+    {
+      "id": "5d9d52a20db335000089ad86",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591393,
+      "updated": 1570591393
+    },
+    {
+      "id": "5d47e3b10db33500005b70f4",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b70f5",
+      "text": " ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992707
+    },
+    {
+      "id": "5d47e3b10db33500005b70f6",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b70f7",
+      "text": "アカウント",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b70f8",
+      "text": " [/icons/twitter.icon] https://twitter.com/ArcanaChannel",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992573
+    },
+    {
+      "id": "5d47e3b10db33500005b70f9",
+      "text": " [/icons/youtube.icon] https://www.youtube.com/channel/UCmGxj8pXAF4J8tVYiveAnpQ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992585
+    },
+    {
+      "id": "5d47e4560db33500005b7118",
+      "text": " [/icons/twitch.icon] https://www.twitch.tv/arcana_channel",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992597,
+      "updated": 1564992612
+    },
+    {
+      "id": "5d47e3b10db33500005b70ff",
+      "text": " [/icons/tiktok.icon] https://www.tiktok.com/@arcana_tiktok",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992630
+    },
+    {
+      "id": "5d47e4770db33500005b7119",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992631,
+      "updated": 1564992631
+    },
+    {
+      "id": "5d47e3b10db33500005b7103",
+      "text": "語録",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b7104",
+      "text": " ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992635
+    },
+    {
+      "id": "5d47e47a0db33500005b711a",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992634,
+      "updated": 1564992634
+    },
+    {
+      "id": "5d47e3b10db33500005b7109",
+      "text": "基本情報",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b710a",
+      "text": " 視聴者のよびかた：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b710b",
+      "text": " 名前の読み方：あるかな",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1570431029
+    },
+    {
+      "id": "5d47e3b10db33500005b710c",
+      "text": " ハッシュタグ：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992643
+    },
+    {
+      "id": "5d9ae1e70db335000096e207",
+      "text": " \t[https://twitter.com/hashtag/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A #アルカナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431462,
+      "updated": 1570431467
+    },
+    {
+      "id": "5d9ae1ec0db335000096e208",
+      "text": " \tイラスト：[https://twitter.com/hashtag/%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC #アルカナメモリー]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431467,
+      "updated": 1570431497
+    },
+    {
+      "id": "5d47e3b10db33500005b710d",
+      "text": " よく出てくる黄緑色のアルカナが「[アルカナ＝モンド]」。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1570600205
+    },
+    {
+      "id": "5d9ae0470db335000096e1f8",
+      "text": " \tモンドからゲームごとにソウルチェンジしてプレイする。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431047,
+      "updated": 1570431080
+    },
+    {
+      "id": "5d9ae0690db335000096e1f9",
+      "text": " ソウルチェンジしたアルカナ＋「モンちゃん (黄緑色のクラゲみたいなマスコット)」のペアでゲーム実況する動画を多く投稿している。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431080,
+      "updated": 1570431128
+    },
+    {
+      "id": "5d9d52c00db335000089ad88",
+      "text": " \t「モンちゃん」は「アルカナ＝モンド」がプレイしないときの姿。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591423,
+      "updated": 1570591446
+    },
+    {
+      "id": "5d47e3b10db33500005b710e",
+      "text": "　ソウルチェンジ後の名前：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1570431187
+    },
+    {
+      "id": "5d9ae0e00db335000096e1fe",
+      "text": "　\t赤色：アルカナ＝ファイ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431199,
+      "updated": 1570591597
+    },
+    {
+      "id": "5d9ae0e40db335000096e1ff",
+      "text": "　\t\t[https://www.youtube.com/watch?v=Q4xhEGfaI20]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431203,
+      "updated": 1570431203
+    },
+    {
+      "id": "5d9d53060db335000089ad89",
+      "text": "　\t赤色：アルカナ＝ソル",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591493,
+      "updated": 1570591601
+    },
+    {
+      "id": "5d9d53060db335000089ad8a",
+      "text": "　\t\t[https://www.youtube.com/watch?v=ZMBRlnWiHiA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591493,
+      "updated": 1570591493
+    },
+    {
+      "id": "5d9ae0c20db335000096e1fb",
+      "text": "　\t赤色：アルカナ＝エア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431169,
+      "updated": 1570591602
+    },
+    {
+      "id": "5d9d52140db335000089ad81",
+      "text": "　\t\t[https://www.youtube.com/watch?v=5zZ7Wmx09t0]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591251,
+      "updated": 1570591258
+    },
+    {
+      "id": "5db68ecf0db3350000f82471",
+      "text": "　\t赤色：アルカナ＝ロック",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572245195,
+      "updated": 1572245200
+    },
+    {
+      "id": "5db68ed30db3350000f82472",
+      "text": "　\t\t[https://www.youtube.com/watch?v=TeC_aIJY5tU]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572245200,
+      "updated": 1572245202
+    },
+    {
+      "id": "5e1442370db3350000ec68f5",
+      "text": "　\t赤色：アルカナ＝ヨル",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578385972,
+      "updated": 1578385977
+    },
+    {
+      "id": "5e14423c0db3350000ec68f6",
+      "text": "　\t\t[https://www.youtube.com/watch?v=2XGq8EFXFF8]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578385977,
+      "updated": 1578385981
+    },
+    {
+      "id": "5d9d531f0db335000089ad8d",
+      "text": "　　黄色：アルカナ＝ラノス",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591518,
+      "updated": 1570591604
+    },
+    {
+      "id": "5d9d531f0db335000089ad8e",
+      "text": "　　\t[https://www.youtube.com/watch?v=C-eS08hs-zs]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591518,
+      "updated": 1570591518
+    },
+    {
+      "id": "5d9d520e0db335000089ad80",
+      "text": "　\t青色：アルカナ＝ウルフ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591246,
+      "updated": 1570591605
+    },
+    {
+      "id": "5d9ae0c90db335000096e1fc",
+      "text": "　\t\t[https://www.youtube.com/watch?v=Ag41wFRuVL0]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431176,
+      "updated": 1570431180
+    },
+    {
+      "id": "5d9d532e0db335000089ad8f",
+      "text": "　\t青色：アルカナ＝プリズマー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591534,
+      "updated": 1570591626
+    },
+    {
+      "id": "5d9d53330db335000089ad90",
+      "text": "　\t\t[https://www.youtube.com/watch?v=yK-P22HIMPY]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570591538,
+      "updated": 1570591539
+    },
+    {
+      "id": "5e1441e80db3350000ec68f2",
+      "text": "　\t青色：アルカナ＝シグマ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578385892,
+      "updated": 1578385899
+    },
+    {
+      "id": "5e1441ee0db3350000ec68f3",
+      "text": "　\t\t[https://www.youtube.com/watch?v=OV0y-lVeakY]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578385899,
+      "updated": 1578385902
+    },
+    {
+      "id": "5d9ae0cd0db335000096e1fd",
+      "text": "　　紫色：アルカナ＝イデア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431180,
+      "updated": 1570591609
+    },
+    {
+      "id": "5d9ae0f50db335000096e201",
+      "text": "　　\t[https://www.youtube.com/watch?v=XytohkjNliE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431221,
+      "updated": 1570431221
+    },
+    {
+      "id": "5d9ae0bd0db335000096e1fa",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431164,
+      "updated": 1570431164
+    },
+    {
+      "id": "5d47e3b10db33500005b710f",
+      "text": "特記事項",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b7110",
+      "text": "　[Activ8]と[ウェルプレイド株式会社]の共同プロデュース。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992697
+    },
+    {
+      "id": "5d47e4c60db33500005b711c",
+      "text": "　\t[https://prtimes.jp/main/html/rd/p/000000014.000017003.html Activ8とウェルプレイド共同プロデュース、最強のバーチャルマルチゲーマー「アルカナ」が本日本格始動！！今後の活動スケジュールやイベント情報を公開！] -- PR TIMES",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992710,
+      "updated": 1564992721
+    },
+    {
+      "id": "5d47e49b0db33500005b711b",
+      "text": "\t\t\t> 「アルカナ」は、esportsとVTuberをかけ合わせた最強のバーチャルマルチゲーマーです。ウェルプレイドに所属するプロプレイヤーや世界で活躍するプレイヤーなど、様々なゲーマーの魂が埋め込まれたメモリーピースを取り込んでソウルチェンジを行うことで、どんなゲームもハイレベルにプレイすることができます。バーチャルタレント初のマルチゲーマーとして、YouTube、Twitch等でesportsタイトルの神プレイ動画、実況・解説動画、生配信を行ってまいります。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992667,
+      "updated": 1564992740
+    },
+    {
+      "id": "5d47e4e10db33500005b711d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992737,
+      "updated": 1564992737
+    },
+    {
+      "id": "5d47e3b10db33500005b7111",
+      "text": "生みの親",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b7112",
+      "text": " 公式イラストレーター：[cell] (@cellgraphix)",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1570431444
+    },
+    {
+      "id": "5d9ae1ad0db335000096e205",
+      "text": " \t出典：アルカナのTwitter自己紹介欄",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570431404,
+      "updated": 1570431435
+    },
+    {
+      "id": "5d47e3b10db33500005b7113",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b7114",
+      "text": "#バーチャルYouTuber",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    },
+    {
+      "id": "5d47e3b10db33500005b7115",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564992433,
+      "updated": 1564992433
+    }
+  ]
+}

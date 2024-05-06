@@ -1,0 +1,435 @@
+{
+  "id": "5cbc8cca76fce9001706f1e7",
+  "title": "VirtuaReal Project",
+  "created": 1555860683,
+  "updated": 1603541337,
+  "lines": [
+    {
+      "id": "5cbc8cca76fce9001706f1e7",
+      "text": "VirtuaReal Project",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860683,
+      "updated": 1555860683
+    },
+    {
+      "id": "5cbc8cd5774b170000c1680b",
+      "text": "[いちから株式会社]が[bilibili]をメインとしたVTuberを共同プロデュースするプロジェクト",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860694,
+      "updated": 1555860876
+    },
+    {
+      "id": "5cbc8dd9774b170000c16817",
+      "text": " どこと？[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860953,
+      "updated": 1555860953
+    },
+    {
+      "id": "5cbc8dcc774b170000c16816",
+      "text": "中国でオーディションを行い、主に中国で活動している。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860940,
+      "updated": 1573296404
+    },
+    {
+      "id": "5cbc8d60774b170000c16814",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860833,
+      "updated": 1555860833
+    },
+    {
+      "id": "5cbc8ccc774b170000c16809",
+      "text": "https://twitter.com/Ichikara_Inc/status/1119190651906609152",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860685,
+      "updated": 1555860693
+    },
+    {
+      "id": "5cbc8d48774b170000c16812",
+      "text": ">本プロジェクトは、いちからが中国にてバーチャルライバーの共同プロデュースを本格実施するもので、デビュー後は中国の大手動画共有サイト「[bilibili]」をメインにライバー活動を行う予定です。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860809,
+      "updated": 1555860815
+    },
+    {
+      "id": "5cbc8cfb774b170000c1680c",
+      "text": "にじさんじとは別プロジェクトだが、2020年1月頃から https://nijisanji.ichikara.co.jp/member/ にも掲載されるようになった。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860732,
+      "updated": 1581237464
+    },
+    {
+      "id": "5cbc8d08774b170000c1680f",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860744,
+      "updated": 1555860744
+    },
+    {
+      "id": "5d59fc8a0db33500009a64f6",
+      "text": "メンバー（卒業・引退などは管理していません）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178438,
+      "updated": 1603541337
+    },
+    {
+      "id": "5d59fc8d0db33500009a64f8",
+      "text": "　[https://www.bilibili.com/read/cv2627135 一期生]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178441,
+      "updated": 1566178645
+    },
+    {
+      "id": "5d59fc920db33500009a64f9",
+      "text": "　\t[艾因] / [Eine]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178446,
+      "updated": 1566179068
+    },
+    {
+      "id": "5d59fca20db33500009a64fa",
+      "text": "　\t[琉绮] / [Ruki]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178462,
+      "updated": 1566179070
+    },
+    {
+      "id": "5d59fca90db33500009a64fb",
+      "text": "　[https://www.bilibili.com/read/cv2852498 二期生]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178468,
+      "updated": 1566178631
+    },
+    {
+      "id": "5d59fcb30db33500009a64fc",
+      "text": "　\t[七海] / [Nanami]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178478,
+      "updated": 1566179073
+    },
+    {
+      "id": "5d59fcc00db33500009a64fd",
+      "text": "　\t[一果] / [Ichigo]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178492,
+      "updated": 1566179075
+    },
+    {
+      "id": "5d59fcc70db33500009a64fe",
+      "text": "　\t[光一] / [Kouichi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178499,
+      "updated": 1566179077
+    },
+    {
+      "id": "5d59fed70db33500009a651d",
+      "text": "　三期生（[https://www.bilibili.com/read/cv3329906 出典1]、[https://www.bilibili.com/read/cv3798996 2]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566179027,
+      "updated": 1573278355
+    },
+    {
+      "id": "5d59fee70db33500009a651e",
+      "text": "　\t[无理] / [Muri]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566179043,
+      "updated": 1566179081
+    },
+    {
+      "id": "5d59fef40db33500009a6523",
+      "text": "　\t[羽音] / [Hanon]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566179056,
+      "updated": 1573278316
+    },
+    {
+      "id": "5dc653360db33500000175b9",
+      "text": "　[https://www.bilibili.com/read/cv3610901 四期生]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573278515,
+      "updated": 1573278521
+    },
+    {
+      "id": "5dc6533e0db33500000175ba",
+      "text": "　\t[惑姬] / [Waku]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573278522,
+      "updated": 1573278583
+    },
+    {
+      "id": "5dc653440db33500000175bb",
+      "text": "  [喵月] / [nyatsuki]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573278528,
+      "updated": 1573278584
+    },
+    {
+      "id": "5dc653620db33500000175c1",
+      "text": "  [有加] / [plus]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573278558,
+      "updated": 1573278585
+    },
+    {
+      "id": "5dc6512d0db33500000175ab",
+      "text": "　[https://www.bilibili.com/read/cv3856880 五期生]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573277994,
+      "updated": 1573278007
+    },
+    {
+      "id": "5dc6513c0db33500000175ac",
+      "text": "　\t[弥希] / [Miki]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573278008,
+      "updated": 1573278045
+    },
+    {
+      "id": "5dc651400db33500000175ad",
+      "text": "  [星弥] / [Hoshimi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573278012,
+      "updated": 1573278048
+    },
+    {
+      "id": "5dc651460db33500000175b0",
+      "text": "  [真绯瑠] / [mahiru]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573278018,
+      "updated": 1573278050
+    },
+    {
+      "id": "5e1704830db33500006a3c85",
+      "text": " [六期生 https://www.bilibili.com/read/cv4008760]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578566789,
+      "updated": 1578566797
+    },
+    {
+      "id": "5e17048d0db33500006a3c86",
+      "text": " \t[阿萨] / [Aza]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578566798,
+      "updated": 1578566957
+    },
+    {
+      "id": "5e1704910db33500006a3c87",
+      "text": "  [八木迪之]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578566802,
+      "updated": 1578566954
+    },
+    {
+      "id": "5e1704980db33500006a3c8a",
+      "text": "  [度人] / [Tabibito]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578566809,
+      "updated": 1578566952
+    },
+    {
+      "id": "5e17049f0db33500006a3c8d",
+      "text": "  [罗伊] / [Roi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578566816,
+      "updated": 1578566949
+    },
+    {
+      "id": "5e1d9fd00db3350000e352a9",
+      "text": " [七期生 https://www.bilibili.com/read/cv4350696]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578999760,
+      "updated": 1578999769
+    },
+    {
+      "id": "5e1d9fda0db3350000e352aa",
+      "text": " \t[夜之中星也]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578999770,
+      "updated": 1578999793
+    },
+    {
+      "id": "5e1d9fde0db3350000e352ab",
+      "text": "  [沙夜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578999773,
+      "updated": 1578999794
+    },
+    {
+      "id": "5e1d9fe40db3350000e352ae",
+      "text": "  [桃濑雪绘]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578999779,
+      "updated": 1578999795
+    },
+    {
+      "id": "5d59fc8b0db33500009a64f7",
+      "text": " [八期生 https://www.bilibili.com/read/cv5519010]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178438,
+      "updated": 1586348742
+    },
+    {
+      "id": "5e8dc2ca0db33500008fa653",
+      "text": "  [花留] / [Karu]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586348743,
+      "updated": 1586348789
+    },
+    {
+      "id": "5e8dc2ce0db33500008fa654",
+      "text": "  [紫纪] / [Shiki]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586348746,
+      "updated": 1586348792
+    },
+    {
+      "id": "5e8dc2d30db33500008fa657",
+      "text": "  [帕克丝] / [Pax]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586348751,
+      "updated": 1586348795
+    },
+    {
+      "id": "5e8dc2d80db33500008fa65a",
+      "text": "  [萨麦尔] / [Samael]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586348756,
+      "updated": 1586348797
+    },
+    {
+      "id": "5e8dc2dd0db33500008fa65d",
+      "text": "  [御水] / [Mimoi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586348761,
+      "updated": 1586348800
+    },
+    {
+      "id": "5e8dc2c10db33500008fa652",
+      "text": " [九期生 https://www.bilibili.com/read/cv6837956]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586348733,
+      "updated": 1595749028
+    },
+    {
+      "id": "5f1d32a80db3350000bf3324",
+      "text": "  [卡欧斯] / [Chaos]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595749028,
+      "updated": 1595749063
+    },
+    {
+      "id": "5f1d32ac0db3350000bf3325",
+      "text": "  [清良] / [Kiyora]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595749032,
+      "updated": 1595749064
+    },
+    {
+      "id": "5f1d32b10db3350000bf3328",
+      "text": "\t\t[千春] / [Chiharu]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595749037,
+      "updated": 1595749065
+    },
+    {
+      "id": "5f1d329d0db3350000bf3323",
+      "text": " [十期生 https://www.bilibili.com/read/cv7673927]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595749017,
+      "updated": 1600607421
+    },
+    {
+      "id": "5f6754910db33500000febd2",
+      "text": "  [瑞芙] / [Reve]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600607374,
+      "updated": 1600607479
+    },
+    {
+      "id": "5f6754dd0db33500000febd4",
+      "text": "  [星宸] / [Sirius]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600607450,
+      "updated": 1600607480
+    },
+    {
+      "id": "5f6754e90db33500000febd5",
+      "text": "  [悠亚] / [Yua]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600607463,
+      "updated": 1600607481
+    },
+    {
+      "id": "5f6754c10db33500000febd3",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600607422,
+      "updated": 1600607422
+    },
+    {
+      "id": "5dc6984c0db3350000060791",
+      "text": "これとは別の関連プロジェクトとして[VirtuaReal Link]と[VirtuaReal Star]がある。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573296199,
+      "updated": 1573296221
+    },
+    {
+      "id": "5dc6984c0db3350000060792",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573296199,
+      "updated": 1573296199
+    },
+    {
+      "id": "5cbc8d0a774b170000c16810",
+      "text": "もっと詳しく知りたい",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860747,
+      "updated": 1566178556
+    },
+    {
+      "id": "5cbc8d03774b170000c1680e",
+      "text": " 日本でのプレスリリース https://prtimes.jp/main/html/rd/p/000000058.000030865.html",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860739,
+      "updated": 1573298150
+    },
+    {
+      "id": "5cbc8d30774b170000c16811",
+      "text": " bilibiliでの記事はこのあたり https://search.bilibili.com/article?keyword=VirtuaReal",
+      "userId": "59fb21121207900012774b17",
+      "created": 1555860785,
+      "updated": 1566178568
+    },
+    {
+      "id": "5d59fd040db33500009a64ff",
+      "text": "　一部メンバーはTwitterアカウントも開設している。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566178560,
+      "updated": 1573298139
+    },
+    {
+      "id": "5dc69fe30db3350000fa509d",
+      "text": "　\thttps://twitter.com/Ichikara_Inc/status/1193115827337191424",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573298141,
+      "updated": 1573298142
+    },
+    {
+      "id": "5dc69fd50db3350000fa509b",
+      "text": "　[VirtuaReal https://wikiwiki.jp/nijisanji/VirtuaReal] -- にじさんじ非公式wiki",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573298128,
+      "updated": 1600751459
+    },
+    {
+      "id": "5f6987550db3350000866cb0",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600751445,
+      "updated": 1600751445
+    }
+  ]
+}

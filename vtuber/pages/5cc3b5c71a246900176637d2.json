@@ -1,0 +1,442 @@
+{
+  "id": "5cc3b5c71a246900176637d2",
+  "title": "ニコニコ超会議2019 Colon:ブース",
+  "created": 1556329932,
+  "updated": 1556455881,
+  "lines": [
+    {
+      "id": "5cc3b5c71a246900176637d2",
+      "text": "ニコニコ超会議2019 Colon:ブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329932,
+      "updated": 1556329933
+    },
+    {
+      "id": "5cc3b5d10db3350000fdfac4",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329934,
+      "updated": 1556329949
+    },
+    {
+      "id": "5cc3b5d10db3350000fdfac5",
+      "text": " [超会議2019]にて行われた、[Colon:]で配信しているライバーたちが集合する企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329934,
+      "updated": 1556329958
+    },
+    {
+      "id": "5cc3b6550db3350000fdfacf",
+      "text": " \t[Colon:]内で行われたイベントの結果に基づき参加ライバーが決まった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330066,
+      "updated": 1556330079
+    },
+    {
+      "id": "5cc3b67a0db3350000fdfad0",
+      "text": " \thttps://colon-live.com/WebViews/I/329c29fc-b17a-4187-9b8b-8f8734ac6ceb",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330104,
+      "updated": 1556330104
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfac6",
+      "text": "\t同時に超会議限定の公式配信も行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556329968
+    },
+    {
+      "id": "5cc3b6ed0db3350000fdfada",
+      "text": "\t\t企画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330219,
+      "updated": 1556330223
+    },
+    {
+      "id": "5cc3b6f20db3350000fdfadb",
+      "text": "\t\t\t超カラオケリクエスト 歌ってコロン！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330223,
+      "updated": 1556330229
+    },
+    {
+      "id": "5cc3b6f80db3350000fdfadc",
+      "text": "\t\t\t超！賞金クイズ！Vファイブ！ ニコ超から生配信スペシャル！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330230,
+      "updated": 1556330234
+    },
+    {
+      "id": "5cc3b6fd0db3350000fdfadd",
+      "text": "\t\t\t超！コロンカジノニコ超から生配信スペシャル！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330234,
+      "updated": 1556330239
+    },
+    {
+      "id": "5cc3b5f40db3350000fdface",
+      "text": "\t公式ホームページ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329970,
+      "updated": 1556329972
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfac7",
+      "text": " \thttps://chokaigi.jp/2019/booth/colon_vtuber.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556329973
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfac8",
+      "text": " \thttps://colon-live.com/WebViews/I/b21f0013-e6c7-455c-8d8b-fc1851ef35aa",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556329973
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfac9",
+      "text": "\tライブ風景はこんな感じ：https://twitter.com/xxtakuxxx/status/1121656450206453760",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556329979
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfaca",
+      "text": "\t\t[https://pbs.twimg.com/media/D5Dsl8eU0AAA_iF.jpg]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556329968
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfacb",
+      "text": "\t参加者",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556329968
+    },
+    {
+      "id": "5cc3b71b0db3350000fdfadf",
+      "text": "\t\t公式放送MC",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330264,
+      "updated": 1556330274
+    },
+    {
+      "id": "5cc3b71e0db3350000fdfae0",
+      "text": "\t\t\t[歌衣メイカ]（超！賞金クイズ！Vファイブ！ ニコ超から生配信スペシャル！」）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330268,
+      "updated": 1556330285
+    },
+    {
+      "id": "5cc3b7300db3350000fdfae1",
+      "text": "\t\t\t[ふぇありす]（超！コロンカジノニコ超から生配信スペシャル！）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330286,
+      "updated": 1556330298
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfacc",
+      "text": "\t\t1日目",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556329968
+    },
+    {
+      "id": "5cc3b5d60db3350000fdfacd",
+      "text": "\t\t\t[YuNi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329940,
+      "updated": 1556330124
+    },
+    {
+      "id": "5cc3b6900db3350000fdfad2",
+      "text": "\t\t\t[由宇霧]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330125,
+      "updated": 1556330130
+    },
+    {
+      "id": "5cc3b6950db3350000fdfad3",
+      "text": "\t\t\t[湊音みなみ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330130,
+      "updated": 1556330134
+    },
+    {
+      "id": "5cc3b6990db3350000fdfad4",
+      "text": "\t\t\t[クイーンハニー]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330134,
+      "updated": 1556330137
+    },
+    {
+      "id": "5cc3b69d0db3350000fdfad5",
+      "text": "\t\t\t[山田虎太郎]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330138,
+      "updated": 1556330147
+    },
+    {
+      "id": "5cc3b6a60db3350000fdfad6",
+      "text": "\t\t\t[琴月てと]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330147,
+      "updated": 1556330154
+    },
+    {
+      "id": "5cc3b6ad0db3350000fdfad7",
+      "text": "\t\t\t[博多姫ディアナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330154,
+      "updated": 1556330159
+    },
+    {
+      "id": "5cc3b6b20db3350000fdfad8",
+      "text": "\t\t\t[皇噛ユカリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330159,
+      "updated": 1556330168
+    },
+    {
+      "id": "5cc3b6bc0db3350000fdfad9",
+      "text": "\t\t\t[サラダまよね]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330169,
+      "updated": 1556330172
+    },
+    {
+      "id": "5cc3b7540db3350000fdfae2",
+      "text": "\t\t\t[結心愛]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330322,
+      "updated": 1556330326
+    },
+    {
+      "id": "5cc3b7580db3350000fdfae3",
+      "text": "\t\t\t[桜真之介]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330326,
+      "updated": 1556330333
+    },
+    {
+      "id": "5cc3b7600db3350000fdfae4",
+      "text": "\t\t\t[武田勝人]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330334,
+      "updated": 1556330338
+    },
+    {
+      "id": "5cc3b7660db3350000fdfae5",
+      "text": "\t\t\t[星宮ことね]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330339,
+      "updated": 1556330342
+    },
+    {
+      "id": "5cc3b7690db3350000fdfae6",
+      "text": "\t\t\t[くまお]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330342,
+      "updated": 1556330344
+    },
+    {
+      "id": "5cc3b76c0db3350000fdfae7",
+      "text": "\t\t\t[白魔女のパンドラ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330345,
+      "updated": 1556330349
+    },
+    {
+      "id": "5cc3b7720db3350000fdfae8",
+      "text": "\t\t\t[神城くれあ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330351,
+      "updated": 1556330361
+    },
+    {
+      "id": "5cc3b77d0db3350000fdfae9",
+      "text": "\t\t\t[戸越ぷらむ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330362,
+      "updated": 1556330366
+    },
+    {
+      "id": "5cc3b7810db3350000fdfaea",
+      "text": "\t\t\t[姫多みらい]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330366,
+      "updated": 1556330371
+    },
+    {
+      "id": "5cc3b7860db3350000fdfaeb",
+      "text": "\t\t\t[竹取かるた]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330371,
+      "updated": 1556330375
+    },
+    {
+      "id": "5cc3b78a0db3350000fdfaed",
+      "text": "\t\t2日目",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330375,
+      "updated": 1556330379
+    },
+    {
+      "id": "5cc3b78d0db3350000fdfaee",
+      "text": "\t\t\t[YuNi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330379,
+      "updated": 1556330385
+    },
+    {
+      "id": "5cc3b7940db3350000fdfaef",
+      "text": "\t\t\t[チェリ高帰宅部]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330386,
+      "updated": 1556330394
+    },
+    {
+      "id": "5cc3b79d0db3350000fdfaf0",
+      "text": "\t\t\t\t[南陽結城]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330394,
+      "updated": 1556330431
+    },
+    {
+      "id": "5cc3b7bc0db3350000fdfaf1",
+      "text": "\t\t\t\t[最上レン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330425,
+      "updated": 1556330432
+    },
+    {
+      "id": "5cc3b7bd0db3350000fdfaf2",
+      "text": "\t\t\t\t[錦山夢鷹]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330427,
+      "updated": 1556330433
+    },
+    {
+      "id": "5cc3b7be0db3350000fdfaf3",
+      "text": "\t\t\t\t[花笠イリヤ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330428,
+      "updated": 1556330435
+    },
+    {
+      "id": "5cc3b7bf0db3350000fdfaf4",
+      "text": "\t\t\t\t[高砂緑也]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330429,
+      "updated": 1556330436
+    },
+    {
+      "id": "5cc3b7c70db3350000fdfaf5",
+      "text": "\t\t\t[天野ヒカリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330437,
+      "updated": 1556330448
+    },
+    {
+      "id": "5cc3b7d30db3350000fdfaf6",
+      "text": "\t\t\t[ディオン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330448,
+      "updated": 1556330450
+    },
+    {
+      "id": "5cc3b7d60db3350000fdfaf7",
+      "text": "\t\t\t[白金慎也]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330452,
+      "updated": 1556330468
+    },
+    {
+      "id": "5cc3b7e70db3350000fdfaf8",
+      "text": "\t\t\t[御神酒ミキ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330468,
+      "updated": 1556330473
+    },
+    {
+      "id": "5cc3b7ec0db3350000fdfaf9",
+      "text": "\t\t\t[天和ルーシィ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330473,
+      "updated": 1556330476
+    },
+    {
+      "id": "5cc3b7ef0db3350000fdfafa",
+      "text": "\t\t\t[向日葵あん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330476,
+      "updated": 1556330486
+    },
+    {
+      "id": "5cc3b7f90db3350000fdfafb",
+      "text": "\t\t\t[華香院つばき]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330487,
+      "updated": 1556330496
+    },
+    {
+      "id": "5cc3b80a0db3350000fdfafd",
+      "text": "\t\t\t[塩天使リエル]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330503,
+      "updated": 1556330506
+    },
+    {
+      "id": "5cc3b8020db3350000fdfafc",
+      "text": "\t\t\t[有栖川シャロロ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330496,
+      "updated": 1556330502
+    },
+    {
+      "id": "5cc3b80e0db3350000fdfafe",
+      "text": "\t\t\t[響屋じゃっく]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330507,
+      "updated": 1556330515
+    },
+    {
+      "id": "5cc3b8160db3350000fdfaff",
+      "text": "\t\t\t[結城オト]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330516,
+      "updated": 1556330524
+    },
+    {
+      "id": "5cc3b81f0db3350000fdfb00",
+      "text": "\t\t\t[雪姫りんご]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330524,
+      "updated": 1556330528
+    },
+    {
+      "id": "5cc3b68c0db3350000fdfad1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330121,
+      "updated": 1556330121
+    },
+    {
+      "id": "5cc5a1ca0db3350000bc3702",
+      "text": "#リアルイベント",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556455881,
+      "updated": 1556455881
+    },
+    {
+      "id": "5cc5a1ca0db3350000bc3703",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556455881,
+      "updated": 1556455881
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "id": "5ac50bf96aa2720014cb28eb",
+  "title": "ハッカドール",
+  "created": 1522863100,
+  "updated": 1568250172,
+  "lines": [
+    {
+      "id": "5ac50bf96aa2720014cb28eb",
+      "text": "ハッカドール",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522863100,
+      "updated": 1522863100
+    },
+    {
+      "id": "5d798fd30db3350000e236c3",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247764,
+      "updated": 1568247764
+    },
+    {
+      "id": "5d798fd30db3350000e236c4",
+      "text": "　ハッカドールは、元々は[DeNA]が運営していたスマートフォン向けニュースアプリ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247764,
+      "updated": 1568247791
+    },
+    {
+      "id": "5d798ff00db3350000e236c5",
+      "text": "　\t関連してテレビアニメが放送されたり、漫画が連載されたりした。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247793,
+      "updated": 1568247827
+    },
+    {
+      "id": "5d79905b0db3350000e236c8",
+      "text": "　URL",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247900,
+      "updated": 1568247903
+    },
+    {
+      "id": "5d79905f0db3350000e236c9",
+      "text": "　\t公式ホームページ https://hackadoll.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247904,
+      "updated": 1568247912
+    },
+    {
+      "id": "5d7990670db3350000e236ca",
+      "text": "　\tアニメ公式ホームページ https://hackadoll-anime.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247912,
+      "updated": 1568247918
+    },
+    {
+      "id": "5d7990730db3350000e236cb",
+      "text": "　\t[/icons/twitter.icon] https://twitter.com/hackadoll",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247924,
+      "updated": 1568247929
+    },
+    {
+      "id": "5d7991de0db3350000e236d9",
+      "text": "　\t[/icons/youtube.icon] https://www.youtube.com/channel/UCIqbU97D5CrknKaNik10A-A",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248287,
+      "updated": 1568248293
+    },
+    {
+      "id": "5d7991490db3350000e236d1",
+      "text": "　VTuberに関係する事柄のおおまかな時系列",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248137,
+      "updated": 1568250172
+    },
+    {
+      "id": "5d798ff70db3350000e236c6",
+      "text": " 　2015年10月、テレビアニメの放送を記念して、公式でMMDモデルを配布開始した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247800,
+      "updated": 1568248143
+    },
+    {
+      "id": "5ac50bfa774b170000947043",
+      "text": " \t https://hackadoll.com/mmd",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522863100,
+      "updated": 1568248143
+    },
+    {
+      "id": "5ac50bfa774b170000947044",
+      "text": " 　2018/3/31夜中、ハッカドール1号～3号がVTuberとしてもデビューすることを発表。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522863100,
+      "updated": 1568248143
+    },
+    {
+      "id": "5d7990df0db3350000e236cc",
+      "text": " 　\thttps://twitter.com/Hackadoll/status/980082876921233410",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248032,
+      "updated": 1568248143
+    },
+    {
+      "id": "5d7990e60db3350000e236cd",
+      "text": " 　2019年8月、活動を終了した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248039,
+      "updated": 1568248143
+    },
+    {
+      "id": "5d79912c0db3350000e236ce",
+      "text": " \t　2019/8/15、アプリのサービス終了。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248109,
+      "updated": 1568248143
+    },
+    {
+      "id": "5d7991360db3350000e236cf",
+      "text": " \t　2019/8/25に行われた「[ハッカドール THE めもりあるぱ～てぃ!!!]」が最後のイベント。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248119,
+      "updated": 1568248143
+    },
+    {
+      "id": "5d7991390db3350000e236d0",
+      "text": " \t　2019/8/26、最後のツイートを行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248121,
+      "updated": 1568248143
+    },
+    {
+      "id": "5d7990530db3350000e236c7",
+      "text": "　VTuberとしての活動",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568247891,
+      "updated": 1568248149
+    },
+    {
+      "id": "5d7991560db3350000e236d3",
+      "text": "　\t2018/3/31、[ハッカドール1号]、[ハッカドール2号]、[ハッカドール3号]がVTuberデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248151,
+      "updated": 1568248225
+    },
+    {
+      "id": "5d7991b40db3350000e236d8",
+      "text": "　\t\thttps://twitter.com/Hackadoll/status/980082876921233410",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248245,
+      "updated": 1568248245
+    },
+    {
+      "id": "5d7991a20db3350000e236d6",
+      "text": "　\t\t[https://www.youtube.com/watch?v=HTMCJuclzx4]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248227,
+      "updated": 1568248239
+    },
+    {
+      "id": "5d7991af0db3350000e236d7",
+      "text": "  暫く企画動画を投稿しており、その後ゲーム実況動画の投稿や生放送も行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248239,
+      "updated": 1568248496
+    },
+    {
+      "id": "5d7994050db3350000e236e8",
+      "text": "  \tYouTubeに動画投稿するだけでなく、ゲームの宣伝放送に出演するなどした。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248838,
+      "updated": 1568248856
+    },
+    {
+      "id": "5d7994180db3350000e236e9",
+      "text": "  \t\t例: [https://live.nicovideo.jp/gate/lv315790644 【ハッカドール×トリカゴ】『トリカゴ スクラップマーチ』をハカどらせるスペシャル特番]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248856,
+      "updated": 1568248865
+    },
+    {
+      "id": "5d7994480db3350000e236ea",
+      "text": "  \t\t例: [殺戮の天使]コラボ https://www.youtube.com/watch?v=Vlkg91MZbes",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248904,
+      "updated": 1568248927
+    },
+    {
+      "id": "5d79939c0db3350000e236e5",
+      "text": "  2018年6月、[ハッカドール3号]が正式にYouTubeデビュー。これまでにも動画に出ていたが、自己紹介動画はこのタイミングで投稿。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248732,
+      "updated": 1568248758
+    },
+    {
+      "id": "5d7993b50db3350000e236e6",
+      "text": "  \t[https://www.youtube.com/watch?v=ESS0gzdTBr0]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248758,
+      "updated": 1568248760
+    },
+    {
+      "id": "5d7992ff0db3350000e236de",
+      "text": "  2018年7月、[ハッカドール2号]が正式にYouTubeデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248575,
+      "updated": 1568248712
+    },
+    {
+      "id": "5d7993890db3350000e236e3",
+      "text": "  \t[https://www.youtube.com/watch?v=78RmXyAI1Ho]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248713,
+      "updated": 1568248716
+    },
+    {
+      "id": "5d79933c0db3350000e236df",
+      "text": "  2018年9月、ファンネームを「ハッカ隊」に決定。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248637,
+      "updated": 1568248647
+    },
+    {
+      "id": "5d7993460db3350000e236e0",
+      "text": "  \tもともと「マスターさん」という呼び名はあったが、それとは別にVTuberっぽくファンネームを設定。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248647,
+      "updated": 1568248663
+    },
+    {
+      "id": "5d7993600db3350000e236e1",
+      "text": "  \t[https://www.youtube.com/watch?v=EqqrrZ8Xoo4]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248672,
+      "updated": 1568248673
+    },
+    {
+      "id": "5d7992aa0db3350000e236da",
+      "text": "  2019年2月、初となる歌ってみた動画を投稿。[ハッカドール1号]による『天ノ弱』。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248491,
+      "updated": 1568249113
+    },
+    {
+      "id": "5d7994970db3350000e236ed",
+      "text": "  \t[https://www.youtube.com/watch?v=qu2adxDma4I]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248983,
+      "updated": 1568248990
+    },
+    {
+      "id": "5d79948e0db3350000e236ec",
+      "text": "  2019年2月、兼ねてよりハッカドールのファンであることを公言していた[社築]とコラボ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248974,
+      "updated": 1568249713
+    },
+    {
+      "id": "5d7997b70db3350000e236f7",
+      "text": "  \t[https://www.youtube.com/watch?v=CtuugOqUFyM]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249784,
+      "updated": 1568249784
+    },
+    {
+      "id": "5d7997710db3350000e236f5",
+      "text": "  \tこのコラボ以前にハッカドール側から社築にTwitter上でリプライをやりとりしていた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249713,
+      "updated": 1568249744
+    },
+    {
+      "id": "5d7997910db3350000e236f6",
+      "text": "  \t\tこの時点でも[社築]はファンとして悶えていたが、コラボすることとなり前夜に相談一人配信をする程度には悶えた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249745,
+      "updated": 1568249830
+    },
+    {
+      "id": "5d7997e70db3350000e236f9",
+      "text": "  \t\t\t[https://www.youtube.com/watch?v=lxfetbovJ4g]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249832,
+      "updated": 1568249832
+    },
+    {
+      "id": "5d7997e80db3350000e236fa",
+      "text": "　　　　ちなみにこの配信も[ハッカドール1号]に見られていた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249832,
+      "updated": 1568249980
+    },
+    {
+      "id": "5d7998740db3350000e236fb",
+      "text": "　　　[社築]はコラボ配信後も変わらず（というかより勢いを増して）ハッカドールを推し続けた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249972,
+      "updated": 1568250027
+    },
+    {
+      "id": "5d79975d0db3350000e236f4",
+      "text": "  VTuberデビューして1年となる2019/3/31、VTuberとしての最終回動画を投稿。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249693,
+      "updated": 1568249693
+    },
+    {
+      "id": "5d7992e50db3350000e236dc",
+      "text": "  \t[https://www.youtube.com/watch?v=RFh8pctifqo]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248550,
+      "updated": 1568248550
+    },
+    {
+      "id": "5d7992e60db3350000e236dd",
+      "text": "　　　この後もTwitterはデビュー前と変わらず動いていた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248550,
+      "updated": 1568250134
+    },
+    {
+      "id": "5d7998f80db3350000e236fc",
+      "text": "　　2019/7/19、VTuberとして復活。Twitterに動画を投稿。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568250106,
+      "updated": 1568250139
+    },
+    {
+      "id": "5d7995a40db3350000e236ef",
+      "text": "　　\thttps://twitter.com/Hackadoll/status/1152141178751483904",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249253,
+      "updated": 1568249257
+    },
+    {
+      "id": "5d7991510db3350000e236d2",
+      "text": "　　　続けて動画をTwitterに投稿したり、新作グッズを紹介したりするなど。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248145,
+      "updated": 1568250145
+    },
+    {
+      "id": "5d7996f40db3350000e236f3",
+      "text": "　　2019年8月、ハッカドール自体の終了と共に卒業。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249588,
+      "updated": 1568249603
+    },
+    {
+      "id": "5d7995ca0db3350000e236f2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568249291,
+      "updated": 1568249291
+    },
+    {
+      "id": "5d7991620db3350000e236d4",
+      "text": "#VTuberグループ #アプリ #アニメ #漫画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248162,
+      "updated": 1568248187
+    },
+    {
+      "id": "5d7991620db3350000e236d5",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568248163,
+      "updated": 1568248163
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "5e048c037509170017e8e91c",
+  "title": "VMZ",
+  "created": 1577356292,
+  "updated": 1609112598,
+  "lines": [
+    {
+      "id": "5e048c037509170017e8e91c",
+      "text": "VMZ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577356292,
+      "updated": 1577356292
+    },
+    {
+      "id": "5e048c070db335000012d726",
+      "text": "[https://www.youtube.com/watch?v=aP0jjmyFT_k]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577356292,
+      "updated": 1577364172
+    },
+    {
+      "id": "5e04aacf0db335000012d728",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364172,
+      "updated": 1577364172
+    },
+    {
+      "id": "5e04aad10db335000012d729",
+      "text": "> VIRTUAL MUSIC ZONe、その頭文字を取って「VMZ」",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364173,
+      "updated": 1577364186
+    },
+    {
+      "id": "5e04aade0db335000012d72a",
+      "text": "> 現在急拡大を見せているバーチャルアーティストの音楽シーンにフォーカスし、覚醒させていく音楽情報番組。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364186,
+      "updated": 1577364186
+    },
+    {
+      "id": "5e04aade0db335000012d72b",
+      "text": "> Kizuna AIがMCとなり、毎回ゲストアーティストを招いてスペシャルトークとスペシャルライブをお送りします。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364186,
+      "updated": 1577364186
+    },
+    {
+      "id": "5e04aade0db335000012d72c",
+      "text": "> さらに、番組オリジナル音楽チャートとして「Virtual Music Monthly Chart」を設け、毎月の人気楽曲を紹介。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364186,
+      "updated": 1577364186
+    },
+    {
+      "id": "5e04aade0db335000012d72d",
+      "text": "> この音楽チャートは、株式会社Moguraが運営する”バーチャルを楽しむためのエンタメメディア”「MoguLive」によって集計・監修されています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364186,
+      "updated": 1577364186
+    },
+    {
+      "id": "5e048c070db335000012d727",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577356292,
+      "updated": 1577356292
+    },
+    {
+      "id": "5e04aae30db335000012d72e",
+      "text": " 2019年12月から月1回、6回に渡って公開される音楽番組。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364191,
+      "updated": 1577364219
+    },
+    {
+      "id": "5e04ab040db335000012d730",
+      "text": " MC：[キズナアイ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364224,
+      "updated": 1577364227
+    },
+    {
+      "id": "5e04aae30db335000012d72f",
+      "text": "　ゲスト",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364191,
+      "updated": 1577364235
+    },
+    {
+      "id": "5e04ab0e0db335000012d732",
+      "text": "　\t第1回：[花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364235,
+      "updated": 1577364238
+    },
+    {
+      "id": "5e04ab0c0db335000012d731",
+      "text": "  第2回：[YuNi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577364232,
+      "updated": 1580441428
+    },
+    {
+      "id": "5e9d144d0db3350000b5c45c",
+      "text": "  第3回：[chelmico]（[Rachel]、[Mamiko]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587352649,
+      "updated": 1587352711
+    },
+    {
+      "id": "5e9d14640db3350000b5c45d",
+      "text": "  第4回：[HIMEHINA]（[田中ヒメ]、[鈴木ヒナ]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587352672,
+      "updated": 1587352683
+    },
+    {
+      "id": "5ea2ce080db33500007ed9db",
+      "text": "  第5回：[IA]、[Q.i]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587727876,
+      "updated": 1587727905
+    },
+    {
+      "id": "5fe91bf40db33500007edd10",
+      "text": "  第6回：[花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1609112563,
+      "updated": 1609112571
+    },
+    {
+      "id": "5fe91bfc0db33500007edd11",
+      "text": "  helloworld2020直前スペシャル：[TeddyLoid]&[DÉ DÉ MOUSE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1609112571,
+      "updated": 1609112598
+    },
+    {
+      "id": "5e339f500db3350000a1ee82",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1580441423,
+      "updated": 1580441423
+    },
+    {
+      "id": "5e34d5810db33500003c2b08",
+      "text": "#ZONe",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1580520833,
+      "updated": 1580520835
+    },
+    {
+      "id": "5e34d5820db33500003c2b09",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1580520834,
+      "updated": 1580520834
+    }
+  ]
+}

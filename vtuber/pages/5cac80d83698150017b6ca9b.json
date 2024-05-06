@@ -1,0 +1,477 @@
+{
+  "id": "5cac80d83698150017b6ca9b",
+  "title": "Overidea",
+  "created": 1554809061,
+  "updated": 1594732265,
+  "lines": [
+    {
+      "id": "5cac80d83698150017b6ca9b",
+      "text": "Overidea",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809061,
+      "updated": 1554809061
+    },
+    {
+      "id": "5cac80e60db3350000143e14",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809061,
+      "updated": 1554809061
+    },
+    {
+      "id": "5cac83770db3350000143e3b",
+      "text": " アーティストグループ「[キカイプロジェクト]」の一部門。おーばーらいでぃあ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809718,
+      "updated": 1554809921
+    },
+    {
+      "id": "5cac83c00db3350000143e41",
+      "text": " 日本語・英語・中国語で活動しており、日中共同イベントを開催したりもしている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809791,
+      "updated": 1554809796
+    },
+    {
+      "id": "5cac83c50db3350000143e42",
+      "text": "　https://kikaipro.wixsite.com/overidea",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809796,
+      "updated": 1554809799
+    },
+    {
+      "id": "5f0dae330db33500008458db",
+      "text": "　[/icons/twitter.icon] https://twitter.com/realOverideaHQ （運営）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1594732080,
+      "updated": 1594732089
+    },
+    {
+      "id": "5cac83c50db3350000143e43",
+      "text": "　[/icons/youtube.icon] https://www.youtube.com/c/Overidea",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809796,
+      "updated": 1554809799
+    },
+    {
+      "id": "5cac83c50db3350000143e44",
+      "text": "　[/icons/niconico.icon] https://www.nicovideo.jp/mylist/47371524",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809796,
+      "updated": 1554809799
+    },
+    {
+      "id": "5cac83c50db3350000143e45",
+      "text": "　[/icons/bilibili.icon] https://space.bilibili.com/18149131/#/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809796,
+      "updated": 1554809799
+    },
+    {
+      "id": "5cac83770db3350000143e3c",
+      "text": "　メンバー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809718,
+      "updated": 1554809828
+    },
+    {
+      "id": "5cac83e50db3350000143e46",
+      "text": "　\t管理部門",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809828,
+      "updated": 1554809853
+    },
+    {
+      "id": "5cac83fe0db3350000143e47",
+      "text": "　\t\t？？？",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809853,
+      "updated": 1554809857
+    },
+    {
+      "id": "5cac84020db3350000143e48",
+      "text": "　\t図書室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809857,
+      "updated": 1554809860
+    },
+    {
+      "id": "5cac84290db3350000143e50",
+      "text": "　\t\t[キョウカ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809896,
+      "updated": 1594732140
+    },
+    {
+      "id": "5cac84050db3350000143e49",
+      "text": "　\t美術室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809860,
+      "updated": 1554809864
+    },
+    {
+      "id": "5cac84270db3350000143e4f",
+      "text": "　\t\t[葉桜ちこり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809894,
+      "updated": 1594732154
+    },
+    {
+      "id": "5f0dae7c0db33500008458dd",
+      "text": "　\t\t[りゅっち]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1594732155,
+      "updated": 1594732156
+    },
+    {
+      "id": "5cac84090db3350000143e4a",
+      "text": "　\t音楽室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809864,
+      "updated": 1554809871
+    },
+    {
+      "id": "5cac84230db3350000143e4e",
+      "text": "　\t\t[古野カシラ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809890,
+      "updated": 1594732165
+    },
+    {
+      "id": "5f0dae880db33500008458de",
+      "text": "　\t\t[わたお]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1594732165,
+      "updated": 1594732169
+    },
+    {
+      "id": "5f0dae8c0db33500008458df",
+      "text": "　\t\t[毛布]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1594732170,
+      "updated": 1594732174
+    },
+    {
+      "id": "5f0dae900db33500008458e0",
+      "text": "　\t\t[牛肉]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1594732174,
+      "updated": 1594732179
+    },
+    {
+      "id": "5f0dae960db33500008458e1",
+      "text": "　\t\t[神無月P]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1594732179,
+      "updated": 1594732184
+    },
+    {
+      "id": "5cac84110db3350000143e4b",
+      "text": "　\t放送室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809871,
+      "updated": 1554809877
+    },
+    {
+      "id": "5cac84160db3350000143e4c",
+      "text": "　\t\t[シエラ・ルーニス]（VTuberとしては2019年12月まで）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809877,
+      "updated": 1576165283
+    },
+    {
+      "id": "5cac841b0db3350000143e4d",
+      "text": "　\t\t[ミア・ルーニス]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809882,
+      "updated": 1554809888
+    },
+    {
+      "id": "5f0daecc0db33500008458e2",
+      "text": "　\t\t（[キョウカ]（通称[オバママ]））",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1594732234,
+      "updated": 1594732265
+    },
+    {
+      "id": "5cac837c0db3350000143e3d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809723,
+      "updated": 1554809723
+    },
+    {
+      "id": "5cac842d0db3350000143e51",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809901,
+      "updated": 1554809901
+    },
+    {
+      "id": "5cac80e60db3350000143e15",
+      "text": "[* ここから下は2019年4月上旬までの情報です]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809061,
+      "updated": 1554809906
+    },
+    {
+      "id": "5cac80e90db3350000143e16",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809064,
+      "updated": 1554809064
+    },
+    {
+      "id": "5cac837d0db3350000143e3e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809724,
+      "updated": 1554809724
+    },
+    {
+      "id": "5cac811e0db3350000143e19",
+      "text": " 2018/1/1に創立されたアーティストグループ。おーばーらいでぃあ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809117,
+      "updated": 1554809159
+    },
+    {
+      "id": "5cac82820db3350000143e36",
+      "text": " 日本語・英語・中国語で活動しており、日中共同イベントを開催したりもしている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809473,
+      "updated": 1554809505
+    },
+    {
+      "id": "5cac80f60db3350000143e17",
+      "text": "　https://kikaipro.wixsite.com/overidea",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809077,
+      "updated": 1554809108
+    },
+    {
+      "id": "5cac84590db3350000143e52",
+      "text": "　[/icons/twitter.icon] https://twitter.com/OverideaHQ （オバママ）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809944,
+      "updated": 1554809954
+    },
+    {
+      "id": "5cac82a50db3350000143e37",
+      "text": "　[/icons/youtube.icon] https://www.youtube.com/c/Overidea",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809508,
+      "updated": 1554809536
+    },
+    {
+      "id": "5cac82c10db3350000143e38",
+      "text": "　[/icons/niconico.icon] https://www.nicovideo.jp/mylist/47371524",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809536,
+      "updated": 1554809590
+    },
+    {
+      "id": "5cac82f70db3350000143e39",
+      "text": "　[/icons/bilibili.icon] https://space.bilibili.com/18149131/#/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809590,
+      "updated": 1554809652
+    },
+    {
+      "id": "5cac814a0db3350000143e1a",
+      "text": "　メンバー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809162,
+      "updated": 1554809165
+    },
+    {
+      "id": "5cac814d0db3350000143e1b",
+      "text": "　\t図書室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809165,
+      "updated": 1554809170
+    },
+    {
+      "id": "5cac81530db3350000143e1c",
+      "text": "　\t\t[キョウカ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809170,
+      "updated": 1554809438
+    },
+    {
+      "id": "5cac81590db3350000143e1d",
+      "text": "　\t美術室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809176,
+      "updated": 1554809211
+    },
+    {
+      "id": "5cac817c0db3350000143e23",
+      "text": "　\t\t[しば]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809211,
+      "updated": 1554809437
+    },
+    {
+      "id": "5cac81a40db3350000143e24",
+      "text": "　\t\t[巻子]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809251,
+      "updated": 1554809435
+    },
+    {
+      "id": "5cac81a60db3350000143e25",
+      "text": "　\t\t[りゅっち]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809254,
+      "updated": 1554809434
+    },
+    {
+      "id": "5cac81a90db3350000143e26",
+      "text": "　\t\t[Y_Y]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809256,
+      "updated": 1554809433
+    },
+    {
+      "id": "5cac81ae0db3350000143e27",
+      "text": "　\t\t[葉桜ちこり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809261,
+      "updated": 1554809431
+    },
+    {
+      "id": "5cac81b40db3350000143e28",
+      "text": "　\t音楽室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809267,
+      "updated": 1554809272
+    },
+    {
+      "id": "5cac81b80db3350000143e29",
+      "text": "　\t\t[古野カシラ]（[コショウP]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809272,
+      "updated": 1554809430
+    },
+    {
+      "id": "5cac81bd0db3350000143e2a",
+      "text": "　\t\t[わたお]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809276,
+      "updated": 1554809425
+    },
+    {
+      "id": "5cac81c00db3350000143e2b",
+      "text": "　\t\t[毛布]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809279,
+      "updated": 1554809422
+    },
+    {
+      "id": "5cac81c30db3350000143e2c",
+      "text": "　\t\t[牛肉]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809282,
+      "updated": 1554809420
+    },
+    {
+      "id": "5cac81c50db3350000143e2d",
+      "text": "　\t\t[神無月P]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809284,
+      "updated": 1554809419
+    },
+    {
+      "id": "5cac81c90db3350000143e2e",
+      "text": "　\t放送室",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809289,
+      "updated": 1554809311
+    },
+    {
+      "id": "5cac81df0db3350000143e31",
+      "text": "　\t\t[シエラ・ルーニス]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809311,
+      "updated": 1554809354
+    },
+    {
+      "id": "5cac81eb0db3350000143e32",
+      "text": "　\t\t[ミア・ルーニス]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809322,
+      "updated": 1554809352
+    },
+    {
+      "id": "5cac822f0db3350000143e33",
+      "text": "　\t\t[Overidea公式]（[オバママ]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809390,
+      "updated": 1554809397
+    },
+    {
+      "id": "5cac831a0db3350000143e3a",
+      "text": "　https://twitter.com/keika525/status/947833263602593792",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809625,
+      "updated": 1555735275
+    },
+    {
+      "id": "5cbaa2ed0db3350000f3b87d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555735274,
+      "updated": 1555735274
+    },
+    {
+      "id": "5cac816c0db3350000143e1f",
+      "text": "> Overideaの原型はキカイプロジェクトという「小説家になろう」発のメディアミックス企画にあります。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809195,
+      "updated": 1554809196
+    },
+    {
+      "id": "5cac816d0db3350000143e20",
+      "text": "> 小説「そして機械と魔法から。」を主軸としたストーリー展開を元に、様々なシリーズをそれぞれ違った分野の創作者たちで作り上げていました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809196,
+      "updated": 1554809196
+    },
+    {
+      "id": "5cac816d0db3350000143e21",
+      "text": "> ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809196,
+      "updated": 1554809196
+    },
+    {
+      "id": "5cac816d0db3350000143e22",
+      "text": "> 今ではORを背後から支える管理母体となっています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809196,
+      "updated": 1554809196
+    },
+    {
+      "id": "5cac816a0db3350000143e1e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809193,
+      "updated": 1554809193
+    },
+    {
+      "id": "5cac83a70db3350000143e3f",
+      "text": "#VTuberグループ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809766,
+      "updated": 1554809770
+    },
+    {
+      "id": "5cac83a90db3350000143e40",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554809768,
+      "updated": 1554809768
+    }
+  ]
+}

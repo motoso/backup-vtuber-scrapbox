@@ -1,0 +1,253 @@
+{
+  "id": "5d9c8dfed790cd0017c9b1bd",
+  "title": "Palette Project",
+  "created": 1570541055,
+  "updated": 1595951250,
+  "lines": [
+    {
+      "id": "5d9c8dfed790cd0017c9b1bd",
+      "text": "Palette Project",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541055,
+      "updated": 1570541055
+    },
+    {
+      "id": "5d9c8e040db3350000706cab",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541055,
+      "updated": 1570541055
+    },
+    {
+      "id": "5d9c8e050db3350000706cac",
+      "text": "　バーチャル[アイドル]プロジェクト。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541055,
+      "updated": 1570541246
+    },
+    {
+      "id": "5d9c8e0b0db3350000706cae",
+      "text": "　\t略称：[パレプロ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541062,
+      "updated": 1570541066
+    },
+    {
+      "id": "5d9c920a0db3350000706cc3",
+      "text": "　メンバー（[https://twitter.com/Alt_Vtuber/lists/ 公式リスト]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542084,
+      "updated": 1570542108
+    },
+    {
+      "id": "5d9c92210db3350000706cc4",
+      "text": "　\t[七海ロナ]（2018/7/4～、ただしAlt!!時代を含む）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542108,
+      "updated": 1570542236
+    },
+    {
+      "id": "5d9c922c0db3350000706cc5",
+      "text": "　\t[暁月クララ]（2018/7/4～、ただしAlt!!時代を含む）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542119,
+      "updated": 1570542275
+    },
+    {
+      "id": "5d9c92320db3350000706cc6",
+      "text": "　\t[遠坂ユラ]（2018/7/4～、ただしAlt!!時代を含む）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542124,
+      "updated": 1570542275
+    },
+    {
+      "id": "5d9c92f40db3350000706ccb",
+      "text": "　\t[藤宮コトハ]（2019/6/15～、ただし研究生時代を含む）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542318,
+      "updated": 1570542325
+    },
+    {
+      "id": "5d9c92360db3350000706cc7",
+      "text": "　\t[常磐カナメ]（2019/6/24～、ただし研究生時代を含む）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542129,
+      "updated": 1570542334
+    },
+    {
+      "id": "5d9c923c0db3350000706cc8",
+      "text": "　\t[白銀ヘレナ]（2019/6/30～2019/11/6、ただし研究生時代を含む）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542135,
+      "updated": 1573042682
+    },
+    {
+      "id": "5e093e2b0db33500004529b1",
+      "text": "　\t[神菜コハネ]（2019/12/29～）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577664044,
+      "updated": 1577664058
+    },
+    {
+      "id": "5e093e3b0db33500004529b2",
+      "text": "　\t[雨ヶ崎笑虹]（2019/12/29～2020/7/31。元々[AVATAR2.0]一期生として活動しており、移籍してきた。その後卒業し個人として活動へ）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577664059,
+      "updated": 1595951250
+    },
+    {
+      "id": "5e3961a40db3350000d27ae9",
+      "text": "　\t[江波キョウカ]（2020/2/4～）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1580818851,
+      "updated": 1580818859
+    },
+    {
+      "id": "5edfe83a0db33500003ec01a",
+      "text": "　\t[鬼多見アユム]（2020/6/9～）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591732281,
+      "updated": 1591732294
+    },
+    {
+      "id": "5d9c8e050db3350000706cad",
+      "text": "　経緯：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541056,
+      "updated": 1570541423
+    },
+    {
+      "id": "5d9c91090db3350000706cb7",
+      "text": "　\t元々[Alt!!]という名前のVTuberグループがあった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541827,
+      "updated": 1570541827
+    },
+    {
+      "id": "5d9c90ed0db3350000706cb5",
+      "text": "　\t2019年6月、Alt!!運営から「Palette Project」が発表された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541799,
+      "updated": 1570542360
+    },
+    {
+      "id": "5d9c910c0db3350000706cb9",
+      "text": "　\t\t「Palette Project」の下位グループとして「Alt!!」を再編した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541831,
+      "updated": 1570542365
+    },
+    {
+      "id": "5d9c911e0db3350000706cba",
+      "text": "　\t\t他、新ユニット誕生が予告されたり、Palette Project研究生が加入したり。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541849,
+      "updated": 1570542376
+    },
+    {
+      "id": "5d9c913c0db3350000706cbb",
+      "text": "　\t\thttps://twitter.com/Alt_Vtuber/status/1139851145025712128",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541879,
+      "updated": 1570541882
+    },
+    {
+      "id": "5d9c8f770db3350000706cb4",
+      "text": "　\t2019/10/1より、ユニットとしての「Alt!!」が「Palette Project」に吸収された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541426,
+      "updated": 1570541911
+    },
+    {
+      "id": "5d9c915e0db3350000706cbc",
+      "text": "　\t\tまた、この時点での研究生3名が正メンバーに昇格した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541912,
+      "updated": 1570541926
+    },
+    {
+      "id": "5d9c91b00db3350000706cbd",
+      "text": "　\t\t「Alt!!」の3名のユニットは別名になる予定。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541994,
+      "updated": 1570542006
+    },
+    {
+      "id": "5d9c8eba0db3350000706cb0",
+      "text": "\t\t\t[https://www.youtube.com/watch?v=VjwR6praBfs 【10/1 LIVE】パレプロ全員集合！ラジオ生放送！]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541237,
+      "updated": 1570542039
+    },
+    {
+      "id": "5d9c91c50db3350000706cbf",
+      "text": "　　　https://twitter.com/Alt_Vtuber/status/1180038717970374656",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542015,
+      "updated": 1570542021
+    },
+    {
+      "id": "5d9c91c30db3350000706cbe",
+      "text": "  2019/10/1、同時に新メンバーオーディションを開始した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542014,
+      "updated": 1570542063
+    },
+    {
+      "id": "5d9c91f40db3350000706cc1",
+      "text": "  \thttps://twitter.com/Alt_Vtuber/status/1179030697828184066",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542063,
+      "updated": 1570542063
+    },
+    {
+      "id": "5d9c91f50db3350000706cc2",
+      "text": "  \thttps://peraichi.com/landing_pages/view/qwertyuio",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570542063,
+      "updated": 1570542067
+    },
+    {
+      "id": "5e093e590db33500004529b3",
+      "text": "　　2019/12/29、[V-RIZIN2019]にて新メンバーの加入を告知。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577664090,
+      "updated": 1577664105
+    },
+    {
+      "id": "5e093e6d0db33500004529b5",
+      "text": "　　\thttps://matereal.jp/20191229newmember/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577664109,
+      "updated": 1577664113
+    },
+    {
+      "id": "5e093e720db33500004529b6",
+      "text": "　　\t参考：[雨ヶ崎笑虹、A2Pからパレプロへ移籍]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577664114,
+      "updated": 1577664703
+    },
+    {
+      "id": "5e093e5d0db33500004529b4",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577664093,
+      "updated": 1577664093
+    },
+    {
+      "id": "5d9c8ebb0db3350000706cb1",
+      "text": "#VTuberグループ #MateReal株式会社",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541238,
+      "updated": 1570541273
+    },
+    {
+      "id": "5d9c8ed50db3350000706cb2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1570541264,
+      "updated": 1570541264
+    }
+  ]
+}

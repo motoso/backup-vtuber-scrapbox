@@ -1,0 +1,267 @@
+{
+  "id": "5c40bcfb2cded100172ad8d1",
+  "title": "パンカベチャレンジ",
+  "created": 1547746558,
+  "updated": 1565878719,
+  "lines": [
+    {
+      "id": "5c40bcfb2cded100172ad8d1",
+      "text": "パンカベチャレンジ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746558,
+      "updated": 1547746558
+    },
+    {
+      "id": "5c40bcfe0db335000014780d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746558,
+      "updated": 1547746558
+    },
+    {
+      "id": "5c40bd000db335000014780e",
+      "text": "時系列",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746561,
+      "updated": 1547747315
+    },
+    {
+      "id": "5c40bd020db3350000147810",
+      "text": "　2018/11/25、[飛鳥ひな]が「わけわかんないTwitter動画撮れたからあげます🐤」として動画を投稿。[ハッシュタグ] #パンカベチャレンジ を作成。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746563,
+      "updated": 1547747338
+    },
+    {
+      "id": "5c40bd2e0db3350000147811",
+      "text": "　\thttps://twitter.com/hina__asuka/status/1066372500680896512",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746606,
+      "updated": 1547746609
+    },
+    {
+      "id": "5c40bd300db3350000147812",
+      "text": "　\thttps://twitter.com/hina__asuka/status/1066373445007532032",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746609,
+      "updated": 1547746613
+    },
+    {
+      "id": "5c40bd370db3350000147813",
+      "text": "　\t元々知られていた早口言葉「パン壁」にチャレンジするという内容。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746615,
+      "updated": 1547746646
+    },
+    {
+      "id": "5c40bd560db3350000147814",
+      "text": "　その後「[https://twitter.com/hina__asuka/status/1066373468839587842 見たVの者はぜひ　#パンカベチャレンジ　やってほしい😭😭😭]」と呟いたところ、流行。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746646,
+      "updated": 1547746673
+    },
+    {
+      "id": "5c40bd020db335000014780f",
+      "text": " 例",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746563,
+      "updated": 1547746688
+    },
+    {
+      "id": "5c40bd800db3350000147816",
+      "text": " \t[皇噛ユカリ]：https://twitter.com/yukari_kogami/status/1066380589102559232",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746688,
+      "updated": 1547747208
+    },
+    {
+      "id": "5c40bd8d0db3350000147817",
+      "text": " \t[鍵井結唯]：https://twitter.com/i_kagi/status/1066381469445087232",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746702,
+      "updated": 1547747210
+    },
+    {
+      "id": "5c40bda00db3350000147818",
+      "text": " \t[粛正罰丸]：https://twitter.com/syukusei_da/status/1066386254827122688",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746720,
+      "updated": 1554089038
+    },
+    {
+      "id": "5c40bdac0db3350000147819",
+      "text": " \t[星月せい]：https://twitter.com/Sei_Hoshizuki/status/1066386663478153216",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746733,
+      "updated": 1547747214
+    },
+    {
+      "id": "5c40bdbb0db335000014781a",
+      "text": " \t[黒井しば]：https://twitter.com/BlackShiba_chan/status/1066389182040272896",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746748,
+      "updated": 1547747216
+    },
+    {
+      "id": "5c40bdce0db335000014781b",
+      "text": " \t[桜塚和音]：https://twitter.com/Kazune_Vtuber/status/1066391339208601600",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746766,
+      "updated": 1547747217
+    },
+    {
+      "id": "5c40bdd40db335000014781c",
+      "text": " \t[春崎エアル]：https://twitter.com/harusakiair2434/status/1066391725738872832",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746772,
+      "updated": 1547747221
+    },
+    {
+      "id": "5c40bddc0db335000014781d",
+      "text": " \t[最上レン]：https://twitter.com/ren_cheriko/status/1066395675640774656",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746780,
+      "updated": 1547747223
+    },
+    {
+      "id": "5c40bde80db335000014781e",
+      "text": " \t[夢追翔]：https://twitter.com/kakeru_yumeoi/status/1066397639808172032",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746793,
+      "updated": 1547747225
+    },
+    {
+      "id": "5c40bdf10db335000014781f",
+      "text": " \t[天城てん]：https://twitter.com/Ten_Amagi/status/1066416129344626688",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746802,
+      "updated": 1547747227
+    },
+    {
+      "id": "5c40be0c0db3350000147820",
+      "text": " \t[神田笑一]：https://twitter.com/Kanda_Shoichi/status/1066510862834327552",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746828,
+      "updated": 1547747229
+    },
+    {
+      "id": "5c40be1a0db3350000147821",
+      "text": " \t[高砂緑也]：https://twitter.com/ryokuya_cheriko/status/1066536768625725440",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746842,
+      "updated": 1547747231
+    },
+    {
+      "id": "5c40be240db3350000147824",
+      "text": " \t[成瀬鳴]：https://twitter.com/narusenaru_2434/status/1066548667320958976",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746852,
+      "updated": 1547747232
+    },
+    {
+      "id": "5c40be360db3350000147825",
+      "text": " \t[夏色まつり]：https://twitter.com/natsuiromatsuri/status/1066553448798154752",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746871,
+      "updated": 1547747234
+    },
+    {
+      "id": "5c40be3e0db3350000147826",
+      "text": " \t[青道アカト]：https://twitter.com/aomichi_akato/status/1066553868123746304",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746878,
+      "updated": 1547747237
+    },
+    {
+      "id": "5c40be4a0db3350000147827",
+      "text": " \t[出雲霞]：https://twitter.com/ikasumi_zzz/status/1066569440689451008",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746890,
+      "updated": 1547747239
+    },
+    {
+      "id": "5c40be5a0db3350000147828",
+      "text": " \t[肋谷清志郎]：https://twitter.com/Abaraya_0112/status/1066573064488419329",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746906,
+      "updated": 1547747241
+    },
+    {
+      "id": "5c40be700db3350000147829",
+      "text": " \t[錦山夢鷹]：https://twitter.com/mutaka_cheriko/status/1066574372167532545",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746928,
+      "updated": 1547747243
+    },
+    {
+      "id": "5c40be7e0db335000014782a",
+      "text": " \t[吾味人美]：https://twitter.com/gomihitomi/status/1066583141484134400",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746942,
+      "updated": 1547747245
+    },
+    {
+      "id": "5c40be940db335000014782d",
+      "text": " \t[さはな]：https://twitter.com/sahana_virtual/status/1066600078188531712",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746964,
+      "updated": 1547747247
+    },
+    {
+      "id": "5c40be960db335000014782e",
+      "text": " \t[花咲アヤメ]：https://twitter.com/IRIS_Fl0wer/status/1066685490194132993",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746966,
+      "updated": 1547747249
+    },
+    {
+      "id": "5c40bebf0db335000014782f",
+      "text": " \t[レンチ]：https://twitter.com/wrench_t/status/1066707980383469568",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547747008,
+      "updated": 1547747251
+    },
+    {
+      "id": "5c40bed20db3350000147830",
+      "text": " \t[飛鳥ひな]（リベンジ）：https://twitter.com/hina__asuka/status/1066992375388467200",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547747026,
+      "updated": 1547747253
+    },
+    {
+      "id": "5c40bef60db3350000147831",
+      "text": " \t[阿古江レイスケ]：https://twitter.com/acoereisuke/status/1067046074970296321",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547747063,
+      "updated": 1547747255
+    },
+    {
+      "id": "5c40befd0db3350000147837",
+      "text": " \t[町田ちま]（[ゴンザレス]）：https://twitter.com/chima_machita23/status/1067073193775521792",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547747070,
+      "updated": 1547747259
+    },
+    {
+      "id": "5c40bf3b0db3350000147838",
+      "text": " \t[緑5号]：https://twitter.com/green_five55/status/1068146813620838400",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547747131,
+      "updated": 1547747261
+    },
+    {
+      "id": "5c40bf5a0db3350000147839",
+      "text": " \t[粛正罰丸]（リベンジ）：https://twitter.com/syukusei_da/status/1069497079762841600",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547747162,
+      "updated": 1565878719
+    },
+    {
+      "id": "5c40bd7d0db3350000147815",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1547746685,
+      "updated": 1547746685
+    }
+  ]
+}

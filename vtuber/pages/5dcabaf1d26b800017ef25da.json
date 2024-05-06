@@ -1,0 +1,253 @@
+{
+  "id": "5dcabaf1d26b800017ef25da",
+  "title": "ボードゲーム『不思議の国のアリス』",
+  "created": 1573567218,
+  "updated": 1603594602,
+  "lines": [
+    {
+      "id": "5dcabaf1d26b800017ef25da",
+      "text": "ボードゲーム『不思議の国のアリス』",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567218,
+      "updated": 1573567218
+    },
+    {
+      "id": "5dcabaf30db3350000af7b03",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567219,
+      "updated": 1573567219
+    },
+    {
+      "id": "5dcabaf30db3350000af7b04",
+      "text": " [ボードゲーム]『不思議の国のアリス』に登場するメインキャラクターがVTuberとして活動する。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567219,
+      "updated": 1573567892
+    },
+    {
+      "id": "5dcabda20db3350000af7b1d",
+      "text": " 「次世代リアル活動型バーチャルAvatar」と呼んでいる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567906,
+      "updated": 1573567915
+    },
+    {
+      "id": "5dcabdac0db3350000af7b1e",
+      "text": " \tというのも、単にVTuberとして活動するだけでなく、いわゆる「魂」もリアルアイドルとしてイベント等に参加し活動をするため。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567915,
+      "updated": 1573567977
+    },
+    {
+      "id": "5dcabb250db3350000af7b08",
+      "text": "　メンバー（カッコ内は担当アイドル）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567269,
+      "updated": 1573567509
+    },
+    {
+      "id": "5dcabc150db3350000af7b12",
+      "text": "　　[アリス]（未定）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567509,
+      "updated": 1573567672
+    },
+    {
+      "id": "5dcabc1e0db3350000af7b13",
+      "text": "　　[ハートの女王]「[ロゼ女王]」（[釘町みやび]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567518,
+      "updated": 1603594395
+    },
+    {
+      "id": "5dcabc280db3350000af7b14",
+      "text": "　　[黒アリス]「[暗黒のクロエ]」（[詩月かりん]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567527,
+      "updated": 1603594408
+    },
+    {
+      "id": "5dcabc310db3350000af7b15",
+      "text": "　　[白ウサギ]「[白兎ケイ]」（[北村真理奈]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567537,
+      "updated": 1603594421
+    },
+    {
+      "id": "5dcabc410db3350000af7b16",
+      "text": "　　[ドアノブ]「[城衛マリィ]」（[餅月きなこ]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567553,
+      "updated": 1603594525
+    },
+    {
+      "id": "5dcabc460db3350000af7b17",
+      "text": "　　[イモ虫]「[千歳コヨミ]」（[中尾早希]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567558,
+      "updated": 1603594450
+    },
+    {
+      "id": "5dcabc4f0db3350000af7b18",
+      "text": "　　[チェシャ猫]「[三日月ユメ]」（2020年8月末までは[影浦由佳]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567567,
+      "updated": 1603594602
+    },
+    {
+      "id": "5dcb7bc80db3350000a20ab8",
+      "text": "　　狂った２人",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573616581,
+      "updated": 1573616587
+    },
+    {
+      "id": "5dcabc580db3350000af7b19",
+      "text": "\t　　[三月ウサギ]（未定）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567575,
+      "updated": 1573616588
+    },
+    {
+      "id": "5dcabc5e0db3350000af7b1a",
+      "text": "\t　　[帽子屋]（未定）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567582,
+      "updated": 1573616588
+    },
+    {
+      "id": "5dcabc660db3350000af7b1b",
+      "text": "　　[眠りネズミ]「[夢見ねいろ]」（[ぱかるん]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567590,
+      "updated": 1603594470
+    },
+    {
+      "id": "5dcabc050db3350000af7b11",
+      "text": " [/icons/twitter.icon] https://twitter.com/PopetoAlice",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567492,
+      "updated": 1603594560
+    },
+    {
+      "id": "5f94e93a0db3350000f626f8",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1603594554,
+      "updated": 1603594554
+    },
+    {
+      "id": "5dcabbec0db3350000af7b0d",
+      "text": "時系列",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567468,
+      "updated": 1573567470
+    },
+    {
+      "id": "5dcabbee0db3350000af7b0e",
+      "text": "　2019/11/12、6名がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567470,
+      "updated": 1573567831
+    },
+    {
+      "id": "5dcabbf30db3350000af7b0f",
+      "text": "　\thttps://twitter.com/IrohaniPopeto/status/1194187777954308098",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567475,
+      "updated": 1573567834
+    },
+    {
+      "id": "5dcabd5c0db3350000af7b1c",
+      "text": "　\tプレスリリースには7名と書いてあるが、公表されているのは6名？",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567836,
+      "updated": 1573567851
+    },
+    {
+      "id": "5dcabb300db3350000af7b09",
+      "text": "　2019/12/14、リアルファンミーティング開催。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567280,
+      "updated": 1573567489
+    },
+    {
+      "id": "5f94e8410db3350000f626f6",
+      "text": "　2020/10/12、再始動を宣言。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1603594305,
+      "updated": 1603594315
+    },
+    {
+      "id": "5f94e84b0db3350000f626f7",
+      "text": "　　公式サイトをオープンすると共に「第一章：夢見る少女の仮想物語」を宣言。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1603594315,
+      "updated": 1603594337
+    },
+    {
+      "id": "5dcabbfa0db3350000af7b10",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567482,
+      "updated": 1573567482
+    },
+    {
+      "id": "5dcabb300db3350000af7b0a",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567280,
+      "updated": 1573567283
+    },
+    {
+      "id": "5dcabb330db3350000af7b0b",
+      "text": " [《人気ボードゲームからVTuber爆誕！》大好評発売中ボードゲーム『不思議の国のアリス』のVTuberメンバーが決定!!そして第一回リアルファンミーティングを12月14日(土)＠いろはにぽぺとvGardenにて開催！彼女達の生声と心の声を是非ライブでお聞きください！ https://www.wantedly.com/companies/irohanipopeto/post_articles/194715] -- 株式会社いろはにぽぺと Wantedly",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567283,
+      "updated": 1573567305
+    },
+    {
+      "id": "5dcabb630db3350000af7b0c",
+      "text": " \t[https://www.value-press.com/pressrelease/231281 valuepress版]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567330,
+      "updated": 1573567335
+    },
+    {
+      "id": "5f94e7d90db3350000f626f5",
+      "text": " [《再始動》VTuber『不思議の国のアリス』が世界をひっくり返す新しいVTuberアイドルユニットとして再始動！公式サイトも本日オープン！ https://prtimes.jp/main/html/rd/p/000000016.000061865.html] -- 株式会社ファンスター PR TIMES",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1603594201,
+      "updated": 1603594221
+    },
+    {
+      "id": "5dcabaf40db3350000af7b05",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567220,
+      "updated": 1603594230
+    },
+    {
+      "id": "5dcabb0c0db3350000af7b06",
+      "text": "#株式会社いろはにぽぺと #株式会社ファンスター",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567243,
+      "updated": 1603594235
+    },
+    {
+      "id": "5dcabb0c0db3350000af7b07",
+      "text": "#vGarden",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567244,
+      "updated": 1573568001
+    },
+    {
+      "id": "5dcabdff0db3350000af7b20",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573567999,
+      "updated": 1573567999
+    }
+  ]
+}

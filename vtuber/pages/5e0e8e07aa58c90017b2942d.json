@@ -1,0 +1,36 @@
+{
+  "id": "5e0e8e07aa58c90017b2942d",
+  "title": "エゴサ",
+  "created": 1578012169,
+  "updated": 1578012172,
+  "lines": [
+    {
+      "id": "5e0e8e07aa58c90017b2942d",
+      "text": "エゴサ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578012169,
+      "updated": 1578012169
+    },
+    {
+      "id": "5e0e8e0a0db3350000eba01c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578012169,
+      "updated": 1578012169
+    },
+    {
+      "id": "5e0e8e0a0db3350000eba01d",
+      "text": "→ [エゴサーチ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578012169,
+      "updated": 1578012172
+    },
+    {
+      "id": "5e0e8e0b0db3350000eba01e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578012170,
+      "updated": 1578012170
+    }
+  ]
+}

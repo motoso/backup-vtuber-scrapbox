@@ -1,0 +1,71 @@
+{
+  "id": "5ac3ad093b980a0014e9a88f",
+  "title": "ラーメンズ",
+  "created": 1522773261,
+  "updated": 1522773349,
+  "lines": [
+    {
+      "id": "5ac3ad093b980a0014e9a88f",
+      "text": "ラーメンズ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773261,
+      "updated": 1522773261
+    },
+    {
+      "id": "5ac3ad14774b170000607480",
+      "text": " [小林賢太郎]と[片桐仁]のお笑いコンビ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773270,
+      "updated": 1522773331
+    },
+    {
+      "id": "5ac3ad51774b170000607484",
+      "text": " 舞台を中心に活躍",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773331,
+      "updated": 1522773334
+    },
+    {
+      "id": "5ac3ad0b774b17000060747e",
+      "text": " [/icons/youtube.icon] https://www.youtube.com/channel/UCQ75mjyRYZbprTUwO5kP8ig/videos",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773261,
+      "updated": 1522773269
+    },
+    {
+      "id": "5ac3ad3a774b170000607481",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773307,
+      "updated": 1522773307
+    },
+    {
+      "id": "5ac3ad0b774b17000060747f",
+      "text": "もっと詳しく知りたい",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773261,
+      "updated": 1522773309
+    },
+    {
+      "id": "5ac3ad58774b170000607485",
+      "text": " [http://dic.nicovideo.jp/a/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%BA ラーメンズとは - ニコニコ大百科]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773338,
+      "updated": 1522773349
+    },
+    {
+      "id": "5ac3ad3c774b170000607483",
+      "text": " [https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%BA ラーメンズ - Wikipedia]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773309,
+      "updated": 1522773310
+    },
+    {
+      "id": "5ac3ad3c774b170000607482",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522773309,
+      "updated": 1522773309
+    }
+  ]
+}

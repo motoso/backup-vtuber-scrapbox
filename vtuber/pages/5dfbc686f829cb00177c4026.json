@@ -1,0 +1,71 @@
+{
+  "id": "5dfbc686f829cb00177c4026",
+  "title": "REALITYにユーザー検索機能と低遅延モードが実装される",
+  "created": 1576781449,
+  "updated": 1576781565,
+  "lines": [
+    {
+      "id": "5dfbc686f829cb00177c4026",
+      "text": "REALITYにユーザー検索機能と低遅延モードが実装される",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781449,
+      "updated": 1576781470
+    },
+    {
+      "id": "5dfbc6a00db3350000b4eeed",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781470,
+      "updated": 1576781470
+    },
+    {
+      "id": "5dfbc6a00db3350000b4eeee",
+      "text": "　2019/12/17頃、[REALITY]に（まともな）ユーザー検索機能が実装され、低遅延（1秒）でできるようになった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781470,
+      "updated": 1576781524
+    },
+    {
+      "id": "5dfbc6c40db3350000b4eef0",
+      "text": "　\tとりあえずiPhone版のみで、Android版は後日。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781506,
+      "updated": 1576781521
+    },
+    {
+      "id": "5dfbc6a00db3350000b4eeef",
+      "text": "　低遅延モード",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781471,
+      "updated": 1576781535
+    },
+    {
+      "id": "5dfbc6e10db3350000b4eef2",
+      "text": "　\thttps://twitter.com/youten_redo/status/1207688229853351937",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781535,
+      "updated": 1576781535
+    },
+    {
+      "id": "5dfbc6e20db3350000b4eef3",
+      "text": "　\t\t> [https://pbs.twimg.com/media/EMKSCisUEAAKhwB.jpg]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781536,
+      "updated": 1576781547
+    },
+    {
+      "id": "5dfbc6ed0db3350000b4eef4",
+      "text": " https://twitter.com/eijiaraki/status/1207573001866080257",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781547,
+      "updated": 1576781565
+    },
+    {
+      "id": "5dfbc6de0db3350000b4eef1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576781532,
+      "updated": 1576781532
+    }
+  ]
+}

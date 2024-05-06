@@ -1,0 +1,71 @@
+{
+  "id": "5cb8b88a3ba3b20017642e1a",
+  "title": "Ugokinet",
+  "created": 1555609740,
+  "updated": 1555609825,
+  "lines": [
+    {
+      "id": "5cb8b88a3ba3b20017642e1a",
+      "text": "Ugokinet",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609740,
+      "updated": 1555609742
+    },
+    {
+      "id": "5cb8b88e0db335000066f817",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609742,
+      "updated": 1555609742
+    },
+    {
+      "id": "5cb8b88f0db335000066f818",
+      "text": " コラボ支援ツール。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609742,
+      "updated": 1555609797
+    },
+    {
+      "id": "5cb8b8c60db335000066f81a",
+      "text": " \tアバターの表情やモーションの同期を低遅延にすることを目的とする。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609797,
+      "updated": 1555609797
+    },
+    {
+      "id": "5cb8b88f0db335000066f819",
+      "text": "　https://www.coilsnet.dev/ugokinet",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609742,
+      "updated": 1555609803
+    },
+    {
+      "id": "5cb8b8cc0db335000066f81c",
+      "text": "　[/icons/twitter.icon] https://twitter.com/CoilsNetwork",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609804,
+      "updated": 1555609811
+    },
+    {
+      "id": "5cb8b8c70db335000066f81b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609799,
+      "updated": 1555609799
+    },
+    {
+      "id": "5cb8b8d50db335000066f81d",
+      "text": "#ソフトウェア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609813,
+      "updated": 1555609825
+    },
+    {
+      "id": "5cb8b8d50db335000066f81e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1555609813,
+      "updated": 1555609813
+    }
+  ]
+}

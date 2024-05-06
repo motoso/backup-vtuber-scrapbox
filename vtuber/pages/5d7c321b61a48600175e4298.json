@@ -1,0 +1,1107 @@
+{
+  "id": "5d7c321b61a48600175e4298",
+  "title": "ユメノグラフィア",
+  "created": 1568420381,
+  "updated": 1593956372,
+  "lines": [
+    {
+      "id": "5d7c321b61a48600175e4298",
+      "text": "ユメノグラフィア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420381,
+      "updated": 1568420381
+    },
+    {
+      "id": "5d7c321d0db33500003ad8f8",
+      "text": "[https://pbs.twimg.com/media/D4Qh8yRUUAAjMlP.jpg]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420381,
+      "updated": 1568420708
+    },
+    {
+      "id": "5d7c33890db33500003ad909",
+      "text": "[https://www.youtube.com/watch?v=7zYKJXr-alM]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420745,
+      "updated": 1585316115
+    },
+    {
+      "id": "5e7e01160db335000030dd03",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585316115,
+      "updated": 1585316115
+    },
+    {
+      "id": "5dd270790db3350000d81352",
+      "text": "概要",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072441,
+      "updated": 1574072444
+    },
+    {
+      "id": "5d7c321d0db33500003ad8f9",
+      "text": "　[いちから株式会社]が運営する、VR空間上でのコミュニケーションサービス。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420381,
+      "updated": 1568420429
+    },
+    {
+      "id": "5ef483bc0db3350000abfb3b",
+      "text": "　\tVR版、デスクトップ版、ライト版（モバイル用）がある。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593082812,
+      "updated": 1593083354
+    },
+    {
+      "id": "5d7c32790db33500003ad8fb",
+      "text": "　\tVR版では、体験者はヘッドマウントディスプレイを被って自宅からVR空間に入り、そこでキャストと1対1の会話を行う。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420474,
+      "updated": 1593082808
+    },
+    {
+      "id": "5d7c37270db33500003ad928",
+      "text": "　\tVR空間上でのカフェのようなもの。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421671,
+      "updated": 1568421676
+    },
+    {
+      "id": "5d7c328f0db33500003ad8fc",
+      "text": "　\t1回の時間が決まっており、時間内での体験にお金を払うシステム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420495,
+      "updated": 1568420516
+    },
+    {
+      "id": "5dd270860db3350000d81353",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072454,
+      "updated": 1574072454
+    },
+    {
+      "id": "5dd64e6b0db33500009e050d",
+      "text": "キャスト",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574325867,
+      "updated": 1574325871
+    },
+    {
+      "id": "5dd64e6f0db33500009e050f",
+      "text": "　[片倉一実]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574325871,
+      "updated": 1574325886
+    },
+    {
+      "id": "5dd64e7e0db33500009e0510",
+      "text": "　[聖グレイル]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574325886,
+      "updated": 1574325892
+    },
+    {
+      "id": "5dd64e840db33500009e0511",
+      "text": "　[南絢音]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574325892,
+      "updated": 1574325895
+    },
+    {
+      "id": "5dd64e870db33500009e0512",
+      "text": "　[宝生てあ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574325895,
+      "updated": 1574325899
+    },
+    {
+      "id": "5dd64e8b0db33500009e0513",
+      "text": "　[六道カロ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574325899,
+      "updated": 1574325903
+    },
+    {
+      "id": "5df9ddb90db335000064d4e5",
+      "text": "　[鳩岡小恋]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576656308,
+      "updated": 1576656312
+    },
+    {
+      "id": "5df9ddbe0db335000064d4e6",
+      "text": "　[ころぼし まう]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576656312,
+      "updated": 1576656318
+    },
+    {
+      "id": "5e060a750db33500000741d1",
+      "text": "　[観影みゆ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577454197,
+      "updated": 1577454197
+    },
+    {
+      "id": "5dd64e6b0db33500009e050e",
+      "text": "　[筆染四季]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574325867,
+      "updated": 1577454547
+    },
+    {
+      "id": "5e16fa4b0db3350000e42258",
+      "text": "　[苺ノ森こひな]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578564173,
+      "updated": 1578564174
+    },
+    {
+      "id": "5e16fa500db3350000e42259",
+      "text": "　[雎雪待]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578564178,
+      "updated": 1578564178
+    },
+    {
+      "id": "5e3404000db3350000ee01b7",
+      "text": "　[小花てくと]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1580467201,
+      "updated": 1580467221
+    },
+    {
+      "id": "5e3404160db3350000ee01b8",
+      "text": "　[りいか]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1580467222,
+      "updated": 1580467224
+    },
+    {
+      "id": "5e4fc9710db335000019b1aa",
+      "text": "　[四ノ宮透華]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582287217,
+      "updated": 1582287254
+    },
+    {
+      "id": "5e4fc9970db335000019b1ab",
+      "text": "　[ロッド・クロウリー]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582287255,
+      "updated": 1582287262
+    },
+    {
+      "id": "5e6b3fde0db3350000d71bff",
+      "text": "　[紅夜ぺい]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584087006,
+      "updated": 1584087009
+    },
+    {
+      "id": "5e6b3fe10db3350000d71c00",
+      "text": "　[蝿取かづら]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584087009,
+      "updated": 1584087010
+    },
+    {
+      "id": "5ee375860db335000098c42e",
+      "text": "　[ミーティア]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965060,
+      "updated": 1591965062
+    },
+    {
+      "id": "5ee375880db335000098c42f",
+      "text": "　[朝霧いづる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965062,
+      "updated": 1591965435
+    },
+    {
+      "id": "5ee3758d0db335000098c430",
+      "text": "　[暮間珀暮]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965068,
+      "updated": 1591965071
+    },
+    {
+      "id": "5ef483fe0db3350000abfb3c",
+      "text": "　[蒼海カヤナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593082878,
+      "updated": 1593082878
+    },
+    {
+      "id": "5ef483ff0db3350000abfb3d",
+      "text": "　[雛芽るち]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593082879,
+      "updated": 1593082883
+    },
+    {
+      "id": "5e060bd20db33500000741d2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577454546,
+      "updated": 1577454546
+    },
+    {
+      "id": "5de7872d0db3350000167cbd",
+      "text": "広報",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575454508,
+      "updated": 1575454510
+    },
+    {
+      "id": "5de7872f0db3350000167cbf",
+      "text": "　[ユメノ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575454510,
+      "updated": 1575454512
+    },
+    {
+      "id": "5de7872d0db3350000167cbe",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575454508,
+      "updated": 1575454508
+    },
+    {
+      "id": "5dd270860db3350000d81354",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072454,
+      "updated": 1574072459
+    },
+    {
+      "id": "5d7c34330db33500003ad912",
+      "text": "　URL",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420915,
+      "updated": 1568420916
+    },
+    {
+      "id": "5d7c342f0db33500003ad911",
+      "text": "\t　公式サイト https://www.yumenographia.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420911,
+      "updated": 1568420921
+    },
+    {
+      "id": "5d7c343a0db33500003ad913",
+      "text": "\t　[/icons/twitter.icon] https://twitter.com/Yumenographia",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420922,
+      "updated": 1568420928
+    },
+    {
+      "id": "5de4fd250db33500009e0279",
+      "text": "\t　\t2019/12/2からは広報担当の「[ユメノ]」が[ツイートしている https://twitter.com/Yumenographia/status/1201463570917019649]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575288099,
+      "updated": 1575288124
+    },
+    {
+      "id": "5dd659080db33500005d045e",
+      "text": "\t　[/icons/youtube.icon] https://www.youtube.com/channel/UCvgwkCllAvUNjpe4F6_-GCw",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574328583,
+      "updated": 1574328593
+    },
+    {
+      "id": "5df217db0db33500002265d2",
+      "text": "\t　note https://note.com/yume_note1205",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576146906,
+      "updated": 1576146910
+    },
+    {
+      "id": "5d7c33290db33500003ad907",
+      "text": "　ハッシュタグ：[https://twitter.com/hashtag/%E3%83%A6%E3%83%A1%E3%82%B0%E3%83%A9 #ユメグラ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420649,
+      "updated": 1568420662
+    },
+    {
+      "id": "5d7c330f0db33500003ad905",
+      "text": "　[いちから株式会社]は「にじさんじ」も運営しているが、それとは完全に別事業。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420623,
+      "updated": 1568420641
+    },
+    {
+      "id": "5d7c33210db33500003ad906",
+      "text": "　\thttps://twitter.com/iwataiki/status/1113300150934396928",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420641,
+      "updated": 1568420641
+    },
+    {
+      "id": "5d7c33070db33500003ad904",
+      "text": "　綴りはYumenographia。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420616,
+      "updated": 1568420619
+    },
+    {
+      "id": "5dd2708f0db3350000d81355",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072463,
+      "updated": 1574072463
+    },
+    {
+      "id": "5d7c32a40db33500003ad8fd",
+      "text": "時系列",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420516,
+      "updated": 1574072462
+    },
+    {
+      "id": "5d7c32d80db33500003ad900",
+      "text": "\t2019/4/3、プロジェクトが公開される。同時にコンセプト体験会の体験者募集も開始。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420568,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c32e00db33500003ad901",
+      "text": "\t\thttps://twitter.com/Yumenographia/status/1113276623896272902",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420576,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c32e90db33500003ad902",
+      "text": "\t\thttps://prtimes.jp/main/html/rd/p/000000056.000030865.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420586,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c32f30db33500003ad903",
+      "text": "\t\thttps://twitter.com/iwataiki/status/1113286912955940868",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420596,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c33ea0db33500003ad90e",
+      "text": "\t2019/4/23、バーチャル広報を募集。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420843,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c33f10db33500003ad90f",
+      "text": "\t\thttps://twitter.com/Yumenographia/status/1120666383207976961",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420849,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c338c0db33500003ad90a",
+      "text": "\t2019/5/25～26、体験会を実施。東京、馬喰町。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420748,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c34050db33500003ad910",
+      "text": "\t\t実地で参加する形。つまりヘッドマウントディスプレイを持っていなくても参加できた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420869,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c33a60db33500003ad90c",
+      "text": "\t\tこのときキャスト側も募集した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420774,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c33a30db33500003ad90b",
+      "text": "\t\thttps://twitter.com/Yumenographia/status/1126364506400088064",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420772,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c33b20db33500003ad90d",
+      "text": "\t\thttps://twitter.com/Yumenographia/status/1126105050189709313",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420786,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c345f0db33500003ad914",
+      "text": "\t2019/7/16、公式サイト [https://www.yumenographia.com/] オープン。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420960,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c346e0db33500003ad915",
+      "text": "\t\tβ版の体験予約を開始。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420974,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c36740db33500003ad924",
+      "text": "\t\t実際の体験会は2019/7/23から。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421492,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c348c0db33500003ad916",
+      "text": "\t2019/7/21、[片倉一実]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421005,
+      "updated": 1574072488
+    },
+    {
+      "id": "5dd2709b0db3350000d8135a",
+      "text": "\t2019/7/23から2019/8/16の間β版として体験できた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072475,
+      "updated": 1574072488
+    },
+    {
+      "id": "5dd2709b0db3350000d8135b",
+      "text": "　\t対応デバイス：[Oculus Rift]、[Oculus Rift S]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072475,
+      "updated": 1574072488
+    },
+    {
+      "id": "5dd2709b0db3350000d8135c",
+      "text": "　\t価格：税込1000円/1枠 (30分)",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072475,
+      "updated": 1574072488
+    },
+    {
+      "id": "5dd2709b0db3350000d8135d",
+      "text": "　\t\tこれはβ版価格で、正式リリース後はもう少し高くなるとのこと。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072475,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c34bf0db33500003ad91b",
+      "text": "\t2019/7/24、[聖グレイル]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421056,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c34fa0db33500003ad91c",
+      "text": "\t2019/7/26、[SUMOMOXqX]と[片倉一実]によるユメノグラフィアの体験生放送が行われた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421114,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c35180db33500003ad91d",
+      "text": "\t\tユメノグラフィアは録画禁止のため、この時点では体験会不参加者が唯一ユメノグラフィアの内部を知れる機会だった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421144,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c35540db33500003ad91e",
+      "text": "\t\thttps://twitter.com/Yumenographia/status/1154662686820409344",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421204,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c355c0db33500003ad91f",
+      "text": "\t\t配信URL：https://www.openrec.tv/live/o7z42lgql8l",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421212,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c356b0db33500003ad920",
+      "text": "\t\t編集動画：https://www.youtube.com/watch?v=-6Y0_XMufTY",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421227,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c35a60db33500003ad922",
+      "text": "\t2019/8/7、[南絢音]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568421287,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c5b5a0db3350000e7a029",
+      "text": "\t\tこれにてβ版のキャスト3人が全員デビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568430938,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c32ad0db33500003ad8fe",
+      "text": "\t2019/8/16、β版の稼働が終了。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420526,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c32be0db33500003ad8ff",
+      "text": "\t\thttps://twitter.com/Yumenographia/status/1162373557252288512",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420542,
+      "updated": 1574072488
+    },
+    {
+      "id": "5d7c321d0db33500003ad8fa",
+      "text": "　2019/11/21、[宝生てあ]と[六道カロ]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1568420381,
+      "updated": 1574323605
+    },
+    {
+      "id": "5dd645940db3350000977716",
+      "text": "　\thttps://twitter.com/Yumenographia/status/1197424550956298242",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574323605,
+      "updated": 1574323611
+    },
+    {
+      "id": "5dfc8f090db3350000cd337c",
+      "text": "　2019/12/8、ユメノグラフィアの体験会が行われる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576832775,
+      "updated": 1576832812
+    },
+    {
+      "id": "5dfc8f2e0db3350000cd337e",
+      "text": "　\t詳細：[ユメノグラフィア体験会 in VtL両国]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576832812,
+      "updated": 1577700155
+    },
+    {
+      "id": "5dd645810db3350000977715",
+      "text": " 2019/12/18、[鳩岡小恋]と[ころぼし まう]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574323585,
+      "updated": 1576656336
+    },
+    {
+      "id": "5df9ddc70db335000064d4e7",
+      "text": "　　https://twitter.com/Yumenographia/status/1207208924211892226",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576656322,
+      "updated": 1576656346
+    },
+    {
+      "id": "5df9dddf0db335000064d4e9",
+      "text": "　2019/12/23～31の期間中、キャストの衣装がクリスマス仕様に。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576656346,
+      "updated": 1576832837
+    },
+    {
+      "id": "5dfc8f480db3350000cd337f",
+      "text": "　\thttps://note.com/yume_note1205/n/n780e9fa2a4e7",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576832837,
+      "updated": 1576832840
+    },
+    {
+      "id": "5dfc8f4b0db3350000cd3380",
+      "text": "　\t\t> 期間中は、デビューしているキャストさん全員が、クリスマス衣装をまとって皆さんをお待ちしています！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576832841,
+      "updated": 1576832858
+    },
+    {
+      "id": "5dfc8f5d0db3350000cd3381",
+      "text": "　\t\t> ちなみに来年初春くらいからは、皆さんからキャストさんにお洋服を贈ると可憐に衣装替え！してくれる課金制になる予定ですので、この度は特別にお試し、という感じです！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576832859,
+      "updated": 1576832867
+    },
+    {
+      "id": "5dfc8eff0db3350000cd337b",
+      "text": "　2019/12/27、[観影みゆ]と[筆染四季]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576832765,
+      "updated": 1577454072
+    },
+    {
+      "id": "5e0609f90db335000032f264",
+      "text": "　\thttps://twitter.com/Yumenographia/status/1210501382630821889",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577454072,
+      "updated": 1577454075
+    },
+    {
+      "id": "5e0609e70db335000032f263",
+      "text": "　2020/1/1～15の期間中、キャストの衣装がお正月仕様に。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577454055,
+      "updated": 1578878507
+    },
+    {
+      "id": "5e09cbaa0db335000032e6d1",
+      "text": "　\thttps://note.com/yume_note1205/n/n8f3dd19e807d",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577700267,
+      "updated": 1577700269
+    },
+    {
+      "id": "5e09cbad0db335000032e6d2",
+      "text": "　\t\t> 一見するとシンプルな白と赤の袴姿ですが、袖にお花柄が入っていたり、リボンがついていたりして、とっても可愛いんです！　裾にもお花柄が入っているんですよ～！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577700269,
+      "updated": 1577700283
+    },
+    {
+      "id": "5e09cb8e0db335000032e6d0",
+      "text": " 2020/1/9、[苺ノ森こひな]と[雎雪待]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577700238,
+      "updated": 1578564199
+    },
+    {
+      "id": "5e16fa660db3350000e4225d",
+      "text": " \thttps://twitter.com/Yumenographia/status/1215183472265818112",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578564199,
+      "updated": 1578564203
+    },
+    {
+      "id": "5e16fa590db3350000e4225a",
+      "text": "　2020/1/31、[小花てくと]と[りいか]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578564187,
+      "updated": 1580467242
+    },
+    {
+      "id": "5e4fc9c90db335000019b1af",
+      "text": "　\thttps://twitter.com/Yumenographia/status/1223153946220355585",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582287305,
+      "updated": 1582287306
+    },
+    {
+      "id": "5ee376480db335000098c437",
+      "text": "　2020/2/6～3/2、新空間・新衣装の「教室」仕様に。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965254,
+      "updated": 1591965271
+    },
+    {
+      "id": "5ee376590db335000098c438",
+      "text": "　　https://twitter.com/Yumenographia/status/1220671438006276096",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965271,
+      "updated": 1591965274
+    },
+    {
+      "id": "5e34041d0db3350000ee01b9",
+      "text": " 2020/2/21、[四ノ宮透華]と[ロッド・クロウリー]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1580467230,
+      "updated": 1582287280
+    },
+    {
+      "id": "5e4fc9af0db335000019b1ae",
+      "text": " \thttps://twitter.com/Yumenographia/status/1230764107667632135",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582287280,
+      "updated": 1582287285
+    },
+    {
+      "id": "5e4fc9a60db335000019b1ac",
+      "text": "　2020/3/13、[紅夜ぺい]と[蝿取かづら]がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582287270,
+      "updated": 1584087024
+    },
+    {
+      "id": "5e6b3ff00db3350000d71c02",
+      "text": "　\thttps://twitter.com/Yumenographia/status/1238374247942123520",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584087024,
+      "updated": 1584087027
+    },
+    {
+      "id": "5e6b3fe80db3350000d71c01",
+      "text": "　2020/3/25、[九条林檎]と[宝生てあ]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584087016,
+      "updated": 1585129573
+    },
+    {
+      "id": "5e7b286b0db33500005bab9a",
+      "text": "　　ツイート：https://twitter.com/Yumenographia/status/1242737991493120002",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585129573,
+      "updated": 1585129603
+    },
+    {
+      "id": "5e7b284b0db33500005bab99",
+      "text": "　　動画URL：https://www.youtube.com/watch?v=vyYeZZwY50Y",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585129542,
+      "updated": 1585129599
+    },
+    {
+      "id": "5ef485800db3350000927409",
+      "text": "　2020/4/1、[[デスクトップモードがリリースされる。]]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083264,
+      "updated": 1593083274
+    },
+    {
+      "id": "5ef4858b0db335000092740a",
+      "text": "　 https://note.com/yume_note1205/n/nbec7ff29c350",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083275,
+      "updated": 1593083280
+    },
+    {
+      "id": "5e7b287d0db33500005bab9b",
+      "text": "　2020/4/20、[叶]と[ころぼし まう]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1585129592,
+      "updated": 1587785087
+    },
+    {
+      "id": "5ea3ad800db33500000fe543",
+      "text": "　\thttps://www.youtube.com/watch?v=ieZqxeP9Q2g",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587785087,
+      "updated": 1587785091
+    },
+    {
+      "id": "5ea3ad860db33500000fe545",
+      "text": "　2020/4/24、[舞元啓介]と[雎雪待]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587785093,
+      "updated": 1587785112
+    },
+    {
+      "id": "5ea3ad990db33500000fe546",
+      "text": "　\thttps://www.youtube.com/watch?v=A066IoSvhes",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587785112,
+      "updated": 1587785123
+    },
+    {
+      "id": "5ea3ada50db33500000fe548",
+      "text": "　\t「叶くんと舞元さん、ほんとに同じサービス体験したの？」と話題に。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587785124,
+      "updated": 1587785138
+    },
+    {
+      "id": "5ef4859c0db335000092740b",
+      "text": "　2020/4/30、[[ライト版がリリースされる。]]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083293,
+      "updated": 1593083335
+    },
+    {
+      "id": "5ef485a90db335000092740c",
+      "text": "　\thttps://note.com/yume_note1205/n/n3fd2ed8b9b4c",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083306,
+      "updated": 1593083333
+    },
+    {
+      "id": "5ee375f50db335000098c434",
+      "text": "　2020/5/26～7/1の期間中、新空間・新衣装のイングリッシュガーデン仕様に。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965171,
+      "updated": 1591965214
+    },
+    {
+      "id": "5ee376200db335000098c435",
+      "text": "　　https://twitter.com/Yumenographia/status/1260887587767463937",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965214,
+      "updated": 1591965222
+    },
+    {
+      "id": "5ee376280db335000098c436",
+      "text": "　　https://twitter.com/Yumenographia/status/1268766474702688256",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965222,
+      "updated": 1591965226
+    },
+    {
+      "id": "5ea3ad6b0db33500000fe542",
+      "text": " 2020/6/5、[渋谷ハジメ]と[六道カロ]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587785065,
+      "updated": 1591965134
+    },
+    {
+      "id": "5ee375d00db335000098c432",
+      "text": " 　https://www.youtube.com/watch?v=sSNZsylB70Y",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965134,
+      "updated": 1591965137
+    },
+    {
+      "id": "5ee375970db335000098c431",
+      "text": "　2020/6/11、[ミーティア]、[朝霧いづる]、[暮間珀暮]の3人がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965076,
+      "updated": 1591965309
+    },
+    {
+      "id": "5ee376800db335000098c43c",
+      "text": "　　https://twitter.com/Yumenographia/status/1271001757783519232",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965309,
+      "updated": 1591965312
+    },
+    {
+      "id": "5ee376620db335000098c439",
+      "text": "　2020/6/14、[飛鳥ひな]と[苺ノ森こひな]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1591965280,
+      "updated": 1593083411
+    },
+    {
+      "id": "5ef486130db335000092740e",
+      "text": "　　https://www.youtube.com/watch?v=-eDJhwVY5Ig",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083411,
+      "updated": 1593083417
+    },
+    {
+      "id": "5ef485fe0db335000092740d",
+      "text": "　2020/6/18、[あっくん大魔王]と[四ノ宮透華]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083390,
+      "updated": 1593083466
+    },
+    {
+      "id": "5ef4864a0db3350000927411",
+      "text": "　　https://www.youtube.com/watch?v=1gHtGTmIBy8",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083466,
+      "updated": 1593083468
+    },
+    {
+      "id": "5ef4864d0db3350000927413",
+      "text": "　2020/6/25、[瀬戸美夜子]と[宝生てあ]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083469,
+      "updated": 1593083489
+    },
+    {
+      "id": "5ef486610db3350000927414",
+      "text": "　　https://www.youtube.com/watch?v=QwH-uw90Nos",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083489,
+      "updated": 1593083499
+    },
+    {
+      "id": "5ef4866c0db3350000927416",
+      "text": "　2020/6/25、[蒼海カヤナ]と[雛芽るち]の2人がデビュー。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083500,
+      "updated": 1593083517
+    },
+    {
+      "id": "5ef4867e0db3350000927417",
+      "text": "　　https://twitter.com/Yumenographia/status/1276062578888732672",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083518,
+      "updated": 1593083522
+    },
+    {
+      "id": "5ef486820db3350000927418",
+      "text": "　2020/6/26、[ニュイ・ソシエール]と[紅夜ぺい]のユメノグラフィア紹介コラボ動画が公開された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083522,
+      "updated": 1593083542
+    },
+    {
+      "id": "5ef486960db3350000927419",
+      "text": "　　https://www.youtube.com/watch?v=nLYzA_gi1zc",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083542,
+      "updated": 1593825853
+    },
+    {
+      "id": "5ef4861a0db3350000927410",
+      "text": "　2020/7/3～5、[大空家]の面々がユメノグラフィアを生放送で体験するコラボが行われた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593083418,
+      "updated": 1593825884
+    },
+    {
+      "id": "5effda610db33500004f7ba3",
+      "text": "　　7/3 [しぐれうい]＆[観影みゆ] https://www.youtube.com/watch?v=FRdWf9Ia2js",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593825884,
+      "updated": 1593826009
+    },
+    {
+      "id": "5f0096cb0db33500004ec875",
+      "text": "　　7/4 [大空スバル]＆[宝生てあ] https://www.youtube.com/watch?v=t1D3O5RC_vc",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593874121,
+      "updated": 1593874136
+    },
+    {
+      "id": "5f01d8020db3350000ae848a",
+      "text": "　　7/5 [舞元啓介]＆[苺ノ森こひな] https://www.youtube.com/watch?v=Fkt6uO4Ifv0",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593956353,
+      "updated": 1593956372
+    },
+    {
+      "id": "5effda430db33500004f7ba2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1593825854,
+      "updated": 1593825854
+    },
+    {
+      "id": "5dd270bf0db3350000d8135e",
+      "text": "補足",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072511,
+      "updated": 1574325993
+    },
+    {
+      "id": "5dd270cd0db3350000d81360",
+      "text": "　正式版・ゲスト用デフォルトアバターの生みの親：[とりあえず]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072526,
+      "updated": 1574325999
+    },
+    {
+      "id": "5dd270dd0db3350000d81361",
+      "text": "　\thttps://twitter.com/toriae_zu_/status/1196362516663693312",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072541,
+      "updated": 1574072544
+    },
+    {
+      "id": "5dd270c00db3350000d8135f",
+      "text": "　VTuberかどうかは微妙",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574072512,
+      "updated": 1582289757
+    },
+    {
+      "id": "5e4fd3670db33500007473db",
+      "text": "　\tキャストの一人は「会える3Dのvtuberって思ってほしい」と発言 (2020年2月)。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582289765,
+      "updated": 1582289811
+    },
+    {
+      "id": "5e4fd37c0db33500007473dc",
+      "text": "　\t\thttps://twitter.com/Tea_H_YG/status/1230836045572272128",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582289786,
+      "updated": 1582289789
+    },
+    {
+      "id": "5dd64efd0db335000057056d",
+      "text": "　\t別のキャストはVTuberでは無いとのこと (2019年7月)。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574326013,
+      "updated": 1582289808
+    },
+    {
+      "id": "5dd64efd0db335000057056e",
+      "text": "　\t\thttps://twitter.com/Hitomi_K_YG/status/1152814838340435968",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574326013,
+      "updated": 1574326013
+    },
+    {
+      "id": "5dd64efd0db335000057056f",
+      "text": "　\t\t> vtuberまたはそれに近い存在ですか という質問に関しては、「いいえ」とだけ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574326013,
+      "updated": 1574326013
+    },
+    {
+      "id": "5e4fd3960db33500007473dd",
+      "text": "　\tキャストによってスタンスが違うらしい。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582289812,
+      "updated": 1582289818
+    },
+    {
+      "id": "5dd64efd0db3350000570570",
+      "text": "　\t[nekketsuuu.icon] 客観的にはVの者界隈ということでまとめられそうなので、このwikiにも記事を立てています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574326013,
+      "updated": 1574326013
+    },
+    {
+      "id": "5dd64f000db3350000570571",
+      "text": " https://www.yumenographia.com/#/casts の番号で6、7、8が飛んでいるが、これは内部的にユメノとゲスト（男・女）の登録をしているため。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1574326016,
+      "updated": 1584164331
+    },
+    {
+      "id": "5e6c6dea0db335000053a111",
+      "text": " \thttps://twitter.com/Yumenographia/status/1238425353057525760",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584164325,
+      "updated": 1584164325
+    },
+    {
+      "id": "5e6c6db70db335000053a110",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584164274,
+      "updated": 1584164274
+    },
+    {
+      "id": "5df6690d774b170000cda824",
+      "text": "体験レポート",
+      "userId": "59fb21121207900012774b17",
+      "created": 1576429837,
+      "updated": 1576429840
+    },
+    {
+      "id": "5e060c320db33500000741d5",
+      "text": "　[体験レポまとめ https://wikiwiki.jp/yumegra/%E4%BD%93%E9%A8%93%E3%83%AC%E3%83%9D%E3%81%BE%E3%81%A8%E3%82%81] -- ユメノグラフィア Wiki",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577454641,
+      "updated": 1579080655
+    },
+    {
+      "id": "5e060c680db33500000741db",
+      "text": "　[ユメノグラフィアキャスト分布図 https://note.com/dum_uranus/n/n60edf6b5fdd5] -- note",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1577454695,
+      "updated": 1589005339
+    },
+    {
+      "id": "5eb64c120db335000044b94b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589005329,
+      "updated": 1589005329
+    }
+  ]
+}

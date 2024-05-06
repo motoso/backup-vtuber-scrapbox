@@ -1,0 +1,50 @@
+{
+  "id": "5eb2a2a0e18236001ed95f8e",
+  "title": "Angelic Lily",
+  "created": 1588765345,
+  "updated": 1588765361,
+  "lines": [
+    {
+      "id": "5eb2a2a0e18236001ed95f8e",
+      "text": "Angelic Lily",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588765345,
+      "updated": 1588765345
+    },
+    {
+      "id": "5eb2a2a60db33500008606da",
+      "text": "[https://www.youtube.com/watch?v=kD98hBkgc5w]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588765346,
+      "updated": 1588765349
+    },
+    {
+      "id": "5eb2a2a90db33500008606dc",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588765349,
+      "updated": 1588765349
+    },
+    {
+      "id": "5eb2a2a90db33500008606dd",
+      "text": " [天使リリエル]の[オリジナル楽曲]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588765349,
+      "updated": 1588765356
+    },
+    {
+      "id": "5eb2a2b10db33500008606de",
+      "text": " 2020/5/6、MV公開。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588765357,
+      "updated": 1588765361
+    },
+    {
+      "id": "5eb2a2a90db33500008606db",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588765349,
+      "updated": 1588765349
+    }
+  ]
+}

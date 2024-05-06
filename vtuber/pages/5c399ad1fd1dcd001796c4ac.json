@@ -1,0 +1,43 @@
+{
+  "id": "5c399ad1fd1dcd001796c4ac",
+  "title": "brat",
+  "created": 1547279060,
+  "updated": 1547279076,
+  "lines": [
+    {
+      "id": "5c399ad1fd1dcd001796c4ac",
+      "text": "brat",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547279060,
+      "updated": 1547279060
+    },
+    {
+      "id": "5c399adb774b1700009d7c27",
+      "text": "[イラストレーター]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547279068,
+      "updated": 1547279068
+    },
+    {
+      "id": "5c399ad3774b1700009d7c22",
+      "text": "[/icons/twitter.icon] https://twitter.com/brabrabrat00",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547279060,
+      "updated": 1547279076
+    },
+    {
+      "id": "5c399ad4774b1700009d7c23",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547279061,
+      "updated": 1547279061
+    },
+    {
+      "id": "5c399ad7774b1700009d7c25",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547279063,
+      "updated": 1547279063
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "5ea2ef4b20c4130017b8ace3",
+  "title": "mocape",
+  "created": 1587736396,
+  "updated": 1587912660,
+  "lines": [
+    {
+      "id": "5ea2ef4b20c4130017b8ace3",
+      "text": "mocape",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736396,
+      "updated": 1587736397
+    },
+    {
+      "id": "5ea2ef520db3350000ae2994",
+      "text": "[https://www.youtube.com/watch?v=IEH1qPc9WBM]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736397,
+      "updated": 1587912660
+    },
+    {
+      "id": "5ea59fd80db3350000265e89",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587912660,
+      "updated": 1587912660
+    },
+    {
+      "id": "5ea2ef520db3350000ae2995",
+      "text": " クロスプラットフォームな[Live2D]アバターアプリ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736397,
+      "updated": 1587736417
+    },
+    {
+      "id": "5ea2ef5b0db3350000ae2997",
+      "text": " [clocknote.]による個人製作。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736407,
+      "updated": 1587736438
+    },
+    {
+      "id": "5ea2ef530db3350000ae2996",
+      "text": " 紹介記事：https://note.com/clocknote/n/n0635fc72420e",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736398,
+      "updated": 1587736802
+    },
+    {
+      "id": "5ea2f0e90db3350000ae2999",
+      "text": " 　クロスプラットフォーム。Macでも使える。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736804,
+      "updated": 1587736849
+    },
+    {
+      "id": "5ea2f1000db3350000ae299a",
+      "text": " 　ARKitのフェイストラックを使用。写真用のカメラは使わない。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736827,
+      "updated": 1587736886
+    },
+    {
+      "id": "5ea2f13a0db3350000ae299b",
+      "text": " 　SyphonやNDIを用いたアルファチャンネルつき映像の直接伝送。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736886,
+      "updated": 1587736910
+    },
+    {
+      "id": "5ea2f1530db3350000ae299c",
+      "text": " 　オフラインコラボ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736910,
+      "updated": 1587736930
+    },
+    {
+      "id": "5ea2f0e10db3350000ae2998",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736796,
+      "updated": 1587736796
+    },
+    {
+      "id": "5ea2f1680db3350000ae299d",
+      "text": "#ソフトウェア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736931,
+      "updated": 1587736934
+    },
+    {
+      "id": "5ea2f1680db3350000ae299e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587736931,
+      "updated": 1587736931
+    }
+  ]
+}

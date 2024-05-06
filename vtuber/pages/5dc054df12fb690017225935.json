@@ -1,0 +1,85 @@
+{
+  "id": "5dc054df12fb690017225935",
+  "title": "VMagicMirror",
+  "created": 1572885760,
+  "updated": 1572886040,
+  "lines": [
+    {
+      "id": "5dc054df12fb690017225935",
+      "text": "VMagicMirror",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885760,
+      "updated": 1572885762
+    },
+    {
+      "id": "5dc055040db3350000cbc7a7",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885763,
+      "updated": 1572885763
+    },
+    {
+      "id": "5dc055380db3350000cbc7ab",
+      "text": "　[VRM]を表示し、キーボードやマウスでアバターを動かせる[ソフトウェア]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885814,
+      "updated": 1572885844
+    },
+    {
+      "id": "5dc0556e0db3350000cbc7ad",
+      "text": "　\tリップシンクや表情トラッキングもできる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885868,
+      "updated": 1572885886
+    },
+    {
+      "id": "5dc0555c0db3350000cbc7ac",
+      "text": " https://malaybaku.github.io/VMagicMirrorManual/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885850,
+      "updated": 1572885850
+    },
+    {
+      "id": "5dc055050db3350000cbc7a8",
+      "text": " 制作：[獏星]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885763,
+      "updated": 1572885848
+    },
+    {
+      "id": "5dc055c20db3350000cbc7ae",
+      "text": " \t2019年3月頃にβ版が公開され、徐々にアップデートされた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885952,
+      "updated": 1572886040
+    },
+    {
+      "id": "5dc0560a0db3350000cbc7b1",
+      "text": " \thttps://twitter.com/baku_dreameater/status/1105843143319011328",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572886024,
+      "updated": 1572886024
+    },
+    {
+      "id": "5dc055d90db3350000cbc7af",
+      "text": " \thttps://www.baku-dreameater.net/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885975,
+      "updated": 1572886000
+    },
+    {
+      "id": "5dc055fa0db3350000cbc7b0",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572886008,
+      "updated": 1572886021
+    },
+    {
+      "id": "5dc055050db3350000cbc7a9",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572885763,
+      "updated": 1572885763
+    }
+  ]
+}

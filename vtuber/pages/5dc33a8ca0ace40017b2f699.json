@@ -1,0 +1,337 @@
+{
+  "id": "5dc33a8ca0ace40017b2f699",
+  "title": "デジタルハリウッド大学大学院 テクノロジー特論D 人工現実",
+  "created": 1573075597,
+  "updated": 1573076664,
+  "lines": [
+    {
+      "id": "5dc33a8ca0ace40017b2f699",
+      "text": "デジタルハリウッド大学大学院 テクノロジー特論D 人工現実",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075597,
+      "updated": 1573075603
+    },
+    {
+      "id": "5dc33a990db33500005bb9ae",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075607,
+      "updated": 1573075607
+    },
+    {
+      "id": "5dc33a9f0db33500005bb9b1",
+      "text": "　[デジタルハリウッド大学]の大学院で行われている[授業]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075613,
+      "updated": 1573075704
+    },
+    {
+      "id": "5dc33a9f0db33500005bb9b2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075613,
+      "updated": 1573075613
+    },
+    {
+      "id": "5dc33a990db33500005bb9af",
+      "text": "[* 2019年度]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075608,
+      "updated": 1573075611
+    },
+    {
+      "id": "5dc33a9b0db33500005bb9b0",
+      "text": "　担当：[白井暁彦] 客員教授",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075609,
+      "updated": 1573075713
+    },
+    {
+      "id": "5dc33b2a0db33500005bb9b4",
+      "text": "　授業概要",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075753,
+      "updated": 1573075755
+    },
+    {
+      "id": "5dc33b2d0db33500005bb9b5",
+      "text": "　\t> 本講義はVR、特にVRエンタテインメントシステムに従事する修士卒の専門家として、体験型コンテンツを生み出せる人物を育成することを目的としている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075755,
+      "updated": 1573075760
+    },
+    {
+      "id": "5dc33b2e0db33500005bb9b7",
+      "text": "  > 前半ではVR技術者認定試験と教科書「バーチャルリアリティ学」を使い、VRのサイエンスとしての基礎知識を体得する。後半はVTuberの制作・プロデュース体験に加え、VRエンタテインメント企画提案者として企画を立案し、複数回のレビューを通して企画を錬成する体験を得ることで、長期にわたって企画制作や研究開発の分野で楽しみを生み出せる人物を養成する。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075756,
+      "updated": 1573075768
+    },
+    {
+      "id": "5dc33afc0db33500005bb9b3",
+      "text": "  https://gs.dhw.ac.jp/files/docs/syllabus2019.pdf より引用。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075706,
+      "updated": 1573075777
+    },
+    {
+      "id": "5dc33b430db33500005bb9bb",
+      "text": " この講義がきっかけで何名かのVTuberが誕生。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075777,
+      "updated": 1573075808
+    },
+    {
+      "id": "5dc33b630db33500005bb9bc",
+      "text": " \t講義の中に、VTuberを作ってSNSで人格をリリースするという演習がある。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075809,
+      "updated": 1573075835
+    },
+    {
+      "id": "5dc33cb40db33500005bb9c9",
+      "text": " \t\thttps://twitter.com/o_ob/status/1188797497700798464",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076146,
+      "updated": 1573076146
+    },
+    {
+      "id": "5dc33bf70db33500005bb9c2",
+      "text": " \t誕生したVTuberの例",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075957,
+      "updated": 1573075962
+    },
+    {
+      "id": "5dc33bed0db33500005bb9c0",
+      "text": "\t \t[寧々]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075947,
+      "updated": 1573075962
+    },
+    {
+      "id": "5dc33c090db33500005bb9c3",
+      "text": "\t \t\t中国南昌のVTuber。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075976,
+      "updated": 1573076432
+    },
+    {
+      "id": "5dc33bf50db33500005bb9c1",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/nene_nanchang",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075955,
+      "updated": 1573075975
+    },
+    {
+      "id": "5dc33c1b0db33500005bb9c4",
+      "text": "\t \t\t制作者：[電光超人P] [https://twitter.com/ralicre/status/1191015846744715264]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075993,
+      "updated": 1573076052
+    },
+    {
+      "id": "5dc33c6b0db33500005bb9c5",
+      "text": "\t \t[RAZIA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076073,
+      "updated": 1573076082
+    },
+    {
+      "id": "5dc33c750db33500005bb9c6",
+      "text": "\t \t\t「私たちは中国南昌市の文化代表vtuberとして、三人で南昌の「食」、「伝統」、「科学」方面から活動します！」",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076083,
+      "updated": 1573076113
+    },
+    {
+      "id": "5dc33c940db33500005bb9c7",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/RAZIAMORI",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076114,
+      "updated": 1573076123
+    },
+    {
+      "id": "5dc33c9d0db33500005bb9c8",
+      "text": "\t \t\t制作者：[MORI] https://twitter.com/Mori_misaki1/status/1191547845901307904",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076123,
+      "updated": 1573076132
+    },
+    {
+      "id": "5dc33d3e0db33500005bb9cc",
+      "text": "\t \t[せなち]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076285,
+      "updated": 1573076288
+    },
+    {
+      "id": "5dc33d420db33500005bb9cd",
+      "text": "\t \t\t「中の人はいません！」「外の人がいる」",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076289,
+      "updated": 1573076354
+    },
+    {
+      "id": "5dc33d490db33500005bb9ce",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/JK_senachi",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076296,
+      "updated": 1573076369
+    },
+    {
+      "id": "5dc33d930db33500005bb9cf",
+      "text": "\t \t\t[/icons/youtube.icon] https://www.youtube.com/channel/UCgs2XMrWBIvigeusgZ6_dMw",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076369,
+      "updated": 1573076380
+    },
+    {
+      "id": "5dc33daf0db33500005bb9d0",
+      "text": "\t \t[TAMAKI]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076398,
+      "updated": 1573076400
+    },
+    {
+      "id": "5dc33dc70db33500005bb9d3",
+      "text": "\t \t\tライブハウスで弾き語りをしている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076421,
+      "updated": 1573076426
+    },
+    {
+      "id": "5dc33db30db33500005bb9d1",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/TAMAKI15596895",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076401,
+      "updated": 1573076405
+    },
+    {
+      "id": "5dc33db70db33500005bb9d2",
+      "text": "\t \t\t[/icons/youtube.icon] https://www.youtube.com/channel/UCmUZ0OLyiQDaE6VPsHzgvcQ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076405,
+      "updated": 1573076420
+    },
+    {
+      "id": "5dc33de80db33500005bb9d4",
+      "text": "\t \t[Pika]（パイカ）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076454,
+      "updated": 1573076460
+    },
+    {
+      "id": "5dc33e0c0db33500005bb9d6",
+      "text": "\t \t\t声が出せない。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076490,
+      "updated": 1573076510
+    },
+    {
+      "id": "5dc33def0db33500005bb9d5",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/4jnMiiAprWYxYTj",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076461,
+      "updated": 1573076465
+    },
+    {
+      "id": "5dc33cf90db33500005bb9ca",
+      "text": "\t \t[プイン・ククーマ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076215,
+      "updated": 1573076217
+    },
+    {
+      "id": "5dc33cfb0db33500005bb9cb",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/akumapuin",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076217,
+      "updated": 1573076226
+    },
+    {
+      "id": "5dc33eae0db33500005bb9dd",
+      "text": "\t \t[アヌビナナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076653,
+      "updated": 1573076656
+    },
+    {
+      "id": "5dc33eb30db33500005bb9de",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/anubinana1",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076656,
+      "updated": 1573076664
+    },
+    {
+      "id": "5dc33e4e0db33500005bb9d9",
+      "text": "\t \t[不夜湖光]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076556,
+      "updated": 1573076565
+    },
+    {
+      "id": "5dc33e570db33500005bb9da",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/Zhao_TianHua",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076566,
+      "updated": 1573076574
+    },
+    {
+      "id": "5dc33e320db33500005bb9d7",
+      "text": "\t \t[あつみこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076528,
+      "updated": 1573076530
+    },
+    {
+      "id": "5dc33e340db33500005bb9d8",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/atsumikodayo",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076530,
+      "updated": 1573076535
+    },
+    {
+      "id": "5dc33e6f0db33500005bb9db",
+      "text": "\t \t[天ノ原夕軌]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076589,
+      "updated": 1573076599
+    },
+    {
+      "id": "5dc33e720db33500005bb9dc",
+      "text": "\t \t\t[/icons/twitter.icon] https://twitter.com/Rthc5Il",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573076592,
+      "updated": 1573076625
+    },
+    {
+      "id": "5dc33b7d0db33500005bb9bd",
+      "text": " ハッシュタグ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075835,
+      "updated": 1573075914
+    },
+    {
+      "id": "5dc33bcc0db33500005bb9be",
+      "text": " \t[https://twitter.com/hashtag/%E4%BA%BA%E5%B7%A5%E7%8F%BE%E5%AE%9F #人工現実]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075914,
+      "updated": 1573075927
+    },
+    {
+      "id": "5dc33bda0db33500005bb9bf",
+      "text": " \t[https://twitter.com/hashtag/DHGS2019VR #DHGS2019VR]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075928,
+      "updated": 1573075936
+    },
+    {
+      "id": "5dc33b3d0db33500005bb9ba",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573075771,
+      "updated": 1573075771
+    }
+  ]
+}

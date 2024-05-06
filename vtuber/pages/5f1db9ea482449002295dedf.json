@@ -1,0 +1,36 @@
+{
+  "id": "5f1db9ea482449002295dedf",
+  "title": "バーチャルカノジョ",
+  "created": 1595783660,
+  "updated": 1595783737,
+  "lines": [
+    {
+      "id": "5f1db9ea482449002295dedf",
+      "text": "バーチャルカノジョ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595783660,
+      "updated": 1595783734
+    },
+    {
+      "id": "5f1dba370db3350000078fe1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595783734,
+      "updated": 1595783734
+    },
+    {
+      "id": "5f1dba380db3350000078fe2",
+      "text": "→ [cocoro:id]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595783735,
+      "updated": 1595783737
+    },
+    {
+      "id": "5f1dba380db3350000078fe3",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595783736,
+      "updated": 1595783736
+    }
+  ]
+}

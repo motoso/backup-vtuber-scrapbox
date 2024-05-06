@@ -1,0 +1,43 @@
+{
+  "id": "5e0fd755780cd500178a5096",
+  "title": "株式会社VIC",
+  "created": 1578096472,
+  "updated": 1578096490,
+  "lines": [
+    {
+      "id": "5e0fd755780cd500178a5096",
+      "text": "株式会社VIC",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578096472,
+      "updated": 1578096472
+    },
+    {
+      "id": "5e0fd7590db33500000950bf",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578096473,
+      "updated": 1578096473
+    },
+    {
+      "id": "5e0fd75a0db33500000950c0",
+      "text": " [輝夜月]や[ピンキーポップヘップバーン]を運営する[企業]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578096473,
+      "updated": 1578096487
+    },
+    {
+      "id": "5e0fd7680db33500000950c2",
+      "text": " https://www.vic-inc.jp/virtual-tallent",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578096487,
+      "updated": 1578096490
+    },
+    {
+      "id": "5e0fd75b0db33500000950c1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1578096474,
+      "updated": 1578096474
+    }
+  ]
+}

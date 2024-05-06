@@ -1,0 +1,232 @@
+{
+  "id": "5f8ba49be83cfb00242318b6",
+  "title": "らいとあっぷ",
+  "created": 1602987176,
+  "updated": 1602987778,
+  "lines": [
+    {
+      "id": "5f8ba49be83cfb00242318b6",
+      "text": "らいとあっぷ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987176,
+      "updated": 1602987176
+    },
+    {
+      "id": "5f8ba4a90db3350000025f06",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987176,
+      "updated": 1602987176
+    },
+    {
+      "id": "5f8ba4dc0db3350000025f0d",
+      "text": "> Light up the future.",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987228,
+      "updated": 1602987231
+    },
+    {
+      "id": "5f8ba4e10db3350000025f0e",
+      "text": "> 夢があるから、輝ける",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987231,
+      "updated": 1602987237
+    },
+    {
+      "id": "5f8ba4db0db3350000025f0c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987226,
+      "updated": 1602987226
+    },
+    {
+      "id": "5f8ba4a90db3350000025f07",
+      "text": "　VTuberグループのひとつ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987176,
+      "updated": 1602987180
+    },
+    {
+      "id": "5f8ba5820db3350000025f15",
+      "text": "　　2020年3月～。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987393,
+      "updated": 1602987778
+    },
+    {
+      "id": "5f8ba4b30db3350000025f09",
+      "text": "　[/icons/twitter.icon] https://twitter.com/Lightup_app",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987186,
+      "updated": 1602987195
+    },
+    {
+      "id": "5f8ba4bd0db3350000025f0a",
+      "text": "　[/icons/youtube.icon] https://www.youtube.com/channel/UCaXV3Xha3iU9mxLMvSakSKQ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987195,
+      "updated": 1602987207
+    },
+    {
+      "id": "5f8ba4a90db3350000025f08",
+      "text": " ホームページ http://lightup.kuron.jp/Lightup/index.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987176,
+      "updated": 1602987217
+    },
+    {
+      "id": "5f8ba51d0db3350000025f11",
+      "text": " [/icons/pixivFANBOX.icon] https://lightup.fanbox.cc/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987291,
+      "updated": 1602987304
+    },
+    {
+      "id": "5f8ba4ca0db3350000025f0b",
+      "text": " メンバー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987208,
+      "updated": 1602987377
+    },
+    {
+      "id": "5f8ba5720db3350000025f13",
+      "text": " 　1期生（2020年3月～。既に別途活動していた方の加入も含む）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987377,
+      "updated": 1602987678
+    },
+    {
+      "id": "5f8ba5750db3350000025f14",
+      "text": " 　　[ありさ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987380,
+      "updated": 1602987658
+    },
+    {
+      "id": "5f8ba6a10db3350000025f16",
+      "text": " 　　[ア・プチ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987680,
+      "updated": 1602987683
+    },
+    {
+      "id": "5f8ba6a50db3350000025f17",
+      "text": " 　　[癒月うる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987684,
+      "updated": 1602987691
+    },
+    {
+      "id": "5f8ba6ac0db3350000025f18",
+      "text": " 　　[緋乃あかね]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987691,
+      "updated": 1602987696
+    },
+    {
+      "id": "5f8ba6b20db3350000025f19",
+      "text": " 　　[熊間まゆ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987696,
+      "updated": 1602987700
+    },
+    {
+      "id": "5f8ba6b50db3350000025f1a",
+      "text": " 　　[天埜つるぎ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987700,
+      "updated": 1602987710
+    },
+    {
+      "id": "5f8ba6bc0db3350000025f1b",
+      "text": "   [神瀬よわ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987707,
+      "updated": 1602987714
+    },
+    {
+      "id": "5f8ba6c40db3350000025f1c",
+      "text": "   [桃園ねむ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987715,
+      "updated": 1602987719
+    },
+    {
+      "id": "5f8ba6c90db3350000025f1d",
+      "text": "   [鮪夢るむね]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987719,
+      "updated": 1602987725
+    },
+    {
+      "id": "5f8ba6cf0db3350000025f1e",
+      "text": "   [白砂ハンリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987725,
+      "updated": 1602987730
+    },
+    {
+      "id": "5f8ba6d40db3350000025f1f",
+      "text": "   [棺美夜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987731,
+      "updated": 1602987742
+    },
+    {
+      "id": "5f8ba6e00db3350000025f20",
+      "text": "   [宵夢みる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987742,
+      "updated": 1602987748
+    },
+    {
+      "id": "5f8ba6e50db3350000025f21",
+      "text": "   [アイリス・ルセン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987748,
+      "updated": 1602987752
+    },
+    {
+      "id": "5f8ba6ea0db3350000025f22",
+      "text": "   [文月空]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987753,
+      "updated": 1602987758
+    },
+    {
+      "id": "5f8ba6ef0db3350000025f23",
+      "text": "   [兎羽理ここ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987758,
+      "updated": 1602987765
+    },
+    {
+      "id": "5f8ba5700db3350000025f12",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987375,
+      "updated": 1602987375
+    },
+    {
+      "id": "5f8ba5000db3350000025f0f",
+      "text": "#コネクトネットワーク株式会社",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987262,
+      "updated": 1602987268
+    },
+    {
+      "id": "5f8ba5000db3350000025f10",
+      "text": "#VTuberグループ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987263,
+      "updated": 1602987770
+    },
+    {
+      "id": "5f8ba6f80db3350000025f24",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1602987767,
+      "updated": 1602987767
+    }
+  ]
+}

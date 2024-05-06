@@ -1,0 +1,316 @@
+{
+  "id": "5f5d2deacfd2a300217f000d",
+  "title": "焼き魚",
+  "created": 1599942148,
+  "updated": 1599942230,
+  "lines": [
+    {
+      "id": "5f5d2deacfd2a300217f000d",
+      "text": "焼き魚",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf1",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf2",
+      "text": "要約",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf3",
+      "text": " >[家畜人ヤプー]と[堕落論]大好き人間です。Vtuber始めました。[シュール]な動画を作っています。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942223
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf4",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf5",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf6",
+      "text": "自己紹介動画",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf7",
+      "text": " 1回目の放送の動画が自己紹介動画とは限らない。特になければあとで追記する。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf8",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bf9",
+      "text": "もっと詳しく知りたい",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bfa",
+      "text": " https://vtuber-post.com/database/detail.php?id=UC3fgXhDu1WPyPh8hM0G7M_Q",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942188
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bfb",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bfc",
+      "text": "アカウント",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bfd",
+      "text": " [/icons/twitter.icon] https://twitter.com/yakisalada",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942194
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bfe",
+      "text": " [/icons/youtube.icon] https://www.youtube.com/channel/UC3fgXhDu1WPyPh8hM0G7M_Q",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942230
+    },
+    {
+      "id": "5f5d2e04774b170000fc4bff",
+      "text": " [/icons/niconico.icon] https://www.nicovideo.jp/user/16500308",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942181
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c00",
+      "text": " [note.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c01",
+      "text": " [/icons/bilibili.icon] ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c02",
+      "text": " [/icons/instagram.icon] ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c03",
+      "text": " [/icons/showroom.icon] ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c04",
+      "text": " [/icons/openrec.icon] ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c05",
+      "text": " [Mirrativ.icon] ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c06",
+      "text": " [/icons/pixivFANBOX.icon] ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c07",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c08",
+      "text": "語録",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c09",
+      "text": " 「ここに有名な言葉（ミーム）を書きます」",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c0a",
+      "text": "  ここにその発言が生まれたコンテキスト（どのようにしてその発言が生まれたのか）を書きます",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c0b",
+      "text": "  その言葉が初めて使われたリンクもわかれば貼ります",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c0c",
+      "text": "   動画の秒数がわかればYouTubeへのリンクを張ると見た人が便利です",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c0d",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c0e",
+      "text": "基本情報",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c0f",
+      "text": " 視聴者のよびかた：",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c10",
+      "text": " 名前の読み方：",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c11",
+      "text": " ハッシュタグ：",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c12",
+      "text": " 身長・体重・年齢・性別・種族などの公式設定を書きます。多分要約と一部かぶります。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c13",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c14",
+      "text": "特記事項",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c15",
+      "text": "　",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c16",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c17",
+      "text": "生みの親",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c18",
+      "text": " キャラクターデザイン：",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c19",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c1a",
+      "text": "#バーチャルYouTuber",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    },
+    {
+      "id": "5f5d2e04774b170000fc4c1b",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1599942148,
+      "updated": 1599942148
+    }
+  ]
+}

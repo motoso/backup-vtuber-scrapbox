@@ -1,0 +1,330 @@
+{
+  "id": "5f1a5881e4fba9001eea3e7c",
+  "title": "AVALON",
+  "created": 1595562116,
+  "updated": 1601120554,
+  "lines": [
+    {
+      "id": "5f1a5881e4fba9001eea3e7c",
+      "text": "AVALON",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562116,
+      "updated": 1595562116
+    },
+    {
+      "id": "5f1a588a0db335000053ceab",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562118,
+      "updated": 1595562118
+    },
+    {
+      "id": "5f1a588a0db335000053ceac",
+      "text": " バーチャルアーティストプロダクション。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562118,
+      "updated": 1595562194
+    },
+    {
+      "id": "5f1a58fe0db335000053ceb4",
+      "text": " [/icons/twitter.icon] https://twitter.com/codeAVALON",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562233,
+      "updated": 1595562245
+    },
+    {
+      "id": "5f675c8a0db3350000111fd7",
+      "text": " 所属アーティスト",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609415,
+      "updated": 1600609423
+    },
+    {
+      "id": "5f675c920db3350000111fd8",
+      "text": " 　[まりなす(仮)]（[2020/9/19発表 https://twitter.com/codeAVALON/status/1307196721890390016]。ゼロ期生扱い）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609423,
+      "updated": 1600609706
+    },
+    {
+      "id": "5f675cae0db3350000111fd9",
+      "text": " 　　[奏天まひろ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609451,
+      "updated": 1600609659
+    },
+    {
+      "id": "5f675cb20db3350000111fda",
+      "text": "   [燈舞りん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609455,
+      "updated": 1600609660
+    },
+    {
+      "id": "5f675cb20db3350000111fdb",
+      "text": "   [音葉なほ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609455,
+      "updated": 1600609661
+    },
+    {
+      "id": "5f675cb20db3350000111fdc",
+      "text": "   [鈴鳴すばる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609455,
+      "updated": 1600609662
+    },
+    {
+      "id": "5f675cb20db3350000111fdd",
+      "text": "  [Microphone soul spinners]（言霊少女プロジェクト。[2020/9/20発表 https://twitter.com/codeAVALON/status/1307673837023170561]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609456,
+      "updated": 1600609554
+    },
+    {
+      "id": "5f675cd60db3350000111fde",
+      "text": "  　[向田らいむ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609491,
+      "updated": 1600609663
+    },
+    {
+      "id": "5f675cdc0db3350000111fe1",
+      "text": "   [川端ひまわり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609497,
+      "updated": 1600609664
+    },
+    {
+      "id": "5f675cdc0db3350000111fe4",
+      "text": "   [与謝野詩歌]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609497,
+      "updated": 1600609664
+    },
+    {
+      "id": "5f675cdc0db3350000111fe7",
+      "text": "   [ヴィルヌーヴ千愛梨]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609497,
+      "updated": 1600609666
+    },
+    {
+      "id": "5f675cde0db3350000111fe8",
+      "text": "  [RabbyTwins]（言霊少女プロジェクト。[2020/9/20発表 https://twitter.com/codeAVALON/status/1307673837023170561]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609499,
+      "updated": 1600609559
+    },
+    {
+      "id": "5f675d050db3350000111fe9",
+      "text": "  　[大江いぶき]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609538,
+      "updated": 1600609671
+    },
+    {
+      "id": "5f675d090db3350000111fec",
+      "text": "   [大江ふぶき]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609542,
+      "updated": 1600609669
+    },
+    {
+      "id": "5f6f28900db3350000de975f",
+      "text": "  [LiLYPSE]（[2020/9/22発表 https://twitter.com/codeAVALON/status/1308340832118779907]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120399,
+      "updated": 1601120421
+    },
+    {
+      "id": "5f6f28920db3350000de9760",
+      "text": "   [暁みかど]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120401,
+      "updated": 1601120407
+    },
+    {
+      "id": "5f6f28950db3350000de9761",
+      "text": "   [暁おぼろ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120405,
+      "updated": 1601120408
+    },
+    {
+      "id": "5f675d8e0db3350000111fed",
+      "text": " 時系列",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609675,
+      "updated": 1600609677
+    },
+    {
+      "id": "5f1a58d70db335000053ceb1",
+      "text": "  2020年7月下旬、第一期生のオーディション「ReVorn」を開始した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562194,
+      "updated": 1600609679
+    },
+    {
+      "id": "5f1a58f30db335000053ceb2",
+      "text": "  　[/icons/twitter.icon] https://twitter.com/ReVornProject",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562223,
+      "updated": 1600609679
+    },
+    {
+      "id": "5f6f29250db3350000de9781",
+      "text": "  　　ハッシュタグ：[#ReVorn2020 https://twitter.com/hashtag/ReVorn2020]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120548,
+      "updated": 1601120554
+    },
+    {
+      "id": "5f1a58fa0db335000053ceb3",
+      "text": "  　https://avex.code-avalon.com/revorn/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562229,
+      "updated": 1600609679
+    },
+    {
+      "id": "5f4ae9f90db3350000c496e0",
+      "text": "  　[nekketsuuu.icon] 一般専攻オーディションの講評として出された文章が印象的でした。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1598745079,
+      "updated": 1600609679
+    },
+    {
+      "id": "5f4aea0b0db3350000c496e2",
+      "text": "  　 https://twitter.com/ReVornProject/status/1299582932114239489",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1598745097,
+      "updated": 1600609679
+    },
+    {
+      "id": "5f6f28b60db3350000de9762",
+      "text": "  　2020/9/23、最終選考に残った10名が発表され、選考のための活動を開始した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120437,
+      "updated": 1601120463
+    },
+    {
+      "id": "5f6f28d00db3350000de9763",
+      "text": "  　　告知ツイート：https://twitter.com/ReVornProject/status/1308677572591382528",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120464,
+      "updated": 1601120469
+    },
+    {
+      "id": "5f6f28d60db3350000de9764",
+      "text": "  　　最終選考メンバー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120469,
+      "updated": 1601120474
+    },
+    {
+      "id": "5f6f28db0db3350000de9765",
+      "text": "  　　　[愛染ちさよ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120474,
+      "updated": 1601120495
+    },
+    {
+      "id": "5f6f28df0db3350000de9768",
+      "text": "     [五木つかさ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120496
+    },
+    {
+      "id": "5f6f28df0db3350000de976b",
+      "text": "     [くあせふじこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120496
+    },
+    {
+      "id": "5f6f28df0db3350000de976e",
+      "text": "     [大東ひびき]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120497
+    },
+    {
+      "id": "5f6f28df0db3350000de9771",
+      "text": "     [手鞠マリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120498
+    },
+    {
+      "id": "5f6f28df0db3350000de9774",
+      "text": "     [南條夢路]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120499
+    },
+    {
+      "id": "5f6f28df0db3350000de9777",
+      "text": "     [二兎叶夢]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120499
+    },
+    {
+      "id": "5f6f28df0db3350000de977a",
+      "text": "     [華城かをる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120500
+    },
+    {
+      "id": "5f6f28df0db3350000de977d",
+      "text": "     [星輝来夢]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120501
+    },
+    {
+      "id": "5f6f28df0db3350000de9780",
+      "text": "     [夢瞳カナウ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1601120478,
+      "updated": 1601120502
+    },
+    {
+      "id": "5f675d950db3350000111fee",
+      "text": "  2020年9月からAVALON所属メンバーが発表され始めた。最初は既に活動していたVTuberの所属が発表された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1600609682,
+      "updated": 1601120529
+    },
+    {
+      "id": "5f4ae9fd0db3350000c496e1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1598745083,
+      "updated": 1598745084
+    },
+    {
+      "id": "5f1a58cc0db335000053ceae",
+      "text": "#VTuberグループ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562184,
+      "updated": 1595562188
+    },
+    {
+      "id": "5f1a58d10db335000053ceb0",
+      "text": "#エイベックス #エイベックス・ビジネス・ディベロップメント株式会社",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562188,
+      "updated": 1595562283
+    },
+    {
+      "id": "5f1a58cd0db335000053ceaf",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1595562186,
+      "updated": 1595562186
+    }
+  ]
+}

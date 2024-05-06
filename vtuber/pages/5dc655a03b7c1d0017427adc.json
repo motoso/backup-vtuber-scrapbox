@@ -1,0 +1,862 @@
+{
+  "id": "5dc655a03b7c1d0017427adc",
+  "title": "第1回Vtuber楽曲大賞",
+  "created": 1573279143,
+  "updated": 1575970217,
+  "lines": [
+    {
+      "id": "5dc655a03b7c1d0017427adc",
+      "text": "第1回Vtuber楽曲大賞",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279143,
+      "updated": 1573279143
+    },
+    {
+      "id": "5dc655ac0db33500008cb938",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279145,
+      "updated": 1573279145
+    },
+    {
+      "id": "5dc655ad0db33500008cb939",
+      "text": "　2019年のVTuber楽曲について振り返る飲み会イベント。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279145,
+      "updated": 1573283789
+    },
+    {
+      "id": "5dc655d20db33500008cb93b",
+      "text": "　\t参加：[ツラニミズ]、[飯寄雄麻]、[森山ド・ロ]、[ワニのヤカ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279182,
+      "updated": 1573279245
+    },
+    {
+      "id": "5dc655ae0db33500008cb93a",
+      "text": "　2019/12/3＠東京、[渋谷]、[LOFT9 Shibuya]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279146,
+      "updated": 1573279269
+    },
+    {
+      "id": "5dc6562a0db33500008cb93d",
+      "text": "　\thttps://eplus.jp/sf/detail/3145310001-P0030001",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279270,
+      "updated": 1573279274
+    },
+    {
+      "id": "5dc6561d0db33500008cb93c",
+      "text": " 2019/11/9からユーザー投票も実施。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279257,
+      "updated": 1573279292
+    },
+    {
+      "id": "5dc656400db33500008cb93f",
+      "text": " \t楽曲5つ、MV3つを投票。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279292,
+      "updated": 1573279306
+    },
+    {
+      "id": "5def65a30db33500006d10b9",
+      "text": " \t2019年リリースのものに限定。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575970211,
+      "updated": 1575970217
+    },
+    {
+      "id": "5dc6564e0db33500008cb940",
+      "text": " \thttps://form.run/@vtubermusic1203",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279306,
+      "updated": 1573279309
+    },
+    {
+      "id": "5dc6565f0db33500008cb942",
+      "text": " ロゴは[ぴろぱる]によるもの。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279324,
+      "updated": 1573279330
+    },
+    {
+      "id": "5dc656660db33500008cb943",
+      "text": " \thttps://twitter.com/tsrnmz/status/1193031682082762754",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279330,
+      "updated": 1573279355
+    },
+    {
+      "id": "5dc6567e0db33500008cb944",
+      "text": " \thttps://twitter.com/PIROPARU/status/1193039548118257664",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279355,
+      "updated": 1573279355
+    },
+    {
+      "id": "5dc6562f0db33500008cb93e",
+      "text": "　告知：[https://twitter.com/tsrnmz/status/1193031045077069826]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279275,
+      "updated": 1575411705
+    },
+    {
+      "id": "5dc6565c0db33500008cb941",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279321,
+      "updated": 1573279321
+    },
+    {
+      "id": "5de7f0880db3350000e12c79",
+      "text": "制作委員会からの[お願い https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQoU5szaczpaKaXxPFg6mlUljFeAVCyK8CDAo5zA5N_JyR6c1EDBIyE2-8G9zRoedkZ4By5Cp11lJd_/pubhtml#]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481478,
+      "updated": 1575481525
+    },
+    {
+      "id": "5de7f0a00db3350000e12c7b",
+      "text": "> これはあくまでファンイベントであり、この賞の価値は投票にご協力いただいた方々による\"記録\"であることにご留意ください。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481501,
+      "updated": 1575481517
+    },
+    {
+      "id": "5de7f0b00db3350000e12c7c",
+      "text": "> アンケートの収集方法やPRによっては全く異なる結果になったかと思います。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481517,
+      "updated": 1575481517
+    },
+    {
+      "id": "5de7f0b00db3350000e12c7d",
+      "text": "> また、イベント当日はVTuberと関わる職種の方を登壇者としてお招きしましたが、",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481517,
+      "updated": 1575481517
+    },
+    {
+      "id": "5de7f0b00db3350000e12c7e",
+      "text": "> 彼らも立場としては「審査員」ではなく投票にご参加いただいた方と同じVTuberファンとしてご協力いただきました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481517,
+      "updated": 1575481517
+    },
+    {
+      "id": "5de7f0890db3350000e12c7a",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481478,
+      "updated": 1575481478
+    },
+    {
+      "id": "5de667860db3350000dc694a",
+      "text": "[* ランキング]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380868,
+      "updated": 1575380888
+    },
+    {
+      "id": "5de667860db3350000dc694b",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380868,
+      "updated": 1575380868
+    },
+    {
+      "id": "5de66aa80db3350000dc6986",
+      "text": "[[ファン投票]]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381670,
+      "updated": 1575481414
+    },
+    {
+      "id": "5de66aa80db3350000dc6987",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381670,
+      "updated": 1575381670
+    },
+    {
+      "id": "5de6679d0db3350000dc694c",
+      "text": "楽曲部門",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380891,
+      "updated": 1575381678
+    },
+    {
+      "id": "5de668100db3350000dc6958",
+      "text": "\t1. [ヒトガタ] / HIMEHINA([田中ヒメ]、[鈴木ヒナ])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381006,
+      "updated": 1575381959
+    },
+    {
+      "id": "5de6681d0db3350000dc6959",
+      "text": "\t2. [Virtual to LIVE] / にじさんじ([月ノ美兎]、[静凛]、[樋口楓]、[える]、[剣持刀也]、[森中花咲]、[シスター・クレア]、[緑仙]、[ドーラ]、[本間ひまわり]、[鷹宮リオン]、[ジョー・力一])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381019,
+      "updated": 1575381345
+    },
+    {
+      "id": "5de668590db3350000dc695a",
+      "text": "\t3. [不可解] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381079,
+      "updated": 1575381962
+    },
+    {
+      "id": "5de6685f0db3350000dc695b",
+      "text": "\t4. [過去を喰らう] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381085,
+      "updated": 1575381964
+    },
+    {
+      "id": "5de668660db3350000dc695c",
+      "text": "\t5. [ヒバリ] / HIMEHINA([田中ヒメ]、[鈴木ヒナ])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381092,
+      "updated": 1575381969
+    },
+    {
+      "id": "5de668700db3350000dc695d",
+      "text": "\t6. [Life is tasty!] / [燦鳥ノム]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381102,
+      "updated": 1575381973
+    },
+    {
+      "id": "5de668830db3350000dc695e",
+      "text": "\t7. [うたかたよいかないで] / HIMEHINA([田中ヒメ]、[鈴木ヒナ])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381120,
+      "updated": 1575381976
+    },
+    {
+      "id": "5de6688e0db3350000dc695f",
+      "text": "\t8. [千年愛] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381131,
+      "updated": 1575381979
+    },
+    {
+      "id": "5de668940db3350000dc6960",
+      "text": "\t9. [ミライトミライ] / [ミライアカリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381138,
+      "updated": 1575381982
+    },
+    {
+      "id": "5de6689d0db3350000dc6961",
+      "text": "\t10. [twinkle night] feat. somunia / [nyankobrq] & yaca and [somunia]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381146,
+      "updated": 1575381989
+    },
+    {
+      "id": "5de667ab0db3350000dc694e",
+      "text": " 11. [天球、彗星は夜を跨いで] / [星街すいせい]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380904,
+      "updated": 1575381998
+    },
+    {
+      "id": "5de667bf0db3350000dc694f",
+      "text": " 12. [hero_] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380925,
+      "updated": 1575382003
+    },
+    {
+      "id": "5de667c60db3350000dc6950",
+      "text": " 13. [sheep in the light] / [Marpril]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380932,
+      "updated": 1575382009
+    },
+    {
+      "id": "5de667cc0db3350000dc6951",
+      "text": " 14. [そして花になる] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380938,
+      "updated": 1575382012
+    },
+    {
+      "id": "5de667d20db3350000dc6952",
+      "text": " 15. [Augmentation] (feat. Moe Shop) / [KMNZ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380944,
+      "updated": 1575382016
+    },
+    {
+      "id": "5de667dc0db3350000dc6953",
+      "text": " 16. [Diver×Diver] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380954,
+      "updated": 1575382019
+    },
+    {
+      "id": "5de667e50db3350000dc6954",
+      "text": " 17. [AIAIAI] (feat. 中田ヤスタカ) / [キズナアイ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380962,
+      "updated": 1575382026
+    },
+    {
+      "id": "5de667f10db3350000dc6955",
+      "text": " 18. [アイシー] / [卯月コウ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380974,
+      "updated": 1575382028
+    },
+    {
+      "id": "5de667f80db3350000dc6956",
+      "text": " 19. [蒼い蝶] / [蒼月エリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380981,
+      "updated": 1575382031
+    },
+    {
+      "id": "5de668010db3350000dc6957",
+      "text": " 20. [NEW ERA] / [輝夜月]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380991,
+      "updated": 1575382034
+    },
+    {
+      "id": "5de668c40db3350000dc6962",
+      "text": " 21. [ルーティン] / [かしこまり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381186,
+      "updated": 1575382038
+    },
+    {
+      "id": "5de668c90db3350000dc6963",
+      "text": " 22. [雛鳥] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381190,
+      "updated": 1575382040
+    },
+    {
+      "id": "5de668ce0db3350000dc6964",
+      "text": " 23. [Fam☆Fam☆Time!] / [ド葛本社]([ドーラ]、[葛葉]、[本間ひまわり]、[社築])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381195,
+      "updated": 1575382043
+    },
+    {
+      "id": "5de668f10db3350000dc6965",
+      "text": " 24. [Sky High] (Prod. Yunomi) / [キズナアイ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381231,
+      "updated": 1575382047
+    },
+    {
+      "id": "5de668fc0db3350000dc6966",
+      "text": " 25. [シンクロニティ] / [おめがシスターズ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381242,
+      "updated": 1575382050
+    },
+    {
+      "id": "5de669040db3350000dc6967",
+      "text": " 26. [ネオンライト] / [星宮とと]×[TEMPLIME]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381250,
+      "updated": 1575382055
+    },
+    {
+      "id": "5de669100db3350000dc6968",
+      "text": " 27. [叩ケ　叩ケ　手ェ叩ケ] / [シロ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381261,
+      "updated": 1575381444
+    },
+    {
+      "id": "5de669230db3350000dc6969",
+      "text": " 28. [Enter the Avater] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381281,
+      "updated": 1575382080
+    },
+    {
+      "id": "5de6692c0db3350000dc696a",
+      "text": " 29. [モッツァレラ▲トライ▼クッキング] / [羽子田チカ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381289,
+      "updated": 1575381300
+    },
+    {
+      "id": "5de669370db3350000dc696b",
+      "text": " 30. [DOGMA] / [シスター・クレア]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381301,
+      "updated": 1575382082
+    },
+    {
+      "id": "5de6679d0db3350000dc694d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575380891,
+      "updated": 1575380891
+    },
+    {
+      "id": "5de6694e0db3350000dc696c",
+      "text": "MV部門",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381324,
+      "updated": 1575381685
+    },
+    {
+      "id": "5de669510db3350000dc696e",
+      "text": " 1. [ヒトガタ] / HIMEHINA([田中ヒメ]、[鈴木ヒナ])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381326,
+      "updated": 1575381340
+    },
+    {
+      "id": "5de6695d0db3350000dc696f",
+      "text": " 2. [Virtual to LIVE] / にじさんじ([月ノ美兎]、[静凛]、[樋口楓]、[える]、[剣持刀也]、[森中花咲]、[シスター・クレア]、[緑仙]、[ドーラ]、[本間ひまわり]、[鷹宮リオン]、[ジョー・力一])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381340,
+      "updated": 1575381350
+    },
+    {
+      "id": "5de669690db3350000dc6970",
+      "text": " 3. [sheep in the light] / [Marpril]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381351,
+      "updated": 1575381360
+    },
+    {
+      "id": "5de669730db3350000dc6971",
+      "text": " 4. [ヒバリ] / HIMEHINA([田中ヒメ]、[鈴木ヒナ])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381360,
+      "updated": 1575381376
+    },
+    {
+      "id": "5de669830db3350000dc6972",
+      "text": " 5. [千年愛] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381376,
+      "updated": 1575381383
+    },
+    {
+      "id": "5de6698a0db3350000dc6973",
+      "text": " 6. [過去を喰らう] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381383,
+      "updated": 1575381391
+    },
+    {
+      "id": "5de669910db3350000dc6974",
+      "text": " 7. [AIAIAI] (feat. 中田ヤスタカ) / [キズナアイ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381391,
+      "updated": 1575381404
+    },
+    {
+      "id": "5de6699f0db3350000dc6975",
+      "text": " 8. [うたかたよいかないで] / HIMEHINA([田中ヒメ]、[鈴木ヒナ])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381404,
+      "updated": 1575381417
+    },
+    {
+      "id": "5de669ab0db3350000dc6976",
+      "text": " 9. [PINGPONG QUEST] / [ピンキーポップヘップバーン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381417,
+      "updated": 1575381429
+    },
+    {
+      "id": "5de669b70db3350000dc6977",
+      "text": " 10. [Life is tasty!] / [燦鳥ノム]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381429,
+      "updated": 1575381435
+    },
+    {
+      "id": "5de669be0db3350000dc6978",
+      "text": " 11. [叩ケ　叩ケ　手ェ叩ケ] / [シロ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381435,
+      "updated": 1575381449
+    },
+    {
+      "id": "5de669cc0db3350000dc6979",
+      "text": " 12. [Shiny Smily Story] / [ホロライブ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381450,
+      "updated": 1575381483
+    },
+    {
+      "id": "5de669ef0db3350000dc697a",
+      "text": " 13. [VR - Virtual Reality] / [KMNZ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381484,
+      "updated": 1575381933
+    },
+    {
+      "id": "5de66a000db3350000dc697b",
+      "text": " 14. [Diver×Diver] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381502,
+      "updated": 1575381510
+    },
+    {
+      "id": "5de66a080db3350000dc697c",
+      "text": " 15. [Enter the Avatar] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381510,
+      "updated": 1575381522
+    },
+    {
+      "id": "5de66a150db3350000dc697d",
+      "text": " 16. [さなのおうた。] / [名取さな]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381522,
+      "updated": 1575381529
+    },
+    {
+      "id": "5de66a1c0db3350000dc697e",
+      "text": " 17. [Sky High] (Prod. Yunomi) / [キズナアイ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381529,
+      "updated": 1575381544
+    },
+    {
+      "id": "5de66a2b0db3350000dc697f",
+      "text": " 18. [MY ONLY GRADATION] / [富士葵]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381544,
+      "updated": 1575381562
+    },
+    {
+      "id": "5de66a3d0db3350000dc6980",
+      "text": " 19. [#しゅきしゅきぴっぴっぴ♡] / [夜乃ネオン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381563,
+      "updated": 1575381607
+    },
+    {
+      "id": "5de66a690db3350000dc6981",
+      "text": " 20. [hero_] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381607,
+      "updated": 1575381618
+    },
+    {
+      "id": "5de6694e0db3350000dc696d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381324,
+      "updated": 1575381324
+    },
+    {
+      "id": "5de66a890db3350000dc6982",
+      "text": "[[登壇者ベスト5]]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381638,
+      "updated": 1575382429
+    },
+    {
+      "id": "5de66a8f0db3350000dc6984",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381644,
+      "updated": 1575381644
+    },
+    {
+      "id": "5de66b960db3350000dc6990",
+      "text": "ツラニミズ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381907,
+      "updated": 1575381916
+    },
+    {
+      "id": "5de66b9d0db3350000dc6995",
+      "text": " 1. [不可解] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381915,
+      "updated": 1575382203
+    },
+    {
+      "id": "5de66cbe0db3350000dc699b",
+      "text": " 2. [without U] / [AZKi]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1575382204,
+      "updated": 1579975136
+    },
+    {
+      "id": "5de66cc50db3350000dc699c",
+      "text": " 3. [蒼い蝶] / [蒼月エリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382211,
+      "updated": 1575382217
+    },
+    {
+      "id": "5de66ccc0db3350000dc699d",
+      "text": " 4. [Up-to-date] feat. [かしこまり] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382218,
+      "updated": 1575382228
+    },
+    {
+      "id": "5de66cd70db3350000dc699e",
+      "text": " 5. [VANTA] / [ワニのヤカ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382228,
+      "updated": 1575382235
+    },
+    {
+      "id": "5de66cb60db3350000dc699a",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382196,
+      "updated": 1575382196
+    },
+    {
+      "id": "5de66b9d0db3350000dc6994",
+      "text": "飯寄雄麻",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381915,
+      "updated": 1575381915
+    },
+    {
+      "id": "5de66b9b0db3350000dc6993",
+      "text": "　1. [Life is tasty!] / [燦鳥ノム]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381912,
+      "updated": 1575382278
+    },
+    {
+      "id": "5de66d090db3350000dc69a1",
+      "text": "　2. [過去を喰らう] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382278,
+      "updated": 1575382300
+    },
+    {
+      "id": "5de66d1f0db3350000dc69a2",
+      "text": "　3. [Virtual to LIVE] / にじさんじ([月ノ美兎]、[静凛]、[樋口楓]、[える]、[剣持刀也]、[森中花咲]、[シスター・クレア]、[緑仙]、[ドーラ]、[本間ひまわり]、[鷹宮リオン]、[ジョー・力一])",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382301,
+      "updated": 1575382312
+    },
+    {
+      "id": "5de66d2c0db3350000dc69a3",
+      "text": "　4. [ネオンライト] / [星宮とと]×[TEMPLIME]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382313,
+      "updated": 1575382323
+    },
+    {
+      "id": "5de66d370db3350000dc69a4",
+      "text": "　5. [Up-to-date] feat. [かしこまり] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382324,
+      "updated": 1575382334
+    },
+    {
+      "id": "5de66cfe0db3350000dc69a0",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382267,
+      "updated": 1575382267
+    },
+    {
+      "id": "5de66b9a0db3350000dc6992",
+      "text": "森山ド・ロ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381912,
+      "updated": 1575381912
+    },
+    {
+      "id": "5de66b960db3350000dc6991",
+      "text": " 1. [deepin] / [エルセ]と[さめのぽき]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381907,
+      "updated": 1575382354
+    },
+    {
+      "id": "5de66d540db3350000dc69a6",
+      "text": " 2. [サマーダイブ] / [ぴぐまりおん。]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382354,
+      "updated": 1575382364
+    },
+    {
+      "id": "5de66d6e0db3350000dc69a7",
+      "text": " 3. [日青〈ハレ〉] / [雨ニマケテモ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382380,
+      "updated": 1575382403
+    },
+    {
+      "id": "5de66d870db3350000dc69a8",
+      "text": " 4. [蒼に躊躇う] / [花鋏キョウ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382404,
+      "updated": 1575382418
+    },
+    {
+      "id": "5de66d940db3350000dc69a9",
+      "text": " 5. [不可解] / [花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382418,
+      "updated": 1575382424
+    },
+    {
+      "id": "5de66d420db3350000dc69a5",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382335,
+      "updated": 1575382335
+    },
+    {
+      "id": "5de66a900db3350000dc6985",
+      "text": "ワニのヤカ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381646,
+      "updated": 1575381651
+    },
+    {
+      "id": "5de66abb0db3350000dc6988",
+      "text": " ヤカさん携わったことあり",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381689,
+      "updated": 1575481357
+    },
+    {
+      "id": "5de66abe0db3350000dc6989",
+      "text": " \t1. [twinkle night] feat. somunia / [nyankobrq] & yaca and [somunia]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381692,
+      "updated": 1575381735
+    },
+    {
+      "id": "5de66ae70db3350000dc698a",
+      "text": " \t2. [Jacked Fruity Luv] / [ワニのヤカ]、[じーえふ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381732,
+      "updated": 1575381748
+    },
+    {
+      "id": "5de66af80db3350000dc698b",
+      "text": " \t3. [merrow] / [somunia]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381749,
+      "updated": 1575381754
+    },
+    {
+      "id": "5de66afe0db3350000dc698c",
+      "text": " \t4. [OPENING] / [KMNZ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381756,
+      "updated": 1575381937
+    },
+    {
+      "id": "5de66b070db3350000dc698d",
+      "text": " \t5. [透明な日曜日] / [0825]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381765,
+      "updated": 1575410801
+    },
+    {
+      "id": "5de66a890db3350000dc6983",
+      "text": "　ヤカさん携わったことなし",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381638,
+      "updated": 1575481363
+    },
+    {
+      "id": "5de66b8b0db3350000dc698e",
+      "text": "　 1. [リンクロット] / [星宮とと]×[TEMPLIME]×[つづつ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381897,
+      "updated": 1575382118
+    },
+    {
+      "id": "5de66c5a0db3350000dc6996",
+      "text": "　　2. [Up-to-date] feat. [かしこまり] / [MonsterZ MATE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382104,
+      "updated": 1575382122
+    },
+    {
+      "id": "5de66c660db3350000dc6997",
+      "text": "　　3. [deepin] / [エルセ]と[さめのぽき]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382115,
+      "updated": 1575382146
+    },
+    {
+      "id": "5de66c850db3350000dc6998",
+      "text": "　　4. [幸せジャンク生活] / [レオタードブタ]と[ヤギ・ハイレグ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382146,
+      "updated": 1575382163
+    },
+    {
+      "id": "5de66ca30db3350000dc6999",
+      "text": "　　5. [sheep in the light] / [Marpril]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575382176,
+      "updated": 1575382187
+    },
+    {
+      "id": "5de66b8c0db3350000dc698f",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575381897,
+      "updated": 1575381897
+    },
+    {
+      "id": "5de7f0510db3350000e12c75",
+      "text": "こちらのスプレッドシートには、より詳しいランキングが載っています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481422,
+      "updated": 1575481439
+    },
+    {
+      "id": "5de7f0620db3350000e12c77",
+      "text": "　https://twitter.com/tsrnmz/status/1202150548146798592",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481439,
+      "updated": 1575481445
+    },
+    {
+      "id": "5de7f0680db3350000e12c78",
+      "text": "　https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQoU5szaczpaKaXxPFg6mlUljFeAVCyK8CDAo5zA5N_JyR6c1EDBIyE2-8G9zRoedkZ4By5Cp11lJd_/pubhtml#",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481445,
+      "updated": 1575481448
+    },
+    {
+      "id": "5de7f0510db3350000e12c76",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1575481422,
+      "updated": 1575481422
+    },
+    {
+      "id": "5dc656800db33500008cb945",
+      "text": "#リアルイベント",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279356,
+      "updated": 1573279359
+    },
+    {
+      "id": "5dc656810db33500008cb946",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573279357,
+      "updated": 1573279357
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5e2a324134b73b0017940a26",
+  "title": "Nimo TV",
+  "created": 1579823682,
+  "updated": 1579823705,
+  "lines": [
+    {
+      "id": "5e2a324134b73b0017940a26",
+      "text": "Nimo TV",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823682,
+      "updated": 1579823684
+    },
+    {
+      "id": "5e2a32480db33500008a6e01",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823684,
+      "updated": 1579823684
+    },
+    {
+      "id": "5e2a32490db33500008a6e02",
+      "text": " ゲーム実況に特化した配信プラットフォーム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823684,
+      "updated": 1579823693
+    },
+    {
+      "id": "5e2a32510db33500008a6e04",
+      "text": " https://www.nimo.tv/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823693,
+      "updated": 1579823697
+    },
+    {
+      "id": "5e2a32560db33500008a6e05",
+      "text": " [/icons/twitter.icon] https://twitter.com/nimotvjp",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823697,
+      "updated": 1579823705
+    },
+    {
+      "id": "5e2a32490db33500008a6e03",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823684,
+      "updated": 1579823684
+    }
+  ]
+}

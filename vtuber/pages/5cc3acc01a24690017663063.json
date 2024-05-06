@@ -1,0 +1,925 @@
+{
+  "id": "5cc3acc01a24690017663063",
+  "title": "ニコニコ超会議2019",
+  "created": 1556327617,
+  "updated": 1599918223,
+  "lines": [
+    {
+      "id": "5cc3acc01a24690017663063",
+      "text": "ニコニコ超会議2019",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327617,
+      "updated": 1556327621
+    },
+    {
+      "id": "5cc3acc80db3350000c3f21e",
+      "text": "[https://gyazo.com/d55c9368a70d9d671513ec734dcfd75c]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327621,
+      "updated": 1556327752
+    },
+    {
+      "id": "5cc3ad4a0db3350000c3f21f",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327752,
+      "updated": 1556327752
+    },
+    {
+      "id": "5cc3ad500db3350000c3f220",
+      "text": " [ドワンゴ]が主催するリアル[イベント]、[超会議]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327757,
+      "updated": 1556327764
+    },
+    {
+      "id": "5cc3ad560db3350000c3f225",
+      "text": " 開催日：2019年4月27, 28日",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327764,
+      "updated": 1556327774
+    },
+    {
+      "id": "5cc3ad560db3350000c3f226",
+      "text": " [http://chokaigi.jp/2019/ ニコニコ超会議2019 公式サイト]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327764,
+      "updated": 1556327780
+    },
+    {
+      "id": "5cc3ad560db3350000c3f227",
+      "text": "\t\tタグ[https://chokaigi.jp/2019/tag/vtuber.html #VTuber]や[https://chokaigi.jp/2019/tag/vr.html #VR]で検索すると、VTuber関連のイベントが一覧できる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327764,
+      "updated": 1556332205
+    },
+    {
+      "id": "5cc3add80db3350000c3f22e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327893,
+      "updated": 1556327893
+    },
+    {
+      "id": "5cc3ad500db3350000c3f221",
+      "text": "VTuber関連のブースと、出演者",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327757,
+      "updated": 1556327871
+    },
+    {
+      "id": "5cc3c3570db3350000c3f2ef",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333396,
+      "updated": 1556333396
+    },
+    {
+      "id": "5cc3adc40db3350000c3f22a",
+      "text": "　[VTuber Fes Japan 2019]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327874,
+      "updated": 1556332213
+    },
+    {
+      "id": "5cc3af050db3350000c3f23f",
+      "text": "　\t超会議2019では、VTuber関連のイベントがひとつのエリアに集まって多数開催された。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556328194,
+      "updated": 1556328223
+    },
+    {
+      "id": "5cc3add40db3350000c3f22c",
+      "text": "　\thttps://chokaigi.jp/2019/booth/vtuber_fes.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327890,
+      "updated": 1556327891
+    },
+    {
+      "id": "5cc3adc50db3350000c3f22b",
+      "text": "\t\t[VTuber Special Stage]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327874,
+      "updated": 1556332219
+    },
+    {
+      "id": "5cc3ae240db3350000c3f230",
+      "text": "\t\t\tトーク・ライブ・バラエティの企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327969,
+      "updated": 1556328796
+    },
+    {
+      "id": "5cc3b15f0db3350000c3f252",
+      "text": "\t\t\t詳しくは：[ニコニコ超会議2019 VTuber Special Stage]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556328796,
+      "updated": 1556328802
+    },
+    {
+      "id": "5cc3ae230db3350000c3f22f",
+      "text": "\t\t[バーチャルカラオケ] Supported by JOYSOUND",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556327968,
+      "updated": 1556332228
+    },
+    {
+      "id": "5cc3b1800db3350000c3f254",
+      "text": "\t\t\t来場者参加型の[カラオケ]。[バーチャルキャスト]を使ってVR空間内で行う。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556328829,
+      "updated": 1556328872
+    },
+    {
+      "id": "5cc3b1b60db3350000c3f256",
+      "text": "\t\t\thttps://chokaigi.jp/2019/plan/vtuber_feskaraoke.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556328883,
+      "updated": 1556328883
+    },
+    {
+      "id": "5cc3b1ac0db3350000c3f255",
+      "text": "\t\t会える！ 話せる！ VTuberおしゃべりフェス in 超会議",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556328874,
+      "updated": 1556328890
+    },
+    {
+      "id": "5cc3b21e0db3350000c3f25a",
+      "text": "\t\t\tディスプレイ越しにVTuberと1対1でお話できる企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556328988,
+      "updated": 1556328999
+    },
+    {
+      "id": "5cc3b1bd0db3350000c3f257",
+      "text": "\t\t\t詳しくは：[会える！ 話せる！ VTuberおしゃべりフェス in 超会議]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556328891,
+      "updated": 1556329348
+    },
+    {
+      "id": "5cc3b36a0db3350000c3f28a",
+      "text": "　　茨ひよりブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329320,
+      "updated": 1556329722
+    },
+    {
+      "id": "5cc3b4b00db3350000c3f28c",
+      "text": "　　\t[茨ひより]のブース。いくつか企画と物販を行う。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329645,
+      "updated": 1556329697
+    },
+    {
+      "id": "5cc3b5360db3350000c3f294",
+      "text": "　　\thttps://chokaigi.jp/2019/booth/ibakira.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329780,
+      "updated": 1556329780
+    },
+    {
+      "id": "5cc3b4c50db3350000c3f28d",
+      "text": "　　\t企画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329666,
+      "updated": 1556329668
+    },
+    {
+      "id": "5cc3b4c60db3350000c3f28e",
+      "text": "　　\t\tぷよぷよeスポーツ　ひよりんと対戦！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329668,
+      "updated": 1556329674
+    },
+    {
+      "id": "5cc3b4cd0db3350000c3f28f",
+      "text": "　　\t\tひよりんと生雑談♪",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329674,
+      "updated": 1556329678
+    },
+    {
+      "id": "5cc4018e0db33500009d63cc",
+      "text": "　　\t\t\t[茨ひより]とトーク。[東雲めぐ]が遊びに来る。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556349322,
+      "updated": 1556349377
+    },
+    {
+      "id": "5cc401c60db33500009d63cd",
+      "text": "　　\t\t\t\thttps://twitter.com/megu_shinonome/status/1121727800212197377",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556349377,
+      "updated": 1556349378
+    },
+    {
+      "id": "5cc3b4d00db3350000c3f290",
+      "text": "　　\t\tマシュマロ百問百答♡ひよりんと一緒♪オリジナルバーチャル撮影会",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329678,
+      "updated": 1556329685
+    },
+    {
+      "id": "5cc3b4e80db3350000c3f291",
+      "text": "　　Colon:ブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329701,
+      "updated": 1556331912
+    },
+    {
+      "id": "5cc3b5000db3350000c3f292",
+      "text": "　　\t[Colon:]で配信しているライバーたちが集合する企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329725,
+      "updated": 1556329753
+    },
+    {
+      "id": "5cc3b51c0db3350000c3f293",
+      "text": "　　\t同時に超会議限定の公式配信も行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329753,
+      "updated": 1556329771
+    },
+    {
+      "id": "5cc3b5390db3350000c3f295",
+      "text": "　　\t詳しくは：[ニコニコ超会議2019 Colon:ブース]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329783,
+      "updated": 1556329997
+    },
+    {
+      "id": "5cc3b4ac0db3350000c3f28b",
+      "text": "\t\tIRIAM超バーチャル握手会",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556329641,
+      "updated": 1556330547
+    },
+    {
+      "id": "5cc3b8360db3350000c3f29d",
+      "text": "\t\t\t[IRIAM]で配信しているライバーたちが集合する企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330548,
+      "updated": 1556330556
+    },
+    {
+      "id": "5cc3b8400db3350000c3f29e",
+      "text": "\t\t\t同時に公式IRIAM放送も行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330557,
+      "updated": 1556330566
+    },
+    {
+      "id": "5cc3b8490db3350000c3f29f",
+      "text": "\t\t\t詳しくは：[ニコニコ超会議2019 IRIAM超バーチャル握手会]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330566,
+      "updated": 1556330585
+    },
+    {
+      "id": "5cc3b8350db3350000c3f29c",
+      "text": "　　テレ東ブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556330547,
+      "updated": 1556331620
+    },
+    {
+      "id": "5cc3bc670db3350000c3f2a1",
+      "text": "　　\tテレビ東京の企画。『[四月一日さん家の]』企画など。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331620,
+      "updated": 1556331709
+    },
+    {
+      "id": "5cc3c3b10db3350000c3f2f4",
+      "text": "　　\thttps://chokaigi.jp/2019/booth/tvtokyo.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333486,
+      "updated": 1556333486
+    },
+    {
+      "id": "5cc3bc740db3350000c3f2a2",
+      "text": "　　\t企画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331633,
+      "updated": 1556331663
+    },
+    {
+      "id": "5cc3c3b90db3350000c3f2f5",
+      "text": "　　\t\t四月一日家へようこそ！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333494,
+      "updated": 1556333494
+    },
+    {
+      "id": "5cc3c3ba0db3350000c3f2f6",
+      "text": "　　\t\t\t[ときのそら]、[猿楽町双葉]、[響木アオ]が、ドラマ関係のトークを行う。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333495,
+      "updated": 1556333532
+    },
+    {
+      "id": "5cc3bc910db3350000c3f2a3",
+      "text": "　　\t\t次の主演はキミだ!? ごかPバーチャル面談",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331663,
+      "updated": 1556331668
+    },
+    {
+      "id": "5cc3bcc10db3350000c3f2a7",
+      "text": "　　\t\t\t『四月一日さん家の』プロデューサー[五箇公貴]（[ごかP]）とVTuberが面談。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331711,
+      "updated": 1556331743
+    },
+    {
+      "id": "5cc3bc970db3350000c3f2a4",
+      "text": "　　\t\tバーチャル人生がときめく相内の魔法",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331668,
+      "updated": 1556331671
+    },
+    {
+      "id": "5cc3bce30db3350000c3f2a8",
+      "text": "　　\t\t\t[相内優香]（生身の方）とVTuberの対談企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331745,
+      "updated": 1556331775
+    },
+    {
+      "id": "5cc3bc9b0db3350000c3f2a5",
+      "text": "　　\t\t相内ユウカに聞いてみたい！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331672,
+      "updated": 1556331677
+    },
+    {
+      "id": "5cc3bd030db3350000c3f2a9",
+      "text": "　　\t\t\t[相内ユウカ]のフリートーク企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331776,
+      "updated": 1556331796
+    },
+    {
+      "id": "5cc3bca70db3350000c3f2a6",
+      "text": "　　\t\t激録・販売員 七瀬タク 密着24時!!",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331684,
+      "updated": 1556331684
+    },
+    {
+      "id": "5cc3bd180db3350000c3f2aa",
+      "text": "　　\t\t\t[七瀬タク]による、物販ブースの販促企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331797,
+      "updated": 1556331819
+    },
+    {
+      "id": "5cc3bc2d0db3350000c3f2a0",
+      "text": "\t\tＸＲエンターテインメントブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331563,
+      "updated": 1556331907
+    },
+    {
+      "id": "5cc3bd8d0db3350000c3f2ac",
+      "text": "\t\t\t[キミノミヤ]＆[大蔦エル]などのブース。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331915,
+      "updated": 1556331943
+    },
+    {
+      "id": "5cc3bdaf0db3350000c3f2af",
+      "text": "\t\t\thttps://chokaigi.jp/2019/booth/xrentertainment.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331949,
+      "updated": 1556331949
+    },
+    {
+      "id": "5cc3bdaa0db3350000c3f2ad",
+      "text": "\t\t\t企画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331944,
+      "updated": 1556331945
+    },
+    {
+      "id": "5cc3bdac0db3350000c3f2ae",
+      "text": "\t\t\t\tキミノミヤ＆大蔦エルとおしゃべり！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331945,
+      "updated": 1556331960
+    },
+    {
+      "id": "5cc3bdbb0db3350000c3f2b0",
+      "text": "\t\t\t\tミヤ＆エル＆ココンのオリジナルグッズ販売",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331960,
+      "updated": 1556331964
+    },
+    {
+      "id": "5cc3bdbe0db3350000c3f2b1",
+      "text": "\t\t\t\tリアル＆バーチャル撮影会",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331964,
+      "updated": 1556331972
+    },
+    {
+      "id": "5cc3bee90db3350000c3f2b7",
+      "text": "\t日本電信電話ミカカランド・NTT超未来研究所6",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332263,
+      "updated": 1556332263
+    },
+    {
+      "id": "5cc3bf060db3350000c3f2bb",
+      "text": "\t\tVTuber Fes Japan 2019ブースの近くに設置されている企業ブース。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332291,
+      "updated": 1556332306
+    },
+    {
+      "id": "5cc3bf030db3350000c3f2ba",
+      "text": "\t\thttps://chokaigi.jp/2019/booth/ntt_mikaka_land.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332288,
+      "updated": 1556332288
+    },
+    {
+      "id": "5cc3beeb0db3350000c3f2b8",
+      "text": "\t\t【NTT 研究所 × ヒメヒナ電子分体研究所】 VTuber なりきり AI 計画",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332264,
+      "updated": 1556332278
+    },
+    {
+      "id": "5cc3befa0db3350000c3f2b9",
+      "text": "\t\t\t[鈴木ヒナ]・[田中ヒメ]のデータをもとにしたAIが質問に答えてくれるという企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332279,
+      "updated": 1556332339
+    },
+    {
+      "id": "5cc3bf360db3350000c3f2bc",
+      "text": "\t\t【超ふれあい VR】セバスちゃん握手会で萌えろ！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332339,
+      "updated": 1556332352
+    },
+    {
+      "id": "5cc3bf440db3350000c3f2bd",
+      "text": "\t\t\t「ドコモAIエージェントAPI」の非公式バーチャルキャラクター 、[セバスちゃん]との握手会。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332354,
+      "updated": 1556332369
+    },
+    {
+      "id": "5cc3bd800db3350000c3f2ab",
+      "text": "　超ⅡⅤブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556331901,
+      "updated": 1556332087
+    },
+    {
+      "id": "5cc3be3b0db3350000c3f2b3",
+      "text": "　\tサントリー「グリーン ダ・カ・ラ」貰える！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332088,
+      "updated": 1556332100
+    },
+    {
+      "id": "5cc3be480db3350000c3f2b4",
+      "text": "　\t\t超ⅡⅤブースはサントリーが協賛しており、このブースでは[燦鳥ノム]のチャンネル登録をするなどすると飲料がもらえる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332101,
+      "updated": 1556332142
+    },
+    {
+      "id": "5cc3bf750db3350000c3f2be",
+      "text": "　\t放て！ 矢文ゲーム",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332402,
+      "updated": 1556332402
+    },
+    {
+      "id": "5cc3bf760db3350000c3f2bf",
+      "text": "　\t\t[アメノセイ]関連ブース。矢文を的に当てると景品がもらえる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332403,
+      "updated": 1556332436
+    },
+    {
+      "id": "5cc3bfa80db3350000c3f2c0",
+      "text": "　\t超ⅡⅤステージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332454,
+      "updated": 1556332454
+    },
+    {
+      "id": "5cc3bfa90db3350000c3f2c1",
+      "text": "　\t\t一部で[燦鳥ノム]、[アメノセイ]のトーク、ゲーム実況、カラオケがある。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332454,
+      "updated": 1556332482
+    },
+    {
+      "id": "5cc3d05d0db335000021212a",
+      "text": "　\tグリーンダカラちゃんの歌-ニコニコ超会議2019バージョン-",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556336730,
+      "updated": 1556336736
+    },
+    {
+      "id": "5cc3d0640db335000021212b",
+      "text": "　\t\t[燦鳥ノム]が歌う特別バージョンの「グリーンダカラちゃんの歌」が聞ける。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556336737,
+      "updated": 1556336761
+    },
+    {
+      "id": "5cc3d07c0db335000021212c",
+      "text": "　\t\thttps://twitter.com/suntory_nomu/status/1121949584215830528",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556336761,
+      "updated": 1556336764
+    },
+    {
+      "id": "5cc3bfe50db3350000c3f2c3",
+      "text": "　超インフォメーションブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332514,
+      "updated": 1556332516
+    },
+    {
+      "id": "5cc3bde70db3350000c3f2b2",
+      "text": " 　「バーチャル」インフォメーション",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332004,
+      "updated": 1556332517
+    },
+    {
+      "id": "5cc3bfd50db3350000c3f2c2",
+      "text": " 　\tカスタムキャスト勢がバーチャルスタッフとして登場。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332498,
+      "updated": 1556332540
+    },
+    {
+      "id": "5cc3bfff0db3350000c3f2c4",
+      "text": " 　\t参加：[新猪夏菜]、[超会議優笑]、[ヒガシ]、[りんな]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332540,
+      "updated": 1556332586
+    },
+    {
+      "id": "5cc3c0350db3350000c3f2c7",
+      "text": " 　\t\t註：Microsoft社のりんなさんではなく、炙りトロサーモンおかわり氏作のりんなさん。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332595,
+      "updated": 1556332669
+    },
+    {
+      "id": "5cc3c0310db3350000c3f2c5",
+      "text": " 　\thttps://chokaigi.jp/2019/plan/customcastvirtualinformation.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332591,
+      "updated": 1556332591
+    },
+    {
+      "id": "5cc3c0320db3350000c3f2c6",
+      "text": " 超料理ステージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332591,
+      "updated": 1556332690
+    },
+    {
+      "id": "5cc3c0af0db3350000c3f2c9",
+      "text": " \tVTuberと31時間煮込んで作る究極のラーメンスープ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332716,
+      "updated": 1556332721
+    },
+    {
+      "id": "5cc3c0940db3350000c3f2c8",
+      "text": "\t \t[玉メンマ]が究極のラーメンを作る。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332690,
+      "updated": 1556332722
+    },
+    {
+      "id": "5cc3c0c10db3350000c3f2cb",
+      "text": "\t \thttps://chokaigi.jp/2019/plan/cooking_ramen_pre.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332735,
+      "updated": 1556332735
+    },
+    {
+      "id": "5cc3c0b60db3350000c3f2ca",
+      "text": "\t \thttps://chokaigi.jp/2019/plan/cooking_ramen_soup.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332723,
+      "updated": 1556332726
+    },
+    {
+      "id": "5cc3c0ca0db3350000c3f2cc",
+      "text": "\t \thttps://chokaigi.jp/2019/plan/cooking_ramen_fin.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332743,
+      "updated": 1556332744
+    },
+    {
+      "id": "5cc3be720db3350000c3f2b5",
+      "text": "　ニコニコカーブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332143,
+      "updated": 1556332753
+    },
+    {
+      "id": "5cc3c0d40db3350000c3f2ce",
+      "text": "　\t[バーチャルキャストカー]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332753,
+      "updated": 1556332792
+    },
+    {
+      "id": "5cc3c0dd0db3350000c3f2cf",
+      "text": "　\t\t車の中でVTuberと1対1のお悩み相談ができる企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332762,
+      "updated": 1556332789
+    },
+    {
+      "id": "5cc3c0ea0db3350000c3f2d0",
+      "text": "　\t\t1日目：[伏見ガク]、[ジョー・力一]、[鷹宮リオン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332775,
+      "updated": 1599918223
+    },
+    {
+      "id": "5cc3c1040db3350000c3f2d1",
+      "text": "   2日目：[ドーラ]、[葛葉]、[本間ひまわり]、[社築]（[ド葛本社]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332801,
+      "updated": 1556332827
+    },
+    {
+      "id": "5cc3c1200db3350000c3f2d2",
+      "text": " 超bilibili",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332830,
+      "updated": 1556332850
+    },
+    {
+      "id": "5cc3c1350db3350000c3f2d3",
+      "text": " \tVupステージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332850,
+      "updated": 1556332855
+    },
+    {
+      "id": "5cc3c13a0db3350000c3f2d4",
+      "text": " \t\t[bilibili]ブースを盛り上げるステージ企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332856,
+      "updated": 1556332893
+    },
+    {
+      "id": "5cc3c1590db3350000c3f2d5",
+      "text": " \t\t参加者：[大神ミオ]、[紫咲シオン]、[湊あくあ]、[夏色まつり]、[白上フブキ]、[椎名唯華]、[緑仙]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332886,
+      "updated": 1556332906
+    },
+    {
+      "id": "5cc3c9dd0db335000026b540",
+      "text": " \thttps://www.bilibili.com/blackboard/BATschedule1.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556335066,
+      "updated": 1556335067
+    },
+    {
+      "id": "5cc3c0d10db3350000c3f2cd",
+      "text": "　超台湾",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332750,
+      "updated": 1556332916
+    },
+    {
+      "id": "5cc3c1770db3350000c3f2d7",
+      "text": "　\t台湾VTuber フニーフレンズ × 空（こん）ライブ＆トークショー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332916,
+      "updated": 1556332958
+    },
+    {
+      "id": "5cc3c1a10db3350000c3f2da",
+      "text": "　\t\t[虎妮]＆[空]のライブ＆トーク企画。物販もある。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332959,
+      "updated": 1556333035
+    },
+    {
+      "id": "5cc3c1ec0db3350000c3f2db",
+      "text": "　\t\thttps://chokaigi.jp/2019/plan/taiwan_vtuber.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333033,
+      "updated": 1556333033
+    },
+    {
+      "id": "5cc3c1750db3350000c3f2d6",
+      "text": "　LIVE DAM STADIUM カラオケステージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556332914,
+      "updated": 1556333054
+    },
+    {
+      "id": "5cc3c2020db3350000c3f2dd",
+      "text": "　\tLIVE DAM STADIUM ゲストステージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333055,
+      "updated": 1556333073
+    },
+    {
+      "id": "5cc3c2140db3350000c3f2de",
+      "text": "　\t\tカラオケ企画。ゲストにVTuberがいる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333074,
+      "updated": 1556333089
+    },
+    {
+      "id": "5cc3c2250db3350000c3f2df",
+      "text": "　\t\tVTuberの参加者：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333091,
+      "updated": 1556333147
+    },
+    {
+      "id": "5cc3c25e0db3350000c3f2e0",
+      "text": "　\t\t\t[CocoTsuki]（[鈴代ここね]、[鈴代つきね]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333147,
+      "updated": 1556333148
+    },
+    {
+      "id": "5cc3c2600db3350000c3f2e1",
+      "text": "　\t\t\t[有閑喫茶あにまーれ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333150,
+      "updated": 1556333158
+    },
+    {
+      "id": "5cc3c2700db3350000c3f2e3",
+      "text": "　\t\t\t\t#書きかけ。あなたが書いてみませんか？（ここをクリックしてね） ： 結局誰が参加したのか書く",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333165,
+      "updated": 1615109633
+    },
+    {
+      "id": "5cc3c2fa0db3350000c3f2e9",
+      "text": "  　\t\thttps://twitter.com/AniMare_cafe/status/1119175921955561473",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333303,
+      "updated": 1556333304
+    },
+    {
+      "id": "5cc3c2fa0db3350000c3f2ea",
+      "text": "  　\t\thttps://twitter.com/AniMare_cafe/status/1119188068408471553",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333303,
+      "updated": 1556333304
+    },
+    {
+      "id": "5cc3c2690db3350000c3f2e2",
+      "text": "　\t\t\t[HoneyStrap]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333158,
+      "updated": 1556333162
+    },
+    {
+      "id": "5cc3c30f0db3350000c3f2eb",
+      "text": "　\t\t\t\t#書きかけ。あなたが書いてみませんか？（ここをクリックしてね） ： 結局誰が参加したのか書く",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333324,
+      "updated": 1615109633
+    },
+    {
+      "id": "5cc3c1ef0db3350000c3f2dc",
+      "text": "\t\t\t\t\thttps://twitter.com/HNST_official/status/1119176038083284993",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333036,
+      "updated": 1556333296
+    },
+    {
+      "id": "5cc3c2f30db3350000c3f2e8",
+      "text": "  　\t\thttps://twitter.com/HNST_official/status/1119187695970820096",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333296,
+      "updated": 1556333299
+    },
+    {
+      "id": "5cc3c34e0db3350000c3f2ec",
+      "text": " 超一風堂",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333388,
+      "updated": 1556333391
+    },
+    {
+      "id": "5cc3c3520db3350000c3f2ee",
+      "text": " \t[一風堂]のVTuberが紹介されるらしい。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333391,
+      "updated": 1556333454
+    },
+    {
+      "id": "5cc3c38c0db3350000c3f2f3",
+      "text": " \thttps://chokaigi.jp/2019/plan/ippudochomomomaruramen.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333449,
+      "updated": 1556333449
+    },
+    {
+      "id": "5cc3c35e0db3350000c3f2f0",
+      "text": "　超ヲタ芸エリア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333403,
+      "updated": 1556336445
+    },
+    {
+      "id": "5cc3cf3f0db3350000212127",
+      "text": "　\t配布されているサイリウムの「令和」の書は[ぴろぱる]によるもの。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556336445,
+      "updated": 1556336475
+    },
+    {
+      "id": "5cc3cf530db3350000212128",
+      "text": "　\t\thttps://twitter.com/PIROPARU/status/1121949672304599040",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556336464,
+      "updated": 1556336467
+    },
+    {
+      "id": "5cc3cf370db3350000212126",
+      "text": "　超学会ブース",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556336436,
+      "updated": 1556349456
+    },
+    {
+      "id": "5cc402130db33500009d63d0",
+      "text": "　\t[あしやまひろこ]、バ美肉おじさんのフレグランスを研究発表。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556349456,
+      "updated": 1556349495
+    },
+    {
+      "id": "5cc402260db33500009d63d1",
+      "text": "　\t\thttps://twitter.com/hiroko_TB/status/1121940700176584704",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556349474,
+      "updated": 1556349480
+    },
+    {
+      "id": "5cc4020e0db33500009d63ce",
+      "text": "　　　https://twitter.com/hiroko_TB/status/1121435085700419585",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556349450,
+      "updated": 1556349492
+    },
+    {
+      "id": "5cc4020f0db33500009d63cf",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556349451,
+      "updated": 1556349451
+    },
+    {
+      "id": "5cc3c35e0db3350000c3f2f1",
+      "text": "補足：企画紹介の順番は書いている人 [nekketsuuu.icon] が見つけた順です。あしからず。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333403,
+      "updated": 1556333424
+    },
+    {
+      "id": "5cc3c3600db3350000c3f2f2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556333405,
+      "updated": 1556333405
+    },
+    {
+      "id": "5cc5a1d10db3350000bc3704",
+      "text": "#リアルイベント",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556455888,
+      "updated": 1556455891
+    },
+    {
+      "id": "5cc5a1d10db3350000bc3705",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1556455891,
+      "updated": 1556455891
+    }
+  ]
+}

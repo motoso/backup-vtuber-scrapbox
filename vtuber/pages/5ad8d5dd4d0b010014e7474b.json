@@ -1,0 +1,36 @@
+{
+  "id": "5ad8d5dd4d0b010014e7474b",
+  "title": "三味線",
+  "created": 1524159970,
+  "updated": 1524160095,
+  "lines": [
+    {
+      "id": "5ad8d5e1774b1700009be9cd",
+      "text": "三味線",
+      "userId": "59fb21121207900012774b17",
+      "created": 1524159970,
+      "updated": 1524160095
+    },
+    {
+      "id": "5ad8d5f5774b1700009be9cf",
+      "text": "[バーチャルおばあちゃん]の三味線の[BB]素材",
+      "userId": "59fb21121207900012774b17",
+      "created": 1524159989,
+      "updated": 1524160015
+    },
+    {
+      "id": "5ad8d5dd4d0b010014e7474b",
+      "text": "[https://youtu.be/La_fBYC47EY?t=19m27s]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1524159970,
+      "updated": 1524159987
+    },
+    {
+      "id": "5ad8d5e4774b1700009be9ce",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1524159973,
+      "updated": 1524159973
+    }
+  ]
+}

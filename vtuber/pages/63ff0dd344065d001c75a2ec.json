@@ -1,0 +1,29 @@
+{
+  "id": "63ff0dd344065d001c75a2ec",
+  "title": "アドウェイズ",
+  "created": 1677659629,
+  "updated": 1677659631,
+  "lines": [
+    {
+      "id": "63ff0dd344065d001c75a2ec",
+      "text": "アドウェイズ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1677659629,
+      "updated": 1677659629
+    },
+    {
+      "id": "63ff0ded774b1700001f696f",
+      "text": "https://www.adways.net/",
+      "userId": "59fb21121207900012774b17",
+      "created": 1677659629,
+      "updated": 1677659631
+    },
+    {
+      "id": "63ff0dee774b1700001f6970",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1677659631,
+      "updated": 1677659631
+    }
+  ]
+}

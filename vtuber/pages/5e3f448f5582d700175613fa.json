@@ -1,0 +1,113 @@
+{
+  "id": "5e3f448f5582d700175613fa",
+  "title": "バーチャルモーションキャプチャー",
+  "created": 1581204681,
+  "updated": 1581205232,
+  "lines": [
+    {
+      "id": "5e3f448f5582d700175613fa",
+      "text": "バーチャルモーションキャプチャー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204681,
+      "updated": 1581204681
+    },
+    {
+      "id": "5e3f44c90db33500006846cc",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204681,
+      "updated": 1581204681
+    },
+    {
+      "id": "5e3f44c90db33500006846cd",
+      "text": "　VR機器からの入力と3Dモデルから、3Dモデルのモーションを生成するソフトウェア。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204681,
+      "updated": 1581204798
+    },
+    {
+      "id": "5e3f453f0db33500006846cf",
+      "text": "　\t[VRM]形式の3DモデルをVR機器で動かせる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204798,
+      "updated": 1581204818
+    },
+    {
+      "id": "5e3f456f0db33500006846d0",
+      "text": "　\t[LIV]などのソフトウェアと併用することによって、VRゲームの中で動かすことが出来る場合も。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204847,
+      "updated": 1581204867
+    },
+    {
+      "id": "5e3f45f60db33500006846d7",
+      "text": "　OSSである。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204982,
+      "updated": 1581204984
+    },
+    {
+      "id": "5e3f46430db33500006846d8",
+      "text": "　動作例がよく投稿されているハッシュタグ：[https://twitter.com/hashtag/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%83%BC #バーチャルモーションキャプチャー]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581205058,
+      "updated": 1581205077
+    },
+    {
+      "id": "5e3f44e00db33500006846ce",
+      "text": "　https://sh-akira.github.io/VirtualMotionCapture/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204703,
+      "updated": 1581204889
+    },
+    {
+      "id": "5e3f45ef0db33500006846d6",
+      "text": "　GitHub https://github.com/sh-akira/VirtualMotionCapture",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204975,
+      "updated": 1581204977
+    },
+    {
+      "id": "5e3f46ee0db33500006846d9",
+      "text": "　pixivFANBOX https://www.pixiv.net/fanbox/creator/10267568",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581205229,
+      "updated": 1581205232
+    },
+    {
+      "id": "5e3f45a30db33500006846d2",
+      "text": "　作者：[あきら]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204899,
+      "updated": 1581204901
+    },
+    {
+      "id": "5e3f45990db33500006846d1",
+      "text": "\t\thttps://twitter.com/sh_akira",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204889,
+      "updated": 1581204907
+    },
+    {
+      "id": "5e3f45ac0db33500006846d3",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204907,
+      "updated": 1581204907
+    },
+    {
+      "id": "5e3f45ae0db33500006846d4",
+      "text": "#ソフトウェア",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204909,
+      "updated": 1581204912
+    },
+    {
+      "id": "5e3f45af0db33500006846d5",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1581204910,
+      "updated": 1581204910
+    }
+  ]
+}

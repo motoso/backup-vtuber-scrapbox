@@ -1,0 +1,232 @@
+{
+  "id": "5ab3d6eecf761700147409e0",
+  "title": "settings",
+  "created": 1521735408,
+  "updated": 1688108849,
+  "lines": [
+    {
+      "id": "5ab3d6ef774b170000ffb34d",
+      "text": "settings",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb34e",
+      "text": "[https://gyazo.com/2b64335d2d5068a4c2b8db07b5604d68]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb34f",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb350",
+      "text": "[** ［*　］<-これに蛍光のラインを足す]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb351",
+      "text": " [https://scrapbox.io/li9ri9/settings settings - ???? - Scrapbox]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb352",
+      "text": " [https://scrapbox.io/help-jp/%E6%96%87%E5%AD%97%E8%A3%85%E9%A3%BE%E8%A8%98%E6%B3%95 文字装飾記法 - Scrapbox ヘルプ - Scrapbox]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb353",
+      "text": "code:style.css",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb354",
+      "text": " /* [* ]<ーこれに蛍光のラインを足す */",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb355",
+      "text": "  .level-1{",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6ef774b170000ffb356",
+      "text": "  \tbackground: linear-gradient(transparent 60%, #FFDE2E 60%);",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "5ab3d6eecf761700147409e0",
+      "text": "  }",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521735408,
+      "updated": 1522076576
+    },
+    {
+      "id": "649e7e4e774b1700001e47d2",
+      "text": "  ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108623,
+      "updated": 1688108623
+    },
+    {
+      "id": "649e7e4e774b1700001e47d3",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108623,
+      "updated": 1688108623
+    },
+    {
+      "id": "649e7e4f774b1700001e47d4",
+      "text": "[** プロジェクトタイトル横に注釈を表示]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7ea2774b1700008b6887",
+      "text": "2023/6/30 執筆が活発になるようにアピールしてみた[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108706,
+      "updated": 1688108726
+    },
+    {
+      "id": "649e7e4f774b1700001e47d5",
+      "text": "code: style.css",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47d6",
+      "text": " .quick-launch .project-home .title{",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47d7",
+      "text": "   word-break:break-all;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47d8",
+      "text": "   white-space:normal;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47d9",
+      "text": " }",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47da",
+      "text": " .quick-launch .project-home span.title::after{",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47db",
+      "text": "   content:\"推しのことをまとめよう！\";",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108849
+    },
+    {
+      "id": "649e7e4f774b1700001e47dc",
+      "text": "   background-color: white;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47dd",
+      "text": "   color: rgba(53,59,72,.6);",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47de",
+      "text": "   padding: 5px;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47df",
+      "text": "   margin-left: 1em;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47e0",
+      "text": "   border: solid 1px rgba(53,59,72,.6);;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47e1",
+      "text": "   font-size: small;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47e2",
+      "text": "   display: inline-block;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47e3",
+      "text": "   line-height: 1.2em;",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47e4",
+      "text": " }",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    },
+    {
+      "id": "649e7e4f774b1700001e47e5",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1688108624,
+      "updated": 1688108624
+    }
+  ]
+}

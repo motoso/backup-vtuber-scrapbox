@@ -1,0 +1,64 @@
+{
+  "id": "5ecc38caf23cdd00236a3972",
+  "title": "nijisanji.page.link",
+  "created": 1590442190,
+  "updated": 1590442264,
+  "lines": [
+    {
+      "id": "5ecc38caf23cdd00236a3972",
+      "text": "nijisanji.page.link",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442190,
+      "updated": 1590442190
+    },
+    {
+      "id": "5ecc38d10db33500006e53cb",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442190,
+      "updated": 1590442190
+    },
+    {
+      "id": "5ecc38d10db33500006e53cc",
+      "text": " 短縮リンク。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442190,
+      "updated": 1590442198
+    },
+    {
+      "id": "5ecc38d80db33500006e53ce",
+      "text": " 　[鷹宮リオン]が2020/5/26に使ったのがおそらく初出。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442198,
+      "updated": 1590442214
+    },
+    {
+      "id": "5ecc38e80db33500006e53cf",
+      "text": " 　\thttps://twitter.com/TakamiyaRion/status/1264944698780614656",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442214,
+      "updated": 1590442215
+    },
+    {
+      "id": "5ecc38e90db33500006e53d0",
+      "text": " 　page.linkというドメイン自体はFirebase Dynamic Linksで使えるもの。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442215,
+      "updated": 1590442260
+    },
+    {
+      "id": "5ecc39170db33500006e53d4",
+      "text": " 　\thttps://firebase.google.com/docs/dynamic-links?hl=ja",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442261,
+      "updated": 1590442264
+    },
+    {
+      "id": "5ecc38d10db33500006e53cd",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590442191,
+      "updated": 1590442191
+    }
+  ]
+}

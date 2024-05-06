@@ -1,0 +1,85 @@
+{
+  "id": "5bc304f5ff6fec001359fcc4",
+  "title": "ご認識",
+  "created": 1539507447,
+  "updated": 1539960726,
+  "lines": [
+    {
+      "id": "5bc304f5224bfe0000f67b6b",
+      "text": "ご認識",
+      "userId": "5b8b86afe462e10014224bfe",
+      "created": 1539507447,
+      "updated": 1539507447
+    },
+    {
+      "id": "5bc304f5224bfe0000f67b6d",
+      "text": "[ゆかりねっと]等による音声認識を使用して喋るときに発生する認識ミス（誤認識）のこと。",
+      "userId": "5b8b86afe462e10014224bfe",
+      "created": 1539507447,
+      "updated": 1539958428
+    },
+    {
+      "id": "5bc304f5224bfe0000f67b6f",
+      "text": "　「ねこますさん」→「[猫松]さん」など",
+      "userId": "5b8b86afe462e10014224bfe",
+      "created": 1539507447,
+      "updated": 1539507612
+    },
+    {
+      "id": "5bc30586224bfe0000f67b70",
+      "text": "",
+      "userId": "5b8b86afe462e10014224bfe",
+      "created": 1539507592,
+      "updated": 1539507593
+    },
+    {
+      "id": "5bc30586224bfe0000f67b71",
+      "text": "[のらきゃっと]を中心に音声認識を用いるVTuberについてよく使われる。",
+      "userId": "5b8b86afe462e10014224bfe",
+      "created": 1539507592,
+      "updated": 1539507595
+    },
+    {
+      "id": "5bc304f5ff6fec001359fcc4",
+      "text": "",
+      "userId": "5b8b86afe462e10014224bfe",
+      "created": 1539507447,
+      "updated": 1539960640
+    },
+    {
+      "id": "5bc9ef3f774b170000dab601",
+      "text": "[* ご認識を活用した動画の例]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1539960640,
+      "updated": 1539960668
+    },
+    {
+      "id": "5bc9ef5c774b170000dab605",
+      "text": " [https://youtu.be/pw-26KpBVOA]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1539960668,
+      "updated": 1539960670
+    },
+    {
+      "id": "5bc9ef5d774b170000dab606",
+      "text": " みんなの反応が見られるコメント付きの[ニコニコ動画版 https://www.nicovideo.jp/watch/sm34014900]もおすすめ[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1539960670,
+      "updated": 1539960726
+    },
+    {
+      "id": "5bc9ef49774b170000dab604",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1539960650,
+      "updated": 1539960650
+    },
+    {
+      "id": "5bc9ef40774b170000dab602",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1539960640,
+      "updated": 1539960640
+    }
+  ]
+}

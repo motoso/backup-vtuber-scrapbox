@@ -1,0 +1,701 @@
+{
+  "id": "5d258d91dda49200170a295f",
+  "title": "Vtuber甲子園",
+  "created": 1562742168,
+  "updated": 1570149766,
+  "lines": [
+    {
+      "id": "5d258d91dda49200170a295f",
+      "text": "Vtuber甲子園",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742168,
+      "updated": 1566017194
+    },
+    {
+      "id": "5d33e6020db3350000266a7f",
+      "text": "[https://pbs.twimg.com/media/D-oMtcsUYAAnYyD.jpg]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563682306,
+      "updated": 1563682306
+    },
+    {
+      "id": "5d258d990db33500005e0498",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742168,
+      "updated": 1562742168
+    },
+    {
+      "id": "5d258d9a0db33500005e0499",
+      "text": "　[野球]ゲーム『[実況パワフルプロ野球2018]』を使い、4名のVTuberが対戦する企画。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742168,
+      "updated": 1570149766
+    },
+    {
+      "id": "5d258e0e0db33500005e049b",
+      "text": "　\t[天開司]主催。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742285,
+      "updated": 1562742292
+    },
+    {
+      "id": "5d258e130db33500005e049c",
+      "text": "　\t2019/7/4から各々でチーム構成を行い、後日「栄冠ナイン」の対戦を行う。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742292,
+      "updated": 1562742341
+    },
+    {
+      "id": "5d258e470db33500005e049d",
+      "text": "　\t\thttps://twitter.com/tenkaitukasa/status/1146743035562057729",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742342,
+      "updated": 1562742343
+    },
+    {
+      "id": "5d400f770db3350000f20b0c",
+      "text": "　\t本選は[REALITY FESTIVAL3]にて配信。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564479351,
+      "updated": 1564479360
+    },
+    {
+      "id": "5d4d74fd0db3350000f5d80f",
+      "text": "　\t\t後日アーカイブが公開される他、決勝戦以外は天開司のYouTubeチャンネルにて生配信される。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565357308,
+      "updated": 1565357330
+    },
+    {
+      "id": "5d4d75120db3350000f5d810",
+      "text": "　\t\t\thttps://twitter.com/WFLE_REALITY/status/1159029330615230466",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565357330,
+      "updated": 1565357339
+    },
+    {
+      "id": "5d4d75130db3350000f5d811",
+      "text": "　\t\t\thttps://twitter.com/tenkaitukasa/status/1159817137977876480",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565357331,
+      "updated": 1565357338
+    },
+    {
+      "id": "5d258e540db33500005e04a0",
+      "text": "　ハッシュタグ：[https://twitter.com/hashtag/Vtuber%E7%94%B2%E5%AD%90%E5%9C%92?src=hash #Vtuber甲子園]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742355,
+      "updated": 1562742361
+    },
+    {
+      "id": "5d258d9a0db33500005e049a",
+      "text": "　参加者",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742169,
+      "updated": 1562742348
+    },
+    {
+      "id": "5d258e4d0db33500005e049f",
+      "text": "　\t[舞元啓介]（にじさんじ農業）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742348,
+      "updated": 1564398380
+    },
+    {
+      "id": "5d258e7e0db33500005e04a1",
+      "text": "　\t[椎名唯華]（にじさんじ高校）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742397,
+      "updated": 1564398398
+    },
+    {
+      "id": "5d258e810db33500005e04a2",
+      "text": "　\t[歌衣メイカ]（upd8商業）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742400,
+      "updated": 1564398372
+    },
+    {
+      "id": "5d258e830db33500005e04a3",
+      "text": "　\t[大空スバル]（ホロライブ女学院）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742403,
+      "updated": 1564398387
+    },
+    {
+      "id": "5d258e4b0db33500005e049e",
+      "text": "　関連配信",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742346,
+      "updated": 1564398341
+    },
+    {
+      "id": "5d263d760db3350000282bb3",
+      "text": "　\t2019/7/10：舞元啓介＆椎名唯華、にじさんじメンバードラフト会議。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787187,
+      "updated": 1564398469
+    },
+    {
+      "id": "5d263d8d0db3350000282bb4",
+      "text": "　\t\tどのにじさんじメンバーの名前を自分のチームの選手名に使うか、[ドラフト会議]を行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787210,
+      "updated": 1562787539
+    },
+    {
+      "id": "5d263d700db3350000282bb2",
+      "text": "\t\t\t単なるドラフト会議ではあるが、生配信の同時接続数が2万ユーザーを越える程度には盛り上がった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787181,
+      "updated": 1562787257
+    },
+    {
+      "id": "5d263e560db3350000282bba",
+      "text": "\t\t\t\t[nekketsuuu.icon] 半年ほど前の企画「[実況パワフルクズ野球]」にてメンバーの名前がついた選手たちがドラマを繰り広げたことにより期待度が上がっていました。また、典型的な[関係性パズル]としても楽しまれていました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787410,
+      "updated": 1562787526
+    },
+    {
+      "id": "5d263de00db3350000282bb6",
+      "text": "\t\t\t配信：https://www.youtube.com/watch?v=OILrueb7FZ8",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787293,
+      "updated": 1564398327
+    },
+    {
+      "id": "5d2add350db33500004f2662",
+      "text": "\t\t\tこのドラフト会議で決まらなかった面子は裏で決めるとのこと。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563090220,
+      "updated": 1563090252
+    },
+    {
+      "id": "5d263de10db3350000282bb7",
+      "text": "　　2019/7/14、15：歌衣メイカ、upd8組としてメンバーを組み、チーム育成。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787293,
+      "updated": 1564398420
+    },
+    {
+      "id": "5d263e220db3350000282bb8",
+      "text": "　　\thttps://www.youtube.com/watch?v=-7l_IejzSi4",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787358,
+      "updated": 1564398084
+    },
+    {
+      "id": "5d2d6ced0db3350000ecfe7d",
+      "text": "\t\t\thttps://www.youtube.com/watch?v=WgtoWO6bQvc",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563258091,
+      "updated": 1564398087
+    },
+    {
+      "id": "5d263e240db3350000282bb9",
+      "text": "　　2019/7/17：[舞スバ]の二人で育成。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787361,
+      "updated": 1563682363
+    },
+    {
+      "id": "5d2f15230db3350000354cb2",
+      "text": "　　\t大空スバルがパワプロ初心者であるため、舞元啓介のキャラメイクに付き合わせる形でゲームを紹介。その後大空スバルも自分のチームを作成。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563366689,
+      "updated": 1563372095
+    },
+    {
+      "id": "5d2efe1f0db3350000354cb0",
+      "text": "　　\t舞元啓介チーム：https://www.youtube.com/watch?v=-vCADV11SeU",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563360797,
+      "updated": 1564398423
+    },
+    {
+      "id": "5d2efe230db3350000354cb1",
+      "text": "\t\t\t大空スバルチーム：https://www.youtube.com/watch?v=LNUE6Jm47hQ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563360801,
+      "updated": 1564398426
+    },
+    {
+      "id": "5d263da00db3350000282bb5",
+      "text": "　　2019/7/20：3陣営で栄冠ナイン配信があった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562787229,
+      "updated": 1563682368
+    },
+    {
+      "id": "5d32b57c0db335000032f348",
+      "text": "　　\t歌衣メイカ：https://www.youtube.com/watch?v=pzTn4KUMrdI",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563604349,
+      "updated": 1564398428
+    },
+    {
+      "id": "5d32b5840db335000032f349",
+      "text": "\t\t\t大空スバル：https://www.youtube.com/watch?v=GSsB8CGc7TI",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563604357,
+      "updated": 1564398431
+    },
+    {
+      "id": "5d32b58f0db335000032f34a",
+      "text": "\t\t\t舞元啓介：https://www.youtube.com/watch?v=FgiuZq8OsUo",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563604367,
+      "updated": 1564398430
+    },
+    {
+      "id": "5d32b5970db335000032f34b",
+      "text": "　　2019/7/21：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563604375,
+      "updated": 1564398153
+    },
+    {
+      "id": "5d33e62a0db3350000266a81",
+      "text": "　　\t歌衣メイカ：https://www.youtube.com/watch?v=AIuE9s4Af30",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563682346,
+      "updated": 1564398434
+    },
+    {
+      "id": "5d33e62a0db3350000266a82",
+      "text": "　　2019/7/27：3陣営にて配信。椎名唯華は初。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563682346,
+      "updated": 1564398438
+    },
+    {
+      "id": "5d3c4fcd0db3350000024b6b",
+      "text": "　　\t以前から強運を披露していた椎名唯華が、また強運を見せた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564233675,
+      "updated": 1564233729
+    },
+    {
+      "id": "5d3c38940db3350000d42872",
+      "text": "　　\t歌衣メイカ：https://www.youtube.com/watch?v=2_MU_curmIs",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564227730,
+      "updated": 1564398441
+    },
+    {
+      "id": "5d3c38c40db33500001a0487",
+      "text": "　　　大空スバル：https://www.youtube.com/watch?v=mgotCzHzaEI",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564227778,
+      "updated": 1564398445
+    },
+    {
+      "id": "5d3c38dd0db33500001a0488",
+      "text": "　　　椎名唯華：https://www.youtube.com/watch?v=T4p33CJ2lfw",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564227804,
+      "updated": 1564398444
+    },
+    {
+      "id": "5d3c38ec0db33500001a0489",
+      "text": "　　2019/7/28：全陣営で配信があった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564227818,
+      "updated": 1564398263
+    },
+    {
+      "id": "5d3d37e90db3350000fde27f",
+      "text": "　　\t歌衣メイカは選手の配布も行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564293095,
+      "updated": 1564398447
+    },
+    {
+      "id": "5d3d37fc0db3350000fde280",
+      "text": "　　\t\thttps://twitter.com/makeagames2018/status/1155344435070115840",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564293114,
+      "updated": 1564293114
+    },
+    {
+      "id": "5d3d37fd0db3350000fde281",
+      "text": "　　\t舞元啓介：https://www.youtube.com/watch?v=Pl0LEYZFwjw",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564293115,
+      "updated": 1564398453
+    },
+    {
+      "id": "5d3d38030db3350000fde282",
+      "text": "\t\t\t大空スバル：https://www.youtube.com/watch?v=DbZETJWLQw8",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564293121,
+      "updated": 1564398453
+    },
+    {
+      "id": "5d3d380c0db3350000fde283",
+      "text": "\t\t\t歌衣メイカ：https://www.youtube.com/watch?v=U8L3NP72uYM",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564293130,
+      "updated": 1564398454
+    },
+    {
+      "id": "5d3d38140db3350000fde284",
+      "text": "\t\t\t椎名唯華：https://www.youtube.com/watch?v=ryO30w1RfB4",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564293137,
+      "updated": 1564398455
+    },
+    {
+      "id": "5d3d41180db335000059dd42",
+      "text": "　　2019/7/29：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564295446,
+      "updated": 1564398274
+    },
+    {
+      "id": "5d3e7e6a0db3350000c847f4",
+      "text": "　　\t歌衣メイカ：https://www.youtube.com/watch?v=6S1ckwmb3R4",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564376682,
+      "updated": 1564398460
+    },
+    {
+      "id": "5d3e7e6b0db3350000c847f5",
+      "text": "\t\t\t椎名唯華：https://www.youtube.com/watch?v=bOSbjxvpxCk",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564376682,
+      "updated": 1564398459
+    },
+    {
+      "id": "5d32b5700db335000032f347",
+      "text": "  2019/7/30：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1563604337,
+      "updated": 1564479056
+    },
+    {
+      "id": "5d400e4f0db3350000173b16",
+      "text": "  \t椎名唯華：https://www.youtube.com/watch?v=XS3GBYTMKrE",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564479056,
+      "updated": 1564479064
+    },
+    {
+      "id": "5d45a5860db3350000871c0d",
+      "text": "  \t歌衣メイカ：https://www.youtube.com/watch?v=iCEFAhsAMwg",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564845446,
+      "updated": 1564845460
+    },
+    {
+      "id": "5d45a56b0db3350000871c0a",
+      "text": "  2019/7/31：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564845420,
+      "updated": 1564845424
+    },
+    {
+      "id": "5d45a56f0db3350000871c0b",
+      "text": "  \t歌衣メイカ：https://www.youtube.com/watch?v=dbZVJs2vUt8",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564845424,
+      "updated": 1564845434
+    },
+    {
+      "id": "5d400e4c0db3350000173b15",
+      "text": "  2019/8/1：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564479052,
+      "updated": 1564675462
+    },
+    {
+      "id": "5d430d870db3350000f22fef",
+      "text": "  \t歌衣メイカ：https://www.youtube.com/watch?v=Bbt9mSEmiOA",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564675462,
+      "updated": 1564675473
+    },
+    {
+      "id": "5d45a52d0db3350000871c07",
+      "text": "  2019/8/2：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564845358,
+      "updated": 1564845360
+    },
+    {
+      "id": "5d45a52f0db3350000871c08",
+      "text": "  \t歌衣メイカ：https://www.youtube.com/watch?v=eMd45EzyIqY",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564845360,
+      "updated": 1564845367
+    },
+    {
+      "id": "5d430d820db3350000f22fed",
+      "text": "　　2019/8/3：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564675458,
+      "updated": 1564806649
+    },
+    {
+      "id": "5d450dfa0db33500008b4274",
+      "text": "　　\t大空スバル：https://www.youtube.com/watch?v=YieQKBKR8PI",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564806649,
+      "updated": 1564806665
+    },
+    {
+      "id": "5d4515410db335000070ba4d",
+      "text": "　　\t舞元啓介：https://www.youtube.com/watch?v=zFDZ1DfNM6w",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564808514,
+      "updated": 1564808521
+    },
+    {
+      "id": "5d45a5090db3350000871c05",
+      "text": "　　\t歌衣メイカ：https://www.youtube.com/watch?v=6bUGU53jep0",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564845322,
+      "updated": 1564845330
+    },
+    {
+      "id": "5d430d820db3350000f22fee",
+      "text": "　　2019/8/4",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564675458,
+      "updated": 1564887559
+    },
+    {
+      "id": "5d464a070db33500008e6a0a",
+      "text": "　　\t大空スバル：https://www.youtube.com/watch?v=MJiOQFvBg3A",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564887559,
+      "updated": 1564887602
+    },
+    {
+      "id": "5d464a0a0db33500008e6a0b",
+      "text": "　　\t舞元啓介：https://www.youtube.com/watch?v=7SjobQ4HR6Y",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564887562,
+      "updated": 1564887579
+    },
+    {
+      "id": "5d464a040db33500008e6a09",
+      "text": "　　2019/8/5",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564887556,
+      "updated": 1565016237
+    },
+    {
+      "id": "5d4840af0db3350000547614",
+      "text": "　　\t歌衣メイカ：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565016238,
+      "updated": 1565016610
+    },
+    {
+      "id": "5d4842250db33500008afd54",
+      "text": "　　\t\thttps://www.youtube.com/watch?v=Om1LgBOtZ8w",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565016612,
+      "updated": 1565016614
+    },
+    {
+      "id": "5d4842230db33500008afd53",
+      "text": "　　\t\thttps://www.youtube.com/watch?v=TxkHj1b-GtQ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565016610,
+      "updated": 1565016611
+    },
+    {
+      "id": "5d4840ad0db3350000547613",
+      "text": "  2019/8/8",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565016236,
+      "updated": 1565217036
+    },
+    {
+      "id": "5d4b510e0db335000052e962",
+      "text": "  \t歌衣メイカ：https://www.youtube.com/watch?v=fe_mCrmsrQM",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565217036,
+      "updated": 1565217045
+    },
+    {
+      "id": "5d4f055e0db3350000e13453",
+      "text": "  2019/8/10",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565459803,
+      "updated": 1565459808
+    },
+    {
+      "id": "5d4f05630db3350000e13454",
+      "text": "  \t歌衣メイカ：https://www.youtube.com/watch?v=ngrvnCmDIp0",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565459808,
+      "updated": 1565459814
+    },
+    {
+      "id": "5d4b510c0db335000052e961",
+      "text": "　　2019/8/11",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565217034,
+      "updated": 1565459762
+    },
+    {
+      "id": "5d4f05360db3350000e13451",
+      "text": "　　\t歌衣メイカ：https://www.youtube.com/watch?v=yOnwrIXES2k",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565459763,
+      "updated": 1565459772
+    },
+    {
+      "id": "5d524c300db3350000bd6d5c",
+      "text": "　　2019/8/12",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565674539,
+      "updated": 1565674541
+    },
+    {
+      "id": "5d524c330db3350000bd6d5d",
+      "text": "　　\t歌衣メイカ：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565674541,
+      "updated": 1565674590
+    },
+    {
+      "id": "5d524c630db3350000bd6d65",
+      "text": "　　\t\thttps://www.youtube.com/watch?v=4Eyc69fnEGY",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565674590,
+      "updated": 1565674591
+    },
+    {
+      "id": "5d524c3b0db3350000bd6d5f",
+      "text": "　　\t\thttps://www.youtube.com/watch?v=_HTPAf0isU8",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565674551,
+      "updated": 1565674588
+    },
+    {
+      "id": "5d524c4d0db3350000bd6d63",
+      "text": "　　\t\thttps://www.youtube.com/watch?v=GsIQtYdDjBU",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565674568,
+      "updated": 1565674585
+    },
+    {
+      "id": "5d4f05340db3350000e13450",
+      "text": "  2019/8/17 本番",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1565459761,
+      "updated": 1566017143
+    },
+    {
+      "id": "5d57867a0db33500003a2826",
+      "text": "  \t[https://www.youtube.com/watch?v=4Iy-Ngf2OFs]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566017143,
+      "updated": 1566017146
+    },
+    {
+      "id": "5d57867d0db33500003a2827",
+      "text": "   https://reality.wrightflyer.net/viewer/189720",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566017146,
+      "updated": 1566027075
+    },
+    {
+      "id": "5d57ad450db33500000407ca",
+      "text": "   決勝戦はREALITYのみで配信。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566027074,
+      "updated": 1566027074
+    },
+    {
+      "id": "5d58d1680db33500008230ea",
+      "text": "   [https://www.youtube.com/watch?v=ELXcaslsdVs]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566101860,
+      "updated": 1566101864
+    },
+    {
+      "id": "5d581c630db3350000067bb8",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1566055519,
+      "updated": 1566055519
+    },
+    {
+      "id": "5d258ea30db33500005e04a4",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742434,
+      "updated": 1562742437
+    },
+    {
+      "id": "5d258ea60db33500005e04a6",
+      "text": " [https://www.moguravr.com/vtuber-koshien/ VTuber天開司、コラボ企画「VTuber甲子園」を発表 舞元啓介・椎名唯華・歌衣メイカ・大空スバルが参加]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742437,
+      "updated": 1562742442
+    },
+    {
+      "id": "5d258ea40db33500005e04a5",
+      "text": "　ファン制作のまとめ：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562742436,
+      "updated": 1564398313
+    },
+    {
+      "id": "5d3ed2ea0db33500003b0a9b",
+      "text": "　\t[だ～すけ]作：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564398313,
+      "updated": 1564398313
+    },
+    {
+      "id": "5d3ed2ea0db33500003b0a9c",
+      "text": "　\t\thttps://docs.google.com/spreadsheets/d/1afNOf6RwvmlKYV99g-TV9wFA20zWmULM_NTUrPfNVqQ/edit#gid=846306404",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564398313,
+      "updated": 1564398313
+    },
+    {
+      "id": "5d3ed2ea0db33500003b0a9d",
+      "text": "　\t[ASAKA]作：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564398313,
+      "updated": 1564398313
+    },
+    {
+      "id": "5d3ed2ea0db33500003b0a9e",
+      "text": "　\t\thttps://docs.google.com/spreadsheets/d/18LW9LGbw9ZJoUfWk3Ntjv33SGwPLooW7ffNf0LUDrCg/edit#gid=0",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564398313,
+      "updated": 1564398313
+    },
+    {
+      "id": "5d3ed2ea0db33500003b0a9f",
+      "text": "　\t[rantan]作：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564398313,
+      "updated": 1564398313
+    },
+    {
+      "id": "5d4507e40db335000040e066",
+      "text": "　\t\thttps://twitter.com/i/moments/1156269959195922432",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564805091,
+      "updated": 1564805096
+    },
+    {
+      "id": "5d3ed2ea0db33500003b0aa0",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1564398313,
+      "updated": 1564805098
+    }
+  ]
+}

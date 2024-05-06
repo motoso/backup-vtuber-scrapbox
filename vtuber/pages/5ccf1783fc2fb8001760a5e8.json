@@ -1,0 +1,92 @@
+{
+  "id": "5ccf1783fc2fb8001760a5e8",
+  "title": "note",
+  "created": 1557075847,
+  "updated": 1576562288,
+  "lines": [
+    {
+      "id": "5ccf1783fc2fb8001760a5e8",
+      "text": "note",
+      "userId": "59fb21121207900012774b17",
+      "created": 1557075847,
+      "updated": 1557075847
+    },
+    {
+      "id": "5df86cb70db3350000a8660c",
+      "text": "[https://gyazo.com/bb2e8d3ae7accee405a246a06d81c072]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561847,
+      "updated": 1576561862
+    },
+    {
+      "id": "5df86cb80db3350000a8660d",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561848,
+      "updated": 1576561848
+    },
+    {
+      "id": "5ccf1786774b17000004b11f",
+      "text": "　https://note.com のこと。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1557075847,
+      "updated": 1576561887
+    },
+    {
+      "id": "5ccf178e774b17000004b120",
+      "text": "　ブログサービス。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1557075854,
+      "updated": 1576561885
+    },
+    {
+      "id": "5df86cda0db3350000a8660f",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561882,
+      "updated": 1576561882
+    },
+    {
+      "id": "5df86c290db3350000a86608",
+      "text": "特記事項",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561705,
+      "updated": 1576561708
+    },
+    {
+      "id": "5df86c2c0db3350000a8660a",
+      "text": "　2019年11月末に https://note.mu から https://note.com にドメイン変更した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561708,
+      "updated": 1576561724
+    },
+    {
+      "id": "5df86c3c0db3350000a8660b",
+      "text": "　\thttps://moving.note.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561724,
+      "updated": 1576561732
+    },
+    {
+      "id": "5df86c290db3350000a86609",
+      "text": "　アイコンデータは、noteの[ロゴデータ・ガイドライン https://note.pieceofcake.help/hc/ja/articles/360000235582-%E3%83%AD%E3%82%B4%E3%83%87%E3%83%BC%E3%82%BF]に則って使用しています。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561706,
+      "updated": 1576561936
+    },
+    {
+      "id": "5df86ce80db3350000a86610",
+      "text": "  編集者さんへ：文字入りロゴはそのまま使うとScrapboxのアイコンの仕様上「ロゴタイプを潰さない」という条件を守れそうにないため使っていません。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576561897,
+      "updated": 1576562288
+    },
+    {
+      "id": "5df86e3e0db335000030e606",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1576562238,
+      "updated": 1576562238
+    }
+  ]
+}

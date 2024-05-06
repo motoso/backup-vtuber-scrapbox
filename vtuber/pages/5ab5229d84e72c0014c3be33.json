@@ -1,0 +1,253 @@
+{
+  "id": "5ab5229d84e72c0014c3be33",
+  "title": "ロボ子さん",
+  "created": 1521820318,
+  "updated": 1648744425,
+  "lines": [
+    {
+      "id": "5ab5229e774b170000b31fe4",
+      "text": "ロボ子さん",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1525709107
+    },
+    {
+      "id": "5ca45a270db335000089b17c",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554274856,
+      "updated": 1554274856
+    },
+    {
+      "id": "5ab5229e774b170000b31fe6",
+      "text": "要約",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31fe7",
+      "text": " 読んだ人が、どのような人なのかわかりやすいように簡潔に、特徴や盛り上がっているネタを書きます",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab536d8774b17000000e7c0",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521825497,
+      "updated": 1521825497
+    },
+    {
+      "id": "5ab536d9774b17000000e7c1",
+      "text": "[https://www.youtube.com/watch?v=CjeHMTM-IAk]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521825498,
+      "updated": 1521825498
+    },
+    {
+      "id": "5ab536d7774b17000000e7bf",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521825496,
+      "updated": 1521825497
+    },
+    {
+      "id": "5ab5229e774b170000b31fe8",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31fe9",
+      "text": "アカウント",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31fea",
+      "text": " [/icons/twitter.icon] https://twitter.com/robocosan",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521823330
+    },
+    {
+      "id": "5ab5229e774b170000b31feb",
+      "text": " [/icons/youtube.icon] https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521823339
+    },
+    {
+      "id": "5af0793f774b170000d9d046",
+      "text": " [/icons/niconico.icon] http://www.nicovideo.jp/user/78680574/mylist",
+      "userId": "59fb21121207900012774b17",
+      "created": 1525709117,
+      "updated": 1525709117
+    },
+    {
+      "id": "5c2667a2774b170000e13bcf",
+      "text": " [/icons/OPENREC.icon] https://www.openrec.tv/user/robocosan",
+      "userId": "59fb21121207900012774b17",
+      "created": 1546020771,
+      "updated": 1546020795
+    },
+    {
+      "id": "5ab5229e774b170000b31fec",
+      "text": " [/icons/mirrativ.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31fee",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31fef",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff0",
+      "text": "語録",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff1",
+      "text": " 「ここに有名な言葉（ミーム）を書きます」",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff2",
+      "text": "  ここにその発言が生まれたコンテキスト（どのようにしてその発言が生まれたのか）を書きます",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff3",
+      "text": "  その言葉が初めて使われたリンクもわかれば貼ります",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff4",
+      "text": "   動画の秒数がわかればYouTubeへのリンクを張ると見た人が便利です",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff5",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff6",
+      "text": "基本情報",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff7",
+      "text": " 身長・体重・年齢・性別・種族などの公式設定を書きます。多分要約と一部かぶります。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5af079f9774b170000d9d04e",
+      "text": " [カバー株式会社][所属 http://cover-corp.com/2017/12/22/sora-vtuber/]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1525709304,
+      "updated": 1525709328
+    },
+    {
+      "id": "5ab5229e774b170000b31ff8",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ff9",
+      "text": "特記事項",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1525709263
+    },
+    {
+      "id": "5ab5229e774b170000b31ffa",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ffb",
+      "text": "生みの親",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ffc",
+      "text": " モデラー（パパ）：[https://twitter.com/kuromaru9 kuromaru9]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1579883076
+    },
+    {
+      "id": "5ab5229e774b170000b31ffd",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31ffe",
+      "text": "より詳しく知りたい人向けのリンク",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229e774b170000b31fff",
+      "text": " https://dic.nicovideo.jp/a/ロボ子さん",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1579883103
+    },
+    {
+      "id": "5ab5229e774b170000b32000",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    },
+    {
+      "id": "5ab5229d84e72c0014c3be33",
+      "text": "#バーチャルYouTuber",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521820318,
+      "updated": 1521820318
+    }
+  ]
+}

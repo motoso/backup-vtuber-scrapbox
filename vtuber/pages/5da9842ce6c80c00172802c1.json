@@ -1,0 +1,302 @@
+{
+  "id": "5da9842ce6c80c00172802c1",
+  "title": "Luppet Cafe",
+  "created": 1571390512,
+  "updated": 1590829667,
+  "lines": [
+    {
+      "id": "5da9842ce6c80c00172802c1",
+      "text": "Luppet Cafe",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1571390512,
+      "updated": 1571390512
+    },
+    {
+      "id": "5da984340db335000001ea84",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1571390513,
+      "updated": 1571390523
+    },
+    {
+      "id": "5da9843f0db335000001ea86",
+      "text": " ネットで活動するバーチャル住人達が、リアルでバーテンダーをつとめる[カフェ]＆[バー]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1571390524,
+      "updated": 1582634503
+    },
+    {
+      "id": "5e5516020db3350000eeb5bb",
+      "text": " 読み方：ラペットカフェ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582634497,
+      "updated": 1582634516
+    },
+    {
+      "id": "5e5516520db3350000eeb5bd",
+      "text": " https://luppetcafe.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582634578,
+      "updated": 1582634578
+    },
+    {
+      "id": "5e5516c30db3350000eeb5c1",
+      "text": " [/icons/twitter.icon] https://twitter.com/luppetcafe",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582634690,
+      "updated": 1582634695
+    },
+    {
+      "id": "5e55d60b0db3350000387d7c",
+      "text": " 場所：東京、[秋葉原]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582683658,
+      "updated": 1582683666
+    },
+    {
+      "id": "5da9846f0db335000001ea8d",
+      "text": "　2020/2/25にウェブサイトがオープン、3/1よりプレオープン、4/1より正式オープン。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1571390572,
+      "updated": 1582634590
+    },
+    {
+      "id": "5e55165f0db3350000eeb5be",
+      "text": "　\thttps://twitter.com/nalgami/status/1232229127639326722",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582634590,
+      "updated": 1582634593
+    },
+    {
+      "id": "5e55d6b20db3350000387d7d",
+      "text": "　\thttps://prtimes.jp/main/html/rd/p/000000007.000039709.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582683824,
+      "updated": 1582683826
+    },
+    {
+      "id": "5e5516410db3350000eeb5bc",
+      "text": " [COVID-19]の影響を受け休業しており、そのまま感染防止対策を十分にとれないことを理由に閉店した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582634560,
+      "updated": 1590829217
+    },
+    {
+      "id": "5ed220a30db3350000a7fe06",
+      "text": " \thttps://note.com/luppetcafe/n/n0da709f5a4cc",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590829217,
+      "updated": 1590829219
+    },
+    {
+      "id": "5ed222620db3350000a2b6b8",
+      "text": " \thttps://twitter.com/nalgami/status/1266655783875301382",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590829663,
+      "updated": 1590829663
+    },
+    {
+      "id": "5ed222650db3350000a2b6b9",
+      "text": " \thttps://twitter.com/nalgami/status/1266656111664324608",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590829667,
+      "updated": 1590829667
+    },
+    {
+      "id": "5ed220730db3350000a7fe05",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590829168,
+      "updated": 1590829168
+    },
+    {
+      "id": "5e65befb0db335000000aba9",
+      "text": "[[感想配信など]]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1583726330,
+      "updated": 1583726338
+    },
+    {
+      "id": "5e65befb0db335000000abaa",
+      "text": "[https://www.youtube.com/watch?v=eSJcFaspWyY]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1583726330,
+      "updated": 1583726345
+    },
+    {
+      "id": "5e65bf050db335000000abab",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1583726340,
+      "updated": 1583726340
+    },
+    {
+      "id": "5dcd18a40db33500001805ac",
+      "text": "[[作っている最中の情報]]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722275,
+      "updated": 1582634468
+    },
+    {
+      "id": "5e55d6010db3350000387d7b",
+      "text": " https://twitter.com/nalgami/status/1185069380251439105",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582683648,
+      "updated": 1582683648
+    },
+    {
+      "id": "5dcd19f10db33500001805b5",
+      "text": "　動作イメージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722607,
+      "updated": 1573722610
+    },
+    {
+      "id": "5dcd19fe0db33500001805b6",
+      "text": "　\thttps://twitter.com/nalgami/status/1183657672924483584",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722620,
+      "updated": 1573722624
+    },
+    {
+      "id": "5dcd1a090db33500001805b7",
+      "text": "　\thttps://twitter.com/nalgami/status/1189465216255291392",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722631,
+      "updated": 1573722631
+    },
+    {
+      "id": "5dcd1a0d0db33500001805b8",
+      "text": "　\thttps://twitter.com/nalgami/status/1189465617423716352",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722636,
+      "updated": 1573722636
+    },
+    {
+      "id": "5dcd1a2a0db33500001805bb",
+      "text": "　\thttps://twitter.com/nalgami/status/1193021550695333888",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722665,
+      "updated": 1573722665
+    },
+    {
+      "id": "5dcd1a150db33500001805b9",
+      "text": "　バーテンダー登録のイメージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722644,
+      "updated": 1573722650
+    },
+    {
+      "id": "5dcd1a1b0db33500001805ba",
+      "text": "　\thttps://twitter.com/nalgami/status/1193395482078269440",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722650,
+      "updated": 1573722653
+    },
+    {
+      "id": "5dcd1a4b0db33500001805bd",
+      "text": "　料金体系のイメージ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722697,
+      "updated": 1573722702
+    },
+    {
+      "id": "5dcd1a500db33500001805be",
+      "text": "　\thttps://twitter.com/nalgami/status/1188671692542861312",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722702,
+      "updated": 1573722706
+    },
+    {
+      "id": "5dcd1a530db33500001805bf",
+      "text": "　\thttps://twitter.com/nalgami/status/1188673139611336704",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722706,
+      "updated": 1573722708
+    },
+    {
+      "id": "5dcd18a90db33500001805ae",
+      "text": "　バーチャルオムライス",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722279,
+      "updated": 1573722339
+    },
+    {
+      "id": "5dcd190a0db33500001805b1",
+      "text": "　\tバーテンダーが描いた線画をオムライスの上にフードプリント。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722377,
+      "updated": 1573722435
+    },
+    {
+      "id": "5dcd18ed0db33500001805af",
+      "text": "　\t小さめのオムレツでテストした際のツイート：",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722348,
+      "updated": 1573722360
+    },
+    {
+      "id": "5dcd19080db33500001805b0",
+      "text": "　\t\thttps://twitter.com/nalgami/status/1192831162072236032",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722375,
+      "updated": 1573722375
+    },
+    {
+      "id": "5dcd1a390db33500001805bc",
+      "text": "　\thttps://twitter.com/nalgami/status/1188674261730217984",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722680,
+      "updated": 1573722680
+    },
+    {
+      "id": "5dcd18a50db33500001805ad",
+      "text": "　「推寿司」（おすし）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722275,
+      "updated": 1573722508
+    },
+    {
+      "id": "5dcd198e0db33500001805b3",
+      "text": "　\t下駄の上にお寿司を置くと、ネタに応じて投げ銭できる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722508,
+      "updated": 1573722519
+    },
+    {
+      "id": "5dcd199a0db33500001805b4",
+      "text": "　\thttps://twitter.com/nalgami/status/1189830761601351680",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573722520,
+      "updated": 1573722524
+    },
+    {
+      "id": "5e5516950db3350000eeb5c0",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582634644,
+      "updated": 1582634644
+    },
+    {
+      "id": "5e55d5f60db3350000387d7a",
+      "text": "#Luppet",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582683637,
+      "updated": 1582683638
+    },
+    {
+      "id": "5e5516910db3350000eeb5bf",
+      "text": "#外神田商事株式会社 #なるがみ #ねぎぽよ #東京クリプトキャピタル合同会社",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1582634640,
+      "updated": 1582683812
+    },
+    {
+      "id": "5da984920db335000001ea8e",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1571390607,
+      "updated": 1571390607
+    }
+  ]
+}

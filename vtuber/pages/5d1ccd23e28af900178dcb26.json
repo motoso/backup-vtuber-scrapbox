@@ -1,0 +1,400 @@
+{
+  "id": "5d1ccd23e28af900178dcb26",
+  "title": "Vサマ！",
+  "created": 1562168625,
+  "updated": 1572498108,
+  "lines": [
+    {
+      "id": "5d1ccd23e28af900178dcb26",
+      "text": "Vサマ！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168625,
+      "updated": 1562168625
+    },
+    {
+      "id": "5d1ccd310db33500000bf3aa",
+      "text": "[https://gyazo.com/398900a670b40da835e4de6b0c2b4b7e]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168625,
+      "updated": 1562169325
+    },
+    {
+      "id": "5d62766f774b170000ce5153",
+      "text": "[https://www.youtube.com/watch?v=6VspVIepkmQ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1566733936,
+      "updated": 1566733937
+    },
+    {
+      "id": "5d627670774b170000ce5154",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1566733937,
+      "updated": 1566733937
+    },
+    {
+      "id": "5d1ccfed0db33500000bf3d9",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169325,
+      "updated": 1562169325
+    },
+    {
+      "id": "5d1ccd310db33500000bf3ab",
+      "text": "　[VARK]が主催する[ライブイベント]。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168625,
+      "updated": 1562168776
+    },
+    {
+      "id": "5d1ccd430db33500000bf3ad",
+      "text": "　\tVTuberの夏フェス！",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168642,
+      "updated": 1562168674
+    },
+    {
+      "id": "5d1ccd630db33500000bf3b1",
+      "text": "　\t2019/8/24～25開催。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168674,
+      "updated": 1562168727
+    },
+    {
+      "id": "5d1ccdce0db33500000bf3b2",
+      "text": "\t[Oculus Go]または[Oculus Quest]を使ってVR参加が可能。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168781,
+      "updated": 1562168802
+    },
+    {
+      "id": "5d1ccdf10db33500000bf3b4",
+      "text": "\t特別ゲストとして[初音ミク]が参加。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168816,
+      "updated": 1562168822
+    },
+    {
+      "id": "5d1ccec30db33500000bf3cd",
+      "text": "\t公式サイト：https://vark.co.jp/event/virtual-summer-fest-2019/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169026,
+      "updated": 1562169053
+    },
+    {
+      "id": "5d62762f774b170000ce5151",
+      "text": "\tアーカイブはおそらくニコニコ生放送のみ。終了後1週間",
+      "userId": "59fb21121207900012774b17",
+      "created": 1566733871,
+      "updated": 1566733913
+    },
+    {
+      "id": "5d1ccef30db33500000bf3ce",
+      "text": "\tハッシュタグ：[https://twitter.com/hashtag/V%E3%82%B5%E3%83%9E?src=hash #Vサマ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169074,
+      "updated": 1562169080
+    },
+    {
+      "id": "5d1ccfce0db33500000bf3d7",
+      "text": "\t\tTwitterではVARKのアカウントが広報を行っている。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169294,
+      "updated": 1562169304
+    },
+    {
+      "id": "5d1ccfd90db33500000bf3d8",
+      "text": "\t\t\thttps://twitter.com/VarkOfficial",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169304,
+      "updated": 1562169305
+    },
+    {
+      "id": "5d1ccd320db33500000bf3ac",
+      "text": "　出演者",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168625,
+      "updated": 1562168836
+    },
+    {
+      "id": "5d1cce040db33500000bf3b5",
+      "text": "　\t8/24昼",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168836,
+      "updated": 1562168839
+    },
+    {
+      "id": "5d1cce170db33500000bf3b9",
+      "text": "　\t\t[YuNi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168854,
+      "updated": 1562168858
+    },
+    {
+      "id": "5d1cce1b0db33500000bf3ba",
+      "text": "　\t\t[AZKi]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1562168858,
+      "updated": 1579975136
+    },
+    {
+      "id": "5d1cce1f0db33500000bf3bb",
+      "text": "　\t\tKotone（[天神子兎音]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168862,
+      "updated": 1562168872
+    },
+    {
+      "id": "5d1cce2a0db33500000bf3bc",
+      "text": "　\t\t[おめがシスターズ]（[おめがリオ]、[おめがレイ]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168873,
+      "updated": 1562168897
+    },
+    {
+      "id": "5d1cce440db33500000bf3be",
+      "text": "　\t\t[初音ミク]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168899,
+      "updated": 1562168902
+    },
+    {
+      "id": "5d1cce080db33500000bf3b6",
+      "text": "　\t8/24夜",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168839,
+      "updated": 1562168841
+    },
+    {
+      "id": "5d1cce430db33500000bf3bd",
+      "text": "　\t\t[YuNi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168898,
+      "updated": 1562168907
+    },
+    {
+      "id": "5d1cce4c0db33500000bf3bf",
+      "text": "　\t\t[まりなす(仮)]（[奏天まひろ]、[燈舞りん]、[音葉なほ]、[鈴鳴すばる]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168907,
+      "updated": 1562168967
+    },
+    {
+      "id": "5d1cce890db33500000bf3c0",
+      "text": "　\t\t[ときのそら]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168969,
+      "updated": 1562168975
+    },
+    {
+      "id": "5d1cce900db33500000bf3c1",
+      "text": "　\t\t[すーぱーそに子]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168976,
+      "updated": 1562168979
+    },
+    {
+      "id": "5d1cce940db33500000bf3c2",
+      "text": "　\t\t[初音ミク]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168979,
+      "updated": 1562168982
+    },
+    {
+      "id": "5d1cce0a0db33500000bf3b7",
+      "text": "　\t8/25昼",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168841,
+      "updated": 1562168845
+    },
+    {
+      "id": "5d1cce970db33500000bf3c3",
+      "text": "　\t\t[ミライアカリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168983,
+      "updated": 1562168988
+    },
+    {
+      "id": "5d1cce9c0db33500000bf3c4",
+      "text": "　\t\t[燦鳥ノム]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168988,
+      "updated": 1562168992
+    },
+    {
+      "id": "5d1ccea10db33500000bf3c5",
+      "text": "　\t\t[樋口楓]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168992,
+      "updated": 1562168995
+    },
+    {
+      "id": "5d1ccea40db33500000bf3c6",
+      "text": "　\t\t[東雲めぐ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168995,
+      "updated": 1562168999
+    },
+    {
+      "id": "5d1ccea80db33500000bf3c7",
+      "text": "　\t\t[初音ミク]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168999,
+      "updated": 1562169002
+    },
+    {
+      "id": "5d1cce0e0db33500000bf3b8",
+      "text": "　\t8/25夜",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168845,
+      "updated": 1562168847
+    },
+    {
+      "id": "5d1cceab0db33500000bf3c8",
+      "text": "　\t\t[ミライアカリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169003,
+      "updated": 1562169008
+    },
+    {
+      "id": "5d1cceb00db33500000bf3c9",
+      "text": "　\t\t[ピンキーポップヘップバーン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169008,
+      "updated": 1562169012
+    },
+    {
+      "id": "5d1cceb30db33500000bf3ca",
+      "text": "　\t\t[富士葵]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169012,
+      "updated": 1562169015
+    },
+    {
+      "id": "5d1cceb80db33500000bf3cb",
+      "text": "　\t\t[花譜]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169015,
+      "updated": 1565017738
+    },
+    {
+      "id": "5d1ccebc0db33500000bf3cc",
+      "text": "　\t\t[初音ミク]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169020,
+      "updated": 1562169022
+    },
+    {
+      "id": "5d1ccde30db33500000bf3b3",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168803,
+      "updated": 1562168803
+    },
+    {
+      "id": "5d1ccd4c0db33500000bf3ae",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168651,
+      "updated": 1562168655
+    },
+    {
+      "id": "5d1ccd500db33500000bf3b0",
+      "text": "　[https://www.moguravr.com/vark-virtual-summer-fest/ VR夏フェス「Vサマ！」開催、総勢15組の豪華VTuber+初音ミクが出演！] -- MoguLive",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168655,
+      "updated": 1562168669
+    },
+    {
+      "id": "5d1ccd4d0db33500000bf3af",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562168653,
+      "updated": 1562168653
+    },
+    {
+      "id": "5d1ccf910db33500000bf3cf",
+      "text": "関連エピソード",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169232,
+      "updated": 1562169237
+    },
+    {
+      "id": "5d1ccf950db33500000bf3d1",
+      "text": "　[ピンキーポップヘップバーン]、元々歌イベントと知らなかった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169237,
+      "updated": 1562169252
+    },
+    {
+      "id": "5d1ccfa60db33500000bf3d2",
+      "text": "　\thttps://twitter.com/PinkyPopHepburn/status/1146439621615558657",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169254,
+      "updated": 1562169256
+    },
+    {
+      "id": "5d1ccfa90db33500000bf3d3",
+      "text": "　\thttps://twitter.com/PinkyPopHepburn/status/1146439935689293824",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169256,
+      "updated": 1562169261
+    },
+    {
+      "id": "5d1ccfae0db33500000bf3d4",
+      "text": "　\thttps://twitter.com/PinkyPopHepburn/status/1146443400037588992",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169261,
+      "updated": 1562169264
+    },
+    {
+      "id": "5d1ccfb50db33500000bf3d5",
+      "text": "　\t[nekketsuuu.icon] 応援してます。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169268,
+      "updated": 1562169713
+    },
+    {
+      "id": "5d1ccfb70db33500000bf3d6",
+      "text": " 告知画像にロゴが書かれていた企業：[ActEvolve]、[avex]、[サントリー]、[ツクモ]、[自遊空間]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169270,
+      "updated": 1562169751
+    },
+    {
+      "id": "5d1cd03f0db33500000bf3da",
+      "text": "　\t[nekketsuuu.icon] 自遊空間さん、単なるファンなのでは……？",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169407,
+      "updated": 1562169456
+    },
+    {
+      "id": "5d1ccf940db33500000bf3d0",
+      "text": " 2019/12/11に[新宿ピカデリー]や[VARK]においてリバイバル放送を行った。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1562169235,
+      "updated": 1572498087
+    },
+    {
+      "id": "5dba6aa90db3350000dbc457",
+      "text": " \t関連：[VARK公式アカウントがVと書かれた画像をツイート]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572498087,
+      "updated": 1572498093
+    },
+    {
+      "id": "5dba6ab10db3350000dbc458",
+      "text": " \t[https://prtimes.jp/main/html/rd/p/000000025.000032796.html 『Vサマ！リバイバル！！〜応援上映会 in 新宿ピカデリー〜』開催決定！VR上での再上映も同時開催！]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572498095,
+      "updated": 1572498108
+    },
+    {
+      "id": "5dba6a820db3350000dbc456",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572498049,
+      "updated": 1572498049
+    }
+  ]
+}

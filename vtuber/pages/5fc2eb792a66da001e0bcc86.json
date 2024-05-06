@@ -1,0 +1,134 @@
+{
+  "id": "5fc2eb792a66da001e0bcc86",
+  "title": "まほろば",
+  "created": 1606609787,
+  "updated": 1606609921,
+  "lines": [
+    {
+      "id": "5fc2eb792a66da001e0bcc86",
+      "text": "まほろば",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609787,
+      "updated": 1606609789
+    },
+    {
+      "id": "5fc2eb7f0db33500000561ac",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609789,
+      "updated": 1606609789
+    },
+    {
+      "id": "5fc2eb800db33500000561ad",
+      "text": "　VTuberグループのひとつ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609789,
+      "updated": 1606609794
+    },
+    {
+      "id": "5fc2eb9e0db33500000561b1",
+      "text": "　　2020/11/28～。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609819,
+      "updated": 1606609822
+    },
+    {
+      "id": "5fc2ebf30db33500000561bc",
+      "text": "　公式ホームページ https://mahoroba.world/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609904,
+      "updated": 1606609910
+    },
+    {
+      "id": "5fc2ebf90db33500000561bd",
+      "text": "　[/icons/twitter.icon] https://twitter.com/mahoroba_vt",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609910,
+      "updated": 1606609921
+    },
+    {
+      "id": "5fc2eb850db33500000561af",
+      "text": "　メンバー",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609795,
+      "updated": 1606609796
+    },
+    {
+      "id": "5fc2eb870db33500000561b0",
+      "text": "　　0期生（既に活動していた配信者が2020/11/28から加入）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609796,
+      "updated": 1606609818
+    },
+    {
+      "id": "5fc2eba20db33500000561b2",
+      "text": "　　　[さとうなむ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609824,
+      "updated": 1606609829
+    },
+    {
+      "id": "5fc2eba80db33500000561b3",
+      "text": "　　　[招福にゃこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609829,
+      "updated": 1606609836
+    },
+    {
+      "id": "5fc2ebaf0db33500000561b4",
+      "text": "　　　[めんだこちゃん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609836,
+      "updated": 1606609840
+    },
+    {
+      "id": "5fc2eb800db33500000561ae",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609790,
+      "updated": 1606609879
+    },
+    {
+      "id": "5fc2ebda0db33500000561b7",
+      "text": "もっと詳しく知りたい",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609879,
+      "updated": 1606609882
+    },
+    {
+      "id": "5fc2ebdd0db33500000561b9",
+      "text": "　[https://prtimes.jp/main/html/rd/p/000000004.000070359.html VTuberグループ「まほろば」設立のお知らせ] -- PR TIMES",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609882,
+      "updated": 1606609894
+    },
+    {
+      "id": "5fc2ebda0db33500000561b8",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609879,
+      "updated": 1606609879
+    },
+    {
+      "id": "5fc2ebe90db33500000561bb",
+      "text": "#株式会社PRISMO",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609895,
+      "updated": 1606609901
+    },
+    {
+      "id": "5fc2ebb30db33500000561b5",
+      "text": "#VTuberグループ",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609840,
+      "updated": 1606609844
+    },
+    {
+      "id": "5fc2ebb40db33500000561b6",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1606609842,
+      "updated": 1606609842
+    }
+  ]
+}

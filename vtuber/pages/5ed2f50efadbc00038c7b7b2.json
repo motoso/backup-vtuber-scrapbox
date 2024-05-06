@@ -1,0 +1,386 @@
+{
+  "id": "5ed2f50efadbc00038c7b7b2",
+  "title": "VTuberチップス2",
+  "created": 1590883601,
+  "updated": 1593434947,
+  "lines": [
+    {
+      "id": "5ed2f50efadbc00038c7b7b2",
+      "text": "VTuberチップス2",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883601,
+      "updated": 1590883603
+    },
+    {
+      "id": "5ed2f5140db33500009e9cce",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883604,
+      "updated": 1590883604
+    },
+    {
+      "id": "5ed2f5160db33500009e9ccf",
+      "text": " 2020年6月29日販売開始のお菓子。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883605,
+      "updated": 1593434947
+    },
+    {
+      "id": "5ed2f52e0db33500009e9cd1",
+      "text": " \t2019年10月の[VTuberチップス]に続く形。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883629,
+      "updated": 1590883649
+    },
+    {
+      "id": "5ed2f5410db33500009e9cd2",
+      "text": " [eStream、人気VTuber全35組のオリジナルカード付きチップス「VTuberチップス2」の発売を決定！ https://prtimes.jp/main/html/rd/p/000000601.000006792.html] -- PR TIMES",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883649,
+      "updated": 1590883700
+    },
+    {
+      "id": "5ed2f5680db33500009e9cd5",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883687,
+      "updated": 1590883687
+    },
+    {
+      "id": "5ed2f55f0db33500009e9cd3",
+      "text": "登場VTuber",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883678,
+      "updated": 1590883680
+    },
+    {
+      "id": "5ed2f5620db33500009e9cd4",
+      "text": " [あおぎり高校]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883681,
+      "updated": 1590883867
+    },
+    {
+      "id": "5ed2f6a70db33500009e9cfb",
+      "text": " \t[音霊魂子]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884006,
+      "updated": 1590884008
+    },
+    {
+      "id": "5ed2f6a90db33500009e9cfc",
+      "text": " \t[水菜月夏希]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884008,
+      "updated": 1590884019
+    },
+    {
+      "id": "5ed2f6b40db33500009e9cfd",
+      "text": " \t[石狩あかり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884019,
+      "updated": 1590884022
+    },
+    {
+      "id": "5ed2f5850db33500009e9cd7",
+      "text": " [杏戸ゆげ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883716,
+      "updated": 1590883866
+    },
+    {
+      "id": "5ed2f58b0db33500009e9cd8",
+      "text": " [因幡はねる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883723,
+      "updated": 1590883865
+    },
+    {
+      "id": "5ed2f58d0db33500009e9cd9",
+      "text": " [エイレーン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883724,
+      "updated": 1590883863
+    },
+    {
+      "id": "5ed2f58f0db33500009e9cda",
+      "text": " [御伽原江良]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883862,
+      "updated": 1590883862
+    },
+    {
+      "id": "5ed2f5960db33500009e9cdb",
+      "text": " [おめがシスターズ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883733,
+      "updated": 1590883736
+    },
+    {
+      "id": "5ed2f6900db33500009e9cf9",
+      "text": " \t[おめがリオ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883983,
+      "updated": 1590883985
+    },
+    {
+      "id": "5ed2f6920db33500009e9cfa",
+      "text": " \t[おめがレイ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883985,
+      "updated": 1590883986
+    },
+    {
+      "id": "5ed2f5990db33500009e9cdc",
+      "text": " [風見くく]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883736,
+      "updated": 1590883742
+    },
+    {
+      "id": "5ed2f59f0db33500009e9cdd",
+      "text": " [花奏かのん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883742,
+      "updated": 1590883754
+    },
+    {
+      "id": "5ed2f5ab0db33500009e9cde",
+      "text": " [鴨見カモミ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883754,
+      "updated": 1590883758
+    },
+    {
+      "id": "5ed2f5ae0db33500009e9cdf",
+      "text": " [季咲あんこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883758,
+      "updated": 1590883763
+    },
+    {
+      "id": "5ed2f5b40db33500009e9ce0",
+      "text": " [西園寺メアリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883763,
+      "updated": 1590883767
+    },
+    {
+      "id": "5ed2f5b70db33500009e9ce1",
+      "text": " [さくらみこ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883767,
+      "updated": 1590883768
+    },
+    {
+      "id": "5ed2f5ba0db33500009e9ce2",
+      "text": " [獅子神レオナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883769,
+      "updated": 1590883771
+    },
+    {
+      "id": "5ed2f5bd0db33500009e9ce3",
+      "text": " [島村シャルロット]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883772,
+      "updated": 1590883775
+    },
+    {
+      "id": "5ed2f5bf0db33500009e9ce4",
+      "text": " [周防パトラ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883775,
+      "updated": 1590883777
+    },
+    {
+      "id": "5ed2f5c20db33500009e9ce5",
+      "text": " [堰代ミコ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883777,
+      "updated": 1590883780
+    },
+    {
+      "id": "5ed2f5c60db33500009e9ce6",
+      "text": " [宗谷いちか]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883781,
+      "updated": 1590883783
+    },
+    {
+      "id": "5ed2f5c80db33500009e9ce7",
+      "text": " [シロ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883783,
+      "updated": 1590883787
+    },
+    {
+      "id": "5ed2f5cd0db33500009e9ce8",
+      "text": " [兎鞠まり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883788,
+      "updated": 1590883792
+    },
+    {
+      "id": "5ed2f5d10db33500009e9ce9",
+      "text": " [夏色まつり]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883792,
+      "updated": 1590883795
+    },
+    {
+      "id": "5ed2f5d50db33500009e9cea",
+      "text": " [猫宮ひなた]（＋[隠神こかげ]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883796,
+      "updated": 1590883979
+    },
+    {
+      "id": "5ed2f5d80db33500009e9ceb",
+      "text": " [ばあちゃる]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883799,
+      "updated": 1590883802
+    },
+    {
+      "id": "5ed2f5dc0db33500009e9cec",
+      "text": " [花鋏キョウ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883803,
+      "updated": 1590883807
+    },
+    {
+      "id": "5ed2f5e00db33500009e9ced",
+      "text": " [日ノ隈らん]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883807,
+      "updated": 1590883813
+    },
+    {
+      "id": "5ed2f5e60db33500009e9cee",
+      "text": " [宝鐘マリン]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883813,
+      "updated": 1590883816
+    },
+    {
+      "id": "5ed2f5e90db33500009e9cef",
+      "text": " [マグロナ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883816,
+      "updated": 1590883820
+    },
+    {
+      "id": "5ed2f5ee0db33500009e9cf0",
+      "text": " [ミライアカリ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883821,
+      "updated": 1590883824
+    },
+    {
+      "id": "5ed2f5f10db33500009e9cf1",
+      "text": " [萌実]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883824,
+      "updated": 1590883830
+    },
+    {
+      "id": "5ed2f5f60db33500009e9cf2",
+      "text": " [もこ田めめめ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883830,
+      "updated": 1590883832
+    },
+    {
+      "id": "5ed2f5f90db33500009e9cf3",
+      "text": " [ヤミクモ ケリン]（＋[いわなが]、[たけし]）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883832,
+      "updated": 1590884070
+    },
+    {
+      "id": "5ed2f5fd0db33500009e9cf4",
+      "text": " [柚原いづみ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883836,
+      "updated": 1590883842
+    },
+    {
+      "id": "5ed2f6030db33500009e9cf5",
+      "text": " [YuNi]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883842,
+      "updated": 1590883844
+    },
+    {
+      "id": "5ed2f6060db33500009e9cf6",
+      "text": " [ヨメミ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883845,
+      "updated": 1590883847
+    },
+    {
+      "id": "5ed2f6090db33500009e9cf7",
+      "text": " [リゼ・ヘルエスタ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883848,
+      "updated": 1590883850
+    },
+    {
+      "id": "5ed2f60b0db33500009e9cf8",
+      "text": " [ReVdol！]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883850,
+      "updated": 1590883855
+    },
+    {
+      "id": "5ed2f6d60db33500009e9cfe",
+      "text": "\t\t[イザベラ・ホリー]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884053,
+      "updated": 1590884056
+    },
+    {
+      "id": "5ed2f6d70db33500009e9cff",
+      "text": "  [神宮司玉藻]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884054,
+      "updated": 1590884054
+    },
+    {
+      "id": "5ed2f6d70db33500009e9d00",
+      "text": "  [モーシィ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884054,
+      "updated": 1590884054
+    },
+    {
+      "id": "5ed2f6d70db33500009e9d01",
+      "text": "  [李清歌]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884054,
+      "updated": 1590884054
+    },
+    {
+      "id": "5ed2f6d70db33500009e9d02",
+      "text": "  [カティア・ウラーノヴァ]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884054,
+      "updated": 1590884054
+    },
+    {
+      "id": "5ed2f6d70db33500009e9d03",
+      "text": "  [ローズ・バレット]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590884054,
+      "updated": 1590884054
+    },
+    {
+      "id": "5ed2f5170db33500009e9cd0",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1590883607,
+      "updated": 1590883607
+    }
+  ]
+}

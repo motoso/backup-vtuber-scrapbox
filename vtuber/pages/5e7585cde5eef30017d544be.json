@@ -1,0 +1,211 @@
+{
+  "id": "5e7585cde5eef30017d544be",
+  "title": "2020年3月からのYouTube誤BAN事件",
+  "created": 1584760271,
+  "updated": 1611032685,
+  "lines": [
+    {
+      "id": "5e7585cde5eef30017d544be",
+      "text": "2020年3月からのYouTube誤BAN事件",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760271,
+      "updated": 1586388121
+    },
+    {
+      "id": "5e7585e00db33500009e9acf",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760283,
+      "updated": 1584760283
+    },
+    {
+      "id": "5e7585e00db33500009e9ad0",
+      "text": "　2020年3月中旬あたりから、VTuberの[YouTube] Liveが誤BANされることが相次いだ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760283,
+      "updated": 1584872246
+    },
+    {
+      "id": "5e7585f90db33500009e9ad2",
+      "text": "　　VTuber以外の配信でどうだったかは不明。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760307,
+      "updated": 1584760316
+    },
+    {
+      "id": "5e75872c0db33500009e9ad9",
+      "text": "　　[nekketsuuu.icon] 最初期、BANされる場合は、開始数分でBANされるものが多かった印象です。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760615,
+      "updated": 1588434460
+    },
+    {
+      "id": "5ead96200db33500005e5646",
+      "text": "　　\t4月中旬あたりから徐々に配信途中でのBANや放送後のBANも見受けられるようになってきました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588434463,
+      "updated": 1589238647
+    },
+    {
+      "id": "5e7586020db33500009e9ad3",
+      "text": "　\t[nekketsuuu.icon] 3月のBAN理由は、私の観測範囲だと「著作権で保護された音声や動画が検出されたか、コミュニティ ガイドライン違反の申し立てを受けたため、この配信は停止されました。」が多かったように思います。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760317,
+      "updated": 1587217182
+    },
+    {
+      "id": "5e9b03210db3350000160107",
+      "text": "　\t[nekketsuuu.icon] 4月中旬になって「YouTubeの規約違反のため」という理由での誤判定が目立ち始めました。また、[桐生ココ]など生配信をする権限が取り消される例もありました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587217183,
+      "updated": 1588434501
+    },
+    {
+      "id": "5e9dad83774b1700008fbe53",
+      "text": "　\t https://twitter.com/kiryucoco/status/1251481107188465667",
+      "userId": "59fb21121207900012774b17",
+      "created": 1587391876,
+      "updated": 1587391878
+    },
+    {
+      "id": "5e75865f0db33500009e9ad4",
+      "text": "　同時期（2020年3月中旬）に「YouTubeが一時的に動画の違反判定における機械判定の比重を増やした」というニュースが流れた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760409,
+      "updated": 1589238873
+    },
+    {
+      "id": "5e75869e0db33500009e9ad5",
+      "text": "　\t[COVID-19]の影響で、社員があまり会社に来なくても良いようにするための処置。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760473,
+      "updated": 1584760536
+    },
+    {
+      "id": "5e7587050db33500009e9ad7",
+      "text": "　\tおそらくこの変更が関連しているのでは、という見方が優勢。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760576,
+      "updated": 1584760588
+    },
+    {
+      "id": "5e7587180db33500009e9ad8",
+      "text": "　\t\t[nekketsuuu.icon] 本当のところはYouTubeに聞いてみないと分かりませんが……。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760595,
+      "updated": 1584760611
+    },
+    {
+      "id": "5e7586dd0db33500009e9ad6",
+      "text": "　\t[Protecting our extended workforce and the community https://youtube-creators.googleblog.com/2020/03/protecting-our-extended-workforce-and.html] -- YouTube Creator Blog",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760536,
+      "updated": 1584760552
+    },
+    {
+      "id": "5e7585e10db33500009e9ad1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1584760284,
+      "updated": 1584760284
+    },
+    {
+      "id": "5e8e5c7e0db3350000014dab",
+      "text": "関連するかもしれない事象",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586388091,
+      "updated": 1589238673
+    },
+    {
+      "id": "5e8e5c800db3350000014dad",
+      "text": "　2020/4/8、[愛宮みるく]の初配信の枠が2回連続でBANされ、初配信延期となった。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586388093,
+      "updated": 1588434440
+    },
+    {
+      "id": "5ead960a0db33500005e5645",
+      "text": "　\t4月中旬にリベンジし、成功した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1588434440,
+      "updated": 1588434447
+    },
+    {
+      "id": "5e8e5c7e0db3350000014dac",
+      "text": "　2020/4/30、[ラトナ・プティ]のYouTubeチャンネルがBANされた。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586388091,
+      "updated": 1589238732
+    },
+    {
+      "id": "5eb9dbd10db3350000bddaf3",
+      "text": "　　本人や運営によると、チャンネルBANに繋がりうるYouTubeからの連絡は確認できていないとのこと。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589238733,
+      "updated": 1589238784
+    },
+    {
+      "id": "5eb9dbec0db3350000bddaf4",
+      "text": "　　\thttps://twitter.com/ratna_petit/status/1256481093206732800",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589238761,
+      "updated": 1589238766
+    },
+    {
+      "id": "5eb9dbf10db3350000bddaf5",
+      "text": "　　\thttps://twitter.com/nijisanji_app/status/1258758606205435905",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589238766,
+      "updated": 1589238768
+    },
+    {
+      "id": "5eb9dbf40db3350000bddaf6",
+      "text": "　　BANされたタイミングとほぼ同じタイミングでBANされたチャンネルがいくつかあった模様。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589238769,
+      "updated": 1589238806
+    },
+    {
+      "id": "5eb9dc190db3350000bddaf7",
+      "text": "　　\thttps://twitcasting.tv/ratna_petit/movie/613647140",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589238806,
+      "updated": 1589238827
+    },
+    {
+      "id": "5eb9dc300db3350000bddaf8",
+      "text": "　　2020/5/12、BANが解除されチャンネルが復活した。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589238829,
+      "updated": 1589238848
+    },
+    {
+      "id": "5eb9db950db3350000bddaf2",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1589238674,
+      "updated": 1589238674
+    },
+    {
+      "id": "60066838774b170000fdc429",
+      "text": "2021/01/19 [鳳玲天々] 2020年8月につづき2回目",
+      "userId": "59fb21121207900012774b17",
+      "created": 1611032632,
+      "updated": 1611032685
+    },
+    {
+      "id": "6006686c774b170000fdc42b",
+      "text": " https://twitter.com/hourei_1010/status/1351374103890915335",
+      "userId": "59fb21121207900012774b17",
+      "created": 1611032685,
+      "updated": 1611032685
+    },
+    {
+      "id": "6006683a774b170000fdc42a",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1611032634,
+      "updated": 1611032634
+    }
+  ]
+}

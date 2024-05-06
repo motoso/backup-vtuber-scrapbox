@@ -1,0 +1,456 @@
+{
+  "id": "5ceca17e6e3c23001762c752",
+  "title": "Re:AcT",
+  "created": 1559011714,
+  "updated": 1645868259,
+  "lines": [
+    {
+      "id": "5ceca17e6e3c23001762c752",
+      "text": "Re:AcT",
+      "userId": "59fb21121207900012774b17",
+      "created": 1559011714,
+      "updated": 1559011721
+    },
+    {
+      "id": "5d275dbade0ce100007b1f91",
+      "text": "[https://pbs.twimg.com/profile_images/1106119836583714816/GyvM703l_400x400.png]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562860990,
+      "updated": 1562860990
+    },
+    {
+      "id": "5ceca189774b170000244bec",
+      "text": "[株式会社mikai]の運営するVTuberの事務所",
+      "userId": "59fb21121207900012774b17",
+      "created": 1559011721,
+      "updated": 1559011889
+    },
+    {
+      "id": "5ceca232774b170000244bf0",
+      "text": "「音楽」「アイドル」「マルチタレント」「ゲーム」「男性部門」「候補生」の部門別にわかれている。",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562861031,
+      "updated": 1562861033
+    },
+    {
+      "id": "6219ed7c774b170000e7e9b8",
+      "text": "https://www.v-react.com/",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645866364,
+      "updated": 1645866364
+    },
+    {
+      "id": "5d2755b0de0ce100007b1e64",
+      "text": "",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858932,
+      "updated": 1562858932
+    },
+    {
+      "id": "5ceca194774b170000244bee",
+      "text": "所属メンバー #書きかけ。あなたが書いてみませんか？（ここをクリックしてね）",
+      "userId": "59fb21121207900012774b17",
+      "created": 1559011732,
+      "updated": 1615109634
+    },
+    {
+      "id": "5d2751e9de0ce100007b1e52",
+      "text": " 1期生",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857965,
+      "updated": 1562857970
+    },
+    {
+      "id": "5ceca18f774b170000244bed",
+      "text": " 　[綺羅星ウタ]（音楽部門）",
+      "userId": "59fb21121207900012774b17",
+      "created": 1559011728,
+      "updated": 1562858301
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e42",
+      "text": " 　[射貫まとい]（アイドル部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858332
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e43",
+      "text": " 　[宇佐美ユノ]（マルチタレント部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858400
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e44",
+      "text": " 　[琴みゆり]（マルチタレント部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858416
+    },
+    {
+      "id": "5d2751fdde0ce100007b1e53",
+      "text": "　2期生",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857985,
+      "updated": 1562857998
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e45",
+      "text": " 　[多々星シエル]（音楽部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858300
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e46",
+      "text": " 　[夜霧メイ]（ゲーム部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858457
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e47",
+      "text": " 　[水瓶ミア]（マルチタレント部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858440
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e48",
+      "text": " 　[花鋏キョウ]（音楽部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858310
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e49",
+      "text": " 　[獅子神レオナ]（音楽部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858312
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e4a",
+      "text": " 　[双理マイ]（音楽部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858314
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e4b",
+      "text": " 　[夢川かなう]（マルチタレント部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858449
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e4c",
+      "text": " 　[丑牡てぃあ]（マルチタレント部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858450
+    },
+    {
+      "id": "5d275227de0ce100007b1e54",
+      "text": " 　[天秤はかり]（アイドル部門）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858027,
+      "updated": 1562858379
+    },
+    {
+      "id": "5d275237de0ce100007b1e55",
+      "text": " 候補生",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858043,
+      "updated": 1562858052
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e4d",
+      "text": " 　[ゆにゆにこ]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858069
+    },
+    {
+      "id": "5d275250de0ce100007b1e56",
+      "text": " 男性部門（→ 後日[STeLLa]に移籍）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858067,
+      "updated": 1601691812
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e4e",
+      "text": " 　[唯牙コハク]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858142
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e50",
+      "text": " 　[湊音みなみ]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858143
+    },
+    {
+      "id": "5d2751b8de0ce100007b1e51",
+      "text": " 　[皇噛ユカリ]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562857916,
+      "updated": 1562858144
+    },
+    {
+      "id": "5d27553cde0ce100007b1e63",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1562858816,
+      "updated": 1645868210
+    },
+    {
+      "id": "6219f4b6774b170000e7e9c7",
+      "text": "以下、何期生か不明ですが https://www.v-react.com/#artist から2022/2/26に転記",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868214,
+      "updated": 1645868252
+    },
+    {
+      "id": "6219f48e774b170000e7e9c4",
+      "text": "　[天川はの]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868175,
+      "updated": 1645868177
+    },
+    {
+      "id": "6219f491774b170000e7e9c5",
+      "text": "　[姫熊りぼん]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868177,
+      "updated": 1645868184
+    },
+    {
+      "id": "6219f499774b170000e7e9c6",
+      "text": "　[犬望チロル]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868186,
+      "updated": 1645868190
+    },
+    {
+      "id": "6219f46e774b170000e7e9c2",
+      "text": "　[丸餅つきみ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868142,
+      "updated": 1645868145
+    },
+    {
+      "id": "6219f471774b170000e7e9c3",
+      "text": "　[久檻夜くぅ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868146,
+      "updated": 1645868164
+    },
+    {
+      "id": "6219f466774b170000e7e9c1",
+      "text": "　[風海みかん]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868135,
+      "updated": 1645868141
+    },
+    {
+      "id": "6219f402774b170000e7e9c0",
+      "text": "　[月紫アリア]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868034,
+      "updated": 1645868134
+    },
+    {
+      "id": "6219f3f8774b170000e7e9bf",
+      "text": "　[猫乃ユキノ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868024,
+      "updated": 1645868034
+    },
+    {
+      "id": "6219f3e7774b170000e7e9be",
+      "text": "　[九楽ライ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868008,
+      "updated": 1645868024
+    },
+    {
+      "id": "6219f3df774b170000e7e9bd",
+      "text": "　[皇ロゼ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645868000,
+      "updated": 1645868006
+    },
+    {
+      "id": "6219ed96774b170000e7e9b9",
+      "text": "　[かしこまり]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645866390,
+      "updated": 1645867998
+    },
+    {
+      "id": "6219ed96774b170000e7e9bc",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1645866390,
+      "updated": 1645866390
+    },
+    {
+      "id": "5ceca235774b170000244bf1",
+      "text": " プロジェクト",
+      "userId": "59fb21121207900012774b17",
+      "created": 1559011894,
+      "updated": 1562858499
+    },
+    {
+      "id": "5d275400de0ce100007b1e58",
+      "text": "  [KAGAYAKI STARS]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858500,
+      "updated": 1562858530
+    },
+    {
+      "id": "5d27540dde0ce100007b1e5a",
+      "text": "  [METEO]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858513,
+      "updated": 1562858527
+    },
+    {
+      "id": "5d275464de0ce100007b1e5c",
+      "text": " ユニット（ユニット曲名をそのままユニット名として呼ぶことが多い）",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858600,
+      "updated": 1562858779
+    },
+    {
+      "id": "5d27546cde0ce100007b1e5e",
+      "text": " \t[徒然Pieces]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858609,
+      "updated": 1562858791
+    },
+    {
+      "id": "5d275479de0ce100007b1e5f",
+      "text": " \t[急上昇ガールズ]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858620,
+      "updated": 1562858800
+    },
+    {
+      "id": "5d275487de0ce100007b1e60",
+      "text": " \t[夢見ルピナス]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858635,
+      "updated": 1562858799
+    },
+    {
+      "id": "5d2754acde0ce100007b1e61",
+      "text": " \t[ケセラセラ]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858672,
+      "updated": 1562858798
+    },
+    {
+      "id": "5d2754b2de0ce100007b1e62",
+      "text": " \t[風になれ恋心]",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858678,
+      "updated": 1562858798
+    },
+    {
+      "id": "5d275466de0ce100007b1e5d",
+      "text": "",
+      "userId": "5abf75a8fcd1970014de0ce1",
+      "created": 1562858602,
+      "updated": 1562858602
+    },
+    {
+      "id": "5d6d06a40db3350000db65cc",
+      "text": "特記事項",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1567426211,
+      "updated": 1567426213
+    },
+    {
+      "id": "5d6d06a60db3350000db65ce",
+      "text": "　2019/9/1、[丑牡てぃあ]が契約終了。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1567426213,
+      "updated": 1567426250
+    },
+    {
+      "id": "5d6d07000db3350000db65d3",
+      "text": "　\thttps://v-react.com/archives/1111",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1567426303,
+      "updated": 1567426303
+    },
+    {
+      "id": "5d6d06cb0db3350000db65cf",
+      "text": "　2019/9/14、[双理マイ]が卒業。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1567426250,
+      "updated": 1567426268
+    },
+    {
+      "id": "5d6d06f50db3350000db65d1",
+      "text": "　\thttps://twitter.com/Re_AcT_/status/1168463588165480448",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1567426292,
+      "updated": 1567426292
+    },
+    {
+      "id": "5d6d06dd0db3350000db65d0",
+      "text": "　2019/9/30、[多々星シエル]、[天秤はかり]、[夜霧メイ]、[ゆにゆにこ]が卒業。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1567426268,
+      "updated": 1567426285
+    },
+    {
+      "id": "5d6d06f60db3350000db65d2",
+      "text": "　\thttps://twitter.com/Re_AcT_/status/1168463588165480448",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1567426294,
+      "updated": 1567426294
+    },
+    {
+      "id": "5e8fe3660db3350000e6b8ce",
+      "text": "　2020/4/10、[瀧上りと]が契約終了。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586488164,
+      "updated": 1586488203
+    },
+    {
+      "id": "5e8fe38d0db3350000e6b8cf",
+      "text": "　　https://v-react.com/?p=1671",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1586488203,
+      "updated": 1586488203
+    },
+    {
+      "id": "5eecb3b10db3350000c25d62",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1592570800,
+      "updated": 1592570800
+    },
+    {
+      "id": "5ceca235774b170000244bf2",
+      "text": "#VTuberグループ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1559011894,
+      "updated": 1559011897
+    },
+    {
+      "id": "5ceca236774b170000244bf3",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1559011894,
+      "updated": 1559011894
+    }
+  ]
+}

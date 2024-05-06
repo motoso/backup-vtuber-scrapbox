@@ -1,0 +1,71 @@
+{
+  "id": "5ea0420467662f0017d69af4",
+  "title": "MixTube",
+  "created": 1587560965,
+  "updated": 1587561084,
+  "lines": [
+    {
+      "id": "5ea0420467662f0017d69af4",
+      "text": "MixTube",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587560965,
+      "updated": 1587560965
+    },
+    {
+      "id": "5ea042050db33500007af8e1",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587560965,
+      "updated": 1587560965
+    },
+    {
+      "id": "5ea042410db33500007af8e2",
+      "text": "　[MixChannel]と[YouTube]同時放送ができるVTuber向けのシステム。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587561025,
+      "updated": 1587561035
+    },
+    {
+      "id": "5ea042410db33500007af8e3",
+      "text": " プレスリリース：https://prtimes.jp/main/html/rd/p/000000476.000004237.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587561025,
+      "updated": 1587561065
+    },
+    {
+      "id": "5ea042690db33500007af8e5",
+      "text": " \t> 「MixTube」はOBSを使用、独自サーバを経由してMixChannelとYouTubeで同時放送ができるVTuber向けのシステムです。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587561065,
+      "updated": 1587561070
+    },
+    {
+      "id": "5ea0426e0db33500007af8e7",
+      "text": "  > 　ライブ中のコメントもMixChannel、YouTubeの両方が見られる仕様になっており、YouTubeでの放送はYouTubeLiveとして配信されるためアーカイブが残ります。他のライブ配信サービスとの併用も可能です。MixTubeの登録はMixChannelとは異なりますので、ご希望の方は下記お申し込みフォームからお申し込みください。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587561070,
+      "updated": 1587561070
+    },
+    {
+      "id": "5ea042630db33500007af8e4",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587561059,
+      "updated": 1587561059
+    },
+    {
+      "id": "5ea042760db33500007af8e8",
+      "text": "#株式会社Donuts",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587561077,
+      "updated": 1587561084
+    },
+    {
+      "id": "5ea042760db33500007af8e9",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1587561077,
+      "updated": 1587561077
+    }
+  ]
+}

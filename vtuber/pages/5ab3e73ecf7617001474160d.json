@@ -1,0 +1,71 @@
+{
+  "id": "5ab3e73ecf7617001474160d",
+  "title": "ビデオ",
+  "created": 1521739584,
+  "updated": 1521746769,
+  "lines": [
+    {
+      "id": "5ab3e73ecf7617001474160d",
+      "text": "ビデオ",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739584,
+      "updated": 1521739584
+    },
+    {
+      "id": "5ab3e7e0774b1700008b161c",
+      "text": "[https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/VHS-Video-Tape-Top-Flat.jpg/300px-VHS-Video-Tape-Top-Flat.jpg]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739745,
+      "updated": 1521739745
+    },
+    {
+      "id": "5ab3e7a6774b17000094ab25",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739687,
+      "updated": 1521739687
+    },
+    {
+      "id": "5ab3e73f774b17000094ab23",
+      "text": " VHSのこと",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739584,
+      "updated": 1521739587
+    },
+    {
+      "id": "5ab40314774b17000044dacc",
+      "text": " 磁気テープに映像を記録するメディア",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521746708,
+      "updated": 1521746769
+    },
+    {
+      "id": "5ab3e826774b1700008b161f",
+      "text": " 2008年ごろにはすでに下火になっていた規格",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739815,
+      "updated": 1521739861
+    },
+    {
+      "id": "5ab3e805774b1700008b161d",
+      "text": " > 日本ビクターは（略）2008年（平成20年）(略) 同年10月27日にはVHS方式単体機の生産を終了した。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739782,
+      "updated": 1521746746
+    },
+    {
+      "id": "5ab3e822774b1700008b161e",
+      "text": " > https://ja.wikipedia.org/wiki/VHS#VHS%E3%81%AE%E9%9C%80%E8%A6%81%E4%BD%8E%E4%B8%8B",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739811,
+      "updated": 1521739812
+    },
+    {
+      "id": "5ab3e73f774b17000094ab24",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521739585,
+      "updated": 1521739585
+    }
+  ]
+}

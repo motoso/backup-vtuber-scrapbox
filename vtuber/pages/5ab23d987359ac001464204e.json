@@ -1,0 +1,568 @@
+{
+  "id": "5ab23d987359ac001464204e",
+  "title": "バーチャルYouTuberの最近の情報が知りたい",
+  "created": 1521630623,
+  "updated": 1652100812,
+  "lines": [
+    {
+      "id": "5ab23d987359ac001464204e",
+      "text": "バーチャルYouTuberの最近の情報が知りたい",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521630623,
+      "updated": 1521658169
+    },
+    {
+      "id": "5b8838f5774b170000a56bee",
+      "text": "このWikiは速報性・網羅性ともに薄い状況です",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535654134,
+      "updated": 1546482068
+    },
+    {
+      "id": "5b88392a774b170000a56bf0",
+      "text": "VTuberのリアルタイムの情報を知るための方法をここにまとめます",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535654186,
+      "updated": 1535654219
+    },
+    {
+      "id": "5b8838f5774b170000a56bed",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535654134,
+      "updated": 1535654134
+    },
+    {
+      "id": "5ab2515f774b170000950526",
+      "text": "[[生放送のスケジュールが知りたい]]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521635679,
+      "updated": 1572981082
+    },
+    {
+      "id": "5ab23e06774b170000feaec4",
+      "text": " [にじさんじ公式ライバー]の場合",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521630726,
+      "updated": 1521657690
+    },
+    {
+      "id": "5b2fe2cf774b170000e0c962",
+      "text": "  [http://wikiwiki.jp/nijisanji/?%C7%DB%BF%AE%CD%BD%C4%EA%A5%EA%A5%B9%A5%C8 有志によるまとめ]が最もわかりやすい",
+      "userId": "59fb21121207900012774b17",
+      "created": 1529864910,
+      "updated": 1529864910
+    },
+    {
+      "id": "5cac77bb0db33500003a7295",
+      "text": "  公式アプリ[https://www.itsukaralink.jp/ いつから.link]で大体のスケジュールが分かる",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554806714,
+      "updated": 1554806743
+    },
+    {
+      "id": "5cac77e50db33500003a7297",
+      "text": "  各ライバーが自分で情報発信している",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554806756,
+      "updated": 1554806766
+    },
+    {
+      "id": "5cac78090db33500003a7298",
+      "text": " VTuber全体の場合",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554806792,
+      "updated": 1554806799
+    },
+    {
+      "id": "5b8839fa774b170000a56bf3",
+      "text": "\t https://virtual-youtuber.userlocal.jp/schedules",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535654395,
+      "updated": 1554806800
+    },
+    {
+      "id": "5ab23e1b774b170000feaec5",
+      "text": "[[全体のニュースが知りたいならニュースサイトを使う]]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521630747,
+      "updated": 1572981086
+    },
+    {
+      "id": "5ab25111774b170000950525",
+      "text": " ニュースサイト：",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521635601,
+      "updated": 1573249528
+    },
+    {
+      "id": "5dc5e1a30db335000059de0e",
+      "text": " \t[PANORA]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573249442,
+      "updated": 1573249445
+    },
+    {
+      "id": "5dc5e1a50db335000059de0f",
+      "text": " \t[Mogura VR]の[バーチャルYouTuberタグ https://www.moguravr.com/category/virtual-youtuber/]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573249445,
+      "updated": 1573249447
+    },
+    {
+      "id": "5dc5e1a80db335000059de10",
+      "text": " \t[KAI-YOU]の[バーチャルYouTuberタグ https://kai-you.net/word/バーチャルYouTuber]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1573249447,
+      "updated": 1652100808
+    },
+    {
+      "id": "5dc5e1a90db335000059de11",
+      "text": " \t[V-Tuber ZERO https://vtub0.com/]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573249449,
+      "updated": 1573249458
+    },
+    {
+      "id": "5bf1959c774b170000e2fb21",
+      "text": " 個人で情報を簡潔にまとめている方がいる。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1542559131,
+      "updated": 1573289428
+    },
+    {
+      "id": "5dc67dde0db3350000c5bebb",
+      "text": " \t[/icons/twitter.icon] https://twitter.com/welch292929",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573289433,
+      "updated": 1573289433
+    },
+    {
+      "id": "5dc67dc20db3350000c5beb9",
+      "text": " \t[https://welch2929.hatenadiary.jp/ うぇるあめのVTuber情報保管庫]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573289405,
+      "updated": 1573289405
+    },
+    {
+      "id": "5c3c567e774b1700000ad59b",
+      "text": " 紹介記事を有志が書いている：[VCHASE https://www.vchase.jp/posts?officials=1&showall=true]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547458175,
+      "updated": 1554806816
+    },
+    {
+      "id": "5cac78220db33500003a7299",
+      "text": " For non-Japanese people：[https://www.reddit.com/r/VirtualYoutubers/ r/VirtualYoutubers/]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1554806817,
+      "updated": 1554806846
+    },
+    {
+      "id": "5ad6325b774b170000616c25",
+      "text": " ただし、草の根的なイベントは拾うことが難しい。",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523987036,
+      "updated": 1573249522
+    },
+    {
+      "id": "5bf1958c774b170000e2fb1f",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1542559115,
+      "updated": 1542559115
+    },
+    {
+      "id": "5b8a0d7f774b1700003f08f4",
+      "text": "[[全体を見ている人から情報を得る]]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535774081,
+      "updated": 1535774095
+    },
+    {
+      "id": "5b8a0d95774b1700003f08f7",
+      "text": " [覆面リーマン https://twitter.com/fukumen_ryman]さん",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535774102,
+      "updated": 1573249571
+    },
+    {
+      "id": "5b8a0dd9774b1700003f08fc",
+      "text": " [VRoadCaster]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535774170,
+      "updated": 1573249573
+    },
+    {
+      "id": "5bf19927774b170000e2fb3e",
+      "text": " [佐藤ホームズ]さん",
+      "userId": "59fb21121207900012774b17",
+      "created": 1542560038,
+      "updated": 1573249573
+    },
+    {
+      "id": "5d27ecf3774b170000e2ed95",
+      "text": "  [3分でわかる！今週のVtuber界]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1562897652,
+      "updated": 1573249573
+    },
+    {
+      "id": "5c26f641774b170000030a74",
+      "text": " [たまごまご]さん[この動画がすごい！]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1546057281,
+      "updated": 1634472831
+    },
+    {
+      "id": "616c1370774b170000e6a1b5",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1634472817,
+      "updated": 1634472817
+    },
+    {
+      "id": "616c1371774b170000e6a1b6",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1634472817,
+      "updated": 1634472817
+    },
+    {
+      "id": "5ab2687e774b1700000edb28",
+      "text": "[[二次創作を探したい]]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521641598,
+      "updated": 1572981098
+    },
+    {
+      "id": "5ab26878774b1700000edb27",
+      "text": " [バーチャルYouTuberの動画をニコニコ動画で効率よく探す]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521641593,
+      "updated": 1563207354
+    },
+    {
+      "id": "5d2ca608774b170000666660",
+      "text": "  二次創作だけではなく、見どころ切り抜き動画も多くあげられている",
+      "userId": "59fb21121207900012774b17",
+      "created": 1563207176,
+      "updated": 1563207202
+    },
+    {
+      "id": "5d2ca622774b170000666661",
+      "text": "  みどころをみて面白かったら本家も再生しにいくと業界全体の寿命が伸びるのでおすすめ[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1563207202,
+      "updated": 1563207226
+    },
+    {
+      "id": "5ab26877774b1700000edb26",
+      "text": " Twitterの公式ハッシュタグを使う",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521641592,
+      "updated": 1521641650
+    },
+    {
+      "id": "5ab26896774b1700000edb2a",
+      "text": "  例：[月ノ美兎]なら`#みとあーと`",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521641622,
+      "updated": 1572980911
+    },
+    {
+      "id": "5ab268b6774b1700000edb2b",
+      "text": "  ハッシュタグはそれぞれのVTuberがTwitterで「これ使って」と言っているはず",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521641654,
+      "updated": 1572980917
+    },
+    {
+      "id": "5ab2688a774b1700000edb29",
+      "text": " pixivで検索する\t",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521641610,
+      "updated": 1521998867
+    },
+    {
+      "id": "5ab7dc12774b170000fb9ddd",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1521998868,
+      "updated": 1521998868
+    },
+    {
+      "id": "5abd98aa774b170000081504",
+      "text": "[[新規誕生したVTuberを知りたい]]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522374827,
+      "updated": 1522374827
+    },
+    {
+      "id": "5abd9863774b1700000814f7",
+      "text": " まとめている方のリストを使う",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522374756,
+      "updated": 1522374761
+    },
+    {
+      "id": "5dc1c8f70db3350000bfbcd7",
+      "text": "  https://twitter.com/myrmecoleon/lists",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980980,
+      "updated": 1572980980
+    },
+    {
+      "id": "5dc1c99d0db3350000bfbcdb",
+      "text": "  https://twitter.com/vtuber_hakkutsu",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572981147,
+      "updated": 1572981147
+    },
+    {
+      "id": "5abd986c774b1700000814f8",
+      "text": " ハッシュタグを使う",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522374764,
+      "updated": 1522374769
+    },
+    {
+      "id": "5dc1c8fb0db3350000bfbcd8",
+      "text": "  https://twitter.com/hashtag/VTuber%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980985,
+      "updated": 1572980985
+    },
+    {
+      "id": "5abd9890774b1700000814fe",
+      "text": "  http://vtubers.memo.wiki/d/VTuber%a5%ac%a5%c1%c4%c9%a4%a4%a4%ac%c4%bd%a4%eb%a5%da%a1%bc%a5%b8",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522374800,
+      "updated": 1522374803
+    },
+    {
+      "id": "5abd12f1774b170000bf7333",
+      "text": " [UserLocal]のランキングを使う",
+      "userId": "59fb21121207900012774b17",
+      "created": 1522340593,
+      "updated": 1533461987
+    },
+    {
+      "id": "5aca448f774b170000b50760",
+      "text": "  [https://virtual-youtuber.userlocal.jp/document/ranking バーチャルYouTuberランキング]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1523205264,
+      "updated": 1523205273
+    },
+    {
+      "id": "5b8b881b774b170000819f95",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535871004,
+      "updated": 1535871004
+    },
+    {
+      "id": "5c3c5a2b774b1700000ad59d",
+      "text": "[[統計情報を解析したいときに役立ちそうなサイト]]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547459115,
+      "updated": 1547459146
+    },
+    {
+      "id": "5c3c5a30774b1700000ad59f",
+      "text": " [http://mamedaifuku.sakura.ne.jp/live_stream/html/ VTuberライブチャットアーカイブ]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547459121,
+      "updated": 1547459121
+    },
+    {
+      "id": "5c3c5a5e774b1700000ad5a0",
+      "text": "  活用例",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547459166,
+      "updated": 1547459262
+    },
+    {
+      "id": "5c3c5abe774b1700000ad5a2",
+      "text": "   https://twitter.com/Fukumen_Ryman/status/1068795218143600640",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547459262,
+      "updated": 1547459263
+    },
+    {
+      "id": "5c3c5aba774b1700000ad5a1",
+      "text": "   https://twitter.com/exp_komakusa/status/1067061040452558855",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547459258,
+      "updated": 1547459264
+    },
+    {
+      "id": "5c3c5a2b774b1700000ad59e",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1547459115,
+      "updated": 1547459115
+    },
+    {
+      "id": "5b8b8801774b170000819f94",
+      "text": "[* いろんなVTuberが知りたい！]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535870977,
+      "updated": 1535871029
+    },
+    {
+      "id": "5b8b8836774b170000819f98",
+      "text": " このWikiを活用する",
+      "userId": "59fb21121207900012774b17",
+      "created": 1535871030,
+      "updated": 1535871072
+    },
+    {
+      "id": "5dc5e1290db335000059de0d",
+      "text": " https://vtuber-post.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573249321,
+      "updated": 1573249321
+    },
+    {
+      "id": "5dc1c8730db3350000bfbcc5",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980849,
+      "updated": 1572980849
+    },
+    {
+      "id": "5dc1c8730db3350000bfbcc6",
+      "text": "----",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980849,
+      "updated": 1572980853
+    },
+    {
+      "id": "5dc1c8770db3350000bfbcc8",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980853,
+      "updated": 1572980853
+    },
+    {
+      "id": "5dc1c8780db3350000bfbcc9",
+      "text": "以下は比較的古い情報です。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980853,
+      "updated": 1573249329
+    },
+    {
+      "id": "5dc1c8860db3350000bfbcca",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980867,
+      "updated": 1572980867
+    },
+    {
+      "id": "5dc1c8860db3350000bfbccb",
+      "text": "　2018年前期くらいのにじさんじ公式ライバースケジュールに関する古い情報",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980867,
+      "updated": 1572981215
+    },
+    {
+      "id": "5dc1c8900db3350000bfbccc",
+      "text": "  にじさんじ公式Twitterがスケジュールをツイートしている",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980878,
+      "updated": 1572980896
+    },
+    {
+      "id": "5dc1c8900db3350000bfbccd",
+      "text": "  \t（が、動的に変わるので各ライバーのTwitterが最も正しい）",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980878,
+      "updated": 1572980896
+    },
+    {
+      "id": "5dc1c8900db3350000bfbcce",
+      "text": "   https://twitter.com/nijisanji_app",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980878,
+      "updated": 1572980896
+    },
+    {
+      "id": "5dc1c8900db3350000bfbccf",
+      "text": "  メンバーが持ち回りでTwitterでまとめてくれている",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980878,
+      "updated": 1572980896
+    },
+    {
+      "id": "5dc1c8900db3350000bfbcd0",
+      "text": "   2018年当初は[しずりん]がまとめていた印象 [基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1572980878,
+      "updated": 1572980896
+    },
+    {
+      "id": "5dc1c8a50db3350000bfbcd1",
+      "text": " 情報源",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980899,
+      "updated": 1572980944
+    },
+    {
+      "id": "5dc1c8d20db3350000bfbcd2",
+      "text": "  [女帝セツナ]さん",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980944,
+      "updated": 1572980948
+    },
+    {
+      "id": "5dc1c8d30db3350000bfbcd3",
+      "text": "   https://twitter.com/i/moments/996353724887924736",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980945,
+      "updated": 1572980948
+    },
+    {
+      "id": "5dc1c8d30db3350000bfbcd4",
+      "text": "   ただし：https://twitter.com/Vtuber_Setuna/status/1114740627311185921",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980945,
+      "updated": 1572980948
+    },
+    {
+      "id": "5dc1c8d30db3350000bfbcd5",
+      "text": "   2019/07/12現在、この活動は終了されている。ありがとうございました。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980945,
+      "updated": 1572980948
+    },
+    {
+      "id": "5dc5e2190db335000059de12",
+      "text": "  [こいぬのひと https://twitter.com/qkut1200c]さん",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573249561,
+      "updated": 1573249561
+    },
+    {
+      "id": "5dc1c9240db3350000bfbcd9",
+      "text": "  https://twitter.com/seaside720/status/1035974400258932737",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572981026,
+      "updated": 1572981033
+    },
+    {
+      "id": "5dc1c9c60db3350000bfbcdc",
+      "text": "  https://twitter.com/qkut1200c/status/961926394774110209",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572981188,
+      "updated": 1572981189
+    },
+    {
+      "id": "5dc1c8760db3350000bfbcc7",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1572980852,
+      "updated": 1572980852
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "5f24f21a8d30b7001edb87e7",
+  "title": "V cafe",
+  "created": 1596256795,
+  "updated": 1596257656,
+  "lines": [
+    {
+      "id": "5f24f21a8d30b7001edb87e7",
+      "text": "V cafe",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596256795,
+      "updated": 1596256797
+    },
+    {
+      "id": "5f24f21e0db3350000cc6e01",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596256797,
+      "updated": 1596256797
+    },
+    {
+      "id": "5f24f21e0db3350000cc6e02",
+      "text": " VTuberと[Zoom]でオンライン会話ができるカフェ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596256797,
+      "updated": 1596256816
+    },
+    {
+      "id": "5f24f2280db3350000cc6e04",
+      "text": " \t2020/7/23オープン。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596256807,
+      "updated": 1596256814
+    },
+    {
+      "id": "5f24f21f0db3350000cc6e03",
+      "text": "　https://v-cafe.online/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596256798,
+      "updated": 1596256830
+    },
+    {
+      "id": "5f24f2330db3350000cc6e05",
+      "text": "　[/icons/twitter.icon] https://twitter.com/vcafe_mgt",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596256818,
+      "updated": 1596257656
+    },
+    {
+      "id": "5f24f5750db3350000cc6e07",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1596257652,
+      "updated": 1596257652
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5e2a325b1a17500017c44d4d",
+  "title": "Mildom",
+  "created": 1579823739,
+  "updated": 1579823758,
+  "lines": [
+    {
+      "id": "5e2a325b1a17500017c44d4d",
+      "text": "Mildom",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823739,
+      "updated": 1579823741
+    },
+    {
+      "id": "5e2a32810db33500008a6e06",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823741,
+      "updated": 1579823741
+    },
+    {
+      "id": "5e2a32810db33500008a6e07",
+      "text": " 配信プラットフォームのひとつ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823741,
+      "updated": 1579823744
+    },
+    {
+      "id": "5e2a32850db33500008a6e09",
+      "text": " https://www.mildom.com/",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823744,
+      "updated": 1579823749
+    },
+    {
+      "id": "5e2a328a0db33500008a6e0a",
+      "text": " [/icons/twitter.icon] https://twitter.com/Mildom_Official",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823749,
+      "updated": 1579823758
+    },
+    {
+      "id": "5e2a32810db33500008a6e08",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1579823741,
+      "updated": 1579823741
+    }
+  ]
+}

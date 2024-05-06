@@ -1,0 +1,85 @@
+{
+  "id": "5dc2c20b03ee640017972046",
+  "title": "Adobe Character Animator",
+  "created": 1573044748,
+  "updated": 1573045422,
+  "lines": [
+    {
+      "id": "5dc2c20b03ee640017972046",
+      "text": "Adobe Character Animator",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573044748,
+      "updated": 1573044752
+    },
+    {
+      "id": "5dc2c2100db33500006ca6fd",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573044752,
+      "updated": 1573044752
+    },
+    {
+      "id": "5dc2c2100db33500006ca6fe",
+      "text": " [Adobe]の[ソフトウェア]のひとつ。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573044752,
+      "updated": 1573044765
+    },
+    {
+      "id": "5dc2c29e0db33500006ca701",
+      "text": " \tパーツ分けしたイラストを元に、[表情認識]や[モーションキャプチャー]で動くキャラクターを作れる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573044894,
+      "updated": 1573044930
+    },
+    {
+      "id": "5dc2c4140db33500006ca705",
+      "text": " \tアニメーションを取り入れることができる。",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573045268,
+      "updated": 1573045279
+    },
+    {
+      "id": "5dc2c22a0db33500006ca700",
+      "text": " https://www.adobe.com/jp/products/character-animator.html",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573044778,
+      "updated": 1573044778
+    },
+    {
+      "id": "5dc2c2170db33500006ca6ff",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573044759,
+      "updated": 1573044759
+    },
+    {
+      "id": "5dc2c3770db33500006ca702",
+      "text": "[https://www.youtube.com/watch?v=Na-8b0wucGE]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573045111,
+      "updated": 1573045112
+    },
+    {
+      "id": "5dc2c3780db33500006ca704",
+      "text": "[https://www.youtube.com/watch?v=1u344s52API&list=PLq4LynfF_r14w2SwicfetcReq8Y0f_lg_]",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573045112,
+      "updated": 1573045422
+    },
+    {
+      "id": "5dc2c4ae0db33500006ca706",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573045422,
+      "updated": 1573045422
+    },
+    {
+      "id": "5dc2c3780db33500006ca703",
+      "text": "",
+      "userId": "5a4296f4464d9800140db335",
+      "created": 1573045112,
+      "updated": 1573045112
+    }
+  ]
+}
