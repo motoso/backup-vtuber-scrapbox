@@ -12,6 +12,18 @@ interface TitlePage {
 const dist_stats = `./${project}/stats/pages.json`;
 const dist_data = "./data.json";
 
+// ${project}/statsディレクトリが存在しない場合は作成する
+const statsDir = `./${project}/stats/`;
+try {
+  await Deno.stat(statsDir);
+} catch (error) {
+  if (error instanceof Deno.errors.NotFound) {
+    await Deno.mkdir(statsDir, { recursive: true });
+  } else {
+    throw error;
+  }
+}
+
 const pagesResponse = await fetch(
   `https://scrapbox.io/api/pages/${project}/?limit=1`,
 );
