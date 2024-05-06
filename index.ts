@@ -1,5 +1,6 @@
 import { readableStreamFromIterable } from "https://deno.land/std@0.166.0/streams/mod.ts";
 import { JsonStringifyStream } from "https://deno.land/std@0.166.0/encoding/json/stream.ts";
+import { project } from "./config.ts";
 
 interface TitlePage {
   id: string;
@@ -8,7 +9,6 @@ interface TitlePage {
   updated: number;
 }
 
-export const project = "vtuber";
 const dist_stats = `./${project}/stats/pages.json`;
 const dist_data = "./data.json";
 

@@ -1,4 +1,4 @@
-import { project } from "./index.ts";
+import { project } from "./config.ts";
 
 const filepath = "./data.json";
 const distpath = `./${project}/pages/`;
