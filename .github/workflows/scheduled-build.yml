@@ -24,13 +24,13 @@ jobs:
           cache: 'pip' # caching pip dependencies
       - run: pip install -r requirements.txt
 
-      - id: 'auth'
-        name: 'Authenticate to Google Cloud'
-        uses: 'google-github-actions/auth@v1'
-        with:
-          access_token_scopes: 'https://www.googleapis.com/auth/drive.metadata.readonly'
-          workload_identity_provider: ${{ secrets.WORKLOAD_IDENTITY_PROVIDER }}
-          service_account: ${{ secrets.SERVICE_ACCOUNT }}
+#      - id: 'auth'
+#        name: 'Authenticate to Google Cloud'
+#        uses: 'google-github-actions/auth@v1'
+#        with:
+#          access_token_scopes: 'https://www.googleapis.com/auth/drive.metadata.readonly'
+#          workload_identity_provider: ${{ secrets.WORKLOAD_IDENTITY_PROVIDER }}
+#          service_account: ${{ secrets.SERVICE_ACCOUNT }}
 
       - uses: denoland/setup-deno@v1
         with:
@@ -51,8 +51,8 @@ jobs:
       - name: Zip
         run: zip data data.json
 
-      - name: Update Google Drive file
-        run: python3 upload.py
+#      - name: Update Google Drive file
+#        run: python3 upload.py
 
       - name: Remove json pages
         run: rm ${{ env.PROJECT_NAME }}/pages/*.json
