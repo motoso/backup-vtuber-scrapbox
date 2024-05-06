@@ -67,6 +67,7 @@ jobs:
 
       - name: Diff
         id: diff
+        #  --exit-codeを指定しているので、変更がある場合は終了コード1を返し、これがGitHub Actionsでは'failure'と解釈される
         run: |
           git add -N ${{ env.PROJECT_NAME }}/stats ${{ env.PROJECT_NAME }}/pages
           git diff --name-only --exit-code
