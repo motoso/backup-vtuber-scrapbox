@@ -52,7 +52,7 @@ jobs:
         run: python3 upload.py
 
       - name: Remove json pages
-        run: rm villagepump/pages/*.json
+        run: rm vtuber/pages/*.json
 
       - name: Split pages
         run: >
@@ -65,7 +65,7 @@ jobs:
       - name: Diff
         id: diff
         run: |
-          git add -N villagepump/stats villagepump/pages
+          git add -N vtuber/stats vtuber/pages
           git diff --name-only --exit-code
         continue-on-error: true
 
@@ -74,7 +74,7 @@ jobs:
           set -x
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add villagepump/stats villagepump/pages
+          git add vtuber/stats vtuber/pages
           git commit -m "Update"
           git push
         if: steps.diff.outcome == 'failure'

@@ -8,7 +8,7 @@ interface TitlePage {
   updated: number
 }
 
-const project = "villagepump";
+export const project = "vtuber";
 const dist_stats = `./${project}/stats/pages.json`;
 const dist_data = "./data.json";
 

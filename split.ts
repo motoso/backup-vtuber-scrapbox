@@ -1,5 +1,7 @@
+import {project} from "./index";
+
 const filepath = "./data.json";
-const distpath = "./villagepump/pages/";
+const distpath = `./${project}/pages/`;
 
 const text = Deno.readTextFileSync(filepath);
 const content = JSON.parse(text);

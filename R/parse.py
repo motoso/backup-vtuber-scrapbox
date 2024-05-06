@@ -13,7 +13,7 @@ def getSbText():
     header = {
         'User-Agent': user_agent
     }
-    url = "https://scrapbox.io/api/pages/villagepump/%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E7%A7%BB%E3%82%8A%E5%A4%89%E3%82%8F%E3%82%8A%E3%80%82/text"
+    url = "https://scrapbox.io/api/pages/vtuber/%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%81%AE%E7%A7%BB%E3%82%8A%E5%A4%89%E3%82%8F%E3%82%8A%E3%80%82/text"
     return requests.get(url, headers=header).text
 
 
@@ -79,7 +79,7 @@ def prepareImages(icons):
             if icon == 'takker':
                 url = "https://i.gyazo.com/9848f337a8da5505e8b11800fb919cd6.png"
             else:
-                url = "https://scrapbox.io/api/pages/villagepump/" + \
+                url = "https://scrapbox.io/api/pages/vtuber/" + \
                     urllib.parse.quote(icon) + "/icon"
             print(url)
             downloadFile(url, "./icons/" + icon + ".png")
