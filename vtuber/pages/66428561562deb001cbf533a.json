@@ -2,7 +2,7 @@
   "id": "66428561562deb001cbf533a",
   "title": "久住哲",
   "created": 1715635554,
-  "updated": 1715638761,
+  "updated": 1715688997,
   "lines": [
     {
       "id": "66428561562deb001cbf533a",
@@ -38,6 +38,20 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715635554,
       "updated": 1715635860
+    },
+    {
+      "id": "66435537cc1fc1000053c3cc",
+      "text": "ホロライブの配信や動画を視聴しています",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715688760,
+      "updated": 1715688773
+    },
+    {
+      "id": "664355f8cc1fc1000053c3cd",
+      "text": "VTuberを見はじめたきっかけは[ヘアピンまみれ]の[ビブラスラップ]の動画でした（2023/6）",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715688952,
+      "updated": 1715688997
     },
     {
       "id": "6642857acc1fc10000fe092a",
@@ -101,6 +115,76 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715638692,
       "updated": 1715638693
+    },
+    {
+      "id": "66434c9ccc1fc100002aae5b",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686557,
+      "updated": 1715686557
+    },
+    {
+      "id": "66434c9ccc1fc100002aae5c",
+      "text": "code:script.js",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686557,
+      "updated": 1715686587
+    },
+    {
+      "id": "66434c9ccc1fc100002aae6a",
+      "text": " scrapbox.PopupMenu.addButton({",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686557,
+      "updated": 1715686665
+    },
+    {
+      "id": "66434c9ccc1fc100002aae6b",
+      "text": " \ttitle: 'live→v',",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686557,
+      "updated": 1715686665
+    },
+    {
+      "id": "66434c9ccc1fc100002aae6c",
+      "text": " \tonClick: text => {",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686557,
+      "updated": 1715686665
+    },
+    {
+      "id": "66434cd2cc1fc100002aae6f",
+      "text": " \t\ttext = text.replace(/[\\?&](si|list)=.+/g, '')",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686610,
+      "updated": 1715686665
+    },
+    {
+      "id": "66434cd3cc1fc100002aae72",
+      "text": "    \t\t.replace(/live/g,'watch\\?v=')",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686611,
+      "updated": 1715688345
+    },
+    {
+      "id": "66434cd3cc1fc100002aae73",
+      "text": "    \t\treturn text",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686611,
+      "updated": 1715686665
+    },
+    {
+      "id": "66434cd2cc1fc100002aae70",
+      "text": " \t}",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686610,
+      "updated": 1715686665
+    },
+    {
+      "id": "66434c9ccc1fc100002aae6d",
+      "text": " })",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715686557,
+      "updated": 1715686665
     },
     {
       "id": "66428561cc1fc10000101ce0",
