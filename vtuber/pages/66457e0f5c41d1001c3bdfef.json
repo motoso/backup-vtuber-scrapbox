@@ -1,0 +1,372 @@
+{
+  "id": "66457e0f5c41d1001c3bdfef",
+  "title": "音乃瀬奏",
+  "created": 1715830289,
+  "updated": 1715831402,
+  "lines": [
+    {
+      "id": "66457e0f5c41d1001c3bdfef",
+      "text": "音乃瀬奏",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830298
+    },
+    {
+      "id": "66457e1ccc1fc100005dd5e1",
+      "text": "#書きかけ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830300,
+      "updated": 1715830303
+    },
+    {
+      "id": "66457e10cc1fc100005dd5b4",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5b5",
+      "text": "要約",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "664580a7cc1fc1000035c1ab",
+      "text": "　[ReGLOSS]のメンバーで、歌がうまい。元気",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830952,
+      "updated": 1715831355
+    },
+    {
+      "id": "66457e21cc1fc100005dd5e2",
+      "text": "　毎週水曜日に[歌枠]を行っている",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830306,
+      "updated": 1715830320
+    },
+    {
+      "id": "66457e10cc1fc100005dd5b6",
+      "text": " 長く[韓国]に暮らしていた",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830570
+    },
+    {
+      "id": "66457e10cc1fc100005dd5b7",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5b8",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5b9",
+      "text": "自己紹介動画",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457eaacc1fc100005dd5e5",
+      "text": "　[https://www.youtube.com/watch?v=eytPidhJ6cI]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830448,
+      "updated": 1715830483
+    },
+    {
+      "id": "66457e10cc1fc100005dd5bb",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5bc",
+      "text": "もっと詳しく知りたい",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457f4bcc1fc1000035c1a4",
+      "text": "　[https://seesaawiki.jp/hololivetv/d/%B2%BB%C7%B5%C0%A5%C1%D5 音乃瀬奏 - ホロライブ非公式wiki]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830603,
+      "updated": 1715830632
+    },
+    {
+      "id": "66457e10cc1fc100005dd5be",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5bf",
+      "text": "アカウント",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5c0",
+      "text": " [/icons/twitter.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5c1",
+      "text": " [/icons/youtube.icon] [https://www.youtube.com/@OtonoseKanade Kanade Ch. 音乃瀬奏 ‐ ReGLOSS - YouTube]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830710
+    },
+    {
+      "id": "66457e10cc1fc100005dd5cb",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5cc",
+      "text": "語録",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457fd8cc1fc1000035c1a5",
+      "text": "　「うめうめ」",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830745,
+      "updated": 1715830752
+    },
+    {
+      "id": "66457fe2cc1fc1000035c1a6",
+      "text": "　　マシュマロ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830755,
+      "updated": 1715830757
+    },
+    {
+      "id": "66457fe6cc1fc1000035c1a7",
+      "text": "　「なんちゅうこった〜」",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830758,
+      "updated": 1715830767
+    },
+    {
+      "id": "66457ff0cc1fc1000035c1a8",
+      "text": "　　Q",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830769,
+      "updated": 1715830771
+    },
+    {
+      "id": "66457e10cc1fc100005dd5cd",
+      "text": " 「ここに有名な言葉（ミーム）を書きます」",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5ce",
+      "text": "  ここにその発言が生まれたコンテキスト（どのようにしてその発言が生まれたのか）を書きます",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5cf",
+      "text": "  その言葉が初めて使われたリンクもわかれば貼ります",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d0",
+      "text": "   動画の秒数がわかればYouTubeへのリンクを張ると見た人が便利です",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d1",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d2",
+      "text": "基本情報",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d3",
+      "text": " 視聴者のよびかた：[音の勢]（レア）、お前ら",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715831248
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d4",
+      "text": " 名前の読み方：おとのせかなで",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830864
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d5",
+      "text": " ファンマーク：🎹✨",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830868
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d6",
+      "text": " ハッシュタグ：生音乃瀬",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830894
+    },
+    {
+      "id": "66458072cc1fc1000035c1a9",
+      "text": " 身長：153cm",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830899,
+      "updated": 1715830916
+    },
+    {
+      "id": "66458086cc1fc1000035c1aa",
+      "text": " 年齢：20歳",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830918,
+      "updated": 1715830928
+    },
+    {
+      "id": "664580d9cc1fc1000035c1ac",
+      "text": " 初配信日：2023年9月9日",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715831002,
+      "updated": 1715831005
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d8",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5d9",
+      "text": "特記事項",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "664581eecc1fc1000035c1b1",
+      "text": "　[英語]も話すことができる",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715831278,
+      "updated": 1715831287
+    },
+    {
+      "id": "66458154cc1fc1000035c1ad",
+      "text": "　リスナーの呼びかた",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715831125,
+      "updated": 1715831132
+    },
+    {
+      "id": "66457e10cc1fc100005dd5da",
+      "text": " 　普段はリスナーのことを「お前ら」と呼んでいて、公式の「音の勢」で呼ぶことは殆どない。",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715831137
+    },
+    {
+      "id": "66458160cc1fc1000035c1ae",
+      "text": " 　[瞬間ハートビートを100回歌う配信]をやりとげたときには、リスナーに「音の勢」と呼びかけていた。",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715831137,
+      "updated": 1715831137
+    },
+    {
+      "id": "66458192cc1fc1000035c1af",
+      "text": " 宣伝",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715831187,
+      "updated": 1715831189
+    },
+    {
+      "id": "6645819acc1fc1000035c1b0",
+      "text": " 　全ての配信で、終了時に自身の歌ってみたの宣伝をしている",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715831194,
+      "updated": 1715831219
+    },
+    {
+      "id": "6645824bcc1fc1000035c1b2",
+      "text": " [こんこよ24]の学力テストで、算数が満点だった",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715831371,
+      "updated": 1715831402
+    },
+    {
+      "id": "66457e10cc1fc100005dd5db",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5dc",
+      "text": "生みの親",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5dd",
+      "text": " キャラクターデザイン：[gomzi]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715831154
+    },
+    {
+      "id": "66457e10cc1fc100005dd5de",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5df",
+      "text": "#バーチャルYouTuber",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    },
+    {
+      "id": "66457e10cc1fc100005dd5e0",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830289,
+      "updated": 1715830289
+    }
+  ]
+}

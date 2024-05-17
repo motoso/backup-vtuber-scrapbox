@@ -2,7 +2,7 @@
   "id": "66452a50e04577001cb863d0",
   "title": "ホロ鯖ハードコアマイクラ",
   "created": 1715808853,
-  "updated": 1715809304,
+  "updated": 1715830223,
   "lines": [
     {
       "id": "66452a50e04577001cb863d0",
@@ -12,53 +12,32 @@
       "updated": 1715808858
     },
     {
-      "id": "66452a5fcc1fc10000f0267b",
-      "text": "#書きかけ",
+      "id": "66457b70cc1fc100005dd58c",
+      "text": "[ホロライブ]のタレントが、死んだら終了のルールで[マインクラフト]の[マルチプレイ]をする配信企画",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715808865,
-      "updated": 1715808868
+      "created": 1715829616,
+      "updated": 1715829664
     },
     {
-      "id": "66452a63cc1fc10000f0267c",
-      "text": "",
+      "id": "66457b65cc1fc100005dd58a",
+      "text": " 企画者　[兎田ぺこら]",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715808868,
-      "updated": 1715808868
-    },
-    {
-      "id": "66452a66cc1fc10000f0267d",
-      "text": "[兎田ぺこら]さんが発案した、死んだら終了のルールで[マインクラフト]のマルチプレイをする企画",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715808871,
-      "updated": 1715809036
-    },
-    {
-      "id": "66452c0acc1fc10000f02687",
-      "text": "",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715809291,
-      "updated": 1715809291
-    },
-    {
-      "id": "66452c0acc1fc10000f02688",
-      "text": "ホロライブメンバーが参加",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715809291,
-      "updated": 1715809295
-    },
-    {
-      "id": "66452ba5cc1fc10000f02684",
-      "text": "",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715809189,
-      "updated": 1715809189
+      "created": 1715829606,
+      "updated": 1715830149
     },
     {
       "id": "66452bddcc1fc10000f02686",
-      "text": "2024年5月13日から5月20日までの1週間行われる",
+      "text": " 2024年5月13日から5月20日までの1週間行われる",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715809250,
-      "updated": 1715809283
+      "updated": 1715830149
+    },
+    {
+      "id": "66457b08cc1fc100005dd582",
+      "text": " 最終目標は[エンドラ]と[ウィザー]の討伐",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829513,
+      "updated": 1715830149
     },
     {
       "id": "66452c15cc1fc10000f02689",
@@ -76,10 +55,38 @@
     },
     {
       "id": "66452c16cc1fc10000f0268b",
-      "text": "　",
+      "text": "　死んだら終わり",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715809304,
-      "updated": 1715809304
+      "updated": 1715829456
+    },
+    {
+      "id": "66457acecc1fc100005dd57f",
+      "text": "　　救済あり",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829456,
+      "updated": 1715829458
+    },
+    {
+      "id": "66457ad7cc1fc100005dd580",
+      "text": "　配信終了時に日誌の提出",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829464,
+      "updated": 1715829473
+    },
+    {
+      "id": "66457ae4cc1fc100005dd581",
+      "text": "　　日誌は後述の「ホロ鯖ニュース」で取り上げられる",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829476,
+      "updated": 1715829495
+    },
+    {
+      "id": "66457d66cc1fc100005dd5b2",
+      "text": "　その他細かいルールあり",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830119,
+      "updated": 1715830125
     },
     {
       "id": "66452a6bcc1fc10000f0267e",
@@ -90,10 +97,17 @@
     },
     {
       "id": "66452b6fcc1fc10000f02681",
-      "text": "ホロ鯖ニュースという配信があり、全体の様子が分かる",
+      "text": "ホロ鯖ニュース",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715809140,
-      "updated": 1715809151
+      "updated": 1715830159
+    },
+    {
+      "id": "66457d8ecc1fc100005dd5b3",
+      "text": " 主催者の[兎田ぺこら]さんがルールについてのお知らせや前日を振り返る配信を行う",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830159,
+      "updated": 1715830223
     },
     {
       "id": "66452b63cc1fc10000f0267f",
@@ -101,6 +115,27 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715809129,
       "updated": 1715809159
+    },
+    {
+      "id": "66457a4acc1fc100005dd57c",
+      "text": "  追加ルール",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829323,
+      "updated": 1715829359
+    },
+    {
+      "id": "66457a6fcc1fc100005dd57d",
+      "text": "  [ねねち]死亡の切り抜き紹介",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829359,
+      "updated": 1715829373
+    },
+    {
+      "id": "66457a7dcc1fc100005dd57e",
+      "text": "  生存日記の読み上げ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829374,
+      "updated": 1715829384
     },
     {
       "id": "66452b86cc1fc10000f02682",
@@ -115,6 +150,188 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715809129,
       "updated": 1715809129
+    },
+    {
+      "id": "66457bbacc1fc100005dd58d",
+      "text": "参加者　#書きかけ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829691,
+      "updated": 1715829692
+    },
+    {
+      "id": "66457bbbcc1fc100005dd58e",
+      "text": "　[兎田ぺこら]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829692,
+      "updated": 1715829700
+    },
+    {
+      "id": "66457bc4cc1fc100005dd590",
+      "text": "　[風真いろは]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829701,
+      "updated": 1715829705
+    },
+    {
+      "id": "66457bc9cc1fc100005dd591",
+      "text": "　[沙花叉クロヱ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829705,
+      "updated": 1715829710
+    },
+    {
+      "id": "66457bcecc1fc100005dd592",
+      "text": "　[AZKi]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829711,
+      "updated": 1715829718
+    },
+    {
+      "id": "66457bd6cc1fc100005dd593",
+      "text": "　[角巻わため]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829718,
+      "updated": 1715829726
+    },
+    {
+      "id": "66457be4cc1fc100005dd594",
+      "text": "　[獅白ぼたん]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829732,
+      "updated": 1715829736
+    },
+    {
+      "id": "66457be8cc1fc100005dd595",
+      "text": "　[宝鐘マリン]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829736,
+      "updated": 1715829744
+    },
+    {
+      "id": "66457bf0cc1fc100005dd596",
+      "text": "　[不知火フレア]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829745,
+      "updated": 1715829749
+    },
+    {
+      "id": "66457bf6cc1fc100005dd597",
+      "text": "　[白銀ノエル]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829750,
+      "updated": 1715829757
+    },
+    {
+      "id": "66457c00cc1fc100005dd598",
+      "text": "　[一条莉々華]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829760,
+      "updated": 1715829781
+    },
+    {
+      "id": "66457c1ccc1fc100005dd59a",
+      "text": "　[音乃瀬奏]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829789,
+      "updated": 1715829806
+    },
+    {
+      "id": "66457c2fcc1fc100005dd59b",
+      "text": "　[火威青]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829807,
+      "updated": 1715829815
+    },
+    {
+      "id": "66457c37cc1fc100005dd59c",
+      "text": "　[轟はじめ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829815,
+      "updated": 1715829822
+    },
+    {
+      "id": "66457c44cc1fc100005dd59e",
+      "text": "　[湊あくあ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829828,
+      "updated": 1715829839
+    },
+    {
+      "id": "66457bbdcc1fc100005dd58f",
+      "text": "　[一伊那尓栖]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829693,
+      "updated": 1715829929
+    },
+    {
+      "id": "66457ca9cc1fc100005dd5a0",
+      "text": "　[尾丸ポルカ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829930,
+      "updated": 1715829933
+    },
+    {
+      "id": "66457cadcc1fc100005dd5a1",
+      "text": "　[桃鈴ねね]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829934,
+      "updated": 1715829940
+    },
+    {
+      "id": "66457d48cc1fc100005dd5b1",
+      "text": "　2日目から参加",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830089,
+      "updated": 1715830095
+    },
+    {
+      "id": "66457d45cc1fc100005dd5b0",
+      "text": "　[儒烏風亭らでん]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830087,
+      "updated": 1715830087
+    },
+    {
+      "id": "66457d3acc1fc100005dd5a9",
+      "text": "　[博衣こより]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830075,
+      "updated": 1715830075
+    },
+    {
+      "id": "66457ca6cc1fc100005dd59f",
+      "text": "　[姫森ルーナ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715829927,
+      "updated": 1715830042
+    },
+    {
+      "id": "66457d1acc1fc100005dd5a3",
+      "text": "　[雪花ラミィ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830042,
+      "updated": 1715830046
+    },
+    {
+      "id": "66457d1ecc1fc100005dd5a4",
+      "text": "　[カエラ・コヴァルスキア]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830046,
+      "updated": 1715830050
+    },
+    {
+      "id": "66457d22cc1fc100005dd5a5",
+      "text": "　[ときのそら]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830050,
+      "updated": 1715830056
+    },
+    {
+      "id": "66457d15cc1fc100005dd5a2",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715830040,
+      "updated": 1715830040
     }
   ]
 }
