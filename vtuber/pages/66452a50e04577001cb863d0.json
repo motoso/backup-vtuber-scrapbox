@@ -2,7 +2,7 @@
   "id": "66452a50e04577001cb863d0",
   "title": "ホロ鯖ハードコアマイクラ",
   "created": 1715808853,
-  "updated": 1715830223,
+  "updated": 1715945603,
   "lines": [
     {
       "id": "66452a50e04577001cb863d0",
@@ -68,11 +68,32 @@
       "updated": 1715829458
     },
     {
+      "id": "6646fcc8cc1fc1000049e4cc",
+      "text": "　　\t1、2日目は復活裁判＆仲間からダイヤモンドを貰う",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715928264,
+      "updated": 1715928283
+    },
+    {
+      "id": "6646fcddcc1fc1000049e4cd",
+      "text": "　　\tそれ以後はソロ鯖でダイヤ7個を集めて1回きりの復活",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715928286,
+      "updated": 1715928306
+    },
+    {
+      "id": "6646fcf1cc1fc1000049e4ce",
+      "text": "　　\t最終日は復活なし",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715928306,
+      "updated": 1715928310
+    },
+    {
       "id": "66457ad7cc1fc100005dd580",
-      "text": "　配信終了時に日誌の提出",
+      "text": "　配信終了時に「生存日誌」の提出",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715829464,
-      "updated": 1715829473
+      "updated": 1715942498
     },
     {
       "id": "66457ae4cc1fc100005dd581",
@@ -89,67 +110,144 @@
       "updated": 1715830125
     },
     {
-      "id": "66452a6bcc1fc10000f0267e",
+      "id": "6646fd52cc1fc1000049e4cf",
       "text": "",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715808875,
-      "updated": 1715808875
+      "created": 1715928403,
+      "updated": 1715928403
     },
     {
-      "id": "66452b6fcc1fc10000f02681",
-      "text": "ホロ鯖ニュース",
+      "id": "6646fd52cc1fc1000049e4d0",
+      "text": "様々なミッションあり",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715809140,
-      "updated": 1715830159
+      "created": 1715928403,
+      "updated": 1715928409
     },
     {
-      "id": "66457d8ecc1fc100005dd5b3",
-      "text": " 主催者の[兎田ぺこら]さんがルールについてのお知らせや前日を振り返る配信を行う",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715830159,
-      "updated": 1715830223
+      "id": "6646fd59cc1fc1000049e4d1",
+      "text": "\t特定の条件を満たすと[ダイヤモンド]の報酬が得られる",
+      "userId": "60508ed36a7abc00235e90c0",
+      "created": 1715928409,
+      "updated": 1715943437
     },
     {
-      "id": "66452b63cc1fc10000f0267f",
-      "text": " https://www.youtube.com/live/GOdkSVMkjbY",
+      "id": "6646fdbecc1fc1000049e4d2",
+      "text": "",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715809129,
-      "updated": 1715809159
+      "created": 1715928511,
+      "updated": 1715928511
     },
     {
-      "id": "66457a4acc1fc100005dd57c",
-      "text": "  追加ルール",
+      "id": "6646fdbfcc1fc1000049e4d3",
+      "text": "日によってイベントあり",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715829323,
-      "updated": 1715829359
+      "created": 1715928511,
+      "updated": 1715928515
     },
     {
-      "id": "66457a6fcc1fc100005dd57d",
-      "text": "  [ねねち]死亡の切り抜き紹介",
+      "id": "6646fdd6cc1fc1000049e4d4",
+      "text": "\t3日目は[チンチロ]",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715829359,
-      "updated": 1715829373
+      "created": 1715928536,
+      "updated": 1715928542
     },
     {
-      "id": "66457a7dcc1fc100005dd57e",
-      "text": "  生存日記の読み上げ",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715829374,
-      "updated": 1715829384
-    },
-    {
-      "id": "66452b86cc1fc10000f02682",
-      "text": " https://www.youtube.com/live/fwUffKO3yNk",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715809159,
-      "updated": 1715809183
+      "id": "6646fde1cc1fc1000049e4d5",
+      "text": "\t4日目以降は[ネザー]開放",
+      "userId": "60508ed36a7abc00235e90c0",
+      "created": 1715928545,
+      "updated": 1715943430
     },
     {
       "id": "66452b68cc1fc10000f02680",
+      "text": "\t5日目に[闘技場]がスタート",
+      "userId": "60508ed36a7abc00235e90c0",
+      "created": 1715809129,
+      "updated": 1715943432
+    },
+    {
+      "id": "66473403cc1fc10000191196",
       "text": "",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715809129,
-      "updated": 1715809129
+      "created": 1715942404,
+      "updated": 1715942404
+    },
+    {
+      "id": "664733accc1fc10000191188",
+      "text": "ホロ鯖ニュース",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942317,
+      "updated": 1715942317
+    },
+    {
+      "id": "664733accc1fc10000191189",
+      "text": " 主催者の[兎田ぺこら]さんがルールについてのお知らせや前日を振り返る配信を行う",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942317,
+      "updated": 1715942317
+    },
+    {
+      "id": "664733accc1fc1000019118a",
+      "text": " [https://www.youtube.com/watch?v=GOdkSVMkjbY]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942317,
+      "updated": 1715942317
+    },
+    {
+      "id": "664733accc1fc1000019118b",
+      "text": "  追加ルール",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942317,
+      "updated": 1715942317
+    },
+    {
+      "id": "664733accc1fc1000019118c",
+      "text": "  [ねねち]死亡の切り抜き紹介",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942317,
+      "updated": 1715942317
+    },
+    {
+      "id": "664733accc1fc1000019118d",
+      "text": "  生存日記の読み上げ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942317,
+      "updated": 1715942317
+    },
+    {
+      "id": "664733accc1fc1000019118e",
+      "text": " [https://www.youtube.com/watch?v=fwUffKO3yNk]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942317,
+      "updated": 1715942374
+    },
+    {
+      "id": "664733f0cc1fc10000191195",
+      "text": "\t",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942384,
+      "updated": 1715942385
+    },
+    {
+      "id": "664733dccc1fc10000191193",
+      "text": " [https://www.youtube.com/watch?v=0WmQIH1q0C8]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942365,
+      "updated": 1715942365
+    },
+    {
+      "id": "664733ddcc1fc10000191194",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942365,
+      "updated": 1715942365
+    },
+    {
+      "id": "664733b3cc1fc1000019118f",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942323,
+      "updated": 1715942323
     },
     {
       "id": "66457bbacc1fc100005dd58d",
@@ -279,10 +377,10 @@
     },
     {
       "id": "66457d48cc1fc100005dd5b1",
-      "text": "　2日目から参加",
+      "text": "　2日目以降から参加",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715830089,
-      "updated": 1715830095
+      "updated": 1715929154
     },
     {
       "id": "66457d45cc1fc100005dd5b0",
@@ -328,10 +426,122 @@
     },
     {
       "id": "66457d15cc1fc100005dd5a2",
-      "text": "",
+      "text": "\t[小鳥遊キアラ]",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715830040,
-      "updated": 1715830040
+      "updated": 1715929151
+    },
+    {
+      "id": "66470027cc1fc1000049e4d6",
+      "text": "\t[クレイジー・オリー]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715929128,
+      "updated": 1715929161
+    },
+    {
+      "id": "66470044cc1fc1000049e4d7",
+      "text": "\t[さくらみこ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715929156,
+      "updated": 1715929182
+    },
+    {
+      "id": "6647005ccc1fc1000049e4d8",
+      "text": "\t[鷹嶺ルイ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715929180,
+      "updated": 1715929257
+    },
+    {
+      "id": "6647009fcc1fc1000049e4d9",
+      "text": "\t[大空スバル]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715929247,
+      "updated": 1715929265
+    },
+    {
+      "id": "664700aecc1fc1000049e4da",
+      "text": "\t[常闇トワ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715929262,
+      "updated": 1715942333
+    },
+    {
+      "id": "664733becc1fc10000191191",
+      "text": "\t[アキ・ローゼンタール]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942335,
+      "updated": 1715942339
+    },
+    {
+      "id": "664733c3cc1fc10000191192",
+      "text": "\t[星街すいせい]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942340,
+      "updated": 1715942342
+    },
+    {
+      "id": "66473bd2cc1fc1000071192d",
+      "text": "\t[アーニャ・メルフィッサ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715944402,
+      "updated": 1715944408
+    },
+    {
+      "id": "66474080cc1fc10000711936",
+      "text": "\t[猫又おかゆ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715945601,
+      "updated": 1715945603
+    },
+    {
+      "id": "664733bacc1fc10000191190",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942331,
+      "updated": 1715942331
+    },
+    {
+      "id": "6647362ccc1fc10000711923",
+      "text": "脱落者",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942957,
+      "updated": 1715943050
+    },
+    {
+      "id": "6647362fcc1fc10000711925",
+      "text": "\t4日目",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942960,
+      "updated": 1715942961
+    },
+    {
+      "id": "66473632cc1fc10000711926",
+      "text": "\t\t[大空スバル]、[桃鈴ねね]、[赤井はあと]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942962,
+      "updated": 1715942997
+    },
+    {
+      "id": "6647362dcc1fc10000711924",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942957,
+      "updated": 1715942957
+    },
+    {
+      "id": "6647354ecc1fc100007118f2",
+      "text": "参加者多数につき、5/17のホロ鯖ニュースでは「マイクラ配信1日28枠」という報道がなされた",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942734,
+      "updated": 1715942786
+    },
+    {
+      "id": "66473551cc1fc100007118f3",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715942737,
+      "updated": 1715942737
     }
   ]
 }

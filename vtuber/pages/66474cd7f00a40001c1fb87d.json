@@ -1,0 +1,344 @@
+{
+  "id": "66474cd7f00a40001c1fb87d",
+  "title": "久遠なつめ",
+  "created": 1715948760,
+  "updated": 1715949081,
+  "lines": [
+    {
+      "id": "66474cd7f00a40001c1fb87d",
+      "text": "久遠なつめ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948765
+    },
+    {
+      "id": "66474cdfcc1fc10000711987",
+      "text": "#書きかけ。あなたが書いてみませんか？（ここをクリックしてね）",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948767,
+      "updated": 1715948771
+    },
+    {
+      "id": "66474cd7cc1fc1000071195a",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071195b",
+      "text": "要約",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cfccc1fc10000711988",
+      "text": "\t[個人勢]の[Vsinger]、[VTuber]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948797,
+      "updated": 1715948811
+    },
+    {
+      "id": "66474cd7cc1fc1000071195c",
+      "text": " 盛り上がっているネタやどのような放送をしているのかなど3行程度で紹介",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071195d",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071195e",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071195f",
+      "text": "自己紹介動画",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711960",
+      "text": " 1回目の放送の動画が自己紹介動画とは限らない。特になければあとで追記する。",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711961",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711962",
+      "text": "もっと詳しく知りたい",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711963",
+      "text": " pixiv百科時点とかニコニコ大百科とか外部の紹介サイトへのリンクを貼ります。新たにここに基礎情報をまとめなおすのは無駄なのでやらないです。ただしScrapboxのリンク機構がうまく機能するようなものは積極的にまとめなおしたいです。",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711964",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711965",
+      "text": "アカウント",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711966",
+      "text": " [/icons/twitter.icon] https://x.com/kuon_natsume11",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948891
+    },
+    {
+      "id": "66474cd7cc1fc10000711967",
+      "text": " [/icons/youtube.icon] https://www.youtube.com/@Kuonnatsume_ch",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948878
+    },
+    {
+      "id": "66474cd7cc1fc10000711968",
+      "text": " [Tiktok.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711969",
+      "text": " [/icons/niconico.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071196a",
+      "text": " [note.icon]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071196b",
+      "text": " [/icons/bilibili.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071196c",
+      "text": " [/icons/instagram.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071196d",
+      "text": " [/icons/showroom.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071196e",
+      "text": " [/icons/openrec.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071196f",
+      "text": " [Mirrativ.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711970",
+      "text": " [/icons/pixivFANBOX.icon] ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711971",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711972",
+      "text": "語録",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711973",
+      "text": " 「ここに有名な言葉（ミーム）を書きます」",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711974",
+      "text": "  ここにその発言が生まれたコンテキスト（どのようにしてその発言が生まれたのか）を書きます",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711975",
+      "text": "  その言葉が初めて使われたリンクもわかれば貼ります",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711976",
+      "text": "   動画の秒数がわかればYouTubeへのリンクを張ると見た人が便利です",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711977",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711978",
+      "text": "基本情報",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711979",
+      "text": " 視聴者のよびかた：",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071197a",
+      "text": " 名前の読み方：くおんなつめ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715949081
+    },
+    {
+      "id": "66474cd7cc1fc1000071197b",
+      "text": " ファンマーク：",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071197c",
+      "text": " ハッシュタグ：",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071197d",
+      "text": " 身長・体重・年齢・性別・種族などの公式設定を書きます。多分要約と一部かぶります。",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071197e",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc1000071197f",
+      "text": "特記事項",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711980",
+      "text": "　",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711981",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711982",
+      "text": "生みの親",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711983",
+      "text": " キャラクターデザイン：[柑咲鴎]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948990
+    },
+    {
+      "id": "66474cd7cc1fc10000711984",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711985",
+      "text": "#バーチャルYouTuber",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    },
+    {
+      "id": "66474cd7cc1fc10000711986",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1715948760,
+      "updated": 1715948760
+    }
+  ]
+}
