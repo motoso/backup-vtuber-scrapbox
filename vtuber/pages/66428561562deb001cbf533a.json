@@ -2,7 +2,7 @@
   "id": "66428561562deb001cbf533a",
   "title": "久住哲",
   "created": 1715635554,
-  "updated": 1715830557,
+  "updated": 1716034132,
   "lines": [
     {
       "id": "66428561562deb001cbf533a",
@@ -192,6 +192,62 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715635554,
       "updated": 1715635554
+    },
+    {
+      "id": "66489a52cc1fc1000018422d",
+      "text": "code:style.css",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034131,
+      "updated": 1716034132
+    },
+    {
+      "id": "66489a54cc1fc1000018422f",
+      "text": " /* スマホで字のサイズを大きくする */",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034132,
+      "updated": 1716034132
+    },
+    {
+      "id": "66489a54cc1fc10000184230",
+      "text": " .editor { font-size: 18px;}",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034132,
+      "updated": 1716034132
+    },
+    {
+      "id": "66489a54cc1fc10000184231",
+      "text": " /* パソコン */",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034132,
+      "updated": 1716034132
+    },
+    {
+      "id": "66489a54cc1fc10000184232",
+      "text": " @media (hover: hover) {",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034132,
+      "updated": 1716034132
+    },
+    {
+      "id": "66489a54cc1fc10000184233",
+      "text": " .editor { font-size: 13.5px;}",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034132,
+      "updated": 1716034132
+    },
+    {
+      "id": "66489a54cc1fc10000184234",
+      "text": " }",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034132,
+      "updated": 1716034132
+    },
+    {
+      "id": "66489a52cc1fc1000018422e",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716034131,
+      "updated": 1716034131
     },
     {
       "id": "66428561cc1fc10000101ce1",

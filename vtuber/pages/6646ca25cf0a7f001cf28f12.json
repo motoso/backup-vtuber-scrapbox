@@ -2,7 +2,7 @@
   "id": "6646ca25cf0a7f001cf28f12",
   "title": "ホロスターズ歌枠リレー",
   "created": 1715915305,
-  "updated": 1715920939,
+  "updated": 1716052744,
   "lines": [
     {
       "id": "6646ca25cf0a7f001cf28f12",
@@ -20,10 +20,10 @@
     },
     {
       "id": "6646cc08b759d7000085ae7f",
-      "text": "https://twitter.com/holostarstv/status/1789233989909365013",
+      "text": " https://twitter.com/holostarstv/status/1789233989909365013",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715915784,
-      "updated": 1715915794
+      "updated": 1716052744
     },
     {
       "id": "6646cbdbb759d7000085ae7e",
@@ -48,10 +48,10 @@
     },
     {
       "id": "6646df39b759d7000054a03f",
-      "text": "  https://www.youtube.com/live/ycZO4v4LEEQ",
+      "text": "  [https://youtu.be/ycZO4v4LEEQ]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920698,
-      "updated": 1715920700
+      "updated": 1716052604
     },
     {
       "id": "6646cc59b759d7000085ae83",
@@ -62,10 +62,10 @@
     },
     {
       "id": "6646defbb759d7000054a03b",
-      "text": "  https://www.youtube.com/live/zRvWpvSrSis",
+      "text": "  [https://youtu.be/zRvWpvSrSis]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920636,
-      "updated": 1715920639
+      "updated": 1716052621
     },
     {
       "id": "6646cc6bb759d7000085ae84",
@@ -76,10 +76,10 @@
     },
     {
       "id": "6646dfa0b759d7000054a043",
-      "text": "  https://www.youtube.com/live/TJ49PBiNOkQ",
+      "text": "  [https://youtu.be/TJ49PBiNOkQ]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920801,
-      "updated": 1715920804
+      "updated": 1716052636
     },
     {
       "id": "6646cc81b759d7000085ae85",
@@ -90,10 +90,10 @@
     },
     {
       "id": "6646df1eb759d7000054a03d",
-      "text": "  https://www.youtube.com/live/Qc1tLthZ1w0",
+      "text": "  [https://youtu.be/Qc1tLthZ1w0]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920671,
-      "updated": 1715920673
+      "updated": 1716052647
     },
     {
       "id": "6646cd05b759d7000085ae86",
@@ -104,10 +104,10 @@
     },
     {
       "id": "6646df80b759d7000054a042",
-      "text": "  https://www.youtube.com/live/oiyUA73YPHY",
+      "text": "  [https://youtu.be/oiyUA73YPHY]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920769,
-      "updated": 1715920771
+      "updated": 1716052658
     },
     {
       "id": "6646cc3bb759d7000085ae81",
@@ -118,10 +118,10 @@
     },
     {
       "id": "6646dee5b759d7000054a03a",
-      "text": "  https://www.youtube.com/live/R6i6lzZXUwo",
+      "text": "  [https://youtu.be/R6i6lzZXUwo]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920614,
-      "updated": 1715920618
+      "updated": 1716052668
     },
     {
       "id": "6646ce37b759d7000085ae88",
@@ -129,6 +129,13 @@
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715916344,
       "updated": 1715919057
+    },
+    {
+      "id": "6648e2e9b759d70000ce0b81",
+      "text": "  [https://youtu.be/9_UwtMM-Xqk]",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716052713,
+      "updated": 1716052728
     },
     {
       "id": "6646ce4eb759d7000085ae89",
@@ -139,10 +146,10 @@
     },
     {
       "id": "6646df2db759d7000054a03e",
-      "text": "  https://www.youtube.com/live/KHowLiMn5Sg",
+      "text": "  [https://youtu.be/KHowLiMn5Sg]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920685,
-      "updated": 1715920688
+      "updated": 1716052678
     },
     {
       "id": "6646d8dcb759d700006f9177",
