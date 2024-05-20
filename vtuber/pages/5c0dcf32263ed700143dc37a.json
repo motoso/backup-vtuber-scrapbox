@@ -2,7 +2,7 @@
   "id": "5c0dcf32263ed700143dc37a",
   "title": "寧夢ねむる",
   "created": 1544408885,
-  "updated": 1632419305,
+  "updated": 1716089351,
   "lines": [
     {
       "id": "5c0dcf32263ed700143dc37a",
@@ -52,13 +52,6 @@
       "userId": "5a4296f4464d9800140db335",
       "created": 1548076269,
       "updated": 1548076270
-    },
-    {
-      "id": "5c0dcf88774b1700003484a4",
-      "text": " [IRIAM]のAndroid版初期メンバー。いわゆる元[IRIAM2期生]。",
-      "userId": "59fb21121207900012774b17",
-      "created": 1544408969,
-      "updated": 1601226399
     },
     {
       "id": "5c0dcf35774b170000348473",
@@ -152,11 +145,11 @@
       "updated": 1591068844
     },
     {
-      "id": "5ed5c8af0db33500003d931a",
-      "text": " Soundcloud https://soundcloud.com/x5scv4qulc0p",
-      "userId": "5a4296f4464d9800140db335",
-      "created": 1591068846,
-      "updated": 1591068850
+      "id": "664971fe67bad2000023aedf",
+      "text": " [/icons/pixivFANBOX.icon] https://nmnmr.fanbox.cc/",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1716089341,
+      "updated": 1716089351
     },
     {
       "id": "5c0dcf35774b17000034847c",
@@ -171,6 +164,13 @@
       "userId": "5a4296f4464d9800140db335",
       "created": 1599928389,
       "updated": 1599928407
+    },
+    {
+      "id": "664971fb67bad2000023aede",
+      "text": " Soundcloud https://soundcloud.com/x5scv4qulc0p",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1716089339,
+      "updated": 1716089339
     },
     {
       "id": "5fbd11eb0db3350000022fba",
@@ -285,25 +285,25 @@
       "updated": 1546500954
     },
     {
-      "id": "5c2dbce30db3350000b3cf49",
-      "text": " [帰宅部]",
-      "userId": "5a4296f4464d9800140db335",
-      "created": 1546501348,
-      "updated": 1546501351
+      "id": "6649713767bad2000023aedb",
+      "text": " [個人勢]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1716089142,
+      "updated": 1716089145
     },
     {
-      "id": "5f70c61e0db3350000feb1b2",
-      "text": " 好きなバンド：クリープハイプ",
-      "userId": "5a4296f4464d9800140db335",
-      "created": 1601226268,
-      "updated": 1601226271
+      "id": "6649719567bad2000023aedc",
+      "text": " \t[IRIAM]のAndroid版初期メンバー。いわゆる元[IRIAM2期生]。",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1716089236,
+      "updated": 1716089237
     },
     {
-      "id": "614cbb210db33500005ff644",
-      "text": " 家族構成：お父様（ぱぱる）とお母様（ままる）の他に、お姉さんと弟さんがいる。お姉さんは既に実家を出て生活してらっしゃる。",
-      "userId": "5a4296f4464d9800140db335",
-      "created": 1632418590,
-      "updated": 1632418636
+      "id": "6649711367bad2000023aeda",
+      "text": "\t IRIAMオリジナルの公式ライバーとしてデビューした後、IRIAM公式ライバーが[i-LIVE]ライバーとなったのに合わせてi-LIVE所属ライバーとなる。そのあと2024年4月～5月の間に[i-LIVE]を退所し、個人として活動するようになった。",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1716089107,
+      "updated": 1716089276
     },
     {
       "id": "5c0dcf35774b170000348493",
@@ -486,20 +486,6 @@
       "userId": "5a4296f4464d9800140db335",
       "created": 1632417829,
       "updated": 1632417938
-    },
-    {
-      "id": "614cb84a0db3350000a2721a",
-      "text": " 模範囚",
-      "userId": "5a4296f4464d9800140db335",
-      "created": 1632417862,
-      "updated": 1632417865
-    },
-    {
-      "id": "614cb84f0db3350000a2721b",
-      "text": " 　真面目で規律を守る良いリスナーのこと。",
-      "userId": "5a4296f4464d9800140db335",
-      "created": 1632417867,
-      "updated": 1632417888
     },
     {
       "id": "614cb87c0db3350000a2721d",
@@ -713,10 +699,10 @@
     },
     {
       "id": "614cbca70db33500005ff64f",
-      "text": "　　終わりの挨拶。これ以外にも他の配信者から引き継いだ挨拶なども併用されており、リスナー間でもあまり固定されていない。",
-      "userId": "5a4296f4464d9800140db335",
+      "text": "　　終わりの挨拶。デビューから数年ひとつに定まっていなかったが、だんだんとコレに落ち着いた。",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1632418979,
-      "updated": 1632419305
+      "updated": 1716089068
     },
     {
       "id": "5c3752140db3350000ee60ca",

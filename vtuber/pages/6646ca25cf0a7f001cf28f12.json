@@ -2,7 +2,7 @@
   "id": "6646ca25cf0a7f001cf28f12",
   "title": "ホロスターズ歌枠リレー",
   "created": 1715915305,
-  "updated": 1716052744,
+  "updated": 1716135260,
   "lines": [
     {
       "id": "6646ca25cf0a7f001cf28f12",
@@ -13,17 +13,45 @@
     },
     {
       "id": "6646ca2cb759d70000c51772",
-      "text": "[ホロスターズ]5周年記念として開催",
+      "text": "[ホロスターズ]5周年記念として、2日間にわたり開催",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715915309,
-      "updated": 1715916582
+      "updated": 1716135181
+    },
+    {
+      "id": "664a2525b759d70000ce0b8a",
+      "text": " 日時",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135206,
+      "updated": 1716135227
+    },
+    {
+      "id": "664a2533b759d70000ce0b8b",
+      "text": "  DAY 1: 2024/05/18（土） 19:00〜21:40",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135219,
+      "updated": 1716135248
+    },
+    {
+      "id": "664a2550b759d70000ce0b8c",
+      "text": "  DAY 2: 2024/05/19（日） 19:00〜21:40",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135249,
+      "updated": 1716135260
     },
     {
       "id": "6646cc08b759d7000085ae7f",
-      "text": " https://twitter.com/holostarstv/status/1789233989909365013",
+      "text": " 告知ツイート: [https://twitter.com/holostarstv/status/1789233989909365013]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715915784,
-      "updated": 1716052744
+      "updated": 1716135153
+    },
+    {
+      "id": "664a24f5b759d70000ce0b89",
+      "text": " ハッシュタグ: #ホロスタ5周年歌枠リレー",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135158,
+      "updated": 1716135169
     },
     {
       "id": "6646cbdbb759d7000085ae7e",
@@ -31,6 +59,27 @@
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715915740,
       "updated": 1715915740
+    },
+    {
+      "id": "664a2497b759d70000ce0b84",
+      "text": "公式再生リスト",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135064,
+      "updated": 1716135088
+    },
+    {
+      "id": "664a2498b759d70000ce0b85",
+      "text": " [https://www.youtube.com/playlist?list=PLNQov5ZpSSWcchUKWUewu9EgPBjg05dlF 【#ホロスタ5周年歌枠リレー】ホロスターズ５周年記念歌枠リレーまとめ - YouTube]",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135064,
+      "updated": 1716135128
+    },
+    {
+      "id": "664a24b2b759d70000ce0b86",
+      "text": "",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135091,
+      "updated": 1716135091
     },
     {
       "id": "6646cc18b759d7000085ae80",
@@ -174,10 +223,10 @@
     },
     {
       "id": "6646dfc2b759d7000054a044",
-      "text": "  https://www.youtube.com/live/jGNP5WAwuU8",
+      "text": "  [https://youtu.be/jGNP5WAwuU8]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920835,
-      "updated": 1715920837
+      "updated": 1716134881
     },
     {
       "id": "6646cea0b759d7000085ae8c",
@@ -187,11 +236,25 @@
       "updated": 1715919057
     },
     {
+      "id": "664a2449b759d70000ce0b82",
+      "text": "  [https://youtu.be/gEZryI_yAvk]",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716134986,
+      "updated": 1716134999
+    },
+    {
       "id": "6646cea0b759d7000085ae8d",
       "text": " 19:40〜20:00 [Banzoin Hakka]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715916449,
       "updated": 1715919057
+    },
+    {
+      "id": "664a2469b759d70000ce0b83",
+      "text": "  [https://youtu.be/hjXvi_QQFus]",
+      "userId": "5b10baafcc4e900014b759d7",
+      "created": 1716135018,
+      "updated": 1716135029
     },
     {
       "id": "6646cea0b759d7000085ae8e",
@@ -202,10 +265,10 @@
     },
     {
       "id": "6646df0fb759d7000054a03c",
-      "text": "  https://www.youtube.com/live/UG1ZpuepCBA",
+      "text": "  [https://youtu.be/UG1ZpuepCBA]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920656,
-      "updated": 1715920659
+      "updated": 1716134893
     },
     {
       "id": "6646cea0b759d7000085ae8f",
@@ -216,10 +279,10 @@
     },
     {
       "id": "6646dfedb759d7000054a045",
-      "text": "  https://www.youtube.com/live/H4BvGCc147w",
+      "text": "  [https://youtu.be/H4BvGCc147w]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920878,
-      "updated": 1715920880
+      "updated": 1716134904
     },
     {
       "id": "6646cea0b759d7000085ae90",
@@ -230,10 +293,10 @@
     },
     {
       "id": "6646e029b759d7000054a046",
-      "text": "  https://www.youtube.com/live/SmuzfoaAVLc",
+      "text": "  [https://youtu.be/SmuzfoaAVLc]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920937,
-      "updated": 1715920939
+      "updated": 1716134913
     },
     {
       "id": "6646cea0b759d7000085ae91",
@@ -244,10 +307,10 @@
     },
     {
       "id": "6646df69b759d7000054a041",
-      "text": "  https://www.youtube.com/live/TlDGNbn864I",
+      "text": "  [https://youtu.be/TlDGNbn864I]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920746,
-      "updated": 1715920748
+      "updated": 1716134923
     },
     {
       "id": "6646cea0b759d7000085ae92",
@@ -258,10 +321,10 @@
     },
     {
       "id": "6646df5ab759d7000054a040",
-      "text": "  https://www.youtube.com/live/PphTzizQ90I",
+      "text": "  [https://youtu.be/PphTzizQ90I]",
       "userId": "5b10baafcc4e900014b759d7",
       "created": 1715920731,
-      "updated": 1715920733
+      "updated": 1716134933
     },
     {
       "id": "6646cea0b759d7000085ae93",

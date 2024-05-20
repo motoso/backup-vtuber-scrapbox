@@ -1,0 +1,92 @@
+{
+  "id": "664a0d1bec571200225a1d9e",
+  "title": "yosider",
+  "created": 1716129051,
+  "updated": 1716129138,
+  "lines": [
+    {
+      "id": "664a0d1bec571200225a1d9e",
+      "text": "yosider",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129051,
+      "updated": 1716129051
+    },
+    {
+      "id": "664a0d1be5172d0000a1aae6",
+      "text": "[https://gyazo.com/627ad5fa7089af47308a85c9d82e448a]",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129051,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d2ae5172d0000a1aaf4",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129066,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d2ae5172d0000a1aaf5",
+      "text": "code:style.css",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129066,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d2ae5172d0000a1aaf6",
+      "text": "\t@import '../../yosider-scripts/SharedUserCSS/style.css';",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129066,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d2ae5172d0000a1aaf7",
+      "text": "\t@import '../../yosider-scripts/UserCSS-light/style.css';",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129066,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d2ae5172d0000a1aaf9",
+      "text": "code:script.js",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129066,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d2ae5172d0000a1aafa",
+      "text": "\timport '../../yosider-scripts/import/script.js';",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129066,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d2ae5172d0000a1aafb",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129066,
+      "updated": 1716129066
+    },
+    {
+      "id": "664a0d72e5172d0000d1245e",
+      "text": "#編集者",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129138,
+      "updated": 1716129138
+    },
+    {
+      "id": "664a0d1be5172d0000a1aaf2",
+      "text": "#member",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129051,
+      "updated": 1716129051
+    },
+    {
+      "id": "664a0d70e5172d0000d1245d",
+      "text": "",
+      "userId": "5c30ba88e98efe0017e5172d",
+      "created": 1716129136,
+      "updated": 1716129136
+    }
+  ]
+}

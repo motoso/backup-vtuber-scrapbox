@@ -2,7 +2,7 @@
   "id": "62a182fbaa0f80001d1e0d19",
   "title": "鈴木勝 3Dお披露目配信",
   "created": 1654751996,
-  "updated": 1654752033,
+  "updated": 1716120348,
   "lines": [
     {
       "id": "62a182fbaa0f80001d1e0d19",
@@ -97,10 +97,17 @@
     },
     {
       "id": "62a182fc774b170000a0e4a7",
-      "text": "",
-      "userId": "59fb21121207900012774b17",
+      "text": "[3Dお披露目配信]",
+      "userId": "6011af6ec190410022be12ad",
       "created": 1654751996,
-      "updated": 1654751996
+      "updated": 1716120348
+    },
+    {
+      "id": "6649eb15be12ad0000f240b2",
+      "text": "",
+      "userId": "6011af6ec190410022be12ad",
+      "created": 1716120341,
+      "updated": 1716120341
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "6649702b670e1e001c387cd8",
+  "title": "TCG",
+  "created": 1716088881,
+  "updated": 1716091048,
+  "lines": [
+    {
+      "id": "6649702b670e1e001c387cd8",
+      "text": "TCG",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716088881,
+      "updated": 1716088881
+    },
+    {
+      "id": "6649702ccc1fc100001f8807",
+      "text": "[トレーディングカードゲーム]のこと",
+      "userId": "60508ed36a7abc00235e90c0",
+      "created": 1716088881,
+      "updated": 1716091048
+    },
+    {
+      "id": "66497036cc1fc100001f8808",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716088887,
+      "updated": 1716088887
+    }
+  ]
+}
