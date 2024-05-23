@@ -2,7 +2,7 @@
   "id": "664cbafc5094a7001ca90e98",
   "title": "お疲れ様なのらね",
   "created": 1716304638,
-  "updated": 1716305188,
+  "updated": 1716374770,
   "lines": [
     {
       "id": "664cbafc5094a7001ca90e98",
@@ -19,6 +19,20 @@
       "updated": 1716304660
     },
     {
+      "id": "664dcca0cc1fc100009a4501",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716374689,
+      "updated": 1716374689
+    },
+    {
+      "id": "664dcca0cc1fc100009a4502",
+      "text": "#書きかけ。あなたが書いてみませんか？（ここをクリックしてね）",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716374689,
+      "updated": 1716374690
+    },
+    {
       "id": "664cbd1bcc1fc1000092b6df",
       "text": "",
       "userId": "5f0e769da385ed001ecc1fc1",
@@ -33,11 +47,18 @@
       "updated": 1716305183
     },
     {
-      "id": "664cbd1fcc1fc1000092b6e1",
-      "text": "　#書きかけ。あなたが書いてみませんか？（ここをクリックしてね）",
+      "id": "664dcb7dcc1fc100009a44fe",
+      "text": "　[ホロ鯖ハードコアマイクラ]のチンチロ大会後、[桃鈴ねね]さんと[大空スバル]さんが爆死したときに、[姫森ルーナ]さんがチャットに「お疲れ様なのらね」と打ち込んだ",
       "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1716305183,
-      "updated": 1716305188
+      "created": 1716374398,
+      "updated": 1716374489
+    },
+    {
+      "id": "664dcc1dcc1fc100009a4500",
+      "text": "　その後、締めの挨拶に使われたり、他の人が死んだときに使われたりなど、ホロ鯖内で流行語になった",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716374559,
+      "updated": 1716374668
     },
     {
       "id": "664cbb00cc1fc1000092b6db",
@@ -55,10 +76,10 @@
     },
     {
       "id": "664cbcedcc1fc1000092b6de",
-      "text": "　https://www.youtube.com/live/hZIjitnWZE8?t=3h24m17s",
+      "text": "　[https://www.youtube.com/watch?v=hZIjitnWZE8&t=3h24m17s]",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1716305133,
-      "updated": 1716305153
+      "updated": 1716374770
     },
     {
       "id": "664cbceccc1fc1000092b6dd",
