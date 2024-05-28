@@ -2,7 +2,7 @@
   "id": "5d6a7ee7b9d0a8001744c489",
   "title": "VTuberチップス",
   "created": 1567260395,
-  "updated": 1590883673,
+  "updated": 1716858511,
   "lines": [
     {
       "id": "5d6a7ee7b9d0a8001744c489",
@@ -38,6 +38,13 @@
       "userId": "5a4296f4464d9800140db335",
       "created": 1570473212,
       "updated": 1590883673
+    },
+    {
+      "id": "66552e82cc1fc10000bbdf69",
+      "text": "　2024年5月には[VTuberチップス6]が販売",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858498,
+      "updated": 1716858511
     },
     {
       "id": "5ed2f54d0db33500009858ef",

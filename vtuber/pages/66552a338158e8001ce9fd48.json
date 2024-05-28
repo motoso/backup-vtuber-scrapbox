@@ -1,0 +1,50 @@
+{
+  "id": "66552a338158e8001ce9fd48",
+  "title": "vTubie",
+  "created": 1716857396,
+  "updated": 1716857638,
+  "lines": [
+    {
+      "id": "66552a338158e8001ce9fd48",
+      "text": "vTubie",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716857396,
+      "updated": 1716857396
+    },
+    {
+      "id": "66552a5dcc1fc10000bbdf58",
+      "text": "[バーチャルYouTuber]のデータベースをコミュニティを兼ねる[Webサイト]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716857438,
+      "updated": 1716857638
+    },
+    {
+      "id": "66552a40cc1fc10000bbdf56",
+      "text": ">vTubie is a comprehensive database and community for Virtual YouTubers (VTubers) and VStreamers. It operates independently with users collaboratively building and maintaining the platform.",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716857408,
+      "updated": 1716857409
+    },
+    {
+      "id": "66552a41cc1fc10000bbdf57",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716857410,
+      "updated": 1716857410
+    },
+    {
+      "id": "66552a34cc1fc10000bbdf54",
+      "text": "https://vtubie.com/",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716857397,
+      "updated": 1716857509
+    },
+    {
+      "id": "66552ae1cc1fc10000bbdf59",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716857570,
+      "updated": 1716857570
+    }
+  ]
+}

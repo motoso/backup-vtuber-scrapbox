@@ -1,0 +1,323 @@
+{
+  "id": "66552dd90dd8ad001d8d3bfd",
+  "title": "VTuberチップス6",
+  "created": 1716858332,
+  "updated": 1716859197,
+  "lines": [
+    {
+      "id": "66552dd90dd8ad001d8d3bfd",
+      "text": "VTuberチップス6",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858332,
+      "updated": 1716858332
+    },
+    {
+      "id": "66552e15cc1fc10000bbdf67",
+      "text": "発売日　2024/5/28〜",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858389,
+      "updated": 1716858395
+    },
+    {
+      "id": "66552e1bcc1fc10000bbdf68",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858396,
+      "updated": 1716858396
+    },
+    {
+      "id": "665530f2cc1fc10000bbdfaf",
+      "text": "[カード]は99種類",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716859123,
+      "updated": 1716859177
+    },
+    {
+      "id": "665530f8cc1fc10000bbdfb1",
+      "text": "\t参加VTuberは33組",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716859129,
+      "updated": 1716859197
+    },
+    {
+      "id": "665530ffcc1fc10000bbdfb2",
+      "text": "\tそれぞれN（ネタ）/R（レア）/SR（スーパーレア）の3種類がある",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716859135,
+      "updated": 1716859171
+    },
+    {
+      "id": "665530f2cc1fc10000bbdfb0",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716859123,
+      "updated": 1716859123
+    },
+    {
+      "id": "66552ea0cc1fc10000bbdf6a",
+      "text": "記事",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858528,
+      "updated": 1716858532
+    },
+    {
+      "id": "66552ddbcc1fc10000bbdf65",
+      "text": " [人気VTuber大集合！待望の第6弾「VTuberチップス6」が5月28日（火）より発売！ | 株式会社CyberZのプレスリリース https://prtimes.jp/main/html/rd/p/000001417.000006792.html]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858332,
+      "updated": 1716858532
+    },
+    {
+      "id": "66552ddbcc1fc10000bbdf66",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858332,
+      "updated": 1716858332
+    },
+    {
+      "id": "66552eeacc1fc10000bbdf6b",
+      "text": "登場VTuber",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858602,
+      "updated": 1716858605
+    },
+    {
+      "id": "66552eedcc1fc10000bbdf6d",
+      "text": "\t[音霊魂子]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858605,
+      "updated": 1716858762
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf6f",
+      "text": " [石狩あかり]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858760
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf71",
+      "text": " [大代真白]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858759
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf73",
+      "text": " [山黒音玄]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858768
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf75",
+      "text": " [栗駒こまる]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858766
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf77",
+      "text": " [千代浦蝶美]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858771
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf79",
+      "text": " [我部りえる]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858773
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf7b",
+      "text": " [エトラ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858775
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf7d",
+      "text": " [春雨麗女]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858783
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf7f",
+      "text": " [ぷわぷわぽぷら]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858787
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf81",
+      "text": " [おめがシスターズ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858789
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf83",
+      "text": " [紫ノ宮ノア]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858792
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf85",
+      "text": " [犬山たまき]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858795
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf87",
+      "text": " [伊東ライフ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858797
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf89",
+      "text": " [兎鞠まり]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858799
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf8b",
+      "text": " [神楽めあ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858801
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf8d",
+      "text": " [天開司]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858803
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf8f",
+      "text": " [MonsterZ MATE]([アンジョー]) ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858815
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf91",
+      "text": " [MonsterZ MATE]([コーサカ]) ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858819
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf93",
+      "text": " [毒ヶ衣ちなみ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858823
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf95",
+      "text": " [羽渕やむ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858907
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf97",
+      "text": " [白羽ねむ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858906
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf99",
+      "text": " [ChumuNote]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858905
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf9b",
+      "text": " [天羽しろっぷ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858903
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf9d",
+      "text": " [朝ノ瑠璃]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858901
+    },
+    {
+      "id": "66552eeecc1fc10000bbdf9f",
+      "text": " [キルシュトルテ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858899
+    },
+    {
+      "id": "66552eeecc1fc10000bbdfa1",
+      "text": " [武士来舞]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858891
+    },
+    {
+      "id": "66552eeecc1fc10000bbdfa3",
+      "text": " [雛乃こまる]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858890
+    },
+    {
+      "id": "66552eeecc1fc10000bbdfa5",
+      "text": " [清楼銘]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858889
+    },
+    {
+      "id": "66552eeecc1fc10000bbdfa7",
+      "text": " [りぼんちゃん]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858871
+    },
+    {
+      "id": "66552eeecc1fc10000bbdfa9",
+      "text": " [紡生ムルク]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858870
+    },
+    {
+      "id": "66552eeecc1fc10000bbdfab",
+      "text": " [犯罪学教室のかなえ先生]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858886
+    },
+    {
+      "id": "66552eeecc1fc10000bbdfad",
+      "text": " [考察系YouTuberキリン]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858606,
+      "updated": 1716858858
+    },
+    {
+      "id": "66552eebcc1fc10000bbdf6c",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716858603,
+      "updated": 1716858603
+    }
+  ]
+}
