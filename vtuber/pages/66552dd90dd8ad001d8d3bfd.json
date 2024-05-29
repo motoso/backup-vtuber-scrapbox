@@ -2,7 +2,7 @@
   "id": "66552dd90dd8ad001d8d3bfd",
   "title": "VTuberチップス6",
   "created": 1716858332,
-  "updated": 1716859197,
+  "updated": 1716869948,
   "lines": [
     {
       "id": "66552dd90dd8ad001d8d3bfd",
@@ -318,6 +318,62 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1716858603,
       "updated": 1716858603
+    },
+    {
+      "id": "66555b05cc1fc10000d67073",
+      "text": "販売場所",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869893,
+      "updated": 1716869896
+    },
+    {
+      "id": "66555b07cc1fc10000d67075",
+      "text": "　全国のファミリーマート",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869896,
+      "updated": 1716869905
+    },
+    {
+      "id": "66555b0acc1fc10000d67076",
+      "text": " ドン・キホーテ（一部店舗）",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869898,
+      "updated": 1716869907
+    },
+    {
+      "id": "66555b0acc1fc10000d67077",
+      "text": " HMV",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869898,
+      "updated": 1716869908
+    },
+    {
+      "id": "66555b0acc1fc10000d67078",
+      "text": " ヴィレッジヴァンガード（一部店舗）",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869898,
+      "updated": 1716869916
+    },
+    {
+      "id": "66555b0acc1fc10000d67079",
+      "text": "　アニメイト",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869898,
+      "updated": 1716869928
+    },
+    {
+      "id": "66555b0acc1fc10000d6707a",
+      "text": " [eStream Store　https://estream-store.com/]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869898,
+      "updated": 1716869948
+    },
+    {
+      "id": "66555b07cc1fc10000d67074",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716869896,
+      "updated": 1716869896
     }
   ]
 }
