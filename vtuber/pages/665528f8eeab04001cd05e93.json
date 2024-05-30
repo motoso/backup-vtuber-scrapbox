@@ -2,7 +2,7 @@
   "id": "665528f8eeab04001cd05e93",
   "title": "holo Indie",
   "created": 1716857082,
-  "updated": 1716859498,
+  "updated": 1716987043,
   "lines": [
     {
       "id": "665528f8eeab04001cd05e93",
@@ -17,13 +17,6 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1716857202,
       "updated": 1716857215
-    },
-    {
-      "id": "665528f9cc1fc10000bbdf4c",
-      "text": "#書きかけ。あなたが書いてみませんか？（ここをクリックしてね）",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1716857082,
-      "updated": 1716857085
     },
     {
       "id": "665528fdcc1fc10000bbdf4e",

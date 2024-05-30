@@ -2,7 +2,7 @@
   "id": "6652fd1ee654d6001c30c620",
   "title": "魔法少女ホロウィッチ",
   "created": 1716714784,
-  "updated": 1716714784,
+  "updated": 1716986862,
   "lines": [
     {
       "id": "6652fd1ee654d6001c30c620",
@@ -12,11 +12,74 @@
       "updated": 1716714784
     },
     {
+      "id": "665723a2cc1fc100005019fc",
+      "text": ">「アニメ」「漫画」「配信」などあらゆるコンテンツで展開する",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986787,
+      "updated": 1716986787
+    },
+    {
+      "id": "665723a3cc1fc100005019fd",
+      "text": "> 新しいカタチの[メディアミックス]プロジェクトです。",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986787,
+      "updated": 1716986799
+    },
+    {
       "id": "6652fd20cc1fc100009a66d5",
-      "text": "",
+      "text": "https://holowitches.hololivepro.com/",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1716714784,
-      "updated": 1716714784
+      "updated": 1716986793
+    },
+    {
+      "id": "665723a8cc1fc100005019fe",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986793,
+      "updated": 1716986793
+    },
+    {
+      "id": "665723c4cc1fc100005019ff",
+      "text": "漫画",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986820,
+      "updated": 1716986821
+    },
+    {
+      "id": "665723c5cc1fc10000501a01",
+      "text": "\t[https://holowitches.hololivepro.com/comic/ COMIC | 魔法少女ホロウィッチ！｜ホロライブプロダクション]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986821,
+      "updated": 1716986824
+    },
+    {
+      "id": "665723c8cc1fc10000501a02",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986824,
+      "updated": 1716986825
+    },
+    {
+      "id": "665723e8cc1fc10000501a03",
+      "text": "PV",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986856,
+      "updated": 1716986858
+    },
+    {
+      "id": "665723eacc1fc10000501a04",
+      "text": "\t[https://www.youtube.com/watch?v=lHY0bh2q9HE]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986859,
+      "updated": 1716986862
+    },
+    {
+      "id": "665723c5cc1fc10000501a00",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1716986821,
+      "updated": 1716986821
     }
   ]
 }
