@@ -1,0 +1,29 @@
+{
+  "id": "6662d7a3dd86d2001cd6d53d",
+  "title": "お花を摘みに行く",
+  "created": 1717753766,
+  "updated": 1717753789,
+  "lines": [
+    {
+      "id": "6662d7a3dd86d2001cd6d53d",
+      "text": "お花を摘みに行く",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1717753766,
+      "updated": 1717753766
+    },
+    {
+      "id": "6662d7a5cc1fc10000a39094",
+      "text": "[トイレ]に行くことの[婉曲]表現",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1717753766,
+      "updated": 1717753789
+    },
+    {
+      "id": "6662d7a7cc1fc10000a39095",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1717753768,
+      "updated": 1717753768
+    }
+  ]
+}
