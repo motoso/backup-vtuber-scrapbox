@@ -2,7 +2,7 @@
   "id": "66457e0f5c41d1001c3bdfef",
   "title": "音乃瀬奏",
   "created": 1715830289,
-  "updated": 1716033879,
+  "updated": 1718365990,
   "lines": [
     {
       "id": "66457e0f5c41d1001c3bdfef",
@@ -318,6 +318,13 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1715831371,
       "updated": 1715831402
+    },
+    {
+      "id": "666c2f08cc1fc100002b2c5a",
+      "text": " YouTubeの再生リストが、メン限まとめ以外全て音楽関連となっている",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1718365960,
+      "updated": 1718365990
     },
     {
       "id": "66457e10cc1fc100005dd5db",
