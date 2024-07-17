@@ -2,7 +2,7 @@
   "id": "6609f8119eae1d002628026c",
   "title": "にじさんじエイプリルフール2024",
   "created": 1711929367,
-  "updated": 1712028460,
+  "updated": 1721113670,
   "lines": [
     {
       "id": "6609f8119eae1d002628026c",
@@ -1307,18 +1307,53 @@
       "updated": 1711973885
     },
     {
-      "id": "660aa8bf774b17000028435c",
+      "id": "66961c0ebe12ad0000f7065c",
       "text": "",
-      "userId": "59fb21121207900012774b17",
-      "created": 1711974592,
-      "updated": 1711974592
+      "userId": "6011af6ec190410022be12ad",
+      "created": 1721113614,
+      "updated": 1721113614
+    },
+    {
+      "id": "66961c46be12ad0000f70662",
+      "text": "",
+      "userId": "6011af6ec190410022be12ad",
+      "created": 1721113670,
+      "updated": 1721113670
+    },
+    {
+      "id": "66961c0ebe12ad0000f7065d",
+      "text": "スナックベル美（[ベルモンド・バンデラス]）",
+      "userId": "6011af6ec190410022be12ad",
+      "created": 1721113614,
+      "updated": 1721113624
+    },
+    {
+      "id": "66961c18be12ad0000f7065f",
+      "text": "　[https://www.youtube.com/live/dplla2c1Wlg?si=LNkhmyvGIzwALvIO]",
+      "userId": "6011af6ec190410022be12ad",
+      "created": 1721113625,
+      "updated": 1721113644
+    },
+    {
+      "id": "66961c0ebe12ad0000f7065e",
+      "text": "",
+      "userId": "6011af6ec190410022be12ad",
+      "created": 1721113614,
+      "updated": 1721113614
+    },
+    {
+      "id": "66961c44be12ad0000f70661",
+      "text": "",
+      "userId": "6011af6ec190410022be12ad",
+      "created": 1721113669,
+      "updated": 1721113669
     },
     {
       "id": "660aa5cf774b170000284332",
-      "text": "[ベルモンド・バンデラス] オネエになる",
-      "userId": "59fb21121207900012774b17",
+      "text": "[四季凪アキラ]オネエになる ",
+      "userId": "6011af6ec190410022be12ad",
       "created": 1711973839,
-      "updated": 1711974596
+      "updated": 1721113613
     },
     {
       "id": "660aa8c3774b17000028435d",
