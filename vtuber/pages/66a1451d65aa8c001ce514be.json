@@ -2,7 +2,7 @@
   "id": "66a1451d65aa8c001ce514be",
   "title": "配信などに関する個人的な感想を書くのはありなのだろうか",
   "created": 1721845030,
-  "updated": 1721845068,
+  "updated": 1721918903,
   "lines": [
     {
       "id": "66a1451d65aa8c001ce514be",
@@ -83,10 +83,17 @@
     },
     {
       "id": "66a1452ae5172d0000d46da4",
-      "text": "",
-      "userId": "5c30ba88e98efe0017e5172d",
+      "text": "[nekketsuuu.icon] これはこのプロジェクトじゃなくて[/vtuber-forum]にすべき投稿かも",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1721845032,
-      "updated": 1721845032
+      "updated": 1721918903
+    },
+    {
+      "id": "66a265a467bad200000a1d47",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1721918882,
+      "updated": 1721918882
     }
   ]
 }
