@@ -2,7 +2,7 @@
   "id": "5dd2ee2494a801001719407d",
   "title": "VTuberの路上ライブ",
   "created": 1574104614,
-  "updated": 1574105380,
+  "updated": 1727702581,
   "lines": [
     {
       "id": "5dd2ee2494a801001719407d",
@@ -75,11 +75,25 @@
       "updated": 1574104717
     },
     {
+      "id": "66faa60367bad20000b7499d",
+      "text": "　2024年9月、[星街すいせい、渋谷で路上ライブを行う]。",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1727702529,
+      "updated": 1727702555
+    },
+    {
       "id": "5dd2ee2c0db335000070ba14",
-      "text": "",
-      "userId": "5a4296f4464d9800140db335",
+      "text": "※あまり網羅できていません。情報募集中です。",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1574104618,
-      "updated": 1574104618
+      "updated": 1727702581
+    },
+    {
+      "id": "66faa62467bad20000b7499e",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1727702562,
+      "updated": 1727702562
     },
     {
       "id": "5dd2ee9d0db335000070ba19",
