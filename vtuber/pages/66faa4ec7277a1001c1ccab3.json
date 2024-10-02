@@ -2,7 +2,7 @@
   "id": "66faa4ec7277a1001c1ccab3",
   "title": "星街すいせい、渋谷で路上ライブを行う",
   "created": 1727702256,
-  "updated": 1727732536,
+  "updated": 1727773462,
   "lines": [
     {
       "id": "66faa4ec7277a1001c1ccab3",
@@ -34,10 +34,10 @@
     },
     {
       "id": "66faa55f67bad20000d7705e",
-      "text": "　投稿から少しした21時頃、路上ライブが始まった模様",
+      "text": "　投稿から少しした21時頃、路上ライブが始まった",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1727702364,
-      "updated": 1727702437
+      "updated": 1727773426
     },
     {
       "id": "66faa57467bad20000d7705f",
@@ -82,6 +82,13 @@
       "updated": 1727732464
     },
     {
+      "id": "66fb6caf67bad20000aa4710",
+      "text": "　\thttps://www.billboard-japan.com/d_news/detail/142113",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1727753390,
+      "updated": 1727753390
+    },
+    {
       "id": "66faa58267bad20000d77062",
       "text": "　新曲『[ムーンライト]』の披露やカウントダウンTVへの出演予告も行われた模様",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -103,11 +110,11 @@
       "updated": 1727732536
     },
     {
-      "id": "66fb1afd67bad20000062ea4",
+      "id": "66fbbb1567bad2000085c457",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1727732473,
-      "updated": 1727732473
+      "created": 1727773461,
+      "updated": 1727773462
     }
   ]
 }
