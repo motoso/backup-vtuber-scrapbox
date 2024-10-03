@@ -2,7 +2,7 @@
   "id": "5dd2ee2494a801001719407d",
   "title": "VTuberの路上ライブ",
   "created": 1574104614,
-  "updated": 1727702581,
+  "updated": 1727868012,
   "lines": [
     {
       "id": "5dd2ee2494a801001719407d",
@@ -48,10 +48,10 @@
     },
     {
       "id": "5dd2ee400db335000070ba16",
-      "text": "　2019年5月頃から、[波羅ノ鬼]が時々路上ライブを行っている。",
-      "userId": "5a4296f4464d9800140db335",
+      "text": "　2019年5月頃から、[波羅ノ鬼]が時々路上ライブを行っていた。",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1574104638,
-      "updated": 1574104709
+      "updated": 1727868012
     },
     {
       "id": "5dd2eebf0db335000070ba1c",
@@ -73,6 +73,34 @@
       "userId": "5a4296f4464d9800140db335",
       "created": 1574104668,
       "updated": 1574104717
+    },
+    {
+      "id": "66fd2b5667bad20000937979",
+      "text": "　2022年12月、秋葉原UDXサポニウス広場にて[Meteopolis]がイベントを行った https://christmas2022.riot-music.net/",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1727867731,
+      "updated": 1727867768
+    },
+    {
+      "id": "66fd284467bad20000937976",
+      "text": "　2023年12月、秋葉原UDXサポニウス広場にて[巫てんり]がイベント『Twin triangle of wish〜てんりとクリスマス〜』を行った https://x.com/tenri_info/status/1736722266967384097 #巫てんりTTW2023",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1727866946,
+      "updated": 1727868000
+    },
+    {
+      "id": "66fd2c4667bad2000093797a",
+      "text": "　2024年4月、秋葉原UDXサポニウス広場にて[巫てんり]がライブ『ダンデライオン』を行った https://www.youtube.com/watch?v=xBFbmRKzCms",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1727867972,
+      "updated": 1727867972
+    },
+    {
+      "id": "66fd290b67bad20000937977",
+      "text": "　　東京、大阪、福岡、宮城、愛知、北海道で行われる予定 https://x.com/kannagi_tenri/status/1781616713056014764",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1727867145,
+      "updated": 1727867160
     },
     {
       "id": "66faa60367bad20000b7499d",
