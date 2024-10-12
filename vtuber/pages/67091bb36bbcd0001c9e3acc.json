@@ -1,0 +1,29 @@
+{
+  "id": "67091bb36bbcd0001c9e3acc",
+  "title": "古石ビジュ―",
+  "created": 1728650297,
+  "updated": 1728650319,
+  "lines": [
+    {
+      "id": "67091bb36bbcd0001c9e3acc",
+      "text": "古石ビジュ―",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1728650297,
+      "updated": 1728650316
+    },
+    {
+      "id": "67091c37cc1fc100002a2b14",
+      "text": "→ [Koseki Bijou]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1728650297,
+      "updated": 1728650319
+    },
+    {
+      "id": "67091c37cc1fc100002a2b15",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1728650297,
+      "updated": 1728650297
+    }
+  ]
+}
