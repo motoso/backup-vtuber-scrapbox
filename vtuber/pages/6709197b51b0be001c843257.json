@@ -2,7 +2,7 @@
   "id": "6709197b51b0be001c843257",
   "title": "まいたけダンス",
   "created": 1728649597,
-  "updated": 1728649732,
+  "updated": 1730240620,
   "lines": [
     {
       "id": "6709197b51b0be001c843257",
@@ -45,6 +45,34 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1728649597,
       "updated": 1728649597
+    },
+    {
+      "id": "6721601dcc1fc1000059571f",
+      "text": "2024/10/30に正式リリース",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1730240541,
+      "updated": 1730240548
+    },
+    {
+      "id": "67216024cc1fc10000595721",
+      "text": "　https://youtube.com/clip/Ugkxnwajvk8k-1FNaH51RJuqwp4tPg3GO5Ti",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1730240548,
+      "updated": 1730240557
+    },
+    {
+      "id": "67216032cc1fc10000595722",
+      "text": "　これにより[儒烏風亭らでん]の[初オリ曲]は『まいたけダンス』となった",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1730240562,
+      "updated": 1730240620
+    },
+    {
+      "id": "67216021cc1fc10000595720",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1730240545,
+      "updated": 1730240545
     }
   ]
 }
