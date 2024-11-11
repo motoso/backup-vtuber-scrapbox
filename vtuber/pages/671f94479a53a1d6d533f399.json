@@ -2,7 +2,7 @@
   "id": "671f94479a53a1d6d533f399",
   "title": "旅野そら",
   "created": 1730122824,
-  "updated": 1730902703,
+  "updated": 1731291912,
   "lines": [
     {
       "id": "671f94479a53a1d6d533f399",
@@ -283,6 +283,13 @@
       "userId": "59fb21121207900012774b17",
       "created": 1730122824,
       "updated": 1730122842
+    },
+    {
+      "id": "67316b05cc1fc100004ba50f",
+      "text": " https://tabinosora.fanbox.cc",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1731291910,
+      "updated": 1731291912
     },
     {
       "id": "671f9448774b1700008a111a",
