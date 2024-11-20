@@ -2,7 +2,7 @@
   "id": "672b77a817a23f17eeccd36d",
   "title": "FLOWGLOW",
   "created": 1730901931,
-  "updated": 1730902182,
+  "updated": 1732072525,
   "lines": [
     {
       "id": "672b77a817a23f17eeccd36d",
@@ -10,6 +10,20 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1730901931,
       "updated": 1730901933
+    },
+    {
+      "id": "673d5441cc1fc100008bcb48",
+      "text": "[hololive DEV_IS]のグループ",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1732072516,
+      "updated": 1732072525
+    },
+    {
+      "id": "673d5441cc1fc100008bcb49",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1732072516,
+      "updated": 1732072516
     },
     {
       "id": "672b77e0cc1fc100007679cd",

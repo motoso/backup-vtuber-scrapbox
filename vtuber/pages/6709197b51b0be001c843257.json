@@ -2,7 +2,7 @@
   "id": "6709197b51b0be001c843257",
   "title": "まいたけダンス",
   "created": 1728649597,
-  "updated": 1730240620,
+  "updated": 1732009082,
   "lines": [
     {
       "id": "6709197b51b0be001c843257",
@@ -73,6 +73,27 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1730240545,
       "updated": 1730240545
+    },
+    {
+      "id": "673c5c48188b52000055709f",
+      "text": "2024/10/29 サントリーとのコラボCM",
+      "userId": "5ade114e2884880014188b52",
+      "created": 1732009032,
+      "updated": 1732009081
+    },
+    {
+      "id": "673c5c57188b5200005570a1",
+      "text": " https://www.tiktok.com/@suntoryfoodstiktok/video/7431155580473068816",
+      "userId": "5ade114e2884880014188b52",
+      "created": 1732009047,
+      "updated": 1732009082
+    },
+    {
+      "id": "673c5c48188b5200005570a0",
+      "text": "",
+      "userId": "5ade114e2884880014188b52",
+      "created": 1732009033,
+      "updated": 1732009033
     }
   ]
 }
