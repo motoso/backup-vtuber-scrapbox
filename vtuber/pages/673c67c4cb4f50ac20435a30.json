@@ -2,7 +2,7 @@
   "id": "673c67c4cb4f50ac20435a30",
   "title": "兎田ぺこらThe Game Awards 2024のコンテンツクリエイター部門にノミネートされる",
   "created": 1732011977,
-  "updated": 1732072459,
+  "updated": 1733912173,
   "lines": [
     {
       "id": "673c67c4cb4f50ac20435a30",
@@ -62,10 +62,17 @@
     },
     {
       "id": "673d540acc1fc100008bcb46",
-      "text": "",
+      "text": "発表は[2024/12/12]",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1732072459,
-      "updated": 1732072459
+      "updated": 1733912173
+    },
+    {
+      "id": "67596666cc1fc10000d6a91b",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1733912167,
+      "updated": 1733912167
     }
   ]
 }
