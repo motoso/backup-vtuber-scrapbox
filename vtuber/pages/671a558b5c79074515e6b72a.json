@@ -2,7 +2,7 @@
   "id": "671a558b5c79074515e6b72a",
   "title": "痛野メリーメウ",
   "created": 1729779091,
-  "updated": 1736738416,
+  "updated": 1737194843,
   "lines": [
     {
       "id": "671a558b5c79074515e6b72a",
@@ -69,10 +69,10 @@
     },
     {
       "id": "674d27c9cc1fc100003b8f5c",
-      "text": "　Xは「SNS疲れ」で使っていないが、ファンアートタグは確認している",
+      "text": "　[- Xは「SNS疲れ」で使っていないが、ファンアートタグは確認している]",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1733109707,
-      "updated": 1733109767
+      "updated": 1737193919
     },
     {
       "id": "674d2807cc1fc100003b8f5d",
@@ -83,10 +83,38 @@
     },
     {
       "id": "6784862dcc1fc100007c3d1a",
-      "text": "",
+      "text": "\t2025/1/18の配信中にポストされた",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1736738354,
-      "updated": 1736738354
+      "updated": 1737194012
+    },
+    {
+      "id": "678b7a1bcc1fc10000aff5a0",
+      "text": "\t\thttps://x.com/merrymeuUo_oU/status/1880493991604748506",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737194012,
+      "updated": 1737194012
+    },
+    {
+      "id": "678b79c0cc1fc10000aff59f",
+      "text": "\t\t配信の告知にXを使うといいという流れで",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737193920,
+      "updated": 1737194035
+    },
+    {
+      "id": "678b7b16cc1fc10000aff5a2",
+      "text": "\t\t\thttps://www.youtube.com/live/fBIYOeJFnlI&t=6598",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737194262,
+      "updated": 1737194277
+    },
+    {
+      "id": "678b7a22cc1fc10000aff5a1",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737194019,
+      "updated": 1737194019
     },
     {
       "id": "6784862dcc1fc100007c3d1b",
@@ -97,17 +125,52 @@
     },
     {
       "id": "6784862fcc1fc100007c3d1c",
-      "text": "　",
+      "text": "　アカデミック",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1736738356,
-      "updated": 1736738416
+      "updated": 1737193905
+    },
+    {
+      "id": "678b7c70cc1fc10000aff5a6",
+      "text": "　\t[下ネタ]のこと",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737194609,
+      "updated": 1737194614
+    },
+    {
+      "id": "678b7c87cc1fc10000aff5a7",
+      "text": "　\t元々、普通下ネタと見なされるような話題についてアカデミックに語りたい（語源など）と言っていたことがあったが、その後、下ネタの同義語として使われるようになった",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737194632,
+      "updated": 1737194843
+    },
+    {
+      "id": "678b79b0cc1fc10000aff59e",
+      "text": "　戒めちゃん",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737193905,
+      "updated": 1737193908
+    },
+    {
+      "id": "678b7b91cc1fc10000aff5a4",
+      "text": "　\t[VTube Studio]の無料版で左下に表示されるAkariちゃんのこと",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737194385,
+      "updated": 1737194443
     },
     {
       "id": "674d2843cc1fc100003b8f5f",
-      "text": "",
+      "text": "\t\t以前課金して非表示にしたが、パスワードを忘れて無料版しか使えなくなった。もう1度課金できないわけではないが、[* 戒め]として表示させつづけている",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1733109828,
-      "updated": 1733109828
+      "updated": 1737194568
+    },
+    {
+      "id": "678b7bd3cc1fc10000aff5a5",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1737194452,
+      "updated": 1737194452
     },
     {
       "id": "674d28b5cc1fc1000039df0b",
