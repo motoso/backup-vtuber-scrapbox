@@ -2,7 +2,7 @@
   "id": "6219ed5e1d2d640021c470a7",
   "title": "株式会社mikai",
   "created": 1645866346,
-  "updated": 1645866346,
+  "updated": 1737358500,
   "lines": [
     {
       "id": "6219ed5e1d2d640021c470a7",
@@ -19,11 +19,32 @@
       "updated": 1645866346
     },
     {
-      "id": "6219ed69774b17000035a4f3",
+      "id": "678dfc86774b170000d01b17",
       "text": "",
       "userId": "59fb21121207900012774b17",
+      "created": 1737358470,
+      "updated": 1737358470
+    },
+    {
+      "id": "678dfc86774b170000d01b18",
+      "text": "2024.11.26 https://www.moguravr.com/react-mikai-17live/",
+      "userId": "59fb21121207900012774b17",
+      "created": 1737358470,
+      "updated": 1737358482
+    },
+    {
+      "id": "6219ed69774b17000035a4f3",
+      "text": " >VTuber事務所「[Re:AcT]」を運営する株式会社mikaiが、ライブ配信プラットフォーム「17LIVE（イチナナ）」を運営する[17LIVE Group Limited]のグループに参画すると発表しました。",
+      "userId": "59fb21121207900012774b17",
       "created": 1645866346,
-      "updated": 1645866346
+      "updated": 1737358500
+    },
+    {
+      "id": "678dfc9a774b170000d01b19",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1737358489,
+      "updated": 1737358489
     }
   ]
 }
