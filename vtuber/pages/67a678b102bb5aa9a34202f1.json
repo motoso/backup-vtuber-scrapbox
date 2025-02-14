@@ -2,7 +2,7 @@
   "id": "67a678b102bb5aa9a34202f1",
   "title": "フェアリスの妹、企業勢Vtuberデビューしていた",
   "created": 1738963126,
-  "updated": 1738963670,
+  "updated": 1739439622,
   "lines": [
     {
       "id": "67a678b102bb5aa9a34202f1",
@@ -55,10 +55,17 @@
     },
     {
       "id": "67a67a83cc1fc100003813bf",
-      "text": "",
+      "text": "\t[https://www.youtube.com/shorts/bn7kYvkuxIQ]",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1738963589,
-      "updated": 1738963589
+      "updated": 1739439622
+    },
+    {
+      "id": "67adbe05cc1fc10000a2a258",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1739439622,
+      "updated": 1739439622
     },
     {
       "id": "67a678fecc1fc100003813bb",
