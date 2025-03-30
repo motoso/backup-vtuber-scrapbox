@@ -1,0 +1,36 @@
+{
+  "id": "67e7b3c089541a4dcebb4ec5",
+  "title": "自分語り以外禁止配信",
+  "created": 1743238084,
+  "updated": 1743238097,
+  "lines": [
+    {
+      "id": "67e7b3c089541a4dcebb4ec5",
+      "text": "自分語り以外禁止配信",
+      "userId": "59fb21121207900012774b17",
+      "created": 1743238084,
+      "updated": 1743238087
+    },
+    {
+      "id": "67e7b3c6774b170000dabb21",
+      "text": "[https://www.youtube.com/live/g_Z5bEQhjfE?si=e6gVqodQPXF29qtI]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1743238087,
+      "updated": 1743238089
+    },
+    {
+      "id": "67e7b3c9774b170000dabb23",
+      "text": "[ナポ・レボリューション]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1743238089,
+      "updated": 1743238097
+    },
+    {
+      "id": "67e7b3c9774b170000dabb22",
+      "text": "",
+      "userId": "59fb21121207900012774b17",
+      "created": 1743238089,
+      "updated": 1743238089
+    }
+  ]
+}
