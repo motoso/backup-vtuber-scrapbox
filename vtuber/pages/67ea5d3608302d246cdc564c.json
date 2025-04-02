@@ -2,7 +2,7 @@
   "id": "67ea5d3608302d246cdc564c",
   "title": "2025年エイプリルフール",
   "created": 1743412539,
-  "updated": 1743477639,
+  "updated": 1743550227,
   "lines": [
     {
       "id": "67ea5d3608302d246cdc564c",
@@ -73,6 +73,20 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743412570,
       "updated": 1743412570
+    },
+    {
+      "id": "67eb7c7b0000000000997645",
+      "text": "補足情報：2025-04-01は日本時間早朝あたりからお昼過ぎまでX (Twitter)の読み込み・書き込みに時間がかかったりエラーが出たりする状況になっていました。",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743486075,
+      "updated": 1743486123
+    },
+    {
+      "id": "67eb7c7b0000000000997646",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743486075,
+      "updated": 1743486075
     },
     {
       "id": "67ea5d5d67bad20000e50d96",
@@ -327,6 +341,41 @@
       "updated": 1743437831
     },
     {
+      "id": "67eb83bb000000000099765e",
+      "text": "[青道アカト]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487931,
+      "updated": 1743487932
+    },
+    {
+      "id": "67eb83bd0000000000997660",
+      "text": " 青道アオノになる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487933,
+      "updated": 1743487943
+    },
+    {
+      "id": "67eb83c70000000000997661",
+      "text": " 　https://x.com/aomichi_akato/status/1906935856201658605",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487943,
+      "updated": 1743487946
+    },
+    {
+      "id": "67eb83cd0000000000997662",
+      "text": " 　[https://scrapbox.io/files/67eb83d5f78f2cbcd5311ca1.png]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487949,
+      "updated": 1743487960
+    },
+    {
+      "id": "67eb83bb000000000099765f",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487931,
+      "updated": 1743487931
+    },
+    {
       "id": "67eb20c167bad20000e50ed9",
       "text": "[暁月ホタル]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -384,10 +433,31 @@
     },
     {
       "id": "67eb20c167bad20000e50eda",
-      "text": "",
+      "text": "　牛ホルモンよりもあなたが好き",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743462590,
-      "updated": 1743462590
+      "updated": 1743486190
+    },
+    {
+      "id": "67eb7cef0000000000997648",
+      "text": "　　https://x.com/AkamiKarubi/status/1906930442718318859",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743486191,
+      "updated": 1743486195
+    },
+    {
+      "id": "67eb7cf70000000000997649",
+      "text": "　　[https://www.youtube.com/shorts/BOV9o5NM7TQ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743486199,
+      "updated": 1743486199
+    },
+    {
+      "id": "67eb7ce70000000000997647",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743486183,
+      "updated": 1743486183
     },
     {
       "id": "67eb1ebb67bad20000e50ec6",
@@ -607,11 +677,53 @@
       "updated": 1743462196
     },
     {
+      "id": "67ebaabc0000000000997676",
+      "text": "　　[https://www.youtube.com/watch?v=NnC5SDhE-jY]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743497916,
+      "updated": 1743497916
+    },
+    {
       "id": "67eb1ee667bad20000e50ecb",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743462115,
       "updated": 1743462115
+    },
+    {
+      "id": "67eb82aa0000000000997656",
+      "text": "[甘音あむ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487658,
+      "updated": 1743487659
+    },
+    {
+      "id": "67eb82ac0000000000997658",
+      "text": " ぷりんになる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487660,
+      "updated": 1743487663
+    },
+    {
+      "id": "67eb82af0000000000997659",
+      "text": " 　https://x.com/Amu_amane/status/1906725895181639739",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487663,
+      "updated": 1743487667
+    },
+    {
+      "id": "67eb82b3000000000099765a",
+      "text": " 　[https://scrapbox.io/files/67eb82bca808f912959a715d.png]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487667,
+      "updated": 1743487679
+    },
+    {
+      "id": "67eb82aa0000000000997657",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487658,
+      "updated": 1743487658
     },
     {
       "id": "67eb1cca67bad20000e50ebb",
@@ -712,6 +824,20 @@
       "updated": 1743467712
     },
     {
+      "id": "67ebc1ca000000000099767e",
+      "text": "　 https://x.com/AnshininMisa/status/1906984819101429988",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743503817,
+      "updated": 1743503817
+    },
+    {
+      "id": "67ebc1cb000000000099767f",
+      "text": "　 [https://www.youtube.com/watch?v=P2TtYI6Tf78]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743503818,
+      "updated": 1743503823
+    },
+    {
       "id": "67eb34a700000000009975b7",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -745,6 +871,34 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743460700,
       "updated": 1743460700
+    },
+    {
+      "id": "67eb6b280000000000997622",
+      "text": "[ヰ世界情緒]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481640,
+      "updated": 1743481645
+    },
+    {
+      "id": "67eb6b2c0000000000997624",
+      "text": "　ゲーム映像",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481645,
+      "updated": 1743481650
+    },
+    {
+      "id": "67eb6b340000000000997625",
+      "text": "　　https://x.com/isekaijoucho/status/1906917856299950203",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481652,
+      "updated": 1743481657
+    },
+    {
+      "id": "67eb6b280000000000997623",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481640,
+      "updated": 1743481640
     },
     {
       "id": "67eb370800000000009975bf",
@@ -901,6 +1055,118 @@
       "updated": 1743461204
     },
     {
+      "id": "67eb807c000000000099764b",
+      "text": "[彩まよい]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487100,
+      "updated": 1743487102
+    },
+    {
+      "id": "67eb807f000000000099764d",
+      "text": " [エトラ]の服装で壁にハマる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487103,
+      "updated": 1743487117
+    },
+    {
+      "id": "67eb808d000000000099764e",
+      "text": " 　https://x.com/irodorimayoi/status/1906845439129010478",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487117,
+      "updated": 1743487122
+    },
+    {
+      "id": "67eb8092000000000099764f",
+      "text": " 　https://x.com/irodorimayoi/status/1906874086678213066",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487122,
+      "updated": 1743487127
+    },
+    {
+      "id": "67eb809c0000000000997650",
+      "text": " 　https://x.com/irodorimayoi/status/1906920735895081400",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487132,
+      "updated": 1743487133
+    },
+    {
+      "id": "67eb807c000000000099764c",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487100,
+      "updated": 1743487100
+    },
+    {
+      "id": "67eba1670000000000997664",
+      "text": "[WEATHEROID TypeA Airi]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743495526,
+      "updated": 1743495531
+    },
+    {
+      "id": "67eba16c0000000000997666",
+      "text": " [山岸愛梨]のXアカウントがポン子になる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743495531,
+      "updated": 1743495555
+    },
+    {
+      "id": "67eba1870000000000997667",
+      "text": " 　https://x.com/airin0609/status/1906928853588877536",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743495558,
+      "updated": 1743495562
+    },
+    {
+      "id": "67eba18b0000000000997668",
+      "text": " 　[https://scrapbox.io/files/67eba191c2fe94dfc9631a14.png]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743495562,
+      "updated": 1743495572
+    },
+    {
+      "id": "67eba1a9000000000099766a",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743495593,
+      "updated": 1743495593
+    },
+    {
+      "id": "67eb626f000000000099761e",
+      "text": "[宇推くりあ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743479407,
+      "updated": 1743479412
+    },
+    {
+      "id": "67eb62750000000000997620",
+      "text": "　油吸くりあデビュー",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743479413,
+      "updated": 1743479421
+    },
+    {
+      "id": "67eb627d0000000000997621",
+      "text": "　　https://x.com/clearusui/status/1906915492612427822",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743479421,
+      "updated": 1743479427
+    },
+    {
+      "id": "67eb626f000000000099761f",
+      "text": "　宇推晴輝が起業 https://x.com/usuiharuki/status/1906724688551965002",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743479407,
+      "updated": 1743495607
+    },
+    {
+      "id": "67eba1ac000000000099766b",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743495595,
+      "updated": 1743495595
+    },
+    {
       "id": "67eac78c67bad20000e50e3d",
       "text": "[うる虎がーる]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -920,6 +1186,27 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743439765,
       "updated": 1743439814
+    },
+    {
+      "id": "67ebed7f000000000099769e",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743515006,
+      "updated": 1743515006
+    },
+    {
+      "id": "67ebed80000000000099769f",
+      "text": "[江戸レナ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743515007,
+      "updated": 1743515009
+    },
+    {
+      "id": "67ebed8300000000009976a0",
+      "text": "　映画化 https://x.com/edo_lena/status/1906840177789522087",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743515009,
+      "updated": 1743515018
     },
     {
       "id": "67eac78c67bad20000e50e3e",
@@ -985,6 +1272,41 @@
       "updated": 1743440448
     },
     {
+      "id": "67eb80af0000000000997651",
+      "text": "[雷輝アンタレス]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487151,
+      "updated": 1743487151
+    },
+    {
+      "id": "67eb80af0000000000997653",
+      "text": " 雷輝アンキロサウルスになる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487151,
+      "updated": 1743487151
+    },
+    {
+      "id": "67eb80af0000000000997654",
+      "text": "  https://x.com/antares_eleki/status/1906835258231947379",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487151,
+      "updated": 1743487151
+    },
+    {
+      "id": "67eb80af0000000000997655",
+      "text": "  [https://scrapbox.io/files/67eb1a1d1391a12a33a3eb46.png]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487151,
+      "updated": 1743487151
+    },
+    {
+      "id": "67eb80af0000000000997652",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487151,
+      "updated": 1743487151
+    },
+    {
       "id": "67eb30c800000000009975a9",
       "text": "[焔魔るり]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -1013,46 +1335,32 @@
       "updated": 1743466759
     },
     {
-      "id": "67eb30c800000000009975aa",
-      "text": "",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743466692,
-      "updated": 1743466692
-    },
-    {
-      "id": "67eb1a0667bad20000e50e93",
-      "text": "[雷輝アンタレス]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743460867,
-      "updated": 1743460868
-    },
-    {
-      "id": "67eb1a0967bad20000e50e95",
-      "text": " 雷輝アンキロサウルスになる",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743460869,
-      "updated": 1743460883
-    },
-    {
-      "id": "67eb1a0e67bad20000e50e96",
-      "text": "  https://x.com/antares_eleki/status/1906835258231947379",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743460875,
-      "updated": 1743460875
-    },
-    {
-      "id": "67eb1a0f67bad20000e50e97",
-      "text": "  [https://scrapbox.io/files/67eb1a1d1391a12a33a3eb46.png]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743460876,
-      "updated": 1743460897
-    },
-    {
       "id": "67eb1a0767bad20000e50e94",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743460867,
       "updated": 1743460867
+    },
+    {
+      "id": "67ebcb10000000000099768b",
+      "text": "[神楽すず]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743506191,
+      "updated": 1743506195
+    },
+    {
+      "id": "67ebcb14000000000099768d",
+      "text": "　配信 [https://www.youtube.com/watch?v=fXcU0MAjo00]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743506195,
+      "updated": 1743506206
+    },
+    {
+      "id": "67ebcb10000000000099768c",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743506191,
+      "updated": 1743506191
     },
     {
       "id": "67eb3c9300000000009975eb",
@@ -1109,6 +1417,20 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743436798,
       "updated": 1743436811
+    },
+    {
+      "id": "67ebbc490000000000997679",
+      "text": "　　https://x.com/Kuku_Kazami/status/1907007921864736824",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743502409,
+      "updated": 1743502409
+    },
+    {
+      "id": "67ebbc49000000000099767a",
+      "text": "　　[https://www.youtube.com/watch?v=1Yt10VIdjEg]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743502409,
+      "updated": 1743502421
     },
     {
       "id": "67eabc0d67bad20000e50dc5",
@@ -1524,6 +1846,27 @@
       "updated": 1743469237
     },
     {
+      "id": "67eba58b000000000099766e",
+      "text": "[佐佐咲キキ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743496586,
+      "updated": 1743496588
+    },
+    {
+      "id": "67eba58d0000000000997670",
+      "text": " 女児 [https://www.youtube.com/shorts/RSE3o0TXzRA]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743496589,
+      "updated": 1743496598
+    },
+    {
+      "id": "67eba58b000000000099766f",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743496586,
+      "updated": 1743496586
+    },
+    {
       "id": "67eab32e0000000000801e3f",
       "text": "[しぐれうい]",
       "userId": "59fb21121207900012774b17",
@@ -1564,6 +1907,20 @@
       "userId": "59fb21121207900012774b17",
       "created": 1743434543,
       "updated": 1743434615
+    },
+    {
+      "id": "67ebc2eb0000000000997681",
+      "text": "　しぐれうい (9) が配信",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743504106,
+      "updated": 1743512570
+    },
+    {
+      "id": "67ebc2ed0000000000997682",
+      "text": "　　[https://www.youtube.com/watch?v=NkkwAnWSc4w]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743504108,
+      "updated": 1743504108
     },
     {
       "id": "67eab3760000000000801e46",
@@ -1636,6 +1993,13 @@
       "updated": 1743477580
     },
     {
+      "id": "67eb6c380000000000997626",
+      "text": "　　https://x.com/megu_shinonome/status/1906926005975179612",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481912,
+      "updated": 1743481912
+    },
+    {
       "id": "67eb5b510000000000997619",
       "text": "　　[https://scrapbox.io/files/67eb5b5592acd761f7fc516a.png]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -1648,6 +2012,34 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743477593,
       "updated": 1743477593
+    },
+    {
+      "id": "67ec716b00000000009976b0",
+      "text": "[Shylily]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548776,
+      "updated": 1743548777
+    },
+    {
+      "id": "67ec716d00000000009976b1",
+      "text": " 虫になる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548778,
+      "updated": 1743548796
+    },
+    {
+      "id": "67ec717f00000000009976b2",
+      "text": "  https://x.com/shylilytwitch/status/1907092665478295710",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548796,
+      "updated": 1743548797
+    },
+    {
+      "id": "67ec718000000000009976b3",
+      "text": "  https://x.com/shylilytwitch/status/1907153178329567256",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548797,
+      "updated": 1743548803
     },
     {
       "id": "67eb5b3e0000000000997616",
@@ -1791,10 +2183,24 @@
     },
     {
       "id": "67eacc3267bad20000e50e66",
-      "text": "",
+      "text": " [https://www.youtube.com/watch?v=3ZN1ADtbkQo]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743440944,
-      "updated": 1743440944
+      "updated": 1743487868
+    },
+    {
+      "id": "67eb837b000000000099765c",
+      "text": " グッズも販売 https://x.com/somunia_staff/status/1907011305875378406",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743487867,
+      "updated": 1743502150
+    },
+    {
+      "id": "67ebbb410000000000997678",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743502144,
+      "updated": 1743502144
     },
     {
       "id": "67eb45d400000000009975f4",
@@ -1816,6 +2222,90 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743472081,
       "updated": 1743472081
+    },
+    {
+      "id": "67ebca000000000000997684",
+      "text": "[ChumuNote]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743505919,
+      "updated": 1743505923
+    },
+    {
+      "id": "67ebca050000000000997686",
+      "text": " 嘘マナー企画",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743505924,
+      "updated": 1743505937
+    },
+    {
+      "id": "67ebca120000000000997687",
+      "text": " \tゲスト：[ごまふろこちゃ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743505937,
+      "updated": 1743505945
+    },
+    {
+      "id": "67ebca1b0000000000997689",
+      "text": " \t[https://www.youtube.com/watch?v=uK_kO8CcsyA]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743505946,
+      "updated": 1743505946
+    },
+    {
+      "id": "67ebca000000000000997685",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743505919,
+      "updated": 1743505919
+    },
+    {
+      "id": "67ec6fca00000000009976a8",
+      "text": "[塚本のべる]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548359,
+      "updated": 1743548360
+    },
+    {
+      "id": "67ec6fcc00000000009976aa",
+      "text": " 超美麗3D配信＆配信切り忘れ",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548361,
+      "updated": 1743548374
+    },
+    {
+      "id": "67ec6fda00000000009976ab",
+      "text": " 　https://x.com/tsukamoto_novel/status/1906628705356767382",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548374,
+      "updated": 1743548396
+    },
+    {
+      "id": "67ec700800000000009976ae",
+      "text": " 　[https://www.youtube.com/watch?v=vOOf2cybsSU]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548422,
+      "updated": 1743548422
+    },
+    {
+      "id": "67ec6ffd00000000009976ac",
+      "text": " 　https://x.com/tsukamoto_novel/status/1907082763087540339",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548410,
+      "updated": 1743548410
+    },
+    {
+      "id": "67ec6ffd00000000009976ad",
+      "text": " 　https://x.com/mitsuhashi_zZ/status/1907084608929501427",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548410,
+      "updated": 1743548416
+    },
+    {
+      "id": "67ec6fca00000000009976a9",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548359,
+      "updated": 1743548359
     },
     {
       "id": "67eb3a7000000000009975d5",
@@ -1937,6 +2427,48 @@
       "updated": 1743463638
     },
     {
+      "id": "67ebf23d00000000009976a1",
+      "text": "[なつめれんげ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743516219,
+      "updated": 1743516222
+    },
+    {
+      "id": "67ebf24100000000009976a3",
+      "text": "　VTuberになった[ポムポムプリン]とコラボ",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743516223,
+      "updated": 1743516236
+    },
+    {
+      "id": "67ebf24900000000009976a4",
+      "text": "　　https://x.com/purin_sanrio/status/1906844002298872233",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743516231,
+      "updated": 1743516237
+    },
+    {
+      "id": "67ebf25200000000009976a5",
+      "text": "　　https://x.com/purin_sanrio/status/1906995000342372698",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743516241,
+      "updated": 1743516241
+    },
+    {
+      "id": "67ebf25300000000009976a6",
+      "text": "　　[https://www.youtube.com/watch?v=Qc44MAWZEXM]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743516241,
+      "updated": 1743516246
+    },
+    {
+      "id": "67ebf23d00000000009976a2",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743516219,
+      "updated": 1743516219
+    },
+    {
       "id": "67eac84167bad20000e50e42",
       "text": "[新兎わい]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -1994,10 +2526,24 @@
     },
     {
       "id": "67eac84267bad20000e50e43",
-      "text": "",
+      "text": "　ニトくんとして女性向けASMR配信",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743439935,
-      "updated": 1743439935
+      "updated": 1743497117
+    },
+    {
+      "id": "67eba79d0000000000997674",
+      "text": "　　[https://www.youtube.com/watch?v=F2DrSxaCNe4]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743497117,
+      "updated": 1743497117
+    },
+    {
+      "id": "67eba7950000000000997673",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743497109,
+      "updated": 1743497109
     },
     {
       "id": "67eac2c867bad20000e50e0e",
@@ -2056,46 +2602,151 @@
       "updated": 1743441065
     },
     {
-      "id": "67eb561b000000000099760f",
+      "id": "67eb6c770000000000997627",
+      "text": "[猫撫こぜに]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997629",
+      "text": " 子どもになる https://x.com/NekonadeKozeni/status/1906732022841921618",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c78000000000099762a",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c78000000000099762b",
+      "text": "[猫元パト]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c78000000000099762c",
+      "text": " 義務エイプリルフール：おばあちゃんになる https://x.com/KusogePatrol/status/1906828857426035083",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c8c000000000099763c",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481997,
+      "updated": 1743481997
+    },
+    {
+      "id": "67eb6c860000000000997639",
       "text": "[猫宮ひなた]",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743476247,
-      "updated": 1743476251
+      "created": 1743481990,
+      "updated": 1743481997
     },
     {
-      "id": "67eb56200000000000997611",
+      "id": "67eb6c8b000000000099763a",
       "text": "　プロフィール帳 https://x.com/Nekomiya_Hinata/status/1906902963278545204",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743476251,
-      "updated": 1743476256
+      "created": 1743481996,
+      "updated": 1743481996
     },
     {
-      "id": "67eb561b0000000000997610",
+      "id": "67eb6c8b000000000099763b",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743476247,
-      "updated": 1743476247
+      "created": 1743481996,
+      "updated": 1743481996
     },
     {
-      "id": "67eb5a4e0000000000997612",
+      "id": "67eb6c78000000000099762d",
       "text": "[猫山苗]",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743477322,
-      "updated": 1743477324
+      "created": 1743481976,
+      "updated": 1743481990
     },
     {
-      "id": "67eb5a500000000000997614",
+      "id": "67eb6c850000000000997637",
       "text": " 胸 https://x.com/Nekoyama_Nae/status/1906896552209387789",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743477324,
-      "updated": 1743477331
+      "created": 1743481989,
+      "updated": 1743481989
     },
     {
-      "id": "67eb5a4e0000000000997613",
+      "id": "67eb6c850000000000997638",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743477322,
-      "updated": 1743477322
+      "created": 1743481989,
+      "updated": 1743481989
+    },
+    {
+      "id": "67eb6c78000000000099762e",
+      "text": "[寧々丸]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c78000000000099762f",
+      "text": "　寧々丸、[八神ツクモ]、[小柳ロウ]、[夕刻ロベル]、[青桐エイト]で歌ってみた動画を投稿",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997630",
+      "text": "　 https://x.com/nenemaru220/status/1906168672647053780",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997631",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997632",
+      "text": "[根間うい]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997633",
+      "text": "　UI🌺ういたっぷチャンプルーず💘",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997634",
+      "text": "　　https://x.com/ui_nema/status/1906732023865336234",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997635",
+      "text": "　　[https://scrapbox.io/files/67eabdd836a614b28c6971b9.png]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
+    },
+    {
+      "id": "67eb6c780000000000997628",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743481976,
+      "updated": 1743481976
     },
     {
       "id": "67eb1a6967bad20000e50e99",
@@ -2161,11 +2812,81 @@
       "updated": 1743441200
     },
     {
-      "id": "67eb4b6f0000000000997600",
+      "id": "67eb6c9e0000000000997640",
+      "text": "　ウビ子をはじめ3名のエイプリルフールグッズが発売された https://x.com/dotLIVEyoutuber/status/1906723161288139239",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482015,
+      "updated": 1743495949
+    },
+    {
+      "id": "67eba2f4000000000099766d",
+      "text": "　配信 [https://www.youtube.com/watch?v=waIfQLlKUT8]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743495924,
+      "updated": 1743503715
+    },
+    {
+      "id": "67ebc15e000000000099767c",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743503710,
+      "updated": 1743503710
+    },
+    {
+      "id": "67eb4b6f0000000000997600",
+      "text": "[HACHI]",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743473515,
-      "updated": 1743473515
+      "updated": 1743482015
+    },
+    {
+      "id": "67eb6c9c000000000099763d",
+      "text": " HACHIOになる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482013,
+      "updated": 1743482013
+    },
+    {
+      "id": "67eb6c9c000000000099763e",
+      "text": " 　https://x.com/8HaChi_hacchi/status/1906736994694414581",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482013,
+      "updated": 1743482013
+    },
+    {
+      "id": "67eb6c9c000000000099763f",
+      "text": " 　[https://scrapbox.io/files/67eb3072aa049a6b8ed56f60.png]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482013,
+      "updated": 1743482013
+    },
+    {
+      "id": "67eb6ca00000000000997641",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482016,
+      "updated": 1743482017
+    },
+    {
+      "id": "67eb6ca60000000000997642",
+      "text": "[響木アオ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482023,
+      "updated": 1743482027
+    },
+    {
+      "id": "67eb6cab0000000000997644",
+      "text": "　ハワイ https://x.com/hibiki_ao/status/1906725690365661338",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482027,
+      "updated": 1743482037
+    },
+    {
+      "id": "67eb6ca70000000000997643",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743482023,
+      "updated": 1743482023
     },
     {
       "id": "67eb4b700000000000997601",
@@ -2180,153 +2901,6 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743473518,
       "updated": 1743473527
-    },
-    {
-      "id": "67eacd1467bad20000e50e72",
-      "text": "",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743441170,
-      "updated": 1743441170
-    },
-    {
-      "id": "67eabc4d67bad20000e50dc6",
-      "text": "[猫撫こぜに]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743436877,
-      "updated": 1743436878
-    },
-    {
-      "id": "67eabc5067bad20000e50dc8",
-      "text": " 子どもになる https://x.com/NekonadeKozeni/status/1906732022841921618",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743436878,
-      "updated": 1743436887
-    },
-    {
-      "id": "67eabdb967bad20000e50dcf",
-      "text": "",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743437239,
-      "updated": 1743437239
-    },
-    {
-      "id": "67eb1c6c67bad20000e50eb5",
-      "text": "[猫元パト]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743461480,
-      "updated": 1743461483
-    },
-    {
-      "id": "67eb1c6f67bad20000e50eb7",
-      "text": " 義務エイプリルフール：おばあちゃんになる https://x.com/KusogePatrol/status/1906828857426035083",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743461484,
-      "updated": 1743461498
-    },
-    {
-      "id": "67eb1c6b67bad20000e50eb4",
-      "text": "",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743461479,
-      "updated": 1743461479
-    },
-    {
-      "id": "67ea5d6e67bad20000e50db4",
-      "text": "[寧々丸]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743412589,
-      "updated": 1743412798
-    },
-    {
-      "id": "67ea5e4067bad20000e50db6",
-      "text": "　寧々丸、[八神ツクモ]、[小柳ロウ]、[夕刻ロベル]、[青桐エイト]で歌ってみた動画を投稿",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743412799,
-      "updated": 1743412832
-    },
-    {
-      "id": "67ea5e4b67bad20000e50db7",
-      "text": "　 https://x.com/nenemaru220/status/1906168672647053780",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743412811,
-      "updated": 1743412814
-    },
-    {
-      "id": "67ea5e3e67bad20000e50db5",
-      "text": "",
-      "userId": "59fb21121207900012774b17",
-      "created": 1743412797,
-      "updated": 1743434541
-    },
-    {
-      "id": "67eabdbf67bad20000e50dd0",
-      "text": "[根間うい]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743437245,
-      "updated": 1743437250
-    },
-    {
-      "id": "67eabdc467bad20000e50dd2",
-      "text": "　UI🌺ういたっぷチャンプルーず💘",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743437250,
-      "updated": 1743437257
-    },
-    {
-      "id": "67eabdcd67bad20000e50dd3",
-      "text": "　　https://x.com/ui_nema/status/1906732023865336234",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743437263,
-      "updated": 1743437263
-    },
-    {
-      "id": "67eabdda67bad20000e50dd4",
-      "text": "　　[https://scrapbox.io/files/67eabdd836a614b28c6971b9.png]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743437272,
-      "updated": 1743437275
-    },
-    {
-      "id": "67eabddd67bad20000e50dd5",
-      "text": "",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743437275,
-      "updated": 1743437275
-    },
-    {
-      "id": "67eb303b67bad20000e50ef3",
-      "text": "[HACHI]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743466551,
-      "updated": 1743466553
-    },
-    {
-      "id": "67eb303d67bad20000e50ef5",
-      "text": " HACHIOになる",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743466554,
-      "updated": 1743466557
-    },
-    {
-      "id": "67eb304267bad20000e50ef6",
-      "text": " 　https://x.com/8HaChi_hacchi/status/1906736994694414581",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743466558,
-      "updated": 1743466598
-    },
-    {
-      "id": "67eb307567bad20000e50ef7",
-      "text": " 　[https://scrapbox.io/files/67eb3072aa049a6b8ed56f60.png]",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743466610,
-      "updated": 1743466613
-    },
-    {
-      "id": "67eb307867bad20000e50ef8",
-      "text": "",
-      "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1743466613,
-      "updated": 1743466613
     },
     {
       "id": "67eb303b67bad20000e50ef4",
@@ -2369,6 +2943,48 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743437945,
       "updated": 1743437945
+    },
+    {
+      "id": "67ec71e000000000009976b4",
+      "text": "[VShojo]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548893,
+      "updated": 1743548895
+    },
+    {
+      "id": "67ec71e300000000009976b6",
+      "text": " グループ全体として \"Special Announcement\" を投稿",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548896,
+      "updated": 1743548910
+    },
+    {
+      "id": "67ec721700000000009976b9",
+      "text": "  https://x.com/VShojo/status/1906908446043127886",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548948,
+      "updated": 1743548948
+    },
+    {
+      "id": "67ec71f200000000009976b7",
+      "text": " 　[https://www.youtube.com/watch?v=KzdWgtp_fFs]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548911,
+      "updated": 1743548923
+    },
+    {
+      "id": "67ec721a00000000009976ba",
+      "text": " 　デフォルメイラストでMVを作った合唱",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548951,
+      "updated": 1743548971
+    },
+    {
+      "id": "67ec71e000000000009976b5",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743548893,
+      "updated": 1743548893
     },
     {
       "id": "67eabded67bad20000e50dd6",
@@ -2579,6 +3195,76 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743440785,
       "updated": 1743440785
+    },
+    {
+      "id": "67ec76ed0000000000943eb0",
+      "text": "[Mint Fantôme]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743550186,
+      "updated": 1743550187
+    },
+    {
+      "id": "67ec76ef0000000000943eb2",
+      "text": " VTuberグループデビュー",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743550188,
+      "updated": 1743550219
+    },
+    {
+      "id": "67ec770f0000000000943eb3",
+      "text": " 　https://x.com/MintFantome/status/1907120972810821667",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743550219,
+      "updated": 1743550220
+    },
+    {
+      "id": "67ec77100000000000943eb4",
+      "text": " 　[https://www.youtube.com/watch?v=LyLpagFSTDM]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743550221,
+      "updated": 1743550225
+    },
+    {
+      "id": "67ec76ed0000000000943eb1",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743550186,
+      "updated": 1743550186
+    },
+    {
+      "id": "67ebea840000000000997698",
+      "text": "[MUS1CA]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743514243,
+      "updated": 1743514244
+    },
+    {
+      "id": "67ebea87000000000099769a",
+      "text": " にゃーさん（猫）配信",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743514245,
+      "updated": 1743514276
+    },
+    {
+      "id": "67ebeaa5000000000099769b",
+      "text": " 　https://x.com/MUS1CA_vsinger/status/1906723316238536877",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743514276,
+      "updated": 1743514276
+    },
+    {
+      "id": "67ebeaa6000000000099769c",
+      "text": " 　[https://www.youtube.com/watch?v=c6aB_uQuIHc]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743514276,
+      "updated": 1743514281
+    },
+    {
+      "id": "67ebea840000000000997699",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743514243,
+      "updated": 1743514243
     },
     {
       "id": "67eb19a467bad20000e50e8d",
@@ -2861,6 +3547,27 @@
       "updated": 1743461527
     },
     {
+      "id": "67ebe6cf0000000000997695",
+      "text": "[loveちゃん]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743513294,
+      "updated": 1743513298
+    },
+    {
+      "id": "67ebe6d40000000000997697",
+      "text": " ちっちゃくなっちゃった https://x.com/love_charmulet/status/1906723164371157270",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743513299,
+      "updated": 1743513304
+    },
+    {
+      "id": "67ebe6cf0000000000997696",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743513294,
+      "updated": 1743513294
+    },
+    {
       "id": "67eb3c2800000000009975e5",
       "text": "[REALITY]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -3034,6 +3741,41 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1743462783,
       "updated": 1743462783
+    },
+    {
+      "id": "67ebd8f3000000000099768f",
+      "text": "[レグルシュ・ライオンハート]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743509746,
+      "updated": 1743509754
+    },
+    {
+      "id": "67ebd8fd0000000000997691",
+      "text": "　チキンハート",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743509756,
+      "updated": 1743509787
+    },
+    {
+      "id": "67ebd91c0000000000997692",
+      "text": "　　https://x.com/Reg_Lionheart/status/1906724687318765595",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743509787,
+      "updated": 1743509787
+    },
+    {
+      "id": "67ebd91c0000000000997693",
+      "text": "　　[https://www.youtube.com/watch?v=1lZSuTquBzY]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743509787,
+      "updated": 1743509794
+    },
+    {
+      "id": "67ebd8f30000000000997690",
+      "text": "",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1743509746,
+      "updated": 1743509746
     },
     {
       "id": "67eb16b667bad20000e50e81",
