@@ -2,7 +2,7 @@
   "id": "66428439e965b5001c6a28ba",
   "title": "JDON My Soul",
   "created": 1715635259,
-  "updated": 1715635731,
+  "updated": 1754549935,
   "lines": [
     {
       "id": "66428439e965b5001c6a28ba",
@@ -61,6 +61,13 @@
       "updated": 1715635698
     },
     {
+      "id": "68944ea50000000000747798",
+      "text": "   こっちはJDONの部分[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1754549926,
+      "updated": 1754549935
+    },
+    {
       "id": "6642860dcc1fc10000fe0940",
       "text": "  元のアーカイブ",
       "userId": "5f0e769da385ed001ecc1fc1",
@@ -75,6 +82,13 @@
       "updated": 1715635731
     },
     {
+      "id": "68944ea30000000000747797",
+      "text": "　　\"My soul\"は[さくらみこ]がmy shoutをmy soulと読み間違えたのが合体しているらしい（切り抜き参照）[基素.icon]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1754549923,
+      "updated": 1754549923
+    },
+    {
       "id": "66428519cc1fc10000101ccf",
       "text": " 切り抜き動画",
       "userId": "5f0e769da385ed001ecc1fc1",
@@ -82,11 +96,18 @@
       "updated": 1715635698
     },
     {
-      "id": "6642851ccc1fc10000101cd0",
+      "id": "68944e15000000000074778d",
+      "text": "[https://youtube.com/shorts/3XkcO2qiGUY?si=l_h7iS-pIHG7EC8E]",
+      "userId": "59fb21121207900012774b17",
+      "created": 1754549781,
+      "updated": 1754549781
+    },
+    {
+      "id": "68944e150000000000747790",
       "text": "",
-      "userId": "5f0e769da385ed001ecc1fc1",
-      "created": 1715635484,
-      "updated": 1715635484
+      "userId": "59fb21121207900012774b17",
+      "created": 1754549781,
+      "updated": 1754549781
     }
   ]
 }
