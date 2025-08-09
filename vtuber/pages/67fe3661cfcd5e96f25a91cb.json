@@ -2,7 +2,7 @@
   "id": "67fe3661cfcd5e96f25a91cb",
   "title": "ホロビ・マッドナイト・オイル",
   "created": 1744713315,
-  "updated": 1744713729,
+  "updated": 1754691403,
   "lines": [
     {
       "id": "67fe3661cfcd5e96f25a91cb",
@@ -118,10 +118,17 @@
     },
     {
       "id": "67fe365f0000000000308717",
-      "text": "",
+      "text": " [/icons/Twitch.icon] https://twitch.tv/horobimadnightoil",
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1744713315,
-      "updated": 1744713315
+      "updated": 1754691403
+    },
+    {
+      "id": "6896770d0000000000c47433",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1754691341,
+      "updated": 1754691341
     },
     {
       "id": "67fe365f0000000000308718",
