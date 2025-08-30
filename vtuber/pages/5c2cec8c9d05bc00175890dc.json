@@ -2,7 +2,7 @@
   "id": "5c2cec8c9d05bc00175890dc",
   "title": "百鬼あやめ",
   "created": 1546448014,
-  "updated": 1755878970,
+  "updated": 1756479078,
   "lines": [
     {
       "id": "5c2cec8c9d05bc00175890dc",
@@ -56,13 +56,6 @@
     {
       "id": "5c2ceca3774b1700003df261",
       "text": "自己紹介動画",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df262",
-      "text": " 1回目の放送の動画が自己紹介動画とは限らない。特になければあとで追記する。",
       "userId": "59fb21121207900012774b17",
       "created": 1546448035,
       "updated": 1546448035
@@ -138,48 +131,6 @@
       "updated": 1579955088
     },
     {
-      "id": "5c2ceca3774b1700003df26a",
-      "text": " [/icons/mirrativ.icon] ",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df26b",
-      "text": " [/icons/niconico.icon] ",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df26c",
-      "text": " [/icons/instagram.icon] ",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df26d",
-      "text": " [/icons/showroom.icon]",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df26e",
-      "text": " [/icons/pixiv_fanbox.icon]",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df26f",
-      "text": " [/icons/fantia.icon]",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
       "id": "5c2ceca3774b1700003df270",
       "text": "",
       "userId": "59fb21121207900012774b17",
@@ -195,31 +146,10 @@
     },
     {
       "id": "5c2ceca3774b1700003df272",
-      "text": " 「ここに有名な言葉（ミーム）を書きます」",
-      "userId": "59fb21121207900012774b17",
+      "text": " ",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df273",
-      "text": "  ここにその発言が生まれたコンテキスト（どのようにしてその発言が生まれたのか）を書きます",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df274",
-      "text": "  その言葉が初めて使われたリンクもわかれば貼ります",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
-    },
-    {
-      "id": "5c2ceca3774b1700003df275",
-      "text": "   動画の秒数がわかればYouTubeへのリンクを張ると見た人が便利です",
-      "userId": "59fb21121207900012774b17",
-      "created": 1546448035,
-      "updated": 1546448035
+      "updated": 1756479070
     },
     {
       "id": "5c2ceca3774b1700003df276",
