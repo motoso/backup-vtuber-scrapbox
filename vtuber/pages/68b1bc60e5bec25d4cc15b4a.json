@@ -2,7 +2,7 @@
   "id": "68b1bc60e5bec25d4cc15b4a",
   "title": "モンゴル犬",
   "created": 1756478562,
-  "updated": 1756517996,
+  "updated": 1756605908,
   "lines": [
     {
       "id": "68b1bc60e5bec25d4cc15b4a",
@@ -41,10 +41,10 @@
     },
     {
       "id": "68b1bc750000000000898d8e",
-      "text": "　2025年8月に公開された[ROF-MAO]の海外ロケ動画にて映りこんだモンゴルの犬のうち1匹の姿が特徴的で、話題となった。",
+      "text": "　2025年8月に公開された[ROF-MAO]の番組『[木10!ろふまお塾]』海外ロケ動画にてモンゴルの犬が何匹か映りこんだ。そのうち1匹の姿が特徴的で、話題となった。背中が平たく、地平線と同化している。",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1756478579,
-      "updated": 1756478640
+      "updated": 1756604512
     },
     {
       "id": "68b1bcb20000000000898d8f",
@@ -52,6 +52,13 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1756478641,
       "updated": 1756517996
+    },
+    {
+      "id": "68b2975000000000006d1a01",
+      "text": "　[https://www.youtube.com/shorts/0do9UFQDc4o]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756534608,
+      "updated": 1756534608
     },
     {
       "id": "68b1bc6a0000000000898d8d",
@@ -117,11 +124,95 @@
       "updated": 1756517960
     },
     {
+      "id": "68b2b6320000000000164279",
+      "text": " 　https://x.com/gxzmfi/status/1961293489679052925",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756542514,
+      "updated": 1756542514
+    },
+    {
+      "id": "68b2b633000000000016427a",
+      "text": " 　https://x.com/Ha_6317/status/1961398740650188953",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756542514,
+      "updated": 1756542518
+    },
+    {
+      "id": "68b3ad9a0000000000672d09",
+      "text": "　ROF-MAOメンバー、にじさんじ、にじさんじENからの反応",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756605846,
+      "updated": 1756605861
+    },
+    {
       "id": "68b1bd210000000000898d93",
-      "text": "　https://x.com/rei_Toya_rei/status/1961422295257551182",
+      "text": " 　https://x.com/rei_Toya_rei/status/1961422295257551182",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1756478752,
-      "updated": 1756478809
+      "updated": 1756605865
+    },
+    {
+      "id": "68b2741600000000006d4083",
+      "text": " 　https://x.com/H_KAGAMI2434/status/1961626791006846985",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756525591,
+      "updated": 1756605865
+    },
+    {
+      "id": "68b2977100000000006d1a03",
+      "text": " 　https://x.com/BlackShiba_chan/status/1961652950687744188",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756534641,
+      "updated": 1756605865
+    },
+    {
+      "id": "68b2977100000000006d1a04",
+      "text": " 　https://x.com/7_tamanoi/status/1961663281082556836",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756534641,
+      "updated": 1756605865
+    },
+    {
+      "id": "68b2b65f0000000000c59329",
+      "text": " 　https://x.com/65_kaburaki/status/1961682367183237141",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756542558,
+      "updated": 1756605865
+    },
+    {
+      "id": "68b2e85d00000000005937c8",
+      "text": " 　https://x.com/inuitoko_sub/status/1961757782132359224",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756555356,
+      "updated": 1756605865
+    },
+    {
+      "id": "68b3ad8c0000000000672d08",
+      "text": " 　https://x.com/ver_vermillion/status/1961938547071680866",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756605833,
+      "updated": 1756605865
+    },
+    {
+      "id": "68b3adae0000000000672d0a",
+      "text": " 大阪万博での反応",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756605867,
+      "updated": 1756605872
+    },
+    {
+      "id": "68b2bafe00000000002e1737",
+      "text": "\t　https://x.com/expo2025_japan/status/1961664857843065166",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756543741,
+      "updated": 1756605872
+    },
+    {
+      "id": "68b3add70000000000672d0b",
+      "text": "\t　https://x.com/takegushi3935/status/1961379583678452171",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1756605908,
+      "updated": 1756605908
     },
     {
       "id": "68b1bcd60000000000898d90",
