@@ -2,7 +2,7 @@
   "id": "67fe358ea0e76b948334b002",
   "title": "トリリオンステージ",
   "created": 1744713111,
-  "updated": 1744713335,
+  "updated": 1764416219,
   "lines": [
     {
       "id": "67fe358ea0e76b948334b002",
@@ -143,6 +143,41 @@
       "userId": "5f0e769da385ed001ecc1fc1",
       "created": 1744713271,
       "updated": 1744713271
+    },
+    {
+      "id": "692ada960000000000a919d1",
+      "text": "4期生（[白撃会]）",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1764416151,
+      "updated": 1764416160
+    },
+    {
+      "id": "692ada970000000000a919d2",
+      "text": "\t[ぴぴぴぴの]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1764416151,
+      "updated": 1764416198
+    },
+    {
+      "id": "692adaa20000000000a919d3",
+      "text": "\t[リオネ]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1764416163,
+      "updated": 1764416216
+    },
+    {
+      "id": "692adac70000000000a919d4",
+      "text": "\t[サイレン]",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1764416199,
+      "updated": 1764416219
+    },
+    {
+      "id": "692adada0000000000a919d5",
+      "text": "",
+      "userId": "5f0e769da385ed001ecc1fc1",
+      "created": 1764416218,
+      "updated": 1764416218
     }
   ]
 }
