@@ -2,7 +2,7 @@
   "id": "660b7b11d4d3ad0025fee3cc",
   "title": "編集者向け情報：エイプリルフールをまとめる際のTips",
   "created": 1712028434,
-  "updated": 1712336215,
+  "updated": 1775000487,
   "lines": [
     {
       "id": "660b7b11d4d3ad0025fee3cc",
@@ -62,10 +62,17 @@
     },
     {
       "id": "660b7b6f774b1700000565ab",
-      "text": " 　[XTwitter公式リスト https://twitter.com/i/lists/1071754025471664128]",
-      "userId": "59fb21121207900012774b17",
+      "text": " 　[X公式リスト https://twitter.com/i/lists/1071754025471664128] / [EN https://x.com/i/lists/1630904340260225024]",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1712028528,
-      "updated": 1712028537
+      "updated": 1774964836
+    },
+    {
+      "id": "69cbd01e00000000008679f5",
+      "text": " 　[非公式wiki制作のリスト https://x.com/i/lists/1431595858668056581]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1774964764,
+      "updated": 1774964774
     },
     {
       "id": "660b7b1c774b1700000565a3",
@@ -76,10 +83,17 @@
     },
     {
       "id": "660b7b3e774b1700000565a9",
-      "text": "　　[XTiwtter公式リスト https://twitter.com/i/lists/1225689413226614786]",
-      "userId": "59fb21121207900012774b17",
+      "text": "　　[X公式リスト https://twitter.com/i/lists/1225689413226614786]",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1712028479,
-      "updated": 1712028541
+      "updated": 1774964821
+    },
+    {
+      "id": "69cc5b9b000000000081a3c9",
+      "text": "　　　DEV_ISを中心に入っていない方々がいるので注意",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775000472,
+      "updated": 1775000487
     },
     {
       "id": "660b7b1d774b1700000565a4",
@@ -90,10 +104,10 @@
     },
     {
       "id": "660b7b11774b17000005659f",
-      "text": " 　[https://twitter.com/i/lists/1648293282911510528 XTwitterリスト（ななしいんく非公式Wiki）]",
-      "userId": "59fb21121207900012774b17",
+      "text": " 　[https://twitter.com/i/lists/1648293282911510528 Xリスト（ななしいんく非公式Wiki）]",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1712028434,
-      "updated": 1712028611
+      "updated": 1774964816
     },
     {
       "id": "660b7b99774b1700000565ad",
@@ -104,10 +118,24 @@
     },
     {
       "id": "660b7b9d774b1700000565ae",
-      "text": " 　[XTwitterリスト https://twitter.com/i/lists/1774673512462233827] 2024-04-01時点でのメンバーのリスト",
-      "userId": "59fb21121207900012774b17",
+      "text": " 　[Xリスト https://twitter.com/i/lists/1774673512462233827] 2024-04-01時点でのメンバーのリスト",
+      "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1712028574,
-      "updated": 1712028931
+      "updated": 1774964811
+    },
+    {
+      "id": "69cbd03800000000008679f6",
+      "text": " ぶいすぽっ！",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1774964790,
+      "updated": 1774964796
+    },
+    {
+      "id": "69cbd03e00000000008679f7",
+      "text": " 　[X公式リスト https://x.com/i/lists/1090496742389235712]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1774964796,
+      "updated": 1774964807
     },
     {
       "id": "660b7be2774b1700000565b7",
