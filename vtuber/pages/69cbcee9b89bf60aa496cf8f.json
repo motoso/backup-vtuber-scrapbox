@@ -2,7 +2,7 @@
   "id": "69cbcee9b89bf60aa496cf8f",
   "title": "ホロライブプロダクションエイプリルフール2026",
   "created": 1774964464,
-  "updated": 1775012612,
+  "updated": 1775099948,
   "lines": [
     {
       "id": "69cbcee9b89bf60aa496cf8f",
@@ -68,11 +68,46 @@
       "updated": 1775010329
     },
     {
-      "id": "69cc821d000000000083238e",
+      "id": "69cd2f680000000000d663f2",
+      "text": "  [Nerissa Ravencroft] [https://www.youtube.com/watch?v=xvj490sNZL8]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775054695,
+      "updated": 1775054710
+    },
+    {
+      "id": "69cd2f770000000000d663f4",
+      "text": "　　[FUWAMOCO] [https://www.youtube.com/live/ZWe5oRk-5vg]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775054710,
+      "updated": 1775084681
+    },
+    {
+      "id": "69cda48b0000000000d663f9",
+      "text": "　　VRChatで赤ちゃんになった",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775084681,
+      "updated": 1775096966
+    },
+    {
+      "id": "69cde02b0000000000d66404",
+      "text": "　　カバー動画を投稿",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775099944,
+      "updated": 1775099948
+    },
+    {
+      "id": "69cde01e0000000000d66402",
+      "text": "\t　　[https://www.youtube.com/watch?v=x2zDT0yIi6E]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775099931,
+      "updated": 1775099948
+    },
+    {
+      "id": "69cdd4810000000000d66401",
       "text": "",
       "userId": "6610c0fbd1f8ca002667bad2",
-      "created": 1775010329,
-      "updated": 1775010329
+      "created": 1775096958,
+      "updated": 1775096958
     },
     {
       "id": "69cc81f2000000000083238b",
@@ -111,10 +146,38 @@
     },
     {
       "id": "69cbeb5f0000000000832354",
-      "text": " [一条莉々華]",
+      "text": " [Ayunda Risu]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774971741,
-      "updated": 1774999934
+      "updated": 1775027622
+    },
+    {
+      "id": "69ccc5a700000000008323a8",
+      "text": "  Unseiso なら終わる配信を実施",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027622,
+      "updated": 1775027635
+    },
+    {
+      "id": "69ccc5b200000000008323a9",
+      "text": "  　https://x.com/ayunda_risu/status/2039231797666680979",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027635,
+      "updated": 1775027638
+    },
+    {
+      "id": "69ccc5b900000000008323aa",
+      "text": "  　[https://www.youtube.com/live/EJ4YjSad2z4]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027641,
+      "updated": 1775027641
+    },
+    {
+      "id": "69ccc5a200000000008323a7",
+      "text": " [一条莉々華]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027618,
+      "updated": 1775027618
     },
     {
       "id": "69cc59830000000000832370",
@@ -145,6 +208,20 @@
       "updated": 1775012612
     },
     {
+      "id": "69ccd7b800000000008323b3",
+      "text": "  せいそちゃんの歌枠",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775032248,
+      "updated": 1775032254
+    },
+    {
+      "id": "69ccd7bf00000000008323b4",
+      "text": "  　[https://www.youtube.com/live/Fw9dmVHDCf8]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775032254,
+      "updated": 1775032258
+    },
+    {
       "id": "69cc5981000000000083236f",
       "text": " [兎田ぺこら]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -164,6 +241,55 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774971751,
       "updated": 1774971754
+    },
+    {
+      "id": "69ccc50d000000000083239d",
+      "text": " [音乃瀬奏]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027469,
+      "updated": 1775034291
+    },
+    {
+      "id": "69ccdfb400000000008323b7",
+      "text": " 　犬の配信。[大空スバル]ぬい登場",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775034292,
+      "updated": 1775034464
+    },
+    {
+      "id": "69ccdfdc00000000008323b8",
+      "text": " 　　[https://www.youtube.com/watch?v=2GJR0pqQsGU]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775034332,
+      "updated": 1775034333
+    },
+    {
+      "id": "69ccdfb300000000008323b6",
+      "text": " [影山シエン]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775034290,
+      "updated": 1775034290
+    },
+    {
+      "id": "69ccc50f000000000083239e",
+      "text": "  ツエソになる",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027471,
+      "updated": 1775027481
+    },
+    {
+      "id": "69ccc519000000000083239f",
+      "text": "  　https://x.com/kageyamashien/status/2039198299513843881",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027481,
+      "updated": 1775027484
+    },
+    {
+      "id": "69ccc51d00000000008323a0",
+      "text": "  　[https://scrapbox.io/files/69ccc5259ea0767ac8605c08.png]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027486,
+      "updated": 1775027496
     },
     {
       "id": "69cbd38f000000000083233d",
@@ -251,10 +377,31 @@
     },
     {
       "id": "69cbcf170000000000832339",
-      "text": "　[Kureiji Ollie]",
+      "text": "　[綺々羅々ヴィヴィ]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774964501,
-      "updated": 1774999298
+      "updated": 1775027731
+    },
+    {
+      "id": "69ccc61300000000008323af",
+      "text": "　　髭ボーボー https://x.com/kikiraravivi/status/2039232627077759212",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027731,
+      "updated": 1775055795
+    },
+    {
+      "id": "69cd33980000000000d663f5",
+      "text": "　　制服彼女2 https://x.com/kikiraravivi/status/2039354751046004815",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775055767,
+      "updated": 1775055772
+    },
+    {
+      "id": "69ccc60f00000000008323ae",
+      "text": "　[Kureiji Ollie]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027727,
+      "updated": 1775027727
     },
     {
       "id": "69cc5706000000000083236a",
@@ -279,10 +426,101 @@
     },
     {
       "id": "69cc57040000000000832369",
-      "text": "　[白上フブキ]",
+      "text": "　[Kobo Kanaeru]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774999297,
-      "updated": 1774999297
+      "updated": 1775044902
+    },
+    {
+      "id": "69cd09270000000000d663de",
+      "text": "　 Cebo kunのカバー動画投稿",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775044902,
+      "updated": 1775044919
+    },
+    {
+      "id": "69cd09370000000000d663df",
+      "text": "　 　[https://www.youtube.com/watch?v=YdtxSWWs7bE]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775044919,
+      "updated": 1775044923
+    },
+    {
+      "id": "69cd09220000000000d663dd",
+      "text": "　[獅白ぼたん]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775044897,
+      "updated": 1775044897
+    },
+    {
+      "id": "69ccc54700000000008323a3",
+      "text": "　 三等分の獅白ぼたん",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027527,
+      "updated": 1775027532
+    },
+    {
+      "id": "69ccc54c00000000008323a4",
+      "text": "　  https://x.com/shishirobotan/status/2039196515072373034",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027532,
+      "updated": 1775027535
+    },
+    {
+      "id": "69ccc55400000000008323a5",
+      "text": "　  [https://www.youtube.com/watch?v=FIOIuMA-yC8]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027540,
+      "updated": 1775027540
+    },
+    {
+      "id": "69cd24f20000000000d663ef",
+      "text": "　  新衣装お披露目",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775052017,
+      "updated": 1775052019
+    },
+    {
+      "id": "69ccc54500000000008323a2",
+      "text": "　[儒烏風亭らでん]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027525,
+      "updated": 1775051020
+    },
+    {
+      "id": "69cd26df0000000000d663f0",
+      "text": "　　箱根から配信",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775052510,
+      "updated": 1775052513
+    },
+    {
+      "id": "69cd210d0000000000d663ed",
+      "text": "　　　[https://www.youtube.com/live/bTU0lA9rbuE]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775051020,
+      "updated": 1775052514
+    },
+    {
+      "id": "69cd21090000000000d663ec",
+      "text": "　　　「ミネルヴァさん」とコラボ配信。[ヤマザキマリ]のVTuber化である。",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775051017,
+      "updated": 1775085077
+    },
+    {
+      "id": "69cda6190000000000d663fa",
+      "text": "　　　　https://x.com/THERMARI1/status/2039365351675498950",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775085079,
+      "updated": 1775085079
+    },
+    {
+      "id": "69cd27600000000000d663f1",
+      "text": "　[白上フブキ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775052639,
+      "updated": 1775052639
     },
     {
       "id": "69cbd20e000000000083233a",
@@ -292,18 +530,60 @@
       "updated": 1774965318
     },
     {
+      "id": "69cd03210000000000d663d8",
+      "text": "　　　[https://www.youtube.com/watch?v=-yv-HGl_dCQ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775043361,
+      "updated": 1775043375
+    },
+    {
+      "id": "69cd031d0000000000d663d6",
+      "text": "　　　[https://www.youtube.com/live/9PVe5pfUMEM]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775043357,
+      "updated": 1775043357
+    },
+    {
       "id": "69cbd256000000000083233b",
-      "text": "　[角巻わため]",
+      "text": "　[Cecilia Immergreen]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774965332,
-      "updated": 1774965338
+      "updated": 1775085215
+    },
+    {
+      "id": "69cda6a80000000000d663fe",
+      "text": "　 Immergoldがデビュー",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775085221,
+      "updated": 1775085229
+    },
+    {
+      "id": "69cda6a20000000000d663fc",
+      "text": "\t　 [https://www.youtube.com/watch?v=a9X1FeTbwVo]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775085216,
+      "updated": 1775085230
+    },
+    {
+      "id": "69cda6b20000000000d663ff",
+      "text": "\t　 [https://www.youtube.com/watch?v=FlKsC8mIgmU]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775085231,
+      "updated": 1775085241
+    },
+    {
+      "id": "69cda69c0000000000d663fb",
+      "text": "　[角巻わため]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775085210,
+      "updated": 1775085210
     },
     {
       "id": "69cbd25c000000000083233c",
-      "text": "　　「つのまきわためちゃん」の初配信が行われた。",
+      "text": "　　「つのまきわためちゃん」の初配信が行われた。[しぐれうい](9さい)とコラボ",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774965338,
-      "updated": 1774965357
+      "updated": 1775043717
     },
     {
       "id": "69cc4725000000000083235e",
@@ -341,6 +621,20 @@
       "updated": 1775009403
     },
     {
+      "id": "69cd08520000000000d663da",
+      "text": " 　[白上フブキ]とケモケモ配信をしたあと、自チャンネルでもケモケモ配信",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775044690,
+      "updated": 1775044709
+    },
+    {
+      "id": "69cd08620000000000d663db",
+      "text": " 　　[https://www.youtube.com/live/MMhXA-RnqwQ]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775044706,
+      "updated": 1775044706
+    },
+    {
       "id": "69cc7e710000000000832384",
       "text": " [博衣こより]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -355,11 +649,25 @@
       "updated": 1774971668
     },
     {
+      "id": "69ccc5c900000000008323ac",
+      "text": " 　　クマリン（[宝鐘マリン]）も参加",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027658,
+      "updated": 1775027674
+    },
+    {
       "id": "69cbeb05000000000083234d",
       "text": " 　　[https://www.youtube.com/shorts/7x8ObpAMgig]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774971651,
       "updated": 1774971654
+    },
+    {
+      "id": "69ccc5e200000000008323ad",
+      "text": " 　　https://x.com/hakuikoyori/status/2039178189449388457",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027681,
+      "updated": 1775027682
     },
     {
       "id": "69cbeb08000000000083234e",
@@ -447,10 +755,31 @@
     },
     {
       "id": "69cc55fa0000000000832362",
-      "text": " [星街すいせい]",
+      "text": " [Vestia Zeta]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774999031,
-      "updated": 1774999031
+      "updated": 1775045210
+    },
+    {
+      "id": "69cd0a5f0000000000d663e9",
+      "text": "  棒人間",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775045214,
+      "updated": 1775045217
+    },
+    {
+      "id": "69cd0a5c0000000000d663e7",
+      "text": "　  [https://www.youtube.com/live/zn_X6T5ga7w]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775045212,
+      "updated": 1775045218
+    },
+    {
+      "id": "69cd0a540000000000d663e6",
+      "text": " [星街すいせい]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775045203,
+      "updated": 1775045203
     },
     {
       "id": "69cbec190000000000832358",
@@ -472,6 +801,34 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774999981,
       "updated": 1774999988
+    },
+    {
+      "id": "69cce81e0000000000d663d1",
+      "text": "　 バブ [https://www.youtube.com/shorts/yw64fTpE0ko]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775036446,
+      "updated": 1775036449
+    },
+    {
+      "id": "69ccc46c0000000000832399",
+      "text": "　[Moona Hoshinova]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027309,
+      "updated": 1775027312
+    },
+    {
+      "id": "69ccc471000000000083239a",
+      "text": "　 幼女",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027313,
+      "updated": 1775027363
+    },
+    {
+      "id": "69ccc4a3000000000083239b",
+      "text": "　 　[https://www.youtube.com/watch?v=3f1U4HRAovo]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775027363,
+      "updated": 1775027363
     },
     {
       "id": "69cc7a81000000000083237d",
@@ -537,6 +894,20 @@
       "updated": 1775008837
     },
     {
+      "id": "69cccc3b00000000008323b0",
+      "text": "  上記の配信の終わり際に出てきた存在が配信",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775029307,
+      "updated": 1775029328
+    },
+    {
+      "id": "69cccc5000000000008323b1",
+      "text": "  　[https://www.youtube.com/live/Ay0KJlYEf4M]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775029328,
+      "updated": 1775029328
+    },
+    {
       "id": "69cbeb3b0000000000832350",
       "text": "　[癒月ちょこ]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -552,10 +923,38 @@
     },
     {
       "id": "69cc59c90000000000832375",
-      "text": "　[ラプラス・ダークネス]",
+      "text": "　[Raora Panthera]",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1775000006,
-      "updated": 1775009574
+      "updated": 1775045102
+    },
+    {
+      "id": "69cd09ef0000000000d663e2",
+      "text": "　 頭を打って英語を忘れたのでイタリア語",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775045103,
+      "updated": 1775045115
+    },
+    {
+      "id": "69cd09fb0000000000d663e3",
+      "text": "　 　https://x.com/raorapanthera/status/2039312390467338284",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775045115,
+      "updated": 1775045118
+    },
+    {
+      "id": "69cd0a010000000000d663e4",
+      "text": "　 　[https://www.youtube.com/live/9cQ7uGh5SWY]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775045121,
+      "updated": 1775045121
+    },
+    {
+      "id": "69cd09ea0000000000d663e1",
+      "text": "　[ラプラス・ダークネス]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775045097,
+      "updated": 1775045097
     },
     {
       "id": "69cc7f2a0000000000832387",
@@ -593,6 +992,13 @@
       "updated": 1774974663
     },
     {
+      "id": "69cd20390000000000d663ea",
+      "text": "　　　[https://www.youtube.com/watch?v=cjOWkgP4KDg]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775050809,
+      "updated": 1775050810
+    },
+    {
       "id": "69cc856c0000000000832391",
       "text": "　[輪堂千速]",
       "userId": "6610c0fbd1f8ca002667bad2",
@@ -605,6 +1011,20 @@
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1775011184,
       "updated": 1775011187
+    },
+    {
+      "id": "69ccf0a40000000000d663d3",
+      "text": "　　かわいいうたわく",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775038628,
+      "updated": 1775038631
+    },
+    {
+      "id": "69ccf0a80000000000d663d4",
+      "text": "　　 [https://www.youtube.com/live/joKMhpIR70Y]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775038632,
+      "updated": 1775038637
     },
     {
       "id": "69cbf6af0000000000832359",
