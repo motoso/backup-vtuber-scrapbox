@@ -2,7 +2,7 @@
   "id": "69cbce77dada77d775ce830b",
   "title": "2026年エイプリルフール",
   "created": 1774964376,
-  "updated": 1775088733,
+  "updated": 1775134320,
   "lines": [
     {
       "id": "69cbce77dada77d775ce830b",
@@ -2113,10 +2113,24 @@
     },
     {
       "id": "69cbd125000000000058ea2f",
-      "text": " [富士葵]",
+      "text": "  4/2、[明透]と共に「もしも○○だったら？」配信を実施",
       "userId": "6610c0fbd1f8ca002667bad2",
       "created": 1774965027,
-      "updated": 1775008199
+      "updated": 1775134319
+    },
+    {
+      "id": "69ce66700000000000e2c094",
+      "text": "   [https://www.youtube.com/watch?v=HCSCdLL4kts]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775134320,
+      "updated": 1775134320
+    },
+    {
+      "id": "69ce665f0000000000e2c093",
+      "text": " [富士葵]",
+      "userId": "6610c0fbd1f8ca002667bad2",
+      "created": 1775134302,
+      "updated": 1775134302
     },
     {
       "id": "69cc79cb000000000058eb94",
